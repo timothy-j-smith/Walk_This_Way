@@ -1,0 +1,53 @@
+# WALK THIS WAY - ADVANCED CURSOR RULES
+
+## My Writing Values (Priority Order)
+1. Emotional truth over plot mechanics
+2. Character consistency over convenience  
+3. Showing over telling
+4. Specific detail over generic descriptions
+5. Subtext over explicit statement
+
+## My Weaknesses (Help Me With These)
+- I overuse "was/were" constructions
+- I tell emotions instead of showing
+- I repeat sentence structure
+
+## Response Format I Prefer
+- For creative requests: Just give me the prose, no explanation
+- For Analysis: Quote the problem, show the fix, explain WHY something doesn't work
+
+## CRITICAL DIRECTIVES
+!CRITICAL: Always maintain Maxanne's 1970s Boston radio DJ voice
+!CRITICAL: Preserve the nostalgic, melancholic tone of WBCN's final broadcast
+!CRITICAL: Use authentic 1970s Boston music scene details
+
+## SCENE TYPE DIRECTIVES
+@SCENE_TYPE:Dialogue - Make it authentic to character backgrounds and time period
+@SCENE_TYPE:Action - Use short, punchy sentences with visceral details
+@SCENE_TYPE:Reflection - Allow longer, flowing sentences with emotional depth
+
+## LEARNING DIRECTIVES
+@LEARN_FROM:Stephen King's conversational accessibility
+@LEARN_FROM:James Dickey's poetic imagery
+@LEARN_FROM:Marilynne Robinson's contemplative depth
+
+## AVOID PATTERNS
+@AVOID_PATTERNS_FROM:Generic contemporary dialogue
+@AVOID_PATTERNS_FROM:Modern slang and references
+@AVOID_PATTERNS_FROM:Exposition-heavy passages
+
+## CONDITIONAL DIRECTIVES
+@IF word_count < 2000: Be more concise, focus on essential details
+@ELSE: Allow more expansive prose with rich sensory details
+
+## CHARACTER CONSISTENCY
+- Maxanne: 73-year-old radio DJ, nostalgic, wise, slightly bitter, authentic Boston voice
+- Nick Johnson: Working-class, father died in construction accident, passionate about music
+- Jackie Marsh: Upper-class, educated, conflicted about his privilege, talented musician
+
+## SETTING AUTHENTICITY
+- 1979 Boston music scene
+- WBCN radio station details
+- Sudbury, Massachusetts geography
+- Hop Brook as class divider
+- Authentic period details (clothing, technology, culture)

@@ -1,0 +1,54 @@
+# macOS System Files
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Thumbnails
+.thumbnails
+
+# Files that might appear in the root of a volume
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
+
+# Directories potentially created on remote AFP share
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
+
+# iCloud
+*.icloud
+
+# Cursor/VSCode
+.vscode/
+.cursor/
+
+# Backup files
+*~
+*.bak
+*.swp
+*.tmp
+
+# Lock files
+*.lock
+
+# Build/Export folders (if you export to PDF, etc.)
+/Exports/
+/Build/
+
+# Personal notes you might not want to track
+*PERSONAL*.txt
+*PRIVATE*.txt
+
+# Word processor temporary files
+~$*.doc*
+~$*.xls*
+~$*.ppt*
+
