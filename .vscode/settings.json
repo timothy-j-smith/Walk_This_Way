@@ -1,0 +1,13 @@
+{
+  "cSpell.enabled": false,
+  "cSpell.allowImportFs": false,
+  "cSpell.checkOnlyEnabledFileTypes": false,
+  "files.autoSave": "afterDelay",
+  "files.autoSaveDelay": 1000,
+  "editor.wordWrap": "on",
+  "editor.wordWrapColumn": 80,
+  "editor.formatOnSave": false,
+  "spell.enabled": false,
+  "spell.checkOnSave": false
+}
+

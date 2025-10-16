@@ -1,0 +1,27 @@
+{
+  "version": "0.2",
+  "language": "en",
+  "dictionaries": ["en", "en-US"],
+  "dictionaryDefinitions": [],
+  "ignorePaths": [
+    "**/node_modules/**",
+    "**/.git/**",
+    "**/dist/**",
+    "**/build/**"
+  ],
+  "ignoreRegExpList": [],
+  "allowCompoundWords": true,
+  "words": [
+    "Sudowrite",
+    "Maxanne",
+    "WBCN",
+    "Chbosky",
+    "Dickey",
+    "Goldman"
+  ]
+}
+
+
+
+
+
