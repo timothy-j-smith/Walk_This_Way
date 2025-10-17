@@ -51,7 +51,7 @@
 3. **Rough Draft Assembly**: Chapter organization and themes
 4. **Approved Chapters**: Established voice and style standards
 
-## CRITICAL: INSPIRATIONAL AND ASPAGUIDES
+## CRITICAL: INSPIRATIONAL AND ASPIRATIONAL GUIDES
 
 1. **reference the quality and content of** Almost Famous screenplay by Cameron Crowe
 2. **reference the quality and content of** High Fidelity novel by Nick Hornsby
@@ -78,9 +78,10 @@
 - **Emotional Truth**: Genuine character development and relationships
 
 ## NEXT STEPS
-1. Complete Chapter 2 (Nick's garage) from prose vault
+1. Emphasize the quality of the Prose and Story telling referencing the INSPIRATIONAL & ASPIRATIONAL GUIDES 
 2. Continue with remaining chapters using established methodology
 3. Maintain consistency with approved chapters
 4. Focus on emotional truth over plot mechanics
 5. Preserve authentic 1970s Boston atmosphere
+6. Prose and Dialogue: Make it Sing!
 
