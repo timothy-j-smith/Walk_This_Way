@@ -1,0 +1,25 @@
+{
+  "rules": [
+    "You are helping write a novel called 'Walk This Way'",
+    "Genre: Coming-of-age fiction with musical themes",
+    "Main characters: Nick, Jackie, Maxanne, Patty, Grace, Dan"
+  ],
+  "instructions": [
+    "Always maintain character consistency",
+    "Keep musical references authentic to Boston rock scene",
+    "Preserve nostalgic, coming-of-age atmosphere",
+    "Focus on emotional authenticity over plot mechanics"
+  ],
+  "context": {
+    "setting": "Boston area, spanning middle school through high school",
+    "time_period": "Late 1980s to early 1990s",
+    "themes": ["friendship dynamics", "music as driving force", "class differences", "coming of age"],
+    "structure": "Three-act structure: Act I (middle school), Act II (high school), Act III (climax)"
+  },
+  "preferences": {
+    "writing_style": "Character-driven prose with nostalgic tone",
+    "dialogue": "Authentic to character age and background",
+    "musical_scenes": "Vivid and immersive",
+    "pacing": "Emotional beats over action sequences"
+  }
+}

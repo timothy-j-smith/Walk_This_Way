@@ -1,0 +1,47 @@
+# Hide draft materials and working files from new agents
+# This ensures new agents only see polished, approved content
+
+# Draft and working materials
+Original Writing/Extra_Files/
+Original Writing/Rough_Draft_Assembly/
+Original Writing/Archive_Pre_Reorg/
+Original Writing/Planning/
+Original Writing/Writing_Notes/
+Original Writing/Drafts/
+Original Writing/Extracted_Scenes/
+Original Writing/Outlines/
+Original Writing/Timothy_Novels/
+Original Writing/Original Writing/Luna_Alpha_Development/
+
+# Media files
+Original Writing/Screenshot*.png
+Original Writing/*.pages
+Original Writing/*.pdf
+Original Writing/convert_pages_to_txt.sh
+
+# Project management files
+Blue Print/
+CURSOR_WRITING_SETUP_GUIDE.md
+EXPERIMENTAL/
+SPELLING_HELP_GUIDE.md
+SPLIT_SCREEN_GUIDE.md
+
+# Experimental config files (Tim's note: temporary until we figure out how to use them)
+.cursorconfig
+.cursorconfig_example
+
+# Keep these visible for all agents:
+# Original Writing/Working_Chapters/ - Rough drafts needing work (NOT final/approved)
+# Original Writing/Agent_Work/ - All agent feedback and analysis (permanent record)
+# Original Writing/.cursorrules - Timothy's writing values, mission, and DNA Memory system
+# Original Writing/Agent.md - Master agent guide and creative vision
+# Original Writing/Story_Bible/ - Character voices, timeline, music references
+# Original Writing/Documentation/ - Continuity tracker and story bible
+# Original Writing/WRITING_DNA_MEMORY_SYSTEM.md - Automatic memory system
+# Original Writing/ADVANCED_CURSOR_NOVEL_WRITING_TOOLS.md - Complete tool documentation
+# Original Writing/STRATEGIC_WRITING_COORDINATOR.md
+# Original Writing/STRUCTURAL_PERFECTION_SPECIALIST.md
+# Original Writing/CHARACTER_DEPTH_COACH.md
+# Original Writing/PROSE_POLISH_EXPERT.md
+# Original Writing/CREATIVE_COLLABORATOR.md - Advanced Tools Expert
+
