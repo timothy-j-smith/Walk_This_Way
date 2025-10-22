@@ -1,4 +1,4 @@
-# AI INSTRUCTIONS MASTER - CRASH THE SILENCE
+# AI INSTRUCTIONS MASTER - Walk This Way
 **Created:** December 10, 2025  
 **Purpose:** Comprehensive AI guidance for creating prose that SINGS
 

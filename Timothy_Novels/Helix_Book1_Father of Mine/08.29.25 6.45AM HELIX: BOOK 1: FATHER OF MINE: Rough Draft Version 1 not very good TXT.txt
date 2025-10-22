@@ -1,12 +1,15 @@
 08.29.25 6.45AM HELIX/ BOOK 1/ FATHER OF MINE/ Rough Draft Version 1
 
-AUHORS NOTES: This is a draft form July 2025, but not sure if it is any good and will be changing some of the names and story ideas, but this is a start to see if there are any good elements to work with as I restructure and rewrite this Trilogy.  Book 2 and Book 3 will be share separately in hopes that I don’t receive an error message from Claude … 
+AUHORS NOTES: This is a draft form July 2025, I don't like it! Not sure if it is any good and will be changing some of the names and story ideas, but this is a start to see if there are any good elements to work with as I restructure and rewrite this Trilogy.  Book 2 and Book 3 will be share separately in hopes that I don’t receive an error message from Claude … 
 
 The First part of the novel is okay with an okay concept, but the book got away from me as I worked with Claude and had massive issues.
 
 HELIX: BOOK ONE
+
 ACT ONE: THE DISCOVERY
+
 Chapter 1: The Call That Changes Everything
+
 The phone rang at 6:47 AM on a Tuesday morning in July, cutting through the pre-dawn stillness of the Clark household like a scalpel through silk. The sound pierced the humid Oregon air that had settled over Beaverton like a damp blanket, thick with the scent of Douglas fir and the distant promise of rain.
 Margaret "Maggie" Clark had been lying awake for exactly nine minutes, her mind already cataloging the day ahead with the precision that had made her Intel's youngest department head. In the darkness of their ranch house bedroom, she could visualize her morning routine unfolding like blueprints in her mind—shower at 6:52, coffee brewing by 7:05, Emily's burned toast at 7:18 (the girl never learned), Josephine's perfectly organized backpack by the door at 7:45.
 At forty-four, Maggie possessed what she privately called "the pictures"—a gift that others might have labeled photographic memory, but which felt more like having a supercomputer installed behind her eyes. When she concentrated, images would cascade through her mind in vivid detail: circuit board patterns revealing manufacturing origins, facial micro-expressions betraying deception, architectural inconsistencies exposing hidden spaces. It was this ability that had made her invaluable in Intel's counterfeit detection department, where she could spot a fake microprocessor by the way shadows fell across its surface.
@@ -35,7 +38,9 @@ In her mind, she could see it perfectly: the white colonial with the peeling pai
 "Of course. But ma'am? Time is somewhat of a factor here. Mr. Morrison specified that he wanted to be cremated immediately. The service is scheduled for Friday."
 Three days. She had three days to decide whether to attend the funeral of a man she'd spent half her life pretending was already dead.
 "I'll call you back," she said, and hung up before he could respond.
+
 Chapter 2: The Weight of the Past
+
 "Maggie?" Gary's voice came from behind her, thick with sleep and the kind of concern that had sustained their marriage through seventeen years of Intel's demanding schedule, two pregnancies, and her occasional tendency to disappear into the pictures in her head for hours at a time.
 She turned to find her husband sitting up in bed, his graying hair sticking up at angles that defied physics, wearing the faded MIT t-shirt he'd had since graduate school and the expression he got whenever one of the girls had a fever or when she worked past midnight on a particularly complex counterfeit case.
 Gary Clark was a good man—maybe the best man she'd ever known. He was the kind of person who built things that lasted: highway overpasses, stable foundations, marriages that weathered storms. He approached problems with an engineer's methodical precision, breaking complex issues down into manageable components. It was what had attracted her to him during their Oregon State days, when she'd been a lonely scholarship student trying to figure out how to navigate the world without a functional family.
@@ -63,7 +68,9 @@ Closure. Everyone always talked about closure, as if grief and anger and disappo
 Gary handed her a mug of coffee—black, no sugar, exactly the way she'd been drinking it since college—and she felt the familiar comfort of routine, of being known completely by another person.
 "What kind of answers?"
 "The kind that might help you understand why he let you go."
+
 Chapter 3: The House on Maple Street
+
 Two days later, Maggie stood on the front porch of 47 Maple Street in Newton, Massachusetts, holding a set of keys that felt heavier than they should. The July heat pressed against her like a living thing, thick and humid in a way that made the Oregon summers feel like gentle caresses by comparison. The air tasted of exhaust and old brick and something else—something that might have been secrets, if secrets had a flavor.
 The house looked smaller than she remembered, shabbier, as if it had been holding its breath for twenty-one years and had finally exhaled in defeat. The white paint was peeling in long strips that curled like ancient scrolls, and the shutters hung at odd angles that spoke of years of neglect. The oak tree in the front yard had grown massive, its branches now scraping against the roof with every gust of the muggy summer air.
 But it was the windows that caught her attention. In her mind, she could see them as they'd been during her childhood—bright, welcoming, framed by her mother's flower boxes. Now they were dark, blank, like eyes that had seen too much and chosen to stop looking.
@@ -75,7 +82,9 @@ It was as if Frank Morrison had been systematically erasing the evidence of the 
 Maggie walked through the house slowly, her footsteps echoing in the empty rooms, her mind processing details with the same methodical precision she used when analyzing counterfeit electronics. The kitchen still had the same yellow wallpaper, though it was faded and peeling at the corners. The stairs still creaked on the seventh step, just as they had when she was a teenager trying to sneak out after curfew.
 But something felt wrong about the dimensions. Her engineer's mind, trained to spot inconsistencies, was picking up subtle discrepancies. The hallway seemed narrower than it should be. The living room felt smaller. And upstairs, her old bedroom was definitely not the size she remembered.
 It was as if someone had been altering the house's interior architecture, stealing space for some unknown purpose.
+
 Chapter 4: The Desk and the Discovery
+
 Frank Morrison had always been an organized man—obsessively so. His bedroom reflected this with military precision: bed made with hospital corners, closet arranged by color and season, shoes lined up like soldiers awaiting inspection. Even the air in the room felt controlled, as if emotions were prohibited by municipal ordinance.
 But it was the desk that drew Maggie's attention with magnetic force.
 The massive oak piece had belonged to her grandfather, a Boston Harbor pilot who'd guided ships through treacherous waters for forty years. She remembered playing around it as a child, convinced that its many drawers and compartments held secrets and treasures. The wood was scarred and worn, bearing the marks of three generations of Morrison men who'd kept their own counsel.
@@ -89,7 +98,9 @@ She started going through the drawers systematically, her fingers reading the wo
 Her hands shook as she tore it open, the paper making a sound like autumn leaves in the oppressive July heat. Inside was a single sheet of paper with four words written in her father's precise script: "Check the attic. Carefully."
 Below that, in smaller writing: "Trust your pictures. They never lie."
 Her pictures. He'd known about her ability, had known about the way her mind processed information in cascading visual patterns. The realization hit her like a physical blow—for all the years of silence between them, Frank Morrison had been paying attention.
+
 Chapter 5: The Safe Room
+
 Maggie had always been afraid of the attic.
 Even as a child, she'd refused to go up there, convinced that something malevolent was waiting in the shadows between the rafters. The space had felt wrong to her young mind, charged with an energy that made her skin crawl and her pictures fragment into static. Her mother had called it an overactive imagination. Her father had installed a better lock on the access door and told her to stay downstairs.
 Now, standing at the base of the pull-down ladder with a flashlight in her hand, Maggie felt that same childhood terror creeping up her spine like ivy. But she was forty-four years old, a woman who'd spent her career reverse-engineering some of the most sophisticated deception operations in the world. She was not going to be intimidated by her own imagination.

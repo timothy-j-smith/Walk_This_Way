@@ -1,4 +1,4 @@
-# STORY BIBLE: CRASH THE SILENCE (Working Title: Walk This Way)
+# STORY BIBLE: (Working Title: Walk This Way)
 
 **Date Created:** October 10, 2025  
 **Last Updated:** October 10, 2025  
@@ -24,17 +24,9 @@ This novel is dedicated to two of Timothy's middle school friends:
 - **"Jackie" suffers from severe depression, stuck at home**
 
 ### **The Novel's Purpose**
-**Primary goal:** For Jackie to read this and:
-- Remember Nick
-- Remember who he was before depression
-- Feel inspired to reconnect with Timothy
-- Know that the music mattered, that HE mattered
-- Understand that someone remembered their friendship
+**Primary goal:** Create a literary novel that explores American class dynamics through music and teenage friendship.  The theme for ther novel is: The Loss of Innocence.
 
-**Secondary goal:** Create a literary novel that explores American class dynamics through music and teenage friendship
-
-**Emotional Core:** A love letter to friends, disguised as literary fiction
-
+**Emotional Core:** The loss of friendship
 ---
 
 ## CORE CONCEPT

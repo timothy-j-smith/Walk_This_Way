@@ -1,87 +1,113 @@
-# WALK THIS WAY - NOVEL RECONSTRUCTION AGENT
+# WALK THIS WAY - NOVEL WRITING AGENT
 
 ## PROJECT OVERVIEW
-**Goal:** Reconstruct novel "Walk This Way" from screenplay, prose vaults, and scattered materials into cohesive third-person narrative with Stephen King influence.
+**Goal:** Transform "Walk This Way" from rough draft to publication-ready literary fiction through master-level creative writing guidance and collaborative rewrite process.
 
-## SOURCE MATERIALS STATUS
-- ✅ **Screenplay**: Complete source material (2,657 lines)
-- ✅ **Prose Vaults**: Character development and scene fragments
-- ✅ **Rough Draft Assembly**: Chapter outlines and structure notes
-- ✅ **Approved Chapters**: 6 chapters completed (Chapters 1, 3, 4, 5, 6)
+## CURRENT STATUS
+- ✅ **Rough Draft**: Completed 34-chapter manuscript
+- ✅ **Story Bible**: Character development, timeline, and music references established
+- ✅ **Novel Synopsis**: Full narrative arc defined
+- ✅ **Research Materials**: Historical context and inspiration documented
+- 🔄 **Rewrite Process**: Ready to begin complete architectural rebuild
 
-## RECONSTRUCTION METHODOLOGY
+## CORE THEMES
+**Master Theme: Lost Innocence** - The central driving force that encompasses:
+- **Class Divide** (Nick vs. Jackie's economic worlds)
+- **Prejudice** (societal expectations and limitations)
+- **Friendship** (how innocence allows connection, adulthood destroys it)
+- **Rock and Roll** (music as the bridge that fails between classes)
+- **Corporate Takeover** (WBCN's corporate destruction of authentic institutions)
 
-### **Phase 1: Source Analysis**
-1. **Screenplay Conversion**: Convert dialogue-heavy scenes to prose
-2. **Prose Vault Integration**: Merge character development fragments
-3. **Timeline Reconciliation**: Ensure chronological consistency
-4. **Voice Standardization**: Maintain third-person omniscient with Stephen King influence
+## REFERENCE MATERIALS & INFLUENCES
+**Target Quality Standards:**
+1. **Almost Famous** (Cameron Crowe) - Music industry authenticity and coming-of-age
+2. **High Fidelity** (Nick Hornby) - Music obsession and relationship dynamics
+3. **A Visit from the Goon Squad** (Jennifer Egan) - Time-spanning narrative structure
+4. **The Corrections** (Jonathan Franzen) - Family dynamics and social commentary
+5. **The Goldfinch** (Donna Tartt) - Literary quality and emotional depth
+6. **Middlesex** (Jeffrey Eugenides) - Multi-generational storytelling
 
-### **Phase 2: Chapter Assembly**
-1. **Structure Mapping**: Use Rough_Draft_Assembly files as blueprints
-2. **Content Integration**: Combine screenplay + prose vault + original material
-3. **Continuity Checking**: Ensure character consistency and plot flow
-4. **Style Harmonization**: Apply Stephen King conversational tone throughout
+**Prose Influence:**
+- **Stephen King** - Conversational accessibility, authentic voice, emotional truth
+- **Literary Fiction Standards** - Publication-ready quality and depth
 
-### **Phase 3: Quality Control**
-1. **Prose Flow**: Check for smooth transitions between scenes
-2. **Character Voice**: Maintain authentic 1970s Boston dialogue
-3. **Sensory Details**: Enhance with period-appropriate imagery
-4. **Emotional Truth**: Ensure scenes feel genuine, not manufactured
+## DUAL TIMELINE STRUCTURE
+- **1974-1979 Timeline**: Nick and Jackie's friendship, rivalry, and Battle of the Bands
+- **2024 Timeline**: Maxanne's final WBCN broadcast, reflecting on the past
+- **Parallel Themes**: Personal lost innocence mirrors institutional corporate takeover
 
-## CURRENT CHAPTER STATUS
-- **Chapter 1**: ✅ Maxanne's opening (1st person radio DJ)
-- **Chapter 2**: 🔄 Nick's garage (needs assembly from prose vault)
-- **Chapter 3**: ✅ Jackie's gilded cage (3rd person)
-- **Chapter 4**: ✅ Geography of Sudbury (3rd person)
-- **Chapter 5**: ✅ Belt buckles meeting (3rd person)
-- **Chapter 6**: ✅ Best friends development (3rd person)
-- **Chapter 7+**: 🔄 Pending reconstruction
+## CHARACTER ARCHITECTURE
+**Main Characters:**
+- **Maxanne Sartori** (73, 2024) - WBCN DJ, narrator, witness to music history
+- **Nick Johnson** (17, 1979) - Working-class kid, raw musical talent
+- **Jackie Marsh** (17, 1979) - Upper-class kid, classically trained musician
+- **Patty Lally** - Concord kid who refuses to choose sides
+- **Supporting Cast** - Grace Johnson, Dr. Richard Marsh, Eileen Marsh, Dan Johnson (ghost presence)
 
-## KEY RECONSTRUCTION CHALLENGES
-1. **POV Consistency**: Mixing 1st person (Maxanne) with 3rd person (main story)
-2. **Timeline Management**: 1974-1979 span with flashbacks
-3. **Class Dynamics**: Maintaining authentic working-class vs. academic voices
-4. **Musical Authenticity**: 1970s Boston music scene accuracy
-5. **Emotional Arc**: Building from innocent friendship to eventual conflict
+## AGENT SYSTEM OVERVIEW
 
-## SOURCE MATERIAL PRIORITIES
-1. **Screenplay**: Primary dialogue and scene structure
-2. **Prose Vaults**: Character psychology and internal monologue
-3. **Rough Draft Assembly**: Chapter organization and themes
-4. **Approved Chapters**: Established voice and style standards
+### **Specialized Agents:**
+- **STRATEGIC_WRITING_COORDINATOR.md**: Your right hand man for strategic guidance
+- **STRUCTURAL_PERFECTION_SPECIALIST.md**: Final polish and structural perfection
+- **CHARACTER_DEPTH_COACH.md**: Character development and voice consistency
+- **PROSE_POLISH_EXPERT.md**: Sentence-level refinement and prose quality
+- **CREATIVE_COLLABORATOR.md**: Hands-on rewriting partner AND Advanced Tools Expert (Swiss Army Knife agent)
 
-## CRITICAL: INSPIRATIONAL AND ASPIRATIONAL GUIDES
+### **Agent Workflow:**
+1. **Strategic Writing Coordinator**: Analyzes and coordinates workflow
+2. **Specialized Agents**: Provide targeted expertise (Structural, Character, Prose)
+3. **Creative Collaborator**: Works WITH you on actual prose rewriting using all advanced tools
+4. **Prompts**: Execute specific fixes and enhancements
+5. **You**: Make all creative decisions and maintain control
 
-1. **reference the quality and content of** Almost Famous screenplay by Cameron Crowe
-2. **reference the quality and content of** High Fidelity novel by Nick Hornsby
-3. **reference the quality and content of** A Visit from the Goon Squad novel by Jennifer Egan
-4. **reference the quality and content of** The Corrections novel by Jonahthon Franzon
-5. **reference the quality and content of** The Goldfinch novel by Donna Tartt
-6. **reference the quality and content of** Middlesex by Jeffrey Eugenides   
+### **Agent Feedback Storage:**
+All agents save their work to `Agent_Work/[Agent_Name]/` for permanent reference:
+- `Strategic_Coordinator/` - Strategic analyses and workflow plans
+- `Structural_Specialist/` - Pacing and structure feedback
+- `Character_Coach/` - Character development notes
+- `Prose_Expert/` - Sentence-level critiques
+- `Creative_Collaborator/` - Rewrite options and enhancements
 
-## RECONSTRUCTION WORKFLOW
-1. **Analyze** source materials for each chapter
-2. **Assemble** using Rough_Draft_Assembly as blueprint
-3. **Convert** screenplay dialogue to prose
-4. **Integrate** prose vault character development
-5. **Harmonize** voice and style with approved chapters
-6. **Review** for continuity and flow
-7. **Refine** with Stephen King influence
-8. **Approve** and commit to Git
+### **Mode System:**
+All agents now support three response modes:
+- **Default (Neutral)**: `@agent` = Balanced professional assessment
+- **Nice**: `@agent Nice` = Supportive and encouraging feedback
+- **Brutal**: `@agent Brutal` = Professional literary agent critique (honest praise + harsh criticism)
+
+### **Writing DNA Memory System:**
+Revolutionary automatic writing intelligence with five DNA strands:
+- **Automatic Plot Capture** - Remembers all plot decisions automatically
+- **Intelligent Character Tracking** - Tracks character development and voice evolution
+- **World DNA** - Remembers setting details and world-building elements
+- **"What's Missing?" Session Setup** - Prepares continuity for each writing session
+- **Consistency Checks** - Validates consistency and detects issues in real-time
+- **Hybrid Alert System** - Critical alerts real-time, minor issues on-demand
+- **Zen Mode** - Complete silence for uninterrupted creative flow (`Cmd+O`)
+- **Dual Reporting** - Automatic reports when needed, manual reports when wanted
 
 ## QUALITY STANDARDS
-- **Word Count**: 2,000-3,000 per chapter
-- **Voice**: Third-person omniscient (except Maxanne chapters)
-- **Style**: Stephen King conversational accessibility
+- **Word Count**: 2,000-3,000 per chapter (Total 80,000-90,000)
+- **Voice**: First-person (Maxanne) and third-person omniscient (main story)
+- **Style**: Stephen King conversational accessibility with literary fiction depth
 - **Authenticity**: 1970s Boston music scene accuracy
 - **Emotional Truth**: Genuine character development and relationships
+- **Theme Integration**: "Lost innocence" drives every scene
+- **Rock and Roll**: Music as central metaphor and thematic driver
 
 ## NEXT STEPS
-1. Emphasize the quality of the Prose and Story telling referencing the INSPIRATIONAL & ASPIRATIONAL GUIDES 
-2. Continue with remaining chapters using established methodology
-3. Maintain consistency with approved chapters
-4. Focus on emotional truth over plot mechanics
-5. Preserve authentic 1970s Boston atmosphere
-6. Prose and Dialogue: Make it Sing!
+1. **Deploy Strategic Writing Coordinator** for chapter analysis and workflow coordination
+2. **Collaborative Rewrite Process** - Work directly with Creative Collaborator during rewrite
+3. **Reference Material Integration** - Use target quality standards as guide
+4. **Stephen King Influence** - Apply conversational accessibility throughout
+5. **Theme Execution** - Make "lost innocence" the driving force
+6. **Cursor Tools Mastery** - Creative use of advanced features
+7. **Publication Readiness** - Achieve literary fiction standards
 
+## COLLABORATION APPROACH
+- **Direct Partnership** - Work WITH you, not FOR you
+- **Teaching Focus** - Guide you to learn professional techniques
+- **Brutal Honesty** - Give you the truth you need to succeed
+- **Vision Preservation** - Enhance your story, not replace it
+- **Quality Focus** - Achieve publication-ready standards together
+- **Cursor Tools Integration** - Creative use of advanced features for maximum efficiency
+- **Rock and Roll Focus** - Use music as central metaphor for all thematic elements
