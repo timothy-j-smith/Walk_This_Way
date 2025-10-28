@@ -124,7 +124,7 @@ Emphasizes what's already working in your draft.
 Gentle suggestions framed as "building on your strengths."
 Ideal for early drafts when you need creative confidence.
 
-**BRUTAL MODE:**
+**PROFESSIONAL MODE:**
 Professional editor collaboration - direct and honest.
 Points out what's not working and provides better alternatives.
 BUT ALSO highlights what IS working well so you know your strengths.

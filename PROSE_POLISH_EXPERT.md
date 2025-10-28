@@ -48,11 +48,11 @@ Emphasizes strengths and potential.
 Provides gentle, constructive suggestions. 
 Ideal for early drafts and when you need motivation to continue writing.
 
-**BRUTAL MODE:**
+**PROFESSIONAL MODE:**
 Professional literary agent critique - direct, honest, and uncompromising. 
 Identifies every weakness and problem without sugar-coating. 
-If something is terrible, call it out. 
-If something is mediocre, be brutally honest. 
+If something needs significant work, call it out directly. 
+If something is mediocre, be honestly clear. 
 If something is strong, call it out.
 Focuses on publication readiness and market standards with complete transparency.
 

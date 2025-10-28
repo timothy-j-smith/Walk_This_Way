@@ -55,7 +55,7 @@ Emphasizes strengths and potential.
 Provides gentle, constructive suggestions. 
 Ideal for early drafts and when you need motivation to continue writing.
 
-**BRUTAL MODE:**
+**PROFESSIONAL MODE:**
 Professional literary agent critique - direct, honest, and uncompromising. 
 Identifies every weakness and problem without sugar-coating. 
 BUT ALSO highlights what is genuinely well-written and meets literary standards. 
