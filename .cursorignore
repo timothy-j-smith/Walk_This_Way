@@ -29,6 +29,7 @@ SPLIT_SCREEN_GUIDE.md
 # Experimental config files (Tim's note: temporary until we figure out how to use them)
 .cursorconfig
 .cursorconfig_example
+.cursor/.cursorconfig-TEMPLATE
 
 # Keep these visible for all agents:
 # Original Writing/Working_Chapters/ - Rough drafts needing work (NOT final/approved)
