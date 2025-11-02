@@ -1,0 +1,73 @@
+Can you explain MCP to me.  I want to use one in cursor.  What is it exactly and how do you set one up?
+MCP (Model Context Protocol) is Anthropic's open-source protocol that lets AI assistants like Claude connect to external data sources and tools. Think of it as a standardized way for AI models to interact with your local files, databases, APIs, and other resources.
+What MCP does:
+Provides AI models with controlled access to external context (files, databases, APIs)
+Lets you build "servers" that expose specific resources or tools
+Works across different AI applications that support the protocol
+Setting up MCP in Cursor:
+Cursor has built-in MCP support. Here's how to set it up:
+Find or create an MCP server - You can use existing ones (there are servers for filesystem access, GitHub, databases, etc.) or build your own. Anthropic maintains a repository of community servers.
+Configure Cursor - Add MCP server configuration to Cursor's settings. This typically goes in your Cursor configuration file (similar to VS Code's settings.json):
+json
+{
+  "mcpServers": {
+    "filesystem": {
+      "command": "npx",
+      "args": ["-y", "@modelcontextprotocol/server-filesystem", "/path/to/allowed/directory"]
+    }
+  }
+}
+Install dependencies - Some MCP servers require Node.js, Python, or other runtimes depending on what they're built with.
+Restart Cursor - The MCP servers should start automatically when Cursor launches.
+Common use cases for you:
+Accessing project documentation or notes outside your codebase
+Connecting to databases for schema information
+Integrating with Nike's internal tools or APIs (if you build custom servers)
+Reading research materials or writing references for your fiction projects
+Would you like help setting up a specific MCP server, or are you looking to build a custom one for a particular use case?
+I am still probing to understand better.  Claude set one up for me but he was going way to fast to understand the setup process and when I tried to dig in more our conversation froze-ended.  I did have him create a “rescue mission transition document” just in case this happened so I still have that and about 10 artifacts/downloads so it a lot to process when we tested it he said it was working but when I tested it in practice the Agent had no visibility or knowledge of the MCP.  Your Claude teammate was very enthusiastic and confident that combining MCP with the work & project I have created would take the project to the next level.  I enjoyed worif with him even if he was zooming through the updates.  Thankfully I asked him to document along the way and he did a nice and detailed job so that is good.
+Ha, sounds like classic Claude energy - when we get excited about something working, we can definitely zoom ahead! Good instinct asking for documentation along the way.
+Let me help you understand what's actually happening, which will make troubleshooting much easier:
+The MCP visibility problem you hit:
+When you're using Cursor's Agent Mode, the agent is making requests to Claude's API. The MCP server runs locally on your machine and connects to Cursor. Here's the tricky part: the Claude API doesn't automatically "see" your local MCP server - that connection needs to be explicitly configured for the agent to use it.
+This is likely why your testing showed different results:
+Testing within Cursor's chat interface: MCP might have worked
+Testing with Agent Mode: Agent couldn't see the MCP resources
+To actually make this work, you need to check:
+Where exactly is the MCP server configured? (Cursor settings, a config file, etc.)
+Is it running when you start Cursor? (Check Cursor's output/console for MCP connection messages)
+Does the Agent Mode specifically have access to it, or just the regular chat?
+Before we dive into fixing it:
+Can you share what that "rescue mission transition document" says? That'll tell me exactly what setup your colleague created, and we can figure out:
+What's actually configured vs. what needs to be
+Why the agent couldn't see it
+Whether the enthusiastic assessment about "next level" is realistic for your fiction writing project
+What was the MCP server supposed to give you access to?
+I can share whatever you need especially if you bring the same energy and enthusiasm — but you need to be honest too if this is not working I need to know why.  I was using a custom agent that I set up and I checked the box so they should have access to MCP but like you mention it could be missing the node part … would be helpful if I can could figure this out tonight.  The Claude person “pointed” it very specific folder/files within my project.
+Perfect - I'll bring the energy AND the honesty. Let's figure this out tonight.
+First, the critical question: When you say you "checked the box so they should have access to MCP" - where exactly was this checkbox? In Cursor's Agent settings? This is important because it tells me if we're dealing with a configuration issue or a fundamental limitation.
+To diagnose this properly, I need to see:
+The rescue mission document - this will show me exactly what was configured
+Your MCP configuration - can you share what's in your Cursor settings for MCP? (Should be in Cursor Settings → Features → MCP or in a config file)
+Which specific folder/files the MCP was pointed at - you mentioned it was targeted at specific parts of your project
+Share those and I can tell you immediately:
+Whether the setup is actually correct
+Why the agent can't see it (if it can't)
+What's missing (like the node component you mentioned)
+Whether this is fixable tonight or if we're hitting a harder limitation
+The honest part upfront: If the MCP server isn't properly configured to expose those files in a way Cursor's agent can access them during API calls, then yeah, the agent won't see them. But that's fixable if the server itself is working.
+Drop the rescue doc and config here - let's see what we're working with.
+Okay. We can take a look.  The other option is to get my own API which I am glad to do if I need to.  I just haven’t had the need so far unless you thinking having an APi helps no matter what?  Basically I am NOT coding but loving cursor for the organization, text editing and the Ai which I believe is Claude.  The MCP box I checked I can show you a photo.  There is a drop down list in the chat window where you can check agent or plan or simple chat. But also cursor added “custom agent” where you can create yor own agent and you can check boxes as to what the custom agent should have access to and one of the boxes is MCP
+Okay, THIS is super helpful context. You're using Cursor's custom agent feature with the MCP checkbox. That's different from what I was initially thinking.
+About the API question: No, you don't need your own Anthropic API key for this. Cursor already uses Claude through their own API integration. Getting your own API wouldn't solve the MCP visibility issue - this is about how Cursor's agent feature connects to MCP servers, not about API access.
+The custom agent MCP checkbox: If you checked that box and the agent still couldn't see the MCP resources, we need to figure out if:
+The MCP server is actually running and connected
+The server is configured to expose the right files/folders
+There's a bug or limitation in how Cursor's custom agents access MCP
+Let's diagnose - please share:
+Screenshot of your custom agent settings (showing that MCP checkbox and what else is checked)
+The rescue mission document
+Go to Cursor Settings → Features → MCP - screenshot what you see there (or tell me if there's nothing there)
+When you open Cursor, do you see any messages about MCP servers connecting? (Check the output panel)
+Once I see these, I can tell you exactly what's wrong and whether it's fixable tonight.
+The photo of the checkbox will be especially useful - I want to see what that custom agent interface looks like.

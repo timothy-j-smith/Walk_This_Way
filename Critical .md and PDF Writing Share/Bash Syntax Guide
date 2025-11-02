@@ -1,0 +1,297 @@
+=====================================
+BASH SYNTAX REFERENCE GUIDE
+=====================================
+
+=== SHEBANG ===
+#!/bin/bash
+  #!          = "shebang" - tells the system this is a script
+  /bin/bash   = path to the Bash interpreter
+  
+  PURPOSE: Must be the FIRST line of your script (no spaces before it)
+  Tells your computer: "Use Bash to run this file"
+
+
+=== ECHO COMMAND ===
+echo "Hello"
+  echo = command to print/display text
+  "Hello" = the text to display (quotes keep it together)
+
+echo -e "Line 1\nLine 2"
+  -e = flag that enables "escape sequences" (special characters)
+  \n = newline (makes a new line)
+  \t = tab
+  
+  The "-e" you saw is NOT the number 2.718 (Euler's number)
+  It's a FLAG/OPTION that tells echo to interpret special characters
+
+
+=== QUOTES ===
+"double quotes"  = Allows variables to be interpreted ($variable works)
+'single quotes'  = Treats everything literally (no variable substitution)
+`backticks`      = OLD way to run commands (deprecated, don't use)
+$(command)       = MODERN way to run commands and capture output
+
+
+=== VARIABLES ===
+name="Timothy"
+  name = variable name (no spaces around =)
+  =    = assignment operator
+  "Timothy" = value being assigned
+
+$name or ${name}
+  $ = dollar sign accesses the variable's value
+  {} = optional braces, useful for clarity: "${name}_file.txt"
+
+
+=== SPECIAL CHARACTERS ===
+
+# = Comment (everything after # on that line is ignored)
+    Example: # This is a comment
+
+$ = Variable prefix or command substitution
+    $variable = access variable value
+    $(command) = run command and use its output
+
+\ = Escape character (makes next character literal)
+    \n = newline
+    \$ = literal dollar sign (not a variable)
+
+; = Command separator (run multiple commands on one line)
+    command1; command2; command3
+
+| = Pipe (send output of one command to another)
+    ls | grep ".txt"  (list files, then filter for .txt)
+
+> = Redirect output to file (overwrites file)
+    echo "Hello" > file.txt
+
+>> = Redirect output to file (appends to file)
+    echo "More text" >> file.txt
+
+< = Redirect input from file
+    program < input.txt
+
+& = Run command in background
+    long_process &
+
+&& = AND operator (run second command only if first succeeds)
+    mkdir folder && cd folder
+
+|| = OR operator (run second command only if first fails)
+    cd folder || echo "Folder doesn't exist"
+
+! = NOT operator (negates/reverses)
+    if [ ! -f file.txt ]; then echo "File doesn't exist"; fi
+
+* = Wildcard (matches any characters)
+    *.txt = all files ending in .txt
+    file* = all files starting with "file"
+
+? = Wildcard (matches single character)
+    file?.txt = file1.txt, fileA.txt, etc.
+
+~ = Home directory shortcut
+    ~/Documents = /home/username/Documents
+
+. = Current directory
+    ./script.sh = run script in current folder
+
+.. = Parent directory
+    cd .. = go up one folder
+
+/ = Directory separator (path divider)
+    /home/user/folder/file.txt
+
+
+=== BRACKETS & PARENTHESES ===
+
+[ ] = Test command (used in conditionals)
+    if [ -f file.txt ]; then ... fi
+    
+[[ ]] = Enhanced test command (more powerful, Bash-specific)
+    if [[ $name == "Timothy" ]]; then ... fi
+
+( ) = Subshell (run commands in isolated environment)
+    (cd folder && ls)  # changes directory only in subshell
+
+(( )) = Arithmetic evaluation
+    ((counter++))  # increment counter
+    result=$((5 + 3))  # result = 8
+
+{ } = Command grouping (runs in current shell)
+    { command1; command2; }
+
+$( ) = Command substitution (modern way)
+    today=$(date)  # stores date command output
+
+${ } = Variable expansion with modifications
+    ${variable:-default}  # use default if variable is empty
+
+
+=== COMPARISON OPERATORS (inside [ ] or [[ ]]) ===
+
+FILE TESTS:
+-f file  = file exists and is a regular file
+-d dir   = directory exists
+-e path  = path exists (file or directory)
+-r file  = file is readable
+-w file  = file is writable
+-x file  = file is executable
+-s file  = file exists and is not empty
+
+STRING COMPARISONS:
+"$a" = "$b"   = strings are equal
+"$a" != "$b"  = strings are not equal
+-z "$a"       = string is empty
+-n "$a"       = string is not empty
+
+NUMBER COMPARISONS:
+$a -eq $b  = equal
+$a -ne $b  = not equal
+$a -lt $b  = less than
+$a -le $b  = less than or equal
+$a -gt $b  = greater than
+$a -ge $b  = greater than or equal
+
+
+=== CONTROL STRUCTURES ===
+
+IF STATEMENT:
+if [ condition ]; then
+    commands
+elif [ other_condition ]; then
+    commands
+else
+    commands
+fi
+
+FOR LOOP:
+for item in list; do
+    commands
+done
+
+WHILE LOOP:
+while [ condition ]; do
+    commands
+done
+
+CASE STATEMENT:
+case $variable in
+    pattern1)
+        commands
+        ;;
+    pattern2)
+        commands
+        ;;
+    *)
+        default commands
+        ;;
+esac
+
+
+=== SPECIAL VARIABLES ===
+
+$0 = Script name
+$1, $2, $3... = Command-line arguments (parameters passed to script)
+$# = Number of arguments
+$@ = All arguments as separate words
+$* = All arguments as single word
+$? = Exit status of last command (0 = success, non-zero = error)
+$$ = Process ID of current script
+$! = Process ID of last background command
+
+
+=== ORDER OF OPERATIONS ===
+
+1. SHEBANG - Always first line: #!/bin/bash
+
+2. COMMENTS & SETUP - Optional documentation and variable setup
+
+3. FUNCTIONS - Define reusable code blocks (optional, but define before using)
+
+4. MAIN SCRIPT LOGIC - Your actual commands
+
+5. EXIT STATUS - Script ends with exit code (optional)
+   exit 0  # success
+   exit 1  # error
+
+
+TYPICAL SCRIPT STRUCTURE:
+---------------------------
+#!/bin/bash
+
+# Comments explaining what script does
+
+# Variables
+name="value"
+counter=0
+
+# Functions (if needed)
+my_function() {
+    echo "Function code"
+}
+
+# Main script logic
+echo "Starting script..."
+if [ condition ]; then
+    commands
+fi
+
+# End
+exit 0
+
+
+=== COMMON PATTERNS ===
+
+CHECK IF FILE EXISTS:
+if [ -f "myfile.txt" ]; then
+    echo "File exists"
+else
+    echo "File doesn't exist"
+fi
+
+LOOP THROUGH FILES:
+for file in *.txt; do
+    echo "Processing $file"
+done
+
+GET USER INPUT:
+read -p "Enter your name: " username
+echo "Hello, $username"
+
+ERROR CHECKING:
+command_that_might_fail
+if [ $? -ne 0 ]; then
+    echo "Command failed!"
+    exit 1
+fi
+
+OR SHORTER:
+command_that_might_fail || exit 1
+
+
+=== TIPS ===
+
+- Always quote variables: "$variable" not $variable
+  (prevents issues with spaces and special characters)
+
+- Use [[ ]] instead of [ ] when possible (more features, safer)
+
+- Check exit status with $? or use && and ||
+
+- Make scripts executable: chmod +x script.sh
+
+- Test scripts in safe environment first
+
+- Use shellcheck tool to find common mistakes
+
+
+=== PRACTICE EXERCISES ===
+
+1. Create script that prints "Hello, [your name]"
+2. Create script that asks for two numbers and adds them
+3. Create script that checks if a file exists, creates it if not
+4. Create script that renames all .txt files by adding today's date
+5. Create script that counts how many .jpg files are in a directory
+
+=====================================
