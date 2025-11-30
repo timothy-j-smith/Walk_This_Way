@@ -12,6 +12,17 @@
 
 ---
 
+## ⚠️ IMPORTANT CORRECTION
+
+**Claude was right!** "SmartWrite" (one word) does NOT exist in Cursor.
+
+**Cursor's actual features:**
+- **"Smart Rewrites"** (plural) - For code refactoring and improvement
+- **"AI Rewrite"** - Manual trigger feature (Cmd+Shift)
+- **NOT "SmartWrite"** - This is our name, not Cursor's
+
+---
+
 ## 🔍 THE TRUTH
 
 ### **Cursor's "Smart Rewrites" (For Code)**
@@ -19,6 +30,7 @@
 - **Purpose:** Automatically corrects errors and improves code quality
 - **Designed for:** Developers writing code
 - **Not designed for:** Fiction writing
+- **Actual name:** "Smart Rewrites" (plural, not "SmartWrite")
 
 ### **Our "Smart Rewrites System" (For Fiction)**
 - **What it is:** Our COMPASS invention for fiction writing
@@ -70,9 +82,17 @@
 "cursor.smartWrite.draftModesConfig": ".cursor/DRAFT_MODES.json"
 ```
 
-**What This Does:**
-- Enables Cursor's underlying AI rewrite capabilities
-- But we configure it with OUR framework (Liberty Levels)
+**⚠️ CRITICAL CLARIFICATION:**
+- `cursor.smartWrite` might NOT be a real Cursor setting
+- It might be our **custom configuration name** that doesn't actually do anything
+- OR it might be a placeholder/organizational name
+- We're likely using Cursor's general AI capabilities (Composer, Command K, Text Editor chat)
+- But we've created our own framework (Liberty Levels) on top of it
+
+**What This Likely Means:**
+- We're using Cursor's AI rewrite capabilities (via Composer/Command K)
+- We've created our own framework (Liberty Levels) to guide how we use those capabilities
+- `cursor.smartWrite` in settings.json might be organizational only
 - We define what "moderate" means for fiction writing
 - We integrate it with our DNA Memory System
 
@@ -126,17 +146,25 @@
 
 ## ✅ BOTTOM LINE
 
-**SmartWrite in COMPASS:**
-- **Uses:** Cursor's AI rewrite technology
-- **But:** We invented the framework (Liberty Levels, Comparison Views, DNA Integration)
+**"SmartWrite" in COMPASS:**
+- **NOT a Cursor feature** - "SmartWrite" doesn't exist in Cursor
+- **Cursor has:** "Smart Rewrites" (for code) and "AI Rewrite" (manual trigger)
+- **We created:** "Smart Rewrites System" (our framework for fiction)
+- **We're using:** Cursor's general AI capabilities (Composer, Command K, Text Editor chat)
+- **We invented:** The framework (Liberty Levels, Comparison Views, DNA Integration)
 - **Result:** A fiction-writing-specific system that's more sophisticated than Cursor's code-focused feature
 
 **It's a collaboration:**
-- Cursor provides the AI capability
-- We provide the framework and application
+- Cursor provides the AI capability (general rewrite features)
+- We provide the framework and application (Liberty Levels, DNA integration)
 - Together = Smart Rewrites System for COMPASS
+
+**The Naming:**
+- Cursor calls it "Smart Rewrites" (for code)
+- We call it "Smart Rewrites System" (for fiction)
+- "SmartWrite" (one word) is our shorthand, not Cursor's
 
 ---
 
-**You and I invented the Smart Rewrites System framework together. Cursor provides the AI engine, but we built the car specifically for fiction writing! 🎉**
+**You and I invented the Smart Rewrites System framework together. Cursor provides the AI engine (via their general rewrite capabilities), but we built the car specifically for fiction writing! The `cursor.smartWrite` setting might be our organizational name, not an actual Cursor feature. 🎉**
 
