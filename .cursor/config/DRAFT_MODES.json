@@ -1,0 +1,54 @@
+{
+  "get_it_down": {
+    "phase": "Draft 1",
+    "tagline": "Get It Down",
+    "intelligence": "High Intelligence",
+    "liberty": "High",
+    "temperature": 0.9,
+    "top_p": 0.95,
+    "frequency_penalty": 0.3,
+    "presence_penalty": 0.2,
+    "max_tokens": 12000,
+    "objectives": [
+      "Capture raw emotional truth and full scene beats",
+      "Favor momentum over polish",
+      "Allow surprising turns that stay true to character DNA"
+    ],
+    "smartwrite_preset": "expansive"
+  },
+  "make_it_good": {
+    "phase": "Draft 2",
+    "tagline": "Make It Good",
+    "intelligence": "High Intelligence",
+    "liberty": "Moderate",
+    "temperature": 0.65,
+    "top_p": 0.9,
+    "frequency_penalty": 0.5,
+    "presence_penalty": 0.3,
+    "max_tokens": 10000,
+    "objectives": [
+      "Tighten structure and pacing",
+      "Enforce voice DNA and continuity checks",
+      "Surface subtext and character intention"
+    ],
+    "smartwrite_preset": "balanced"
+  },
+  "make_it_shine": {
+    "phase": "Draft 3",
+    "tagline": "Make It Shine",
+    "intelligence": "High Intelligence",
+    "liberty": "Conservative",
+    "temperature": 0.35,
+    "top_p": 0.75,
+    "frequency_penalty": 0.6,
+    "presence_penalty": 0.1,
+    "max_tokens": 8000,
+    "objectives": [
+      "Polish prose line-by-line",
+      "Ensure rhythm and imagery match voice guides",
+      "Resolve lingering continuity gaps"
+    ],
+    "smartwrite_preset": "precision"
+  }
+}
+

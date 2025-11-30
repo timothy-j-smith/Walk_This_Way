@@ -5,6 +5,18 @@
 
 ---
 
+## MEMORY + SMARTWRITE INTEGRATION (NEW)
+
+- **Load Context First:**  
+  `@File .cursor/NOVEL_MEMORY_CONFIG.md`  
+  `@File .cursor/docs/character-voices.md`
+- **SmartWrite Modes:** Conservative / Moderate / High / Blue Sky (clearly label Blue Sky results and provide comparisons).
+- **Draft Presets:** `@File .cursor/DRAFT_MODES.json` for Get It Down → Make It Good → Make It Shine parameters.
+- **Session Logging:** After major passes, append an entry to `.cursor/logs/writing-sessions.jsonl` using the template in the config file.
+- **Mode Clarity:** Feedback tone (Nice / Neutral / Professional) is separate from Liberty Levels—acknowledge both in summaries.
+
+---
+
 ## HOW TO START THE NEXT SESSION
 
 ### **Option 1: Continue in Same Chat (Recommended for Act II)**

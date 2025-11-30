@@ -7,6 +7,7 @@
 **Used:** 
 - Nick plays in garage (Ch 2)
 - Nick & Jackie practice together (1975)
+- Aerosmith is Nick's group vs Jackie's Queen
 - Part of middle school talent show mashup (Ch 6)
 - Maxanne cues it up during broadcast
 
@@ -27,6 +28,7 @@
 **Significance:** 
 - Gospel-meets-opera-meets-rock
 - Freddie Mercury's theatrical style
+- Queen is Jackie's band vs. Nick's Aerosmith
 - Represents Jackie's classical training + rock authenticity blend
 - Complex harmonies appeal to Jackie's technical skill
 
@@ -36,7 +38,7 @@
 
 ---
 
-### Queen/David Bowie - "Under Pressure"
+### Queen/David Bowie - "Under Pressure" ((must modify, song not released in 1979))
 **Used:**
 - Jackie plays this at his recital instead of Mozart (Ch 3)
 - Piano-only arrangement on Steinway
@@ -106,18 +108,6 @@
 **Used:** Supposed finale of Jackie's recital (never played)  
 **Significance:** The piece Jackie SHOULD have played but replaced with "Under Pressure"
 
----
-
-## The 93-Second Demo
-
-**Recording:** Nick & Jackie, age 13 (1975)  
-**Quality:** Scratchy, tape hiss, left channel crackles above 6  
-**Content:** Two young voices, acoustic guitars, mashup arrangement  
-**Significance:** 
-- Only surviving recording of them playing together
-- "All the evidence I have that America chose division over music"
-- Cuts off mid-verse
-- Maxanne plays it on final broadcast
 
 ---
 
@@ -150,10 +140,10 @@
 
 **Survival vs. Decoration:**
 - Nick: "Music isn't decoration—it's survival"
-- Jackie: Music as escape from expectations
+- Jackie: Rock Music as escape from expectations
 - Both: Music as way to be heard/seen as themselves
 
-**Authenticity vs. Training:**
+**Garage vs. Training:**
 - Nick: Raw, emotional, garage-taught
 - Jackie: Technically perfect, expensively trained
 - Together: Proof that both can enhance each other

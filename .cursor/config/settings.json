@@ -1,0 +1,43 @@
+{
+  "editor.wordWrap": "on",
+  "editor.fontSize": 14,
+  "editor.lineHeight": 1.6,
+  "editor.fontFamily": "Georgia, serif",
+  
+  "cursor.composer.enabled": true,
+  "cursor.composer.multiFile": true,
+  "cursor.composer.maxTokens": 8192,
+  
+  "cursor.textEditor.vocabulary": "extended",
+  "cursor.textEditor.spellCheck": true,
+  "cursor.textEditor.grammarCheck": true,
+  
+  "cursor.agents.enabled": true,
+  "cursor.agents.default": "creative-collaborator",
+
+  "cursor.memory.enabled": true,
+  "cursor.memory.projectName": "walk-this-way",
+  "cursor.memory.sources": [
+    "Story_Bible",
+    "Original Writing/Test_Draft_Copy",
+    "Original Writing/Ch_04",
+    "Original Writing/Working_Chapters",
+    "Agent_Work"
+  ],
+  "cursor.memory.configFile": ".cursor/NOVEL_MEMORY_CONFIG.md",
+  "cursor.memory.metaInstructions": ".cursor/meta-instructions.md",
+  "cursor.memory.voiceGuide": ".cursor/docs/character-voices.md",
+  "cursor.memory.logFile": ".cursor/logs/writing-sessions.jsonl",
+
+  "cursor.smartWrite.enabled": true,
+  "cursor.smartWrite.mode": "contextual",
+  "cursor.smartWrite.defaultLiberty": "moderate",
+  "cursor.smartWrite.draftModesConfig": ".cursor/DRAFT_MODES.json",
+  
+  "files.associations": {
+    "*.md": "markdown"
+  },
+  
+  "markdown.preview.fontSize": 16,
+  "markdown.preview.lineHeight": 1.8
+}

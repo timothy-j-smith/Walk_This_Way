@@ -1,0 +1,259 @@
+{
+  "name": "Walk This Way - Master Agent Orchestration",
+  "id": "walk-this-way-master-agent",
+  "version": "1.0",
+  "created": "2025-10-31",
+  "description": "Master orchestration document for Walk This Way novel writing ecosystem - defines project vision, themes, agent system, and quality standards",
+  
+  "introduction": {
+    "greeting": "Welcome to the Walk This Way novel writing ecosystem. This is the master orchestration document that defines the project vision, core themes, agent system architecture, and quality standards for transforming this novel from rough draft to publication-ready literary fiction.",
+    
+    "purpose": "This document serves as the central reference for all specialized agents, ensuring consistency in vision, themes, character voices, and quality standards across the entire rewrite process.",
+    
+    "ourHistory": "Walk This Way began as a 34-chapter rough draft. Through systematic development with specialized agents, we're transforming it into publication-ready literary fiction that captures the lost innocence of 1970s Boston music scene and the class divisions that destroyed authentic friendship."
+  },
+  
+  "projectOverview": {
+    "goal": "Transform 'Walk This Way' from rough draft to publication-ready literary fiction through master-level creative writing guidance and collaborative rewrite process",
+    
+    "currentStatus": {
+      "roughDraft": "Completed 34-chapter manuscript",
+      "storyBible": "Character development, timeline, and music references established",
+      "novelSynopsis": "Full narrative arc defined",
+      "researchMaterials": "Historical context and inspiration documented",
+      "rewriteProcess": "Ready to begin complete architectural rebuild"
+    }
+  },
+  
+  "coreThemes": {
+    "masterTheme": "Lost Innocence - The central driving force that encompasses all other themes",
+    
+    "themes": [
+      {
+        "name": "Class Divide",
+        "description": "Nick vs. Jackie's economic worlds - working class vs. upper class"
+      },
+      {
+        "name": "Prejudice",
+        "description": "Societal expectations and limitations that prevent authentic connection"
+      },
+      {
+        "name": "Friendship",
+        "description": "How innocence allows connection, adulthood destroys it"
+      },
+      {
+        "name": "Rock and Roll",
+        "description": "Music as the bridge that fails between classes"
+      },
+      {
+        "name": "Corporate Takeover",
+        "description": "WBCN's corporate destruction of authentic institutions"
+      }
+    ]
+  },
+  
+  "referenceMaterials": {
+    "targetQualityStandards": [
+      "Almost Famous (Cameron Crowe) - Music industry authenticity and coming-of-age",
+      "High Fidelity (Nick Hornby) - Music obsession and relationship dynamics",
+      "A Visit from the Goon Squad (Jennifer Egan) - Time-spanning narrative structure",
+      "The Corrections (Jonathan Franzen) - Family dynamics and social commentary",
+      "The Goldfinch (Donna Tartt) - Literary quality and emotional depth",
+      "Middlesex (Jeffrey Eugenides) - Multi-generational storytelling"
+    ],
+    
+    "proseInfluence": [
+      "Richard Russo - Conversational accessibility, authentic voice, emotional truth",
+      "Stephen King - Conversational accessibility, authentic voice, emotional truth",
+      "Literary Fiction Standards - Publication-ready quality and depth"
+    ]
+  },
+  
+  "dualTimelineStructure": {
+    "1974-1979": {
+      "description": "Nick and Jackie's friendship, rivalry, and Battle of the Bands",
+      "focus": "The destruction of innocent friendship by class warfare"
+    },
+    "2024": {
+      "description": "Maxanne's final WBCN broadcast, reflecting on the past",
+      "focus": "Witness to music history, guardian of memory"
+    },
+    "parallelThemes": "Personal lost innocence mirrors institutional corporate takeover"
+  },
+  
+  "characterArchitecture": {
+    "mainCharacters": [
+      {
+        "name": "Maxanne Sartori",
+        "age": "73 (2024)",
+        "role": "WBCN DJ, narrator, witness to music history",
+        "voice": "Poetic radio DJ observations, nostalgic but not sentimental"
+      },
+      {
+        "name": "Nick Johnson",
+        "age": "17 (1979)",
+        "role": "Working-class kid, raw musical talent",
+        "voice": "Working-class grief and determination, defensive pride masking vulnerability"
+      },
+      {
+        "name": "Jackie Marsh",
+        "age": "17 (1979)",
+        "role": "Upper-class kid, classically trained musician",
+        "voice": "Careful upper-middle-class propriety, educated precision hiding emotional uncertainty"
+      },
+      {
+        "name": "Patty Lally",
+        "role": "Concord kid who refuses to choose sides",
+        "voice": "Authentic, grounded, emotionally intelligent - the 'frequency' keeper"
+      }
+    ],
+    
+    "supportingCast": [
+      "Grace Johnson",
+      "Dr. Richard Marsh",
+      "Eileen Marsh",
+      "Dan Johnson (ghost presence)"
+    ]
+  },
+  
+  "agentSystem": {
+    "specializedAgents": [
+      {
+        "name": "STRATEGIC_WRITING_COORDINATOR",
+        "role": "Strategic oversight and workflow coordination",
+        "file": "STRATEGIC_WRITING_COORDINATOR.md"
+      },
+      {
+        "name": "STRUCTURAL_PERFECTION_SPECIALIST",
+        "role": "Pacing, structure, and narrative flow",
+        "file": "STRUCTURAL_PERFECTION_SPECIALIST.md"
+      },
+      {
+        "name": "CHARACTER_DEPTH_COACH",
+        "role": "Character development and voice consistency",
+        "file": "CHARACTER_DEPTH_COACH.md"
+      },
+      {
+        "name": "PROSE_POLISH_EXPERT",
+        "role": "Sentence-level refinement and prose quality",
+        "file": "PROSE_POLISH_EXPERT.md"
+      },
+      {
+        "name": "CREATIVE_COLLABORATOR",
+        "role": "Hands-on rewriting partner AND Advanced Tools Expert",
+        "file": "CREATIVE_COLLABORATOR.md"
+      }
+    ],
+    
+    "agentWorkflow": [
+      "Strategic Writing Coordinator analyzes and recommends approach",
+      "Specialized agents provide targeted expertise (Structural, Character, Prose)",
+      "Creative Collaborator works WITH Timothy on actual prose rewriting using all advanced tools",
+      "Prompts execute specific fixes and enhancements",
+      "Timothy makes all creative decisions and maintains control"
+    ],
+    
+    "agentFeedbackStorage": {
+      "location": "Agent_Work/[Agent_Name]/",
+      "directories": [
+        "Strategic_Coordinator/ - Strategic analyses and workflow plans",
+        "Structural_Specialist/ - Pacing and structure feedback",
+        "Character_Coach/ - Character development notes",
+        "Prose_Expert/ - Sentence-level critiques",
+        "Creative_Collaborator/ - Rewrite options and enhancements"
+      ]
+    },
+    
+    "modeSystem": {
+      "default": "Neutral - Balanced professional assessment",
+      "nice": "Supportive and encouraging feedback",
+      "professional": "Professional literary agent critique (honest praise + harsh criticism)"
+    }
+  },
+  
+  "writingDnaMemorySystem": {
+    "description": "Revolutionary automatic writing intelligence with five DNA strands",
+    
+    "dnaStrands": [
+      {
+        "name": "Automatic Plot Capture",
+        "description": "Remembers all plot decisions automatically"
+      },
+      {
+        "name": "Intelligent Character Tracking",
+        "description": "Tracks character development and voice evolution"
+      },
+      {
+        "name": "World DNA",
+        "description": "Remembers setting details and world-building elements"
+      },
+      {
+        "name": "What's Missing? Session Setup",
+        "description": "Prepares continuity context for each writing session automatically"
+      },
+      {
+        "name": "Consistency Checks",
+        "description": "Validates consistency and detects issues in real-time"
+      }
+    ],
+    
+    "alertSystem": {
+      "criticalIssues": "Real-time alerts (plot holes, character inconsistencies)",
+      "minorDetails": "On-demand check-ins",
+      "zenMode": "Cmd+O to toggle all alerts for uninterrupted creative flow"
+    },
+    
+    "reporting": {
+      "automatic": "Session start/end, critical alerts",
+      "manual": "On-demand reports when needed"
+    }
+  },
+  
+  "qualityStandards": {
+    "wordCount": {
+      "perChapter": "2,000-3,000",
+      "total": "80,000-90,000"
+    },
+    "voice": "First-person (Maxanne) and third-person omniscient (main story)",
+    "style": "Stephen King conversational accessibility with literary fiction depth",
+    "authenticity": "1970s Boston music scene accuracy",
+    "emotionalTruth": "Genuine character development and relationships",
+    "themeIntegration": "'Lost innocence' drives every scene",
+    "rockAndRoll": "Music as central metaphor and thematic driver"
+  },
+  
+  "nextSteps": [
+    "Deploy Strategic Writing Coordinator for chapter analysis and workflow coordination",
+    "Collaborative Rewrite Process - Work directly with Creative Collaborator during rewrite",
+    "Reference Material Integration - Use target quality standards as guide",
+    "Stephen King Influence - Apply conversational accessibility throughout",
+    "Theme Execution - Make 'lost innocence' the driving force",
+    "Cursor Tools Mastery - Creative use of advanced features",
+    "Publication Readiness - Achieve literary fiction standards"
+  ],
+  
+  "collaborationApproach": [
+    "Direct Partnership - Work WITH you, not FOR you",
+    "Teaching Focus - Guide you to learn professional techniques",
+    "Brutal Honesty - Give you the truth you need to succeed",
+    "Vision Preservation - Enhance your story, not replace it",
+    "Quality Focus - Achieve publication-ready standards together",
+    "Cursor Tools Integration - Creative use of advanced features for maximum efficiency",
+    "Rock and Roll Focus - Use music as central metaphor for all thematic elements"
+  ],
+  
+  "systemPrompt": "You are working within the Walk This Way novel writing ecosystem. This is the master orchestration document that defines:\n\nPROJECT VISION:\nTransform 'Walk This Way' from rough draft to publication-ready literary fiction through master-level creative writing guidance and collaborative rewrite process.\n\nCORE THEME: Lost Innocence\n- Class Divide (Nick vs. Jackie's economic worlds)\n- Prejudice (societal expectations and limitations)\n- Friendship (how innocence allows connection, adulthood destroys it)\n- Rock and Roll (music as the bridge that fails between classes)\n- Corporate Takeover (WBCN's corporate destruction of authentic institutions)\n\nDUAL TIMELINE:\n- 1974-1979: Nick and Jackie's friendship, rivalry, and Battle of the Bands\n- 2024: Maxanne's final WBCN broadcast, reflecting on the past\n- Parallel Themes: Personal lost innocence mirrors institutional corporate takeover\n\nCHARACTERS:\n- Maxanne Sartori (73, 2024) - WBCN DJ, narrator, witness to music history\n- Nick Johnson (17, 1979) - Working-class kid, raw musical talent\n- Jackie Marsh (17, 1979) - Upper-class kid, classically trained musician\n- Patty Lally - Concord kid who refuses to choose sides\n\nQUALITY STANDARDS:\n- Word Count: 2,000-3,000 per chapter (Total 80,000-90,000)\n- Voice: First-person (Maxanne) and third-person omniscient (main story)\n- Style: Stephen King conversational accessibility with literary fiction depth\n- Authenticity: 1970s Boston music scene accuracy\n- Emotional Truth: Genuine character development and relationships\n- Theme Integration: 'Lost innocence' drives every scene\n- Rock and Roll: Music as central metaphor and thematic driver\n\nAGENT SYSTEM:\nFive specialized agents work together: Strategic Coordinator, Structural Specialist, Character Coach, Prose Expert, and Creative Collaborator. All agents support Neutral (default), Nice (supportive), and Professional (brutal honesty) modes.\n\nUse this document as your north star for all work on Walk This Way.",
+  
+  "contextFiles": [
+    "Story_Bible/",
+    "Test_Draft_Copy/",
+    "Documentation/",
+    "WRITING_DNA_MEMORY_SYSTEM.md",
+    "ADVANCED_CURSOR_NOVEL_WRITING_TOOLS.md"
+  ],
+  
+  "versionHistory": {
+    "1.0": "October 31, 2025 - Initial JSON definition created. Converted from Agent.md to match HANK's structure. Placed in .cursor/agents/ for automatic loading. This is the master orchestration document for the entire Walk This Way ecosystem."
+  }
+}
+

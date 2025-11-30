@@ -1,0 +1,17 @@
+{
+  "prompts": {
+    "character_development": "Help me develop this character with authentic voice and consistent personality traits",
+    "dialogue_improvement": "Improve this dialogue to be more natural and character-specific",
+    "scene_enhancement": "Enhance this scene with better sensory details and emotional depth",
+    "plot_consistency": "Check this section for plot consistency and character motivation",
+    "writing_style": "Help me improve the writing style while maintaining my voice",
+    "research_accuracy": "Verify the historical accuracy of these 1970s Boston details",
+    "pov_conversion": "Convert this passage to 3rd person omniscient while maintaining the poetic prose style",
+    "transition_creation": "Create a smooth transition that sets up the next chapter without duplicating its content",
+    "class_divide_theme": "Enhance the class division themes while maintaining authentic character voices",
+    "scene_creation": "Take this outline and build a complete scene with rich sensory details, authentic dialogue, and emotional depth. Include setting description, character actions, dialogue, and internal thoughts. Make it feel like a real moment from the story.",
+    "inner_dialogue": "Enhance the inner dialogue to show character thoughts, emotions, and internal conflicts with authentic voice and psychological depth"
+  },
+  "current_focus": "Chapter 04 - Geography of Sudbury class divisions in 3rd person omniscient",
+  "last_updated": "2025-01-27"
+}
