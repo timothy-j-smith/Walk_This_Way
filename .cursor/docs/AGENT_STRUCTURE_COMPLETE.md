@@ -89,7 +89,7 @@
 
 **Session_Summaries/** (at root):
 - **Purpose:** Session summaries (daily recaps)
-- **Location:** `Session_Summaries/Session_Summaries/`
+- **Location:** `Session_Summaries/`
 - **Different from:** Agent feedback
 
 **Agent_Work/HANK/** (in Agent_Work):
