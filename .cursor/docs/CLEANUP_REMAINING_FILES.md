@@ -60,7 +60,7 @@ Walk This Way/
 ├── Story_Bible/          ← Canonical reference
 ├── Documentation/         ← Current project docs
 ├── Agent_Work/           ← Current agent feedback
-├── HANK_Work/            ← Session summaries
+├── Session_Summaries/            ← Session summaries
 ├── Archive/              ← Old files
 ├── Duplicate_Version_2/  ← Duplicates for review
 ├── zz_COMPASS/           ← COMPASS system

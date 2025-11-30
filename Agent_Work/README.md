@@ -60,10 +60,10 @@
 
 ---
 
-## 📊 HANK_Work vs Agent_Work/HANK
+## 📊 Session_Summaries vs Agent_Work/HANK
 
-**HANK_Work/** - Session summaries (different purpose)
-- `HANK_Work/Session_Summaries/` - Daily session recaps
+**Session_Summaries/** (at root) - Session summaries (different purpose)
+- `Session_Summaries/` - Daily session recaps
 - Separate from agent feedback
 
 **Agent_Work/HANK/** - HANK agent feedback

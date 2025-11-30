@@ -27,7 +27,7 @@ All feedback from HANK should be saved here using the naming convention:
 
 ## 📊 SESSION SUMMARIES
 
-**Note:** Session summaries are stored separately in `HANK_Work/Session_Summaries/`
+**Note:** Session summaries are stored separately in `Session_Summaries/` (at root)
 
 This folder is for HANK's feedback and analysis on specific requests.
 

@@ -16,7 +16,7 @@
 - Root `README.md` - Keep (main project readme)
 - `.cursor/config/README.md` - Keep (explains config folder)
 - `zz_COMPASS/README.md` - Keep (explains COMPASS)
-- `HANK_Work/README.md` - Keep (explains HANK system)
+- `Session_Summaries/README.md` - Keep (explains HANK system)
 - `Original Writing/README.md` - Remove (folder being deleted)
 
 ### **3. Story_Bible Duplication**

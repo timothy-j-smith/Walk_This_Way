@@ -12,7 +12,7 @@
 - ✅ Files archived
 - ✅ Story_Bible consolidated
 - ✅ Helpful_Hints.md created
-- ✅ HANK_Work system created
+- ✅ Session_Summaries system created
 - ✅ Git committed
 
 ---

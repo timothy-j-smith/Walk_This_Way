@@ -47,7 +47,7 @@ Walk This Way/
 ├── Story_Bible/          ← Canonical reference
 ├── Documentation/         ← Current project docs
 ├── Agent_Work/           ← Current agent feedback
-├── HANK_Work/            ← Session summaries
+├── Session_Summaries/            ← Session summaries
 ├── Original Writing/     ← Check contents
 ├── Archive/              ← Old files (organized)
 ├── Duplicate_Version_2/  ← Duplicates for review

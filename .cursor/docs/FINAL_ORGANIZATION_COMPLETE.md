@@ -16,7 +16,7 @@
 - ✅ Root `README.md` - Kept (main project)
 - ✅ `.cursor/config/README.md` - Kept (explains config)
 - ✅ `zz_COMPASS/README.md` - Kept (explains COMPASS)
-- ✅ `HANK_Work/README.md` - Kept (explains HANK)
+- ✅ `Session_Summaries/README.md` - Kept (explains HANK)
 - ✅ `Agent_Work/README.md` - Created (explains agent structure)
 - ✅ `Original Writing/README.md` - Removed (folder deleted)
 
@@ -54,7 +54,7 @@ Walk This Way/
 ├── Story_Bible/          ← Canonical reference (clean)
 ├── Documentation/         ← Current project docs
 ├── Agent_Work/           ← All 5 agents organized
-├── HANK_Work/            ← Session summaries
+├── Session_Summaries/            ← Session summaries
 ├── Archive/              ← All old files organized
 ├── Duplicate_Version_2/  ← For review
 ├── zz_COMPASS/           ← COMPASS system (bottom)

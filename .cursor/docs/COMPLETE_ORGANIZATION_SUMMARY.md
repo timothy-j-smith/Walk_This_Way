@@ -39,7 +39,7 @@ Walk This Way/
 ├── Story_Bible/          ← Canonical reference (clean)
 ├── Documentation/         ← Current project docs (needs review)
 ├── Agent_Work/           ← ALL agents organized (8 total)
-├── HANK_Work/            ← Session summaries
+├── Session_Summaries/            ← Session summaries
 ├── Duplicate_Version_2/  ← For review
 ├── yy_Archive/           ← All old files (at bottom)
 ├── zz_COMPASS/           ← COMPASS system (at bottom)

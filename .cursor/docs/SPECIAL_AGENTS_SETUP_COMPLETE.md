@@ -22,7 +22,7 @@
    - `Agent_Work/HANK/HANK.json` - Agent DNA
    - `Agent_Work/HANK/README.md` - Folder guide
    - Ready for feedback files
-   - Note: Session summaries remain in `HANK_Work/Session_Summaries/`
+   - Note: Session summaries remain in `Session_Summaries/Session_Summaries/`
 
 ---
 

@@ -85,11 +85,11 @@
 
 ---
 
-## 📊 HANK_Work vs Agent_Work/HANK
+## 📊 Session_Summaries vs Agent_Work/HANK
 
-**HANK_Work/** (at root):
+**Session_Summaries/** (at root):
 - **Purpose:** Session summaries (daily recaps)
-- **Location:** `HANK_Work/Session_Summaries/`
+- **Location:** `Session_Summaries/Session_Summaries/`
 - **Different from:** Agent feedback
 
 **Agent_Work/HANK/** (in Agent_Work):
@@ -98,7 +98,7 @@
 - **Consistent with:** All other agents
 
 **Why Both Exist:**
-- `HANK_Work/` = Session documentation (unique to HANK)
+- `Session_Summaries/` = Session documentation (unique to HANK)
 - `Agent_Work/HANK/` = Agent feedback (consistent with all agents)
 
 ---
