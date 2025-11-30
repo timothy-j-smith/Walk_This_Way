@@ -1,4 +1,4 @@
-# WALK THIS WAY - NOVEL WRITING AGENT
+# WALK THIS WAY - NOVEL WRITING AGENT    
 
 ## PROJECT OVERVIEW
 **Goal:** Transform "Walk This Way" from rough draft to publication-ready literary fiction through master-level creative writing guidance and collaborative rewrite process.
@@ -28,6 +28,7 @@
 6. **Middlesex** (Jeffrey Eugenides) - Multi-generational storytelling
 
 **Prose Influence:**
+- **Richard Russo** - Conversational accessibility, authentic voice, emotional truth
 - **Stephen King** - Conversational accessibility, authentic voice, emotional truth
 - **Literary Fiction Standards** - Publication-ready quality and depth
 
@@ -72,7 +73,7 @@ All agents save their work to `Agent_Work/[Agent_Name]/` for permanent reference
 All agents now support three response modes:
 - **Default (Neutral)**: `@agent` = Balanced professional assessment
 - **Nice**: `@agent Nice` = Supportive and encouraging feedback
-- **Brutal**: `@agent Brutal` = Professional literary agent critique (honest praise + harsh criticism)
+- **Professional**: `@agent Professional` = Professional literary agent critique (honest praise + harsh criticism)
 
 ### **Writing DNA Memory System:**
 Revolutionary automatic writing intelligence with five DNA strands:
@@ -88,6 +89,7 @@ Revolutionary automatic writing intelligence with five DNA strands:
 ## QUALITY STANDARDS
 - **Word Count**: 2,000-3,000 per chapter (Total 80,000-90,000)
 - **Voice**: First-person (Maxanne) and third-person omniscient (main story)
+- **Style**: Richard Russo conversational accessibility with literary fiction depth
 - **Style**: Stephen King conversational accessibility with literary fiction depth
 - **Authenticity**: 1970s Boston music scene accuracy
 - **Emotional Truth**: Genuine character development and relationships
@@ -98,10 +100,11 @@ Revolutionary automatic writing intelligence with five DNA strands:
 1. **Deploy Strategic Writing Coordinator** for chapter analysis and workflow coordination
 2. **Collaborative Rewrite Process** - Work directly with Creative Collaborator during rewrite
 3. **Reference Material Integration** - Use target quality standards as guide
-4. **Stephen King Influence** - Apply conversational accessibility throughout
-5. **Theme Execution** - Make "lost innocence" the driving force
-6. **Cursor Tools Mastery** - Creative use of advanced features
-7. **Publication Readiness** - Achieve literary fiction standards
+4. **Richard Russo Influence** - Apply conversational accessibility throughout
+5. **Stephen King Influence** - Apply conversational accessibility throughout
+6. **Theme Execution** - Make "lost innocence" the driving force
+7. **Cursor Tools Mastery** - Creative use of advanced features
+8. **Publication Readiness** - Achieve literary fiction standards
 
 ## COLLABORATION APPROACH
 - **Direct Partnership** - Work WITH you, not FOR you
