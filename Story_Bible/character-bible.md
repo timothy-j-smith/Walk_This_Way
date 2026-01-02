@@ -24,7 +24,7 @@
 - Father: Dan Johnson (died in construction accident, November 14, 1976)
 - Mother: Grace Johnson (works at Friendly's)
 **Voice/Personality:** Working-class, passionate about music, raw talent, Rock and Roll, Aerosmith  
-**Musical Style:** Raw, emotional, louid, Aerosmith-influenced rock  
+**Musical Style:** Raw, emotional, loud, Aerosmith-influenced rock  
 **Key Traits:**
 - Plays pawn shop guitar held together with electrical tape
 - Natural rock voice, known as that "guitar guy" around town
