@@ -401,9 +401,7 @@ Every word earns its place. Landscape shapes character. Working-class life with 
 - Rural decline
 - Isolation and connection
 - Violence (physical and economic)
-- Unsentim
-
-ental love
+- Unsentimental love
 
 **CONTENT APPROACH:**
 - **Settings:** Rural Wyoming, Newfoundland, working landscapes. Harsh beauty.

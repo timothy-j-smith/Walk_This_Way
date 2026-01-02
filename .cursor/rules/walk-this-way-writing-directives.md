@@ -206,7 +206,7 @@ The Creative Collaborator is the "Swiss Army Knife" agent who knows and deploys:
 
 ### **CHARACTER VOICE DNA:**
 
-**Maxanne Sartori (73, 2024):**
+**Maxanne Sartori (73, 2009):**
 - 1970s Boston radio DJ who lived the music revolution
 - Nostalgic but not sentimental, wise but slightly bitter
 - Voice: Conversational, reflective, radio-broadcast rhythm with natural pauses
@@ -214,22 +214,22 @@ The Creative Collaborator is the "Swiss Army Knife" agent who knows and deploys:
 - Core: Witness to authentic rock's death, guardian of its memory
 
 **Nick Johnson (15-17, 1974-1979):**
-- Working-class Sudbury kid, father dies April 13, 1976
+- Working-class Sudbury kid, father dies November 14th, 1976
 - Becomes "man of the house" at 15, raw musical talent
 - Voice: Direct, defensive pride masking vulnerability
 - Dialect: Working-class Boston, economical speech
 - Arc: Innocence → responsibility → bitterness → brief redemption
 
 **Jackie Marsh (15-17, 1974-1979):**
-- Upper-class privilege, classically trained, conflicted about advantages
-- Wants authentic connection but trapped by class expectations
+- Upper-class privilege, classically trained, conflicted about advantages & love for Rock and Roll
+- Wants authentic connection but trapped by class expectations and classical music trajectory
 - Voice: Educated precision hiding emotional uncertainty
 - Dialect: Careful, academic, rarely uses contractions when nervous
 - Arc: Confidence → guilt → isolation → brief connection
 
 **Patty Lally:**
 - Concord kid who refuses to choose sides
-- The "frequency" keeper who remembers what others forget
+- The harmony keeper who remembers what others forget
 - Voice: Authentic, grounded, emotionally intelligent
 - Function: Synthesis of Nick's raw passion and Jackie's technical skill
 
@@ -299,7 +299,7 @@ The Creative Collaborator is the "Swiss Army Knife" agent who knows and deploys:
 
 ## TIMELINE - CRITICAL PLOT POINTS
 
-### **1974-1976: The Golden Age**
+### **1974-1975: The Golden Age**
 - Belt buckle incident sparks Nick/Jackie friendship
 - Musical partnership forms: Nick's raw instinct + Jackie's technical precision
 - Middle school talent show victory
@@ -324,8 +324,8 @@ The Creative Collaborator is the "Swiss Army Knife" agent who knows and deploys:
 
 **IMPORTANT:** It is trite and unsophisticated to assume that town class divisions automatically align with high school social groups. The story must clearly show how children/teens interact across class lines differently than their parents, and how high school creates its own social dynamics separate from adult economic divisions.
 
-### **April 13, 1976: THE FRACTURE**
-- Dan Johnson dies (Spring)
+### **November 14th, 1976: THE FRACTURE**
+- Dan Johnson dies (Fall)
 - Nick becomes "man of the house" at 15
 - Jackie tries to support but gets spurned
 - Friendship chasm widens irreversibly
@@ -336,18 +336,19 @@ The Creative Collaborator is the "Swiss Army Knife" agent who knows and deploys:
 - Senior year: Battle of the Bands announcement
 - Town investment and community pressure
 - Different rehearsal approaches reveal class differences
-- The Battle: Patty wins, but Nick/Jackie performances reveal authentic selves
+- The Battle: Patty wins, but Nick/Jackie performances reveal their own authenticity
 
 ### **1979: Brief Redemption**
-- WBCN Studio C recording session
+- WBCN Studio C recording session with Patty
 - Nick and Jackie reconcile, record perfect Queen/Aerosmith mashup
-- External forces pull them apart again (Dr. Marsh, Nick's Army decision)
+- External forces pull them apart again (Dr. Marsh, Nick's future decisions (Army?))
 
-### **2024: The Reflection**
+### **2009: The Reflection**
 - WBCN's final broadcast
 - Maxanne plays their 1979 demo tape
 - Parallel tragedies: friendship destroyed, authentic radio destroyed
 - Both victims of American class division and corporate takeover
+- Both represent a "LOSS OF INNOCENCE"
 
 ---
 
@@ -367,8 +368,8 @@ Lost innocence encompasses all other themes and operates at ALL levels:
 
 **Critical:** The theme of "Loss of Innocence" must be clear at every level - from children's innocent interactions to adult class divisions, from childhood friendships to high school social groups, from authentic music to corporate commodification.
 
-### **The "Frequency" Metaphor:**
-Central organizing principle - the frequency where all voices matter, and what happens when that frequency gets jammed by static (class, prejudice, corporate greed, adulthood, loss of innocence).
+### **The "Harmony" Metaphor:**
+Central organizing principle - the harmony where all voices matter, and what happens when harmony gets jammed by static (class, prejudice, corporate greed, adulthood, loss of innocence).
 
 ---
 

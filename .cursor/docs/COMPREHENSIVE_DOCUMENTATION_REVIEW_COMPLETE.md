@@ -159,7 +159,7 @@ I have now read **EVERY significant documentation file** in the Walk This Way fo
 - **Hose:** Add depth through specific fears, costs of choices, concrete details
 - **Result:** Chapters transformed from 6/10 to 8-9/10 quality
 
-**Character Depth Hierarchy:**
+**CRITICAL: Character Depth Hierarchy:**
 - Tier 1: Main characters (show COST of choices, specific fears)
 - Tier 2: Supporting characters (ONE defining moment each)
 - Tier 3: Background characters (forces, not people)
@@ -171,15 +171,15 @@ I have now read **EVERY significant documentation file** in the Walk This Way fo
 2. **Dennis Lehane** - Direct, gritty, no sentimentality
 3. **Stephen King** - Conversational accessibility, emotional truth
 
-**Removed:**
+**Removed:** (Removed from Walk This Way, but do NOT remove from COMPASS)
 - Marilynne Robinson (deprecated)
 - James Dickey (deprecated)
 
 ### 5. TIMELINE CORRECTIONS
 
 **Key Dates:**
-- Dan's Death: **April 13, 1976** (Spring, not November 1977)
-- Battle of the Bands: **May 15, 1979**
+- Dan's Death: **November 14th, 1976** 
+- Battle of the Bands: **March 15, 1979**
 - WBCN Closes: **August 11-12, 2009** (not 2024)
 - Nick & Jackie born: 1962
 - Belt buckle meeting: September 1974
@@ -234,8 +234,6 @@ I have now read **EVERY significant documentation file** in the Walk This Way fo
 **Actions:**
 - Create `/russo` command (Priority #1)
 - Create `/lehane` command (Priority #2)
-- Remove `/dickey` command (deprecated)
-- Remove `/robinson` command (deprecated)
 
 ### 4. .CURSORIGNORE MIGRATION (PRIORITY: MEDIUM)
 
@@ -269,7 +267,7 @@ I have now read **EVERY significant documentation file** in the Walk This Way fo
 ### ⚠️ NEEDS UPDATING
 
 1. **Date Inconsistencies** - Many files have wrong dates
-2. **Stylistic References** - Some still reference deprecated authors
+2. **Stylistic References** - Some still reference incorrect authors
 3. **Folder Structure** - Scattered, needs reorganization
 4. **Command Documentation** - Need to create missing style commands
 
@@ -295,11 +293,9 @@ I have now read **EVERY significant documentation file** in the Walk This Way fo
 
 ### PHASE 2: DOCUMENTATION UPDATES
 
-- [ ] Remove deprecated stylistic references (Dickey, Robinson)
 - [ ] Add new stylistic references (Russo, Lehane)
 - [ ] Create `/russo` command file
 - [ ] Create `/lehane` command file
-- [ ] Remove deprecated command files
 
 ### PHASE 3: SYSTEM ENHANCEMENTS
 

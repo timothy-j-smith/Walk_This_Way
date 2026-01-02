@@ -10,6 +10,7 @@
 - Aerosmith is Nick's group vs Jackie's Queen
 - Part of middle school talent show mashup (Ch 6)
 - Maxanne cues it up during broadcast
+- "Walk This Way" and "Sweet Emotion" are also big hits
 
 **Significance:** Working-class anthem, Steven Tyler's signature, represents Nick's musical identity
 
@@ -24,6 +25,8 @@
 **Used:**
 - Jackie wants to play this (vs. Nick wanting "Dream On")
 - Part of middle school talent show mashup (Ch 6)
+- "Bohemian Rhapsody", "Killer Queen", "We are the Champions", "We will Rock You"
+- "Under Pressure" (1981)
 
 **Significance:** 
 - Gospel-meets-opera-meets-rock
@@ -41,7 +44,7 @@
 ### Queen/David Bowie - "Under Pressure" ((must modify, song not released in 1979))
 **Used:**
 - Jackie plays this at his recital instead of Mozart (Ch 3)
-- Piano-only arrangement on Steinway
+- Piano arrangement on Steinway
 - Breaking free from classical expectations
 
 **Significance:**
@@ -115,16 +118,15 @@
 
 ### Bands Mentioned:
 - **Aerosmith:** "Four guys from New Hampshire who thought they could take on the world"
-- **Steven Tyler:** Hair caught in mixing board (1973), sent bourbon for final broadcast
-- **The Standells:** House band at Boston Tea Party
+- **Steven Tyler:** Hair caught in mixing board (1972), sent bourbon for final broadcast
 - **J. Geils:** "Just a kid with a harmonica and a dream"
 - **The Cars:** Boston band
+- **Boston:** Self-explanatory
 - **The Ramones:** Played The Rat in '77 (Joey ducked under pipes)
 
 ### Venues:
 - **WBCN 104.1 FM:** "The Rock of Boston" (56 years)
 - **The Rat:** Legendary club, now luxury condos
-- **The Boston Tea Party:** Historic venue
 - **Symphony Hall:** Referenced as contrast
 
 ---
@@ -136,7 +138,7 @@
 **Democracy's Wild Card:**
 - "Music has always been democracy's wild card"
 - Crosses class boundaries that America builds
-- "The frequency that ignores the boundaries we build"
+- "The sound that ignores the boundaries that we build"
 
 **Survival vs. Decoration:**
 - Nick: "Music isn't decoration—it's survival"
