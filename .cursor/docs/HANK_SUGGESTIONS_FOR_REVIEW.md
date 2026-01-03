@@ -22,14 +22,16 @@
 
 ### **KEEP (Active Docs - 25 files)**
 
+((I will place my notes in (()) and change the "K" "A" or "D" below if needed))
+((most files stay in "docs" folder.  Do you think within this folder we should have folders like, "SMARTWRITE", "GIT",perhaps another folder here? I am just cautious of one folder becoming a large dumping ground for new files, "Story Bible Inventory" and "character-voices" are especially important and will be referenced often. Anyway, I am thinking if we need to assemble the .docs folder a bit differently, but perhaps we make all of our initial changes and circle back on this point unless you have a great idea on how best to organize the .docs folder so that it doesn't become hard to search or doesn't become too large))
 **System Guides & References:**
 - K - ASK_HANK_REMINDER.md (important reminder system)
-- K - COMPLETE_COMMAND_INVENTORY.md (reference)
-- K - DOCUMENTATION_REVIEW_SYSTEM.md (this system!)
-- K - FILE_EXPLORER_CHEAT_SHEET.md (reference)
+- K - COMPLETE_COMMAND_INVENTORY.md (reference) ((5 new commands (authors: Richard Russo, Dennis Lehane, Donna Tart, Colson Whitehead, Nick Hornby -- see Story Bible folder and reference the file, "author-style-library.md" for good details for these ew commands))
+- A - DOCUMENTATION_REVIEW_SYSTEM.md (this system!) ((Changed this to Archive))
+- K - FILE_EXPLORER_CHEAT_SHEET.md (reference) ((Still need to address "To Do" items in this file))
 - K - GIT_ECOSYSTEM_GUIDE.md (reference)
 - K - GIT_VS_GITHUB_CLARIFICATION.md (reference)
-- K - MCP_CONFIGURATION.md (current system doc)
+- K - MCP_CONFIGURATION.md (current system doc) ((Still need to adddress "To Do" items in this file related to MCP))
 - K - NEXT_STEPS_JANUARY_1_2026.md (current planning)
 - K - SMARTWRITE_CLARIFICATION.md (system doc)
 - K - SMARTWRITE_NAMING_CLARIFICATION.md (system doc)
@@ -58,7 +60,7 @@
 - A - ARCHIVING_PROGRESS.md
 - A - CLEANUP_COMPLETE.md
 - A - CLEANUP_REMAINING_FILES.md
-- A - COMPLETE_ANSWERS.md
+- K - COMPLETE_ANSWERS.md ((Change this to Keep a we still have some "To Do" items to address with the "cursorrc", "MCP", .cursor/architecture))
 - A - COMPREHENSIVE_DOCUMENTATION_REVIEW_COMPLETE.md
 - A - COMPREHENSIVE_DOCUMENTATION_REVIEW_STATUS.md
 - A - DEEP_CLEANUP_COMPLETE.md
@@ -100,26 +102,27 @@
 - A - VISUAL_HIERARCHY_COMPLETE.md
 
 **Reference (May Have Historical Value):**
-- A - ASK_TIMOTHY_QUESTIONNAIRE.md (historical)
-- A - CURSOR_ADVANCED_FEATURES_ANALYSIS.md (historical)
+- A - ASK_TIMOTHY_QUESTIONNAIRE.md (historical) ((This is a laundry list of questions from our session on November 29th.  Do we need to specifically address this list or are we addressing all of these questions in chunks now?))
+- K - CURSOR_ADVANCED_FEATURES_ANALYSIS.md (historical) ((changed to Keep to address "cursorrc" question that we can address later))
 - A - CURSOR_MEMORY_VS_GIT_CLARIFICATION.md (reference, but historical)
 - A - GIT_ECOSYSTEM_TOOLS_ANALYSIS.md (historical)
 - A - MD_FILES_INVENTORY.md (historical)
 - A - STORY_BIBLE_ERRORS_TO_FIX.md (completed)
-- A - VSCODE_SETTINGS_EXPLANATION.md (reference, but historical)
+- A - VSCODE_SETTINGS_EXPLANATION.md (reference, but historical) ((can we try changing "Spell Check" to YES in the settings to see if I like this spell check?  What region of Cursor will utilize the spell check is it in the Text Editor?  I think I will like this now.))
 
 ---
 
 ### **DELETE (Duplicates/Obsolete - 5 files)**
 
 **Possibly Duplicate/Obsolete:**
-- D - STORY_BIBLE_CONSOLIDATION_COMPLETE.md (if STORY_BIBLE_INVENTORY.md covers this)
-- D - COMPREHENSIVE_CLEANUP_PLAN.md (if FINAL_ORGANIZATION_COMPLETE.md covers this)
+- A - STORY_BIBLE_CONSOLIDATION_COMPLETE.md (if STORY_BIBLE_INVENTORY.md covers this) ((change to Archive))
+- K - COMPREHENSIVE_CLEANUP_PLAN.md (if FINAL_ORGANIZATION_COMPLETE.md covers this) ((changed to Keep as it is double listed here so this should be KEEP))
 
 **Actually, let me reconsider - these might have value, so I'm suggesting Archive instead:**
 
 **REVISED: 0 files to delete** (All have some value - archive instead)
 
+((Timothy Summary: Addressed files in the active "docs" folder that is part of our new configuration.  Most files follow your recommendations with the exceptions are noted above.  This does not include any new files from today which I can address later.  After these updates are completed I will move to the file named, "Complete Folder Structure Reference" where we will look at the folder named "Documentation" with 22 files to KEEP and move into .docs OR ARCHIVE the files -- most of them will be archived and once all files are moved we can delete the "Documentation" folder as this was not part of our new folder structure as it was from the older structure that we updated on 11/29/25.))
 ---
 
 ## 🎯 SUMMARY
@@ -193,4 +196,5 @@ Keep specific important files:
 ---
 
 **Which approach do you prefer?**
+
 

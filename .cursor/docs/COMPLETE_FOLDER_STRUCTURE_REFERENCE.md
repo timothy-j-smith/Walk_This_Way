@@ -104,16 +104,16 @@ Walk This Way/
 ## 📋 DOCUMENTATION/ FOLDER CONTENTS (22 files)
 
 **Files that need review:**
-1. AI_INSTRUCTIONS_MASTER.md
-2. APPROVED_CHAPTER_STRUCTURE.md
-3. ASSEMBLY_STATUS_MAP.md
-4. CHAPTER_1_AI_PROMPT.md
-5. CLEAN_CHAPTER_OUTLINE.md
-6. CONTINUITY_TRACKER.md
-7. DETAILED_CHAPTER_OUTLINE.md
-8. ECOSYSTEM_SUMMARY.md
-9. FEEDBACK_NOTES.md
-10. FINAL_CHAPTER_SEQUENCE_FOR_APPROVAL.md
+1. AI_INSTRUCTIONS_MASTER.md ((Archive))
+2. APPROVED_CHAPTER_STRUCTURE.md ((KEEP. TO DO: Update Chapter Structure. This should be current. Change title to simply "CHAPTER_STRUCTURE"))
+3. ASSEMBLY_STATUS_MAP.md ((KEEP, TO DO: Will need to be updated/made current))
+4. CHAPTER_1_AI_PROMPT.md ((Archive))
+5. CLEAN_CHAPTER_OUTLINE.md ((KEEP. TO DO: Will need to be updated/made current. Change to "CHAPTER_OUTLINE"))
+6. CONTINUITY_TRACKER.md ((KEEP, TO DO: Will need to be updated/made current))
+7. DETAILED_CHAPTER_OUTLINE.md ((KEEP: TO DO: Will need to be updated/made current))
+8. ECOSYSTEM_SUMMARY.md ((Archive))
+9. FEEDBACK_NOTES.md ((DELETED))
+10. FINAL_CHAPTER_SEQUENCE_FOR_APPROVAL.md ((ARCHIVE: remaining items #10 - #22)) 
 11. INITIAL_ASSESSMENT.md
 12. Memory_SmartWrite_Chapter11_Test_Plan.md
 13. NEW_CHAPTER_OUTLINE.md
@@ -167,4 +167,5 @@ NO LONGER:
 ---
 
 **This gives you a clean reference of what SHOULD exist vs. what needs to be cleaned up!**
+
 

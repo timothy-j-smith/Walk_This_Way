@@ -81,15 +81,20 @@ Walk This Way/
 │   │   │   └── argument.md
 │   │   │
 │   │   ├── Style/
-│   │   │   ├── russo.md              ← CREATE (priority #1)
-│   │   │   ├── lehane.md             ← CREATE (priority #2)
+│   │   │   ├── russo.md              ← CREATE (priority #1) - See Story_Bible/author-style-library.md
+│   │   │   ├── lehane.md             ← CREATE (priority #2) - See Story_Bible/author-style-library.md
+│   │   │   ├── tartt.md              ← CREATE - See Story_Bible/author-style-library.md (Donna Tartt)
+│   │   │   ├── whitehead.md          ← CREATE - See Story_Bible/author-style-library.md (Colson Whitehead)
+│   │   │   ├── salinger.md           ← CREATE - See Story_Bible/author-style-library.md (J.D. Salinger)
+│   │   │   ├── mccarthy.md           ← CREATE - See Story_Bible/author-style-library.md (Cormac McCarthy)
+│   │   │   ├── proulx.md             ← CREATE - See Story_Bible/author-style-library.md (Annie Proulx)
 │   │   │   ├── king.md
 │   │   │   ├── chbosky.md
 │   │   │   ├── goldman.md
 │   │   │   ├── harris.md
-│   │   │   └── ondaatje.md
-│   │   │   └── REMOVE: dickey.md, robinson.md
-│   │   │
+│   │   │   ├── ondaatje.md
+│   │   │   ├── dickey.md             ← KEEP (as noted)
+│   │   │   └── robinson.md           ← KEEP (as noted)
 │   │   └── Analysis/
 │   │       ├── coach.md
 │   │       ├── pov.md

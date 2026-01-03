@@ -9,7 +9,7 @@
   "cursor.composer.maxTokens": 8192,
   
   "cursor.textEditor.vocabulary": "extended",
-  "cursor.textEditor.spellCheck": true,
+  "cursor.textEditor.spellCheck": true,  // Enabled per Timothy's request - works in Text Editor
   "cursor.textEditor.grammarCheck": true,
   
   "cursor.agents.enabled": true,

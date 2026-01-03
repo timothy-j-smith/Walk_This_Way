@@ -13,12 +13,14 @@
 
 ## 📋 CURRENT SETTINGS
 
-Your current `.vscode/settings.json` contains:
-- Spell check settings (disabled)
+Your current `.cursor/config/settings.json` contains:
+- Spell check settings (✅ ENABLED - `cursor.textEditor.spellCheck: true`)
 - Auto-save settings (enabled, 1 second delay)
 - Word wrap settings (enabled, 80 columns)
 - Format on save (disabled)
 - Cursor composer settings
+
+**Spell Check:** The spell check is enabled and works in the Text Editor area of Cursor. You'll see red squiggly lines under misspelled words as you type.
 
 ---
 
@@ -47,4 +49,5 @@ Your current `.vscode/settings.json` contains:
 ---
 
 **Timothy, .vscode/settings.json will carry over - it's part of your project!**
+
 
