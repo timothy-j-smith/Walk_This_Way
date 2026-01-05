@@ -1,6 +1,6 @@
 # MUSIC REFERENCES - Walk This Way
 
-## Songs Used in Story
+## Songs Used in Story (( THIS PAGE NEEDS TO BE UPDATE AFTER THE NOVEL REWRITE !! ))
 
 ### Aerosmith - "Dream On"
 **From:** First album (1973)  
@@ -25,7 +25,6 @@
 **Used:**
 - Jackie wants to play this (vs. Nick wanting "Dream On")
 - Part of middle school talent show mashup (Ch 6)
-- "Bohemian Rhapsody", "Killer Queen", "We are the Champions", "We will Rock You"
 - "Under Pressure" (1981)
 
 **Significance:** 
@@ -71,13 +70,13 @@
 
 ---
 
-### J. Geils Band - "Centerfold"
+### J. Geils Band - "Must Have Got Lost" (( Needs to be Updated in NOVEL, but all of this could change too !! ))
 **Mentioned:** In Maxanne's playlist  
 **Significance:** Boston legend
 
 ---
 
-### James Taylor - "Fire and Rain"
+### James Taylor - "Fire and Rain"  ((delete James Taylor completely, not needed and out of place !!  ))
 **Used:** Maxanne cues it up (Ch 6)  
 **Significance:** "Someone who understands Massachusetts sadness"
 

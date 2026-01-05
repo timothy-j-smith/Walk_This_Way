@@ -74,10 +74,10 @@
 ## ACTION ITEMS
 
 1. ✅ Document all 26 commands in COMPASS rules
-2. ❌ Remove `/dickey` and `/robinson` (not in stylistic influences)
-3. ❌ Create `/russo` command (Priority #1 stylistic influence)
-4. ❌ Create `/lehane` command (Priority #2 stylistic influence)
-5. ✅ Organize commands into logical folders during reorganization
+2. ❌ Create `/russo` command (Priority #1 stylistic influence)
+3. ❌ Create `/lehane` command (Priority #2 stylistic influence)
+4. ✅ Organize commands into logical folders during reorganization
+5. Make sure all author commands have writing style references (i.e. where is /ondaatje style details located?)
 
 ---
 

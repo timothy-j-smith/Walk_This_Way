@@ -102,6 +102,8 @@ The Creative Collaborator is the "Swiss Army Knife" agent who knows and deploys:
 9. `@class_divide_theme` - Enhance class division themes while maintaining authentic character voices
 10. `@scene_creation` - Transform outline into complete scene with rich sensory details, authentic dialogue, and emotional depth
 11. `@inner_dialogue` - Enhance inner dialogue to show character thoughts, emotions, and internal conflicts with authentic voice
+12. '@current_focus' - Where you left off last time
+13. 'last_updated' - actual date when last updates were made
 
 **Usage:** All JSON prompts work in both Composer (Cmd+I) and Command K for maximum flexibility
 
@@ -149,9 +151,9 @@ The Creative Collaborator is the "Swiss Army Knife" agent who knows and deploys:
 26. `/coach` - Writing coach analysis
 
 **Action Items:**
-- ❌ Remove `/dickey` and `/robinson` commands (not in stylistic priorities)
-- ❌ Create `/russo` command (Priority #1 - Richard Russo style)
-- ❌ Create `/lehane` command (Priority #2 - Dennis Lehane style)
+- ❌ ((Create /tartt, /whitehead, /hornby, /hornby, /mccarthy, /proulx, /salinger))
+- ❌ ((Create `/russo` command (Priority #1 - Richard Russo style)))
+- ❌ ((Create `/lehane` command (Priority #2 - Dennis Lehane style)))
 
 **Reference:** See `COMPLETE_COMMAND_INVENTORY.md` in `.cursor/docs/` for detailed descriptions
 
@@ -166,8 +168,8 @@ The Creative Collaborator is the "Swiss Army Knife" agent who knows and deploys:
 - Enhanced Breadcrumbs with context loading
 
 **📋 Available:**
-- Command Palette hidden commands
-- Mermaid diagrams for complex structures (when needed)
+- Command Palette hidden commands -- ((what are these ?))
+- Mermaid diagrams for complex structures (when needed) ((how do we initate mermaid diagrams I haven't seen or used them yet))
 
 **Status updates needed after Memory System + SmartWrite Chapter 11 test completion.**
 
@@ -189,7 +191,7 @@ The Creative Collaborator is the "Swiss Army Knife" agent who knows and deploys:
 - **Minor Details**: On-demand check-ins
 - **Zen Mode**: `Cmd+O` to toggle all alerts for uninterrupted creative flow
 
-### **Reporting:**
+### **Reporting:** ((I haven't seen any automatic or manual reports so we should try this together))
 - Automatic: Session start/end, critical alerts
 - Manual: On-demand reports when needed
 
@@ -212,11 +214,13 @@ The Creative Collaborator is the "Swiss Army Knife" agent who knows and deploys:
 - Voice: Conversational, reflective, radio-broadcast rhythm with natural pauses
 - POV: 1st person, intimate, like talking to old friends
 - Core: Witness to authentic rock's death, guardian of its memory
+- Tone: melancholic, authenitc, slightly bitter, mostalgic narrator for 1st person chapters
 
 **Nick Johnson (15-17, 1974-1979):**
 - Working-class Sudbury kid, father dies November 14th, 1976
 - Becomes "man of the house" at 15, raw musical talent
 - Voice: Direct, defensive pride masking vulnerability
+- Tone: raw, passionate, determined
 - Dialect: Working-class Boston, economical speech
 - Arc: Innocence → responsibility → bitterness → brief redemption
 
@@ -224,37 +228,86 @@ The Creative Collaborator is the "Swiss Army Knife" agent who knows and deploys:
 - Upper-class privilege, classically trained, conflicted about advantages & love for Rock and Roll
 - Wants authentic connection but trapped by class expectations and classical music trajectory
 - Voice: Educated precision hiding emotional uncertainty
+- Tone: controlled but yearning, sophisticated
 - Dialect: Careful, academic, rarely uses contractions when nervous
 - Arc: Confidence → guilt → isolation → brief connection
 
 **Patty Lally:**
 - Concord kid who refuses to choose sides
 - The harmony keeper who remembers what others forget
-- Voice: Authentic, grounded, emotionally intelligent
-- Function: Synthesis of Nick's raw passion and Jackie's technical skill
+- Voice: Authentic, grounded, emotionally intelligent, peaceful
+- Function: Synthesis of Nick's raw passion and Jackie's technical skill - sees the magic
 
 ---
 
 ## WORLD DNA - SETTING AUTHENTICITY
 
 ### **1979 Boston Music Scene:**
-- WBCN as the authentic rock voice being destroyed by corporate takeover
-- Last moment before music became product instead of rebellion
-- Specific songs, specific DJ voices, specific station moments
-
+- WBCN as the authentic rock voice and rock and roll station (1970's) being destroyed by corporate takeover in 2009
+- Last moment before music became seen as a product instead of a rebellion
+- Specific songs, specific DJ voices, specific station moment
+- The city of Boston was a major epicenter for all of Rock and Roll between 1972-1979
+- Boston area produced some of the successful "arena rock" acts in history 
+- Simultanously fostered a gritty, influential underground scene
+- Thriving scene at venues like The Rat (The Rathskellar) in Kenmore Square not far from WBCN
+  
+### **WBCN (104.1 FM):** "The Rock Of Boston
+- WBCN (104.1 FM) was integral to the Boston rock and roll scene in the 1970s
+- Served as the city's primary "progressive" or free-form rock station and a cultural hub that was instrumental in launching the careers of major bands. 
+-**Key Connections to the Era (1972-1979):**
+- Launched Local Talent, provided essential early exposure for Boston-based bands that struggled to gain attention elsewhere.
+- DJ Maxanne Sartori is widely credited with giving Aerosmith their first major airtime, playing "Dream On" and other album tracks repeatedly when other stations ignored the band
+- Aerosmith live performance was broadcast on the station in March 1973, significantly boosting their local fanbase.
+- J. Geils Band: Lead singer Peter Wolf was an overnight DJ at WBCN before the band achieved national fame. 
+- WBCN provided a platform for the J. Geils Band blues-rock sound to connect with the local audience.
+- The Cars: WBCN championed The Cars' 1978 debut album, helping their new wave sound break through and find a massive audience in Boston.
+- Boston: The polished arena rock sound of the band Boston also found a powerful advocate in the station, which was central to the local college student population.
+- WBCN Pioneered "Album-Oriented Rock" (AOR) 
+- WBCN was a pioneer of the free-form FM format, where DJs had the freedom to play deep album cuts rather than just pre-approved singles, a radical concept at the time. 
+- This approach nurtured a sophisticated, album-listening rock culture among young listeners.
+- A Cultural & Political Voice: Beyond music, WBCN was known as the "voice of the young people" in Boston, blending music with countercultural politics, anti-war activism, and community information, serving as the "internet of its day".
+- Breaking National Acts: In addition to local bands, WBCN was one of a handful of influential stations that helped break national and international artists in the US, including Bruce Springsteen, Patti Smith, The Clash, and U2, often giving them their first airtime or interviews in the country. 
+  
 ### **Sudbury, Massachusetts Geography:**
 - Hop Brook as literal class divider (working-class east, wealthy west)
 - The Dump as democratic meeting ground
-- Dirt roads between Dump and pig farm (mini-bike territory)
+- The Dump intersects Hop Brook and creates the "Sudbury Quadrants"
+- Worn paths in coversation land is mini-bike territory for the working class
+- Conservation land seen as pristine and walking paths for upper-class
 - Conservation land as contested neutral zone
 - Real landmarks, real geography, lived-in specificity
+- Lincoln Sudbury Regional High School 
+- 1979 WBCN's "Battle of the Bands" and Lincoln Sudbury Regional High School
+- Curtis Ephraim Middle School - belt buckles unite Nick & Jackie & they win Talent Show
+- Garage Bands vs. Classical Training
+- small suburbian town outside of Boston
+- Hotbed for young musicians in the 70's
 
 ### **Period Details (1974-1979):**
-- Pre-MTV, pre-CDs, vinyl and radio era
-- Gas crisis, Carter administration, economic uncertainty
+- Pre-MTV, pre-CDs, casettes, vinyl and FM radio era
+- Music: Aerosmith, Queen, Fleetwood Mac, Boston, Boston Rock Scene
+- Post Vietnam, pre-Reagan, Gas crisis, Carter administration, economic uncertainty
 - Specific technology: rotary phones, cassette tapes, AM/FM radios
 - Fashion: bell bottoms, concert tees, leather jackets
 - What $500 meant in 1979, what studio time cost
+
+## **Music Context**
+
+### **Key Songs & Bands**
+- **Aerosmith:** "Walk This Way", "Dream On", "Sweet Emotion", "Draw the Line", "Toys in the Attic", "Back in the Saddle"
+- **Queen:** "Bohemian Rhapsody", "Somebody to Love", "We are the Champions", "We will Rock You", "Killer Queen", 
+- **Fleetwood Mac:** "Dreams", "Go Your Own Way", "Rhiannon", "You Make Loving Fun", "Landslide", "The Chain", "Day You Love Me"
+- **Boston:** "More Than a Feeling", "Peace of Mind", "Don't Look Back", "Long Time", "Something About You", "Party", "Foreplay/Long time"
+- **The Cars:** "Let's Go", "Just What I needed", "My Best Friend's Girl", "Good Times Roll", "It's All I can Do", "Moving in Stereo", "You're All I've Got Tonight"
+- **The J. Giels Band:** "Must of Got Lost", "Give it to Me", "One Last Kiss", "Looking for a Love", "Whammer Jammer", "First I look At The Purse", "Take It Back"
+- **Bruce Springsteen:** "Born to Run", "Tenth Avenue Freeze Out", "Badlands", "Prove it all Night", "The Promised Land", "Rosalita"
+- **The Ramones:** "Rockaway Beach", "Sheena is a Punk Rocker", "Blirtzkrieg Bop", "Swallow my Pride", "Don't Come Close", "I Wanna Be Sedated", "Rock'n Roll High School" 
+
+### **Musical Themes:**
+- **Boston Rock and Roll Authenticity vs. Classical Training & Technical Perfection
+- **Working-class raw power vs. priviliged polish**
+- **Harmony that can transcend class divisions and musical styles**
+- **Music as escape, expression, and connection**
 
 ---
 
@@ -265,6 +318,48 @@ The Creative Collaborator is the "Swiss Army Knife" agent who knows and deploys:
 - **Action**: Short, punchy sentences with visceral physical detail
 - **Reflection**: Longer, flowing sentences with emotional depth and subtext
 - **Music Description**: How musicians experience it, not how critics describe it
+
+## 🎯 **SPECIFIC INSTRUCTIONS**
+
+### **When Writing Prose:**
+1. **Start with sensory detail** - what does the character see, hear, feel, taste, smell?
+2. **Show emotion through action** - how does their body respond? what action do they take?
+3. **Use specific, concrete details** - 1970's brand names, exact sounds, precise descriptions 
+4. **Create rhythm through sentence variation** - short punchy, long flowing
+5. **Build subtext** - let meaning emerge through implication
+
+### **When Writing Dialogue:**
+1. **Make it authentic to 1974-1979** - no modern slang or references
+2. **Reveal character** - how they speak shows who they are & how they evolve
+3. **Avoid exposition** - let information emerge naturally
+4. **Use subtext** - what they don't say is as important as what they do
+
+### **When Writing Action:**
+1. **Use short, punchy sentences** for intensity
+2. **Focus on visceral details** - physical sensations & descriptions like we are living the moment
+3. **Build tension through rhythm** - vary sentence length, different moods depending on the scene 
+4. **Show consequences** - how actions affect the body, mind and spirit
+
+### **When Writing Reflection:**
+1. **Allow longer, flowing sentences** for depth
+2. **Use poetic imagery** to create atmosphere & intriguiging and engaging prose
+3. **Connect to universal themes** - love, loss, hope, fear, harmony, cruelty
+4. **Build to emotional crescendos** through careful pacing & storytelling
+
+---
+
+## 🎵 **THE GOAL**
+
+**Create prose that makes readers feel like they're:**
+- **Sitting in Maxanne's radio booth** in 2009
+- **Standing in Nick's garage** in 1979
+- **Listening to Jackie's piano** in the Marsh house
+- **Feeling the tension** of the Battle of the Bands & friendships crushed by exterior forces
+- **Understanding the tragedy** of lost friendship
+
+**Prose that SINGS with emotional truth, authentic detail, and makes the reader feel it in their bones.
+
+---
 
 ### **Stylistic Influences (Primary References for "Walk This Way"):**
 
@@ -281,17 +376,20 @@ The Creative Collaborator is the "Swiss Army Knife" agent who knows and deploys:
 
 **Referenced Methodologies:**
 - **Purple Prose Assassin Mode** - Aggressive elimination of overwrought, flowery language that tries too hard. Cut anything that sounds like trying to be "literary" instead of earning emotion through authentic detail.
-- **Scalpel & Hose Philosophy** - Dual methodology: SCALPEL cuts garbage, repetition, purple prose, overwrought metaphors; HOSE adds character depth, earned emotion, specific details that show rather than tell. Both operations happen simultaneously in the same pass.
+- **Scalpel & Hose Philosophy** - Dual methodology: SCALPEL cuts garbage, repetition, purple prose, overwrought metaphors; HOSE adds character depth, earned emotion, specific details that show rather than tell. Once Scalpel has cut and confirmed with writer then Hose adds the finishing touches.
+- **Anachronisms** anything that didn't exist in 1979 (i.e. Queen "Under Pressure" came out after 1979)
 
 **Patterns to Eliminate:**
 - Overuse of "was/were" constructions → Use active, specific verbs
 - Telling emotions → Show through action, dialogue, physical sensation
 - Repetitive sentence structure → Vary rhythm and length
 - Expository dialogue → Let subtext carry meaning
+- Inconsistent voice - maintain character authenticity
 - Generic contemporary dialogue → Period-specific, character-specific speech
 - Modern slang and references → Authentic 1970s language
 - Purple prose and overwrought metaphors → Grounded, specific, earned language
 - Repetitive phrases and words → Variety and precision
+- Generic Descriptions - ue specific, concrete details
 
 **Universal Fiction Templates Reference:** `Universal-Fiction-Templates.md` contains reusable templates for emotional arcs, sensory focus, dialogue subtext, pacing, reveals, style consistency, character development, and setting. These templates can be applied across any novel project in COMPASS.
 
@@ -305,6 +403,7 @@ The Creative Collaborator is the "Swiss Army Knife" agent who knows and deploys:
 - Middle school talent show victory
 - Summer camp with Patty Lally
 - **Children have innocence - can play together and interact as human beings without class or prejudices**
+- Kids don't think twice about playing and interacting with kids from a different class structure - working-class kids play carefree with wealthy kids
 - Last moment of pure equality before high school divisions
 
 **CRITICAL DISTINCTION - Class Division vs. High School Social Groups:**
@@ -312,7 +411,7 @@ The Creative Collaborator is the "Swiss Army Knife" agent who knows and deploys:
 **Town Class Division (Adults/Parents):**
 - Economic and social separation at the ADULT level
 - Parent viewpoints and social circles divided by class
-- This is about PARENTS and ADULTS, not children
+- This is about PARENTS and ADULTS, NOT children
 - Working-class east vs. wealthy west (Hop Brook as literal divider)
 
 **High School Social Groups (Teenagers - 1976-1979):**
@@ -320,34 +419,39 @@ The Creative Collaborator is the "Swiss Army Knife" agent who knows and deploys:
 - NOT aligned with parent class divisions
 - These are DIFFERENT social packs/tribes that form in high school
 - Students from all backgrounds mix in these groups
+- Every student finds or ends up being classified into one of these groups
 - Class division in town ≠ High school social divisions
 
 **IMPORTANT:** It is trite and unsophisticated to assume that town class divisions automatically align with high school social groups. The story must clearly show how children/teens interact across class lines differently than their parents, and how high school creates its own social dynamics separate from adult economic divisions.
 
 ### **November 14th, 1976: THE FRACTURE**
-- Dan Johnson dies (Fall)
+- Dan Johnson dies
 - Nick becomes "man of the house" at 15
-- Jackie tries to support but gets spurned
+- Nick is grieving
+- Jackie tries to support but gets spurned - Nick doesn't want to talk about it
 - Friendship chasm widens irreversibly
-- Class differences become unbridgeable
+- Class differences seep in and become unbridgeable
 
 ### **1976-1979: The Division**
 - High school social divisions (Rampers, Rats, Regs, Rollers)
-- Senior year: Battle of the Bands announcement
-- Town investment and community pressure
+- Senior year: Battle of the Bands announcement - big deal and moment for Sudbury and the High School
+- Town investment and community interest and involvement 
 - Different rehearsal approaches reveal class differences
-- The Battle: Patty wins, but Nick/Jackie performances reveal their own authenticity
+- The Battle: Patty wins, but Nick/Jackie performances are strong and reveal their own authenticity
 
 ### **1979: Brief Redemption**
-- WBCN Studio C recording session with Patty
-- Nick and Jackie reconcile, record perfect Queen/Aerosmith mashup
-- External forces pull them apart again (Dr. Marsh, Nick's future decisions (Army?))
+- WBCN Studio C recording session with Patty who won recording time at WBCN studio
+- Nick and Jackie reconcile, record perfect Queen/Aerosmith mashup with Patty - same song from Middle School
+- External forces pull them apart again 
+- Dr. Marsh's plans for Jackie & Nick's uncertain future & needing to help his mother
 
 ### **2009: The Reflection**
-- WBCN's final broadcast
-- Maxanne plays their 1979 demo tape
+- WBCN's final broadcast 
+- Maxanne's introspection
+- Maxanne plays Nick/Jackie/Patty's 1979 demo tape that never previusly aired
+- Maxanne completes the story with WBCN sign off and Aerosmith's "Walk This Way"
 - Parallel tragedies: friendship destroyed, authentic radio destroyed
-- Both victims of American class division and corporate takeover
+- Both victims of American class division, jealousy, prejudices and corporate takeover, greed
 - Both represent a "LOSS OF INNOCENCE"
 
 ---
@@ -357,31 +461,31 @@ The Creative Collaborator is the "Swiss Army Knife" agent who knows and deploys:
 ### **The Master Theme: LOSS OF INNOCENCE**
 
 Lost innocence encompasses all other themes and operates at ALL levels:
-- **Adults/Parents**: Loss of innocence seen through class divisions, economic pressures, social separation
-- **Teenagers**: Loss of innocence as they move from childhood (where they can interact without prejudice) to high school divisions
+- **Adults/Parents**: Loss of innocence seen through class divisions, economic pressures, social separation, prejudices
+- **Teenagers**: Loss of innocence as they move from childhood (where they can interact without prejudice) to high school divisions & cliques
 - **Children**: Possess innocence - can play together and interact as human beings without class or prejudices
 - **Class Divide**: Economic reality destroys innocent friendship (children → adults progression)
 - **Prejudice**: Societal expectations limit individual connection as innocence is lost
 - **Friendship**: Innocence allows equality, adulthood destroys it
-- **Rock and Roll**: Music as the bridge that fails between classes as innocence is lost
+- **Rock and Roll**: Music as the bridge to heal, but in the end fails - innocence is lost
 - **Corporate Takeover**: Authentic institutions destroyed by profit motive (institutional loss of innocence)
 
-**Critical:** The theme of "Loss of Innocence" must be clear at every level - from children's innocent interactions to adult class divisions, from childhood friendships to high school social groups, from authentic music to corporate commodification.
+**Critical:** The theme of "Loss of Innocence" must be clear at every level - from children's innocent interactions to adult class divisions & prejudices, from childhood friendships to high school social groups, from authentic music to corporate commodification.
 
 ### **The "Harmony" Metaphor:**
-Central organizing principle - the harmony where all voices matter, and what happens when harmony gets jammed by static (class, prejudice, corporate greed, adulthood, loss of innocence).
+Central organizing principle - the harmony frequency where all voices matter, BUT what happens when harmony gets jammed by static frequency (class, prejudice, corporate greed, adulthood, loss of innocence).
 
 ---
 
 ## PROJECT STRUCTURE
 
-### **Working Files:**
+### **Working Files:** ((This needs to be updated/corrected to new folder structure))
 - `Test_Draft_Copy/` - Rough drafts needing work (NOT final/approved)
 - `Story_Bible/` - Character voices, timeline, music references
 - `Documentation/` - Continuity tracker, story bible, outlines
 - `Agent_Work/` - All agent feedback and analysis (permanent record)
 
-### **Agent Files (Located in `.cursor/agents/`):**
+### **Agent Files (Located in `.cursor/agents/`):** ((needs to be updated/corrected))
 - Core 5 Agents: `.json` and `.md` files for each
 - Special Agents: `CAROLINA.json`, `JAZZ.json`, `HANK.json`
 - Master Orchestration: `Agent.json` - Central reference for all agents
@@ -393,7 +497,7 @@ Central organizing principle - the harmony where all voices matter, and what hap
 - `Universal-Fiction-Templates.md` - Reusable templates for emotional arcs, sensory focus, dialogue subtext, pacing, etc.
 - `.cursor/commands/` - Detailed style command files for consistent voice application (if exists)
 
-### **COMPASS Goal:**
+### **Overarching COMPASS Goal:**
 **This system is being built to break away from "Walk This Way" and become a standalone, reusable system for creating ANY new novel.** All agents, prompts, templates, and workflows must be designed for replication across novel projects. COMPASS architecture ensures portability and scalability.
 
 ---

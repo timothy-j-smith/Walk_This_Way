@@ -4,20 +4,26 @@
 
 ### Maxanne Sartori
 **Age (2009):** 73 years old  
-**Role:** WBCN radio DJ, narrator of the story  
-**Background:** Been with WBCN since early 1970s, discovered and promoted Aerosmith in 1972 pn WBCN  
+**Role:** former WBCN radio DJ, 1st person narrator of the story - story is mixed with 3rd person prose a well  
+**Background:** Hotshot WBCN Disc Jockey 1970-1979, discovered and promoted Aerosmith in 1972 on WBCN, played Aerosmith songs "Dream On" & "Sweet Emotion" despite initial pushback from station management
+**Important Details:** 
+- By the time she left WBCN she had become WBCN's most powerful and distinctive pesonality
+- Instrumental in breaking acts like Aerosmioth, The Cars, J.Geils Band, Bruce Springsteen
+- Hosted and promoted Bruce Springsteen in 1973 before he became famous 
 **Voice/Personality:** Nostalgic, wise, slightly bitter, authentic Boston voice  
 **Key Traits:** 
 - Radio personality who values authenticity over commercialism
-- Witnessed and was a part of the transformation of Boston's Rock music scene
-- Understanding of raw untapped music talent 
+- Witnessed and was a big part of the transformation of Boston's Rock music scene
+- Understanding of raw untapped musical talent - a clear strength
+**Signature Item:** Same headphones since 1971 held together with electrical tape
 **Arc:** Telling the story of Nick and Jackie on WBCN's final broadcast
 
 ---
 
 ### Nick Johnson
+**Born:** 1972
 **Age (1979):** 17 years old  
-**Age (1975, middle school):** 13 years old 
+**Age (1975, middle school):** 13 years old in Spring of 1975
 **Favorite Band:** Aerosmith !!  
 **Background:** Working-class kid from Dutton Road (wrong side of Hop Brook)  
 **Family:** 
@@ -25,52 +31,108 @@
 - Mother: Grace Johnson (works at Friendly's)
 **Voice/Personality:** Working-class, passionate about music, raw talent, Rock and Roll, Aerosmith  
 **Musical Style:** Raw, emotional, loud, Aerosmith-influenced rock  
+**Band:** (Senior Year):Aerosmith Cover Band ((name??))
+-Stephen Murphy (bass)
+-David Holland (drums)
+-Mark Pianka (keyboards)
+**Songs Performed:** 
+- "Dream On"
+- "Sweet Emotion"
+- "Walk This Way"
+- "Draw the Line"
+- "Toys in the Attic"
+- "Back in the Saddle"  
+- "Mama Kin"
 **Key Traits:**
-- Plays pawn shop guitar held together with electrical tape
+- Chrome Aerosmith belt buckle purchased at Spencer's with birthday money
+- Plays $25 pawn shop guitar held together with duct tape
 - Natural rock voice, known as that "guitar guy" around town
-- Can be seen walking through town with a guitar over his shoulder
+- Spotted walking the streets of Sudbury with a guitar over his shoulder
 - Lives in house where mortgage is always late
 - Becomes "man of the house" at 15 after father's death
-- Processing grief of his father's death and unsure when the pain will go away or if it will
+- Processing grief of his father's death and unsure when the pain will go away or if it will ever go away
 **Arc:** From innocent friendship with Jackie Marsh to bitter division, brief redemption at recording session
+**Post-Battle:** Joins the Army (1979) for GI Bill and to help his mother financially
+**Later Life:** Owns Johnson & Sons Construction in his home town of Sudbury
 
 ---
 
 ### Jackie Marsh
-**Age (1979):** 17 years old  
-**Age (1975, middle school):** 13 years old  
+**Born:** 1962
+**Age (1979):** 17 years old (Senior Year) 
+**Age (1975, middle school):** 13 years old in Spring of 1975  
 **Favorite Band:** Queen !!  
 **Background:** Upper-class kid from wealthy side of Hop Brook  
+**Street;** Concord Road
 **Family:**
-- Father: Dr. Richard Marsh. Psychiatrist at Boston University, Strict, Controlling
-- Mother: Eileen Marsh (socialite, concerned with appearances, answers to Dr Marsh)
-**Voice/Personality:** Classically trained, conflicted about classical training and Rock and Roll desires  
-**Musical Style:** Technical precision, classical training, love for Queen's music even though this is not classical music  
+- Father: Dr. Richard Marsh. Psychiatrist at Boston University, Strict, Controlling, Social Climber - wants to be part of the very wealthy class
+- Mother: Eileen Marsh. Socialite, concerned with appearances, answers to Dr Marsh
+- Sister: Elizabeth Marsh. Violinist prodigy, musci comes easy to her so father not as controlling
+- Elizabeth - 13 years on and freshman in high school in 1979 when Jackie is a Senior
+**Voice/Personality:** Classically trained, conflicted about classical training and Rock and Roll passion & desires  
+**Musical Style:** Technical precision, classical training, love for Queen's music even though this is not classical music
+**Piano:** Steinway in family living room
+**Band:** (Senior Year): Queen Cover Band ((name ??))   
+- Elizabeth Marsh (Violin)
+- Arthur "Ace" Callahan (drums, freshman soccer sensation)
+- Max Wesslen (bass)
+**Songs Performed:**
+- "Bohemian Rhapsody"
+- "We are the Champions"
+- "Somebody to Love"
+- "Killer Queen"
+- "We will Rock You"
+- "Fat Bottomed Girls"
+- "Bicycle Race" 
 **Key Traits:**
+- Queen Belt Buckle. Gold Script QUEEN, gift from Aunt who lives in London & saw Queen at Hammersmith Odeon
 - Trained by expensive teachers
-- Piano prodigy, accepted to Juilliard pre-college program
+- Plays Piano, Guitar, Violin, Vocals
+- Accepted to Juilliard pre-college program
 - Struggles with parental expectations
-- Natural ability to blend classical training with rock authenticity when parents aren't watching
-- Plays multiple instruments including guitar and piano with perfect technique
+- Figured out how to blend classical training with rock authenticity mostly when parents aren't watching
 - Educated, articulate, careful speech
-- Trapped by class and parental expectations
-- Wants to be his own authentic self and connecting with Rock and Roll, but blocked by social barriers
-**Arc:** From confidence to isolation, brief redemption at recording session
+- Trapped by class, parental expectations, classical music upbringing 
+- Wants to be his own authentic self and move to Rock and Roll music, but blocked
+**Arc:** From confidence to isolation, brief redemption at recording session, resigned to father's wishes
+**Post-Battle:** Tanglewood elite summer program, Julliard prep-college program, Julliard
+**Later Life:** Music professor at Berklee, divorced without kids, lonely 
 
 ---
 
 ### Patty Lally
 **Age (1979):** 17 years old
 **Favorite Band:** Fleetwood Mac !! 
-**Background:** Concord kid who refuses to choose sides, meets Nick and Jackie at Camp Winnipesaukee  
+**Background:** 
+- Talented Singer 
+- Concord Massachusetts kid who refuses to choose sides
+- Meets Nick and Jackie at Camp Winnipesaukee in the summer of 1975, music summer camp  
 **Role:** The one who sees the big picture, leads with Harmony, remembers what others forget  
-**Voice/Personality:** Authentic, grounded, emotionally intelligent, Stevie Nicks  
+**Physical:** Straight Wheat-colored hair down to her waits, Tall & Lanky
+**Voice/Personality:** Authentic, grounded, emotionally intelligent, Stevie Nicks 
+**Band:** (Senior Year at Concord-Carlisle Regional High School): Fleetwood Mac Cover Band ((name ??))
+- Robin Bosshard (guitar and backup vocals, Swiss transfer student)
+- Sarah Peacock (bass, math genius)
+- Joel Saxman (drums)
+**Songs Performed:**
+- "Dreams"
+- "Go Your Own Way"
+- "Rhiannon"
+- "You Make Loving Fun"
+- "Landslide"
+- "The Chain"
+- "Day You Love Me"
 **Key Traits:**
-- Remembers the harmony that existed before division of Jackie and Nick's friendship
-- Attempts to act as a bridge between Nick and Jackie
+- uniquely transcendent
+- truth teller
+- brings people together
+- Remembers the harmony (Frequency?)that existed before division of Jackie and Nick's friendship
+- Attempts to act as a bridge between Nick and Jackie at Battle of the Bands & recording studio
 - Believes that music can heal
-- Wins Battle of the Bands with authentic performance
-**Arc:** From Nick and Jackie's summer camp crush to peacemaker and sage
+- Wins Battle of the Bands with her own authentic performance
+**Arc:** From Nick and Jackie's summer camp crush to peacemaker and sage ((This where I had "keeper of the frequency"))
+**Post-Battle:** 
+**Later Life:** semi-famous Folk Singer, regional popularity, still performs
 
 ---
 
@@ -78,26 +140,27 @@
 
 ### Dan Johnson (deceased)
 **Died:** November 14, 1976 (construction accident)  
-**Role:** Nick's father, working-class hero, died before main story, ghost presence
+**Role:** Nick's father, working-class hero, died before main story, ghost presence especially in Johnson's garage
 **Background:** Construction worker, crane operator, died when crane cable snapped   
 **Key Traits:**
 - Hard-working construction worker
 - Supported Nick's music dreams
 - Introduced Nick to the guitar 
 - Death fractures Nick's world at age 15
-**Relationship to story:** His death shapes Nick's worldview, his garage becomes Nick's temple
+**Relationship to story:** His death shapes Nick's worldview, his garage becomes Nick's temple, his passion for the guitar becomes Nick's obsession and the only way to hang on to his Dad.
 
 ---
 
 ### Grace Johnson
 **Role:** Nick's mother
-**Background:** Lost husband Dan in 1976, works doubles at Friendly's
-**Occupation:** Works at Friendly's Restaurant  
+**Background:** Lost husband Dan in 1976, grew up in Sudbury
+**Occupation:** Works as a waitress at Friendly's Restaurant, wants to be the manager  
 **Key Traits:**
-- Resilient, never complains, wears Friendly's uniform, name tag reads GRACE  
-- Struggling to make ends meet
-- Proud of Nick's talent
-**Arc:** from reserved to standing up for herself and Nick, not ashamed of her class
+- Resilient, never complains, wears Friendly's uniform, name tag reads GRACE
+- Glass half full while struggling to make ends meet
+- Proud of Nick's talent, uncertainty of how to support Nick's music dreams
+- Sudbury is her town
+**Arc:** from reserved to standing up for herself and her family, not ashamed of her class or her upbringing
 
 ---
 
@@ -105,8 +168,10 @@
 **Role:** Jackie's father  
 **Occupation:** Psychiatrist and Professor and Boston University
 **Key Traits:**
-- Psychiatrist for kids in need, but can't see the his own son's troubles
-- Controlling, authoritative
+- specializes in working with trauna patients and teaching his trade
+- Blind to his own son's troubles and conflicts
+- Controlling, authoritative, Social Climber
+- 
 - Arranges Tanglewood/Juilliard for Jackie
 - Represents Represents upper-class assumptions and limitations and class barriers that destroy friendship
 - Upper Middle Class, but sees himself and his family as strictly Upper Class, but never quite reaches this state
