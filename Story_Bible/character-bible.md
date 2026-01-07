@@ -10,13 +10,13 @@
 - By the time she left WBCN she had become WBCN's most powerful and distinctive pesonality
 - Instrumental in breaking acts like Aerosmioth, The Cars, J.Geils Band, Bruce Springsteen
 - Hosted and promoted Bruce Springsteen in 1973 before he became famous 
-**Voice/Personality:** Nostalgic, wise, slightly bitter, authentic Boston voice  
+**Voice/Personality:** Nostalgic, wise, slightly bitter, authentic Boston voice, conversational, reflective, radio-broadcast rhythm with natural pauses even after all these years  
 **Key Traits:** 
 - Radio personality who values authenticity over commercialism
 - Witnessed and was a big part of the transformation of Boston's Rock music scene
 - Understanding of raw untapped musical talent - a clear strength
 **Signature Item:** Same headphones since 1971 held together with electrical tape
-**Arc:** Telling the story of Nick and Jackie on WBCN's final broadcast
+**Arc:** Telling the story of Nick and Jackie on WBCN's final broadcast & we see her arc in the novel going from 1979 to 2009
 
 ---
 
@@ -30,7 +30,7 @@
 - Father: Dan Johnson (died in construction accident, November 14, 1976)
 - Mother: Grace Johnson (works at Friendly's)
 **Voice/Personality:** Working-class, passionate about music, raw talent, Rock and Roll, Aerosmith  
-**Musical Style:** Raw, emotional, loud, Aerosmith-influenced rock  
+**Musical Style:** Raw, passionate, emotional, loud, Aerosmith-influenced rock  
 **Band:** (Senior Year):Aerosmith Cover Band ((name??))
 -Stephen Murphy (bass)
 -David Holland (drums)
@@ -59,7 +59,7 @@
 
 ### Jackie Marsh
 **Born:** 1962
-**Age (1979):** 17 years old (Senior Year) 
+**Age (1979):** 17 years old (Senior Year)
 **Age (1975, middle school):** 13 years old in Spring of 1975  
 **Favorite Band:** Queen !!  
 **Background:** Upper-class kid from wealthy side of Hop Brook  
@@ -69,7 +69,12 @@
 - Mother: Eileen Marsh. Socialite, concerned with appearances, answers to Dr Marsh
 - Sister: Elizabeth Marsh. Violinist prodigy, musci comes easy to her so father not as controlling
 - Elizabeth - 13 years on and freshman in high school in 1979 when Jackie is a Senior
-**Voice/Personality:** Classically trained, conflicted about classical training and Rock and Roll passion & desires  
+**Voice/Personality:**
+- Classically trained
+- conflicted about classical training and Rock and Roll passion & desires
+- educated precision hiding emotional uncertainty
+**Tone:** educated precision hiding emotional uncertainty
+**Dialect:** careful and academic
 **Musical Style:** Technical precision, classical training, love for Queen's music even though this is not classical music
 **Piano:** Steinway in family living room
 **Band:** (Senior Year): Queen Cover Band ((name ??))   
@@ -92,22 +97,22 @@
 - Struggles with parental expectations
 - Figured out how to blend classical training with rock authenticity mostly when parents aren't watching
 - Educated, articulate, careful speech
-- Trapped by class, parental expectations, classical music upbringing 
+- Trapped by class, parental expectations, classical music upbringing
 - Wants to be his own authentic self and move to Rock and Roll music, but blocked
 **Arc:** From confidence to isolation, brief redemption at recording session, resigned to father's wishes
 **Post-Battle:** Tanglewood elite summer program, Julliard prep-college program, Julliard
-**Later Life:** Music professor at Berklee, divorced without kids, lonely 
+**Later Life:** Music professor at Berklee, divorced without kids, lonely
 
 ---
 
 ### Patty Lally
 **Age (1979):** 17 years old
-**Favorite Band:** Fleetwood Mac !! 
-**Background:** 
-- Talented Singer 
+**Favorite Band:** Fleetwood Mac !!
+**Background:**
+- Talented Singer
 - Concord Massachusetts kid who refuses to choose sides
-- Meets Nick and Jackie at Camp Winnipesaukee in the summer of 1975, music summer camp  
-**Role:** The one who sees the big picture, leads with Harmony, remembers what others forget  
+- Meets Nick and Jackie at Camp Winnipesaukee music summer camp in the summer of 1975
+**Role:** The one who sees the big picture, leads with Harmony, remembers what others forget, the original frequency that existed  
 **Physical:** Straight Wheat-colored hair down to her waits, Tall & Lanky
 **Voice/Personality:** Authentic, grounded, emotionally intelligent, Stevie Nicks 
 **Band:** (Senior Year at Concord-Carlisle Regional High School): Fleetwood Mac Cover Band ((name ??))
@@ -126,12 +131,13 @@
 - uniquely transcendent
 - truth teller
 - brings people together
-- Remembers the harmony (Frequency?)that existed before division of Jackie and Nick's friendship
+- Remembers the Frequency that existed before division of Jackie and Nick's friendship
 - Attempts to act as a bridge between Nick and Jackie at Battle of the Bands & recording studio
 - Believes that music can heal
 - Wins Battle of the Bands with her own authentic performance
-**Arc:** From Nick and Jackie's summer camp crush to peacemaker and sage ((This where I had "keeper of the frequency"))
-**Post-Battle:** 
+- sees the magic of Nick and Jackie together
+**Arc:** From Nick and Jackie's summer camp crush to peacemaker and sage, keeper of the frequency
+**Post-Battle:**
 **Later Life:** semi-famous Folk Singer, regional popularity, still performs
 
 ---
@@ -160,7 +166,9 @@
 - Glass half full while struggling to make ends meet
 - Proud of Nick's talent, uncertainty of how to support Nick's music dreams
 - Sudbury is her town
-**Arc:** from reserved to standing up for herself and her family, not ashamed of her class or her upbringing
+- Not ashamed of her working class or her upbriging
+**Key Scene:** Friendly's confrontation, when "Grace lost her Grace"
+**Arc:** from reserved to standing up for herself and her family
 
 ---
 

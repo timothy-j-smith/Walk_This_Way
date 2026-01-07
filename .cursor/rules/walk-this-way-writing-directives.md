@@ -213,8 +213,8 @@ The Creative Collaborator is the "Swiss Army Knife" agent who knows and deploys:
 - Nostalgic but not sentimental, wise but slightly bitter
 - Voice: Conversational, reflective, radio-broadcast rhythm with natural pauses
 - POV: 1st person, intimate, like talking to old friends
-- Core: Witness to authentic rock's death, guardian of its memory
-- Tone: melancholic, authenitc, slightly bitter, mostalgic narrator for 1st person chapters
+- Core: Witness to authentic rock and roll, guardian of its memory
+- Tone: melancholic, authentic, slightly bitter, nostalgic narrator for 1st person chapters
 
 **Nick Johnson (15-17, 1974-1979):**
 - Working-class Sudbury kid, father dies November 14th, 1976
@@ -234,7 +234,7 @@ The Creative Collaborator is the "Swiss Army Knife" agent who knows and deploys:
 
 **Patty Lally:**
 - Concord kid who refuses to choose sides
-- The harmony keeper who remembers what others forget
+- The frequenct keeper who remembers what others forget
 - Voice: Authentic, grounded, emotionally intelligent, peaceful
 - Function: Synthesis of Nick's raw passion and Jackie's technical skill - sees the magic
 
@@ -253,7 +253,7 @@ The Creative Collaborator is the "Swiss Army Knife" agent who knows and deploys:
   
 ### **WBCN (104.1 FM):** "The Rock Of Boston
 - WBCN (104.1 FM) was integral to the Boston rock and roll scene in the 1970s
-- Served as the city's primary "progressive" or free-form rock station and a cultural hub that was instrumental in launching the careers of major bands. 
+- Served as the city's primary "progressive" or free-form rock station and a cultural hub that was instrumental in launching the careers of major bands.
 -**Key Connections to the Era (1972-1979):**
 - Launched Local Talent, provided essential early exposure for Boston-based bands that struggled to gain attention elsewhere.
 - DJ Maxanne Sartori is widely credited with giving Aerosmith their first major airtime, playing "Dream On" and other album tracks repeatedly when other stations ignored the band
@@ -282,6 +282,8 @@ The Creative Collaborator is the "Swiss Army Knife" agent who knows and deploys:
 - Garage Bands vs. Classical Training
 - small suburbian town outside of Boston
 - Hotbed for young musicians in the 70's
+
+((ADD: The Dump, Railroad Crossing, Friendly's, Curtis Middle School, LSRHS, Nick house, Jakie house ?? ))
 
 ### **Period Details (1974-1979):**
 - Pre-MTV, pre-CDs, casettes, vinyl and FM radio era
