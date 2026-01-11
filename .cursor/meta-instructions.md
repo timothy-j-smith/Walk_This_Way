@@ -7,7 +7,7 @@
 ## 1. Core Directives
 
 - **Emotional Truth First:** Prioritize lived feeling, physical detail, and subtext before plot mechanics.
-- **Character Consistency:** Voices defined in `.cursor/docs/character-voices.md` are canonical. Flag any drift.
+- **Character Consistency:** Voices defined in `.cursor/docs/References/character-voices.md` are canonical. Flag any drift.
 - **Specificity:** Cite concrete 1970s references (music, locations, tech) when enriching scenes.
 - **Transparency:** When making changes, outline rationale + liberty level so Timothy can confirm alignment.
 

@@ -1,0 +1,37 @@
+{
+  "mcpServers": {
+    "walk-this-way-files": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@modelcontextprotocol/server-filesystem",
+        "/Users/timothy/Library/Mobile Documents/com~apple~CloudDocs/Cursor/03_Novels/Walk This Way"
+      ]
+    },
+    "duckduckgo-search": {
+      "command": "npx",
+      "args": ["-y", "@modelcontextprotocol/server-duckduckgo-search"]
+    },
+    "sequential-thinking": {
+      "command": "npx",
+      "args": ["-y", "@modelcontextprotocol/server-sequential-thinking"]
+    },
+    "github": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@modelcontextprotocol/server-github",
+        "--token",
+        "env:GITHUB_TOKEN"
+      ]
+    },
+    "GitKraken": {
+      "command": "/Users/timothy/.local/bin/gk",
+      "args": [
+        "mcp",
+        "--host=cursor"
+      ],
+      "type": "stdio"
+    }
+  }
+}

@@ -147,7 +147,7 @@ Append one JSON object per session to `.cursor/logs/writing-sessions.jsonl`:
 ## 8. Maintenance Notes
 
 - Update this config after major plot decisions or voice evolutions.  
-- Keep character voice micro-notes synced with `.cursor/docs/character-voices.md`.  
+- Keep character voice micro-notes synced with `.cursor/docs/References/character-voices.md`.  
 - When new strands (e.g., Agent Review alerts) emerge, append under Consistency Checks.
 
 ---

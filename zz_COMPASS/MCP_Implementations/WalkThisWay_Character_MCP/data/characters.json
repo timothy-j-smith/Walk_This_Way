@@ -1,0 +1,807 @@
+{
+  "Nick Johnson": {
+    "basic_info": {
+      "born": 1962,
+      "age_1975": 13,
+      "age_1979": 17,
+      "age_2009": 47,
+      "occupation_1979": "High school senior",
+      "occupation_2004": "Owner, Johnson & Sons Construction",
+      "location": "Dutton Road, Sudbury MA (working-class side of Hop Brook)",
+      "physical": {
+        "distinctive": "Spotted walking streets of Sudbury with guitar over shoulder",
+        "clothing": "Chrome Aerosmith belt buckle (purchased at Spencer's with birthday money)"
+      }
+    },
+    "personality": {
+      "traits": [
+        "passionate about music",
+        "working-class defensive pride",
+        "raw talent",
+        "hides vulnerability behind toughness",
+        "processing grief after father's death"
+      ],
+      "voice": "Working-class Boston dialect, economical speech, defensive pride, raw emotion, direct expression",
+      "quirks": [
+        "Plays $25 pawn shop guitar held together with duct tape",
+        "Known as 'that guitar guy' around town",
+        "Became 'man of the house' at age 15 after father's death"
+      ]
+    },
+    "preferences": {
+      "music": {
+        "loves": ["Aerosmith", "rock and roll", "raw passionate rock"],
+        "hates": ["disco"],
+        "favorite_band": "Aerosmith !!",
+        "songs_performed": [
+          "Dream On",
+          "Sweet Emotion",
+          "Walk This Way",
+          "Draw the Line",
+          "Toys in the Attic",
+          "Back in the Saddle",
+          "Mama Kin"
+        ]
+      }
+    },
+    "background": {
+      "family": {
+        "father": "Dan Johnson (died November 14, 1976 in construction accident)",
+        "mother": "Grace Johnson (works at Friendly's)"
+      },
+      "education": "Lincoln-Sudbury Regional High School, Senior 1979",
+      "history": "Lives in house where mortgage is always late. Father introduced him to guitar. Father's death at age 15 fractured his world. Garage became his temple, guitar became obsession and only way to hang on to Dad.",
+      "key_places": [
+        "Johnson garage (practice space, Dan's tools on pegboard)",
+        "Dutton Road house (working-class neighborhood)",
+        "Lincoln-Sudbury Regional High School"
+      ]
+    },
+    "relationships": {
+      "Jackie Marsh": {
+        "type": "best friend turned rival",
+        "status": "estranged after class divisions and father's death",
+        "evolution": "Inseparable middle school friends (1974-1975) → Camp complications (Summer 1975) → Friendship fractures after Dan's death (1976) → Strangers in high school halls (1975-1979) → Rivals at Battle of Bands (March 1979) → Brief redemption at recording session (March 1979) → Final separation",
+        "key_moments": [
+          {
+            "date": "1974",
+            "event": "Meet in Curtis Middle School cafeteria, bond over belt buckles and rock music",
+            "emotional_state": "Instant friendship"
+          },
+          {
+            "date": "May 15, 1975",
+            "event": "Win middle school talent show together with Dream On/Somebody to Love mashup",
+            "emotional_state": "Triumphant partnership"
+          },
+          {
+            "date": "Summer 1975",
+            "event": "Camp Winnipesaukee - compete for Patty's attention",
+            "emotional_state": "First complications"
+          },
+          {
+            "date": "November 14, 1976",
+            "event": "Dan Johnson dies - Jackie reaches out but Nick withdraws",
+            "emotional_state": "Friendship fractures completely"
+          },
+          {
+            "date": "March 15, 1979",
+            "event": "Battle of the Bands rivalry",
+            "emotional_state": "Antagonistic, class division fully emerged"
+          },
+          {
+            "date": "March 1979",
+            "event": "Recording session proves harmony still exists",
+            "emotional_state": "Brief redemption"
+          }
+        ]
+      },
+      "Patty Lally": {
+        "type": "summer camp crush / peacemaker",
+        "status": "admired from distance, she sees the magic of Nick and Jackie together",
+        "met": "Summer 1975, Camp Winnipesaukee music camp"
+      },
+      "Grace Johnson": {
+        "type": "mother",
+        "status": "close, protective",
+        "notes": "She cried at talent show. He helps her after father's death. She works at Friendly's to keep mortgage paid."
+      },
+      "Dan Johnson": {
+        "type": "father (deceased)",
+        "status": "ghost presence in garage",
+        "notes": "Introduced Nick to guitar. Supported music dreams. Death shaped Nick's entire worldview. Garage became shrine."
+      },
+      "Maxanne Sartori": {
+        "type": "mentor / champion",
+        "met": "March 1979, Maxanne drove to Dutton Road to hear his garage band",
+        "status": "offered to record demo at WBCN after midnight"
+      }
+    },
+    "musical_identity": {
+      "instrument": "Guitar (vocals)",
+      "style": "Raw, passionate, emotional, loud, Aerosmith-influenced rock",
+      "guitar": "$25 pawn shop guitar held together with duct tape",
+      "band_1979": {
+        "type": "Aerosmith Cover Band",
+        "name": "((name TBD))",
+        "members": [
+          "Nick Johnson (guitar, vocals)",
+          "Stephen Murphy (bass)",
+          "David Holland (drums)",
+          "Mark Pianka (keyboards)"
+        ]
+      },
+      "philosophy": "Music isn't decoration—it's survival",
+      "training": "Garage-taught, raw, emotional, learned from Dad and Aerosmith records"
+    },
+    "arc": {
+      "starting_state": "Innocent friendship with Jackie, both bonded by rock music",
+      "key_moments": [
+        {
+          "chapter": "Middle School Era",
+          "event": "Meets Jackie, instant bond over Aerosmith/Queen belt buckles",
+          "change": "Found musical partner and best friend"
+        },
+        {
+          "chapter": "Talent Show 1975",
+          "event": "Win middle school talent show together",
+          "change": "Proof that raw talent + classical training = magic"
+        },
+        {
+          "chapter": "Dan's Death 1976",
+          "event": "Father dies in construction accident",
+          "change": "Music becomes survival mechanism, withdraws from Jackie, class divisions emerge"
+        },
+        {
+          "chapter": "Battle of the Bands 1979",
+          "event": "Rivalry with Jackie, competing bands",
+          "change": "Bitter division fully realized"
+        },
+        {
+          "chapter": "Recording Session 1979",
+          "event": "Brief redemption with Jackie and Patty",
+          "change": "Proves harmony still possible"
+        }
+      ],
+      "ending_state_1979": "Joins Army for GI Bill to help mother financially",
+      "ending_state_2009": "Owns Johnson & Sons Construction in Sudbury",
+      "unresolved": "The frequency that existed with Jackie never fully recovered"
+    },
+    "first_appearance": {
+      "chapter": "Early chapters, 1974-1975 middle school era"
+    },
+    "last_updated": "2026-01-10"
+  },
+  
+  "Jackie Marsh": {
+    "basic_info": {
+      "born": 1962,
+      "age_1975": 13,
+      "age_1979": 17,
+      "age_2009": 47,
+      "occupation_1979": "High school senior, Juilliard-bound",
+      "occupation_2009": "Music professor at Berklee College of Music",
+      "location": "Concord Road, Sudbury MA (upper-class side of Hop Brook)",
+      "physical": {
+        "distinctive": "Gold Script QUEEN belt buckle (gift from aunt in London who saw Queen at Hammersmith Odeon)"
+      }
+    },
+    "personality": {
+      "traits": [
+        "classically trained",
+        "conflicted about classical training vs rock and roll passion",
+        "educated precision hiding emotional uncertainty",
+        "trapped by class and parental expectations",
+        "struggles with authenticity"
+      ],
+      "voice": "Educated, precise language. Rarely uses contractions when nervous. Careful, academic speech. Emotional uncertainty hidden by precision.",
+      "quirks": [
+        "Speaks more formally when under pressure",
+        "Plays multiple instruments to technical perfection",
+        "Figured out how to blend classical training with rock authenticity (when parents aren't watching)"
+      ]
+    },
+    "preferences": {
+      "music": {
+        "loves": ["Queen", "theatrical rock", "complex harmonies", "Freddie Mercury's style"],
+        "hates": ["disco"],
+        "favorite_band": "Queen !!",
+        "classical_repertoire": [
+          "Chopin Nocturne in E-flat major",
+          "Bach Goldberg Variations (excerpts)",
+          "Debussy Clair de Lune",
+          "Rachmaninoff Prelude in C-sharp minor",
+          "Mozart Sonata in A major, K. 331"
+        ],
+        "songs_performed": [
+          "Bohemian Rhapsody",
+          "We Are the Champions",
+          "Somebody to Love",
+          "Killer Queen",
+          "We Will Rock You",
+          "Fat Bottomed Girls",
+          "Bicycle Race",
+          "Under Pressure (played at recital instead of Mozart)"
+        ]
+      }
+    },
+    "background": {
+      "family": {
+        "father": "Dr. Richard Marsh (Psychiatrist, BU Professor, controlling, social climber)",
+        "mother": "Eileen Marsh (Socialite, concerned with appearances)",
+        "sister": "Elizabeth Marsh (14 in 1979, violinist prodigy, music comes easy to her)"
+      },
+      "education": "Lincoln-Sudbury Regional High School. Accepted to Juilliard pre-college program. Attended Tanglewood elite summer program, Juilliard prep-college, then Juilliard.",
+      "training": "Trained by expensive teachers in piano, guitar, violin, vocals",
+      "history": "Upper-class upbringing with strict parental control. Dr. Marsh blind to Jackie's internal conflicts. Wants to be authentic self and play rock music but blocked by father's expectations.",
+      "key_places": [
+        "Marsh house on Concord Road (Steinway grand piano in living room)",
+        "Lincoln-Sudbury Regional High School",
+        "Recital performances for prep school parents and university faculty"
+      ]
+    },
+    "relationships": {
+      "Nick Johnson": {
+        "type": "best friend turned rival",
+        "status": "estranged after class divisions emerge",
+        "evolution": "Inseparable middle school friends (1974-1975) → Camp complications (Summer 1975) → Attempts to reach out after Dan's death but Nick withdraws (1976) → Strangers in high school (1975-1979) → Rivals at Battle of Bands (1979) → Brief redemption at recording session → Final separation when Dr. Marsh intervenes",
+        "key_moments": [
+          {
+            "date": "1974",
+            "event": "Meets Nick in Curtis Middle School cafeteria over belt buckles",
+            "emotional_state": "Instant connection, found someone who understands"
+          },
+          {
+            "date": "May 15, 1975",
+            "event": "Win talent show together, standing ovation",
+            "emotional_state": "Triumphant, finally free to play rock music"
+          },
+          {
+            "date": "Summer 1975",
+            "event": "Camp Winnipesaukee complications with Patty",
+            "emotional_state": "First strain on friendship"
+          },
+          {
+            "date": "November 1976",
+            "event": "Reaches out after Dan's death but Nick withdraws",
+            "emotional_state": "Confused, hurt, helpless"
+          },
+          {
+            "date": "March 1979",
+            "event": "Plays 'Under Pressure' at recital instead of Mozart, act of rebellion",
+            "emotional_state": "Breaking free momentarily"
+          }
+        ]
+      },
+      "Dr. Richard Marsh": {
+        "type": "father / antagonist",
+        "status": "controlling, determines Jackie's future",
+        "notes": "Arranges Tanglewood/Juilliard path. Represents upper-class limitations. Blind to Jackie's authentic desires. Intervenes to separate Jackie from Nick after recording session."
+      },
+      "Elizabeth Marsh": {
+        "type": "sister",
+        "status": "supportive, plays violin in Jackie's Battle of the Bands band",
+        "notes": "Music comes naturally to her so father doesn't need to control her as much. Mature for 14."
+      },
+      "Patty Lally": {
+        "type": "summer camp connection / peacemaker",
+        "met": "Summer 1975, Camp Winnipesaukee",
+        "status": "She sees Jackie's internal conflict and authentic desires"
+      },
+      "Maxanne Sartori": {
+        "type": "mentor / witness",
+        "met": "March 1979 at Jackie's recital after word got out about Maxanne visiting Nick",
+        "status": "Offered recording session at WBCN, sees Jackie's potential"
+      }
+    },
+    "musical_identity": {
+      "instruments": "Piano (primary), guitar, violin, vocals",
+      "style": "Technical precision, classical training meets Queen's theatrical rock",
+      "signature_instrument": "Steinway grand piano in Marsh family living room",
+      "band_1979": {
+        "type": "Queen Cover Band",
+        "name": "((name TBD))",
+        "members": [
+          "Jackie Marsh (piano, vocals)",
+          "Elizabeth Marsh (violin)",
+          "Arthur 'Ace' Callahan (drums, freshman soccer sensation)",
+          "Max Wesslen (bass)"
+        ]
+      },
+      "philosophy": "Rock music as escape from expectations, blending classical precision with emotional authenticity",
+      "training": "Expensively trained, technically perfect, struggling to find authentic voice within rigid structure"
+    },
+    "arc": {
+      "starting_state": "Confident in classical training, just beginning to discover rock music authenticity through friendship with Nick",
+      "key_moments": [
+        {
+          "chapter": "Middle School Era",
+          "event": "Meets Nick, discovers rock music can coexist with classical training",
+          "change": "First taste of authentic self-expression"
+        },
+        {
+          "chapter": "Talent Show 1975",
+          "event": "Public victory playing rock music",
+          "change": "Proves he can transcend father's expectations"
+        },
+        {
+          "chapter": "High School Years",
+          "event": "Class divisions separate him from Nick, isolated in upper-class world",
+          "change": "From confidence to isolation"
+        },
+        {
+          "chapter": "Recital 1979",
+          "event": "Plays 'Under Pressure' instead of Mozart",
+          "change": "Act of rebellion, brief freedom"
+        },
+        {
+          "chapter": "Recording Session 1979",
+          "event": "Brief redemption with Nick and Patty",
+          "change": "Proves authentic self still exists beneath expectations"
+        },
+        {
+          "chapter": "Post-Battle",
+          "event": "Dr. Marsh intervenes, sends Jackie to Tanglewood and Juilliard",
+          "change": "Resigned to father's wishes, authentic self buried"
+        }
+      ],
+      "ending_state_1979": "Tanglewood elite summer program, Juilliard prep-college program",
+      "ending_state_2009": "Music professor at Berklee, divorced without kids, lonely",
+      "unresolved": "Never fully became authentic self, the frequency with Nick never recovered"
+    },
+    "first_appearance": {
+      "chapter": "Middle School Era 1974-1975"
+    },
+    "last_updated": "2026-01-10"
+  },
+  
+  "Maxanne Sartori": {
+    "basic_info": {
+      "born": 1936,
+      "age_1972": 36,
+      "age_1979": 43,
+      "age_2009": 73,
+      "occupation": "WBCN Radio DJ (1970-1979), returns for final broadcast 2009",
+      "location": "WBCN Studio C, Boston MA",
+      "physical": {
+        "distinctive": "Sony MDR-7506 headphones from 1971, held together with electrical tape"
+      }
+    },
+    "personality": {
+      "traits": [
+        "nostalgic but not sentimental",
+        "wise",
+        "slightly bitter",
+        "authentic",
+        "values authenticity over commercialism",
+        "understands raw untapped musical talent"
+      ],
+      "voice": "Conversational, intimate radio DJ voice. Radio-broadcast rhythm with natural pauses even after all these years. Reflective, wise observer of human nature.",
+      "signature_items": [
+        "Same headphones since 1971 held together with electrical tape",
+        "Pappy Van Winkle bourbon (gift from Steven Tyler with note: 'For the first lady who ever gave a damn')",
+        "Powder-blue Karmann Ghia (drove to Nick's garage in 1979)"
+      ]
+    },
+    "background": {
+      "career": "Hotshot WBCN Disc Jockey 1970-1979. By the time she left WBCN, she had become WBCN's most powerful and distinctive personality.",
+      "achievements": [
+        "Discovered and promoted Aerosmith in 1972",
+        "Played 'Dream On' and 'Sweet Emotion' despite station management pushback",
+        "Instrumental in breaking Aerosmith, The Cars, J.Geils Band, Bruce Springsteen",
+        "Hosted and promoted Bruce Springsteen in 1973 before he became famous"
+      ],
+      "history": "Witnessed and was a big part of the transformation of Boston's Rock music scene. Hosted WBCN's final broadcast August 2009 after 56 years as 'the Rock of Boston'.",
+      "philosophy": "Radio personality who values authenticity over commercialism"
+    },
+    "relationships": {
+      "Nick Johnson": {
+        "type": "mentor / champion",
+        "met": "March 1979, drove to Dutton Road after hearing rumors about 'the guitar guy from Sudbury'",
+        "status": "Offered to record demo at WBCN after midnight",
+        "notes": "Saw raw talent in his garage band"
+      },
+      "Jackie Marsh": {
+        "type": "mentor / champion",
+        "met": "March 1979 at Jackie's recital after Dr. Marsh called her",
+        "status": "Intrigued that both boys from same small town",
+        "notes": "Witnessed Jackie's rebellion playing 'Under Pressure' instead of Mozart"
+      },
+      "Patty Lally": {
+        "type": "collaborator",
+        "notes": "Patty won Battle of Bands, convinced Nick and Jackie to record together"
+      },
+      "Steven Tyler": {
+        "type": "artist she championed",
+        "history": "1972 - Aerosmith performed in Studio C, Tyler's hair caught in mixing board",
+        "notes": "Sent her Pappy Van Winkle bourbon for final broadcast"
+      }
+    },
+    "arc": {
+      "role": "Narrator and witness",
+      "timeline": "1970-1979 active DJ discovering bands → 2009 returns for final broadcast",
+      "key_moments": [
+        {
+          "year": 1972,
+          "event": "Discovered Aerosmith, promoted them despite pushback",
+          "change": "Established as champion of authentic rock"
+        },
+        {
+          "year": "March 1979",
+          "event": "Judges Battle of the Bands, arranges recording session for Nick, Jackie, and Patty",
+          "change": "Witnesses 'the night the future of rock and roll died in a high school auditorium'"
+        },
+        {
+          "year": "August 2009",
+          "event": "Hosts WBCN's final 4-hour broadcast",
+          "change": "Tells story of Nick and Jackie, plays their previously unheard demo, explains when American radio chose money over music"
+        }
+      ],
+      "purpose": "Tell the story of 'Loss of Innocence' - both of two boys and of American radio itself"
+    },
+    "narrative_function": {
+      "pov": "Mixed 1st person narrator and 3rd person prose",
+      "style": "Nostalgic, wise, slightly bitter, authentic Boston voice, conversational, reflective",
+      "signature_phrases": [
+        "Music has always been democracy's wild card",
+        "The sound that ignores the boundaries that we build",
+        "When American radio chose money over music"
+      ]
+    },
+    "first_appearance": {
+      "chapter": "Chapter 1 (2009 frame story)"
+    },
+    "last_updated": "2026-01-10"
+  },
+  
+  "Patty Lally": {
+    "basic_info": {
+      "born": 1962,
+      "age_1975": 13,
+      "age_1979": 17,
+      "age_2009": 47,
+      "occupation_1979": "High school senior at Concord-Carlisle Regional High School",
+      "occupation_2009": "Semi-famous folk singer, regional popularity, still performs",
+      "location": "Concord, Massachusetts",
+      "physical": {
+        "description": "Straight wheat-colored hair down to her waist, tall and lanky"
+      }
+    },
+    "personality": {
+      "traits": [
+        "authentic",
+        "grounded",
+        "emotionally intelligent",
+        "uniquely transcendent",
+        "truth teller",
+        "brings people together",
+        "believes music can heal"
+      ],
+      "voice": "Authentic, grounded, emotionally intelligent, Stevie Nicks influence",
+      "philosophy": "Leads with harmony, remembers what others forget, keeper of the original frequency"
+    },
+    "preferences": {
+      "music": {
+        "loves": ["Fleetwood Mac", "folk music", "harmony"],
+        "favorite_band": "Fleetwood Mac !!",
+        "songs_performed": [
+          "Dreams",
+          "Go Your Own Way",
+          "Rhiannon",
+          "You Make Loving Fun",
+          "Landslide",
+          "The Chain",
+          "Day You Love Me"
+        ]
+      }
+    },
+    "background": {
+      "origin": "Concord Massachusetts kid who refuses to choose sides",
+      "met_nick_and_jackie": "Summer 1975, Camp Winnipesaukee music summer camp",
+      "history": "Talented singer who saw the magic of Nick and Jackie together before class divisions separated them"
+    },
+    "relationships": {
+      "Nick Johnson": {
+        "type": "summer camp connection / peacemaker",
+        "met": "Summer 1975, Camp Winnipesaukee",
+        "status": "Remembers the frequency that existed before division",
+        "notes": "Both Nick and Jackie had summer crush on her, which introduced first complications to their friendship"
+      },
+      "Jackie Marsh": {
+        "type": "summer camp connection / peacemaker",
+        "met": "Summer 1975, Camp Winnipesaukee",
+        "status": "Sees Jackie's authentic self beneath parental expectations",
+        "notes": "Attempts to act as bridge between Nick and Jackie"
+      }
+    },
+    "musical_identity": {
+      "instrument": "Vocals (primary), talented singer",
+      "style": "Authentic, transcendent, folk-influenced",
+      "band_1979": {
+        "type": "Fleetwood Mac Cover Band",
+        "name": "((name TBD))",
+        "members": [
+          "Patty Lally (vocals)",
+          "Robin Bosshard (guitar and backup vocals, Swiss transfer student)",
+          "Sarah Peacock (bass, math genius)",
+          "Joel Saxman (drums)"
+        ]
+      },
+      "achievement": "Wins Battle of the Bands March 15, 1979 with authentic performance"
+    },
+    "arc": {
+      "role": "The one who sees the big picture, peacemaker, sage, keeper of the frequency",
+      "key_moments": [
+        {
+          "chapter": "Summer 1975",
+          "event": "Meets Nick and Jackie at Camp Winnipesaukee",
+          "change": "Becomes object of their competing affection, introduces first complications"
+        },
+        {
+          "chapter": "Battle of Bands 1979",
+          "event": "Wins competition, convinces Nick and Jackie to reconcile for recording session",
+          "change": "From crush to peacemaker and sage"
+        },
+        {
+          "chapter": "Recording Session 1979",
+          "event": "Helps create magic with Nick and Jackie one final time",
+          "change": "Keeper of the frequency, proves harmony still possible"
+        }
+      ],
+      "ending_state_2009": "Semi-famous folk singer, regional popularity, still performs",
+      "purpose": "Represents what could have been if harmony had won over division"
+    },
+    "first_appearance": {
+      "chapter": "Summer 1975, Camp Winnipesaukee"
+    },
+    "last_updated": "2026-01-10"
+  },
+  
+  "Dan Johnson": {
+    "basic_info": {
+      "died": "November 14, 1976 (Tuesday morning, 10:17 AM)",
+      "age_at_death": "approximately 40s",
+      "occupation": "Construction worker, crane operator",
+      "location": "Dutton Road, Sudbury MA"
+    },
+    "personality": {
+      "traits": [
+        "hard-working",
+        "supportive of Nick's dreams",
+        "working-class hero",
+        "introduced Nick to guitar"
+      ]
+    },
+    "background": {
+      "death_details": {
+        "location": "Prudential Tower project, Back Bay Boston",
+        "project": "37-story construction project",
+        "time": "10:17 AM",
+        "cause": "Crane cable snapped, four steel I-beams fell onto construction trailer",
+        "activity_when_died": "Checking blueprints, eating tuna sandwich Grace made",
+        "item_in_pocket": "9/16ths socket",
+        "investigation": "OSHA investigation revealed cable scheduled for replacement 2 weeks earlier, delayed for cost savings",
+        "compensation": "Construction company paid $50,000 (minimum required by law)",
+        "insurance": "Insurance company fought claim for 8 months"
+      },
+      "family": {
+        "wife": "Grace Johnson",
+        "son": "Nick Johnson (15 years old at time of death)"
+      }
+    },
+    "relationships": {
+      "Nick Johnson": {
+        "type": "father",
+        "impact": "Death fractured Nick's entire world at age 15. Introduced Nick to guitar. Supported Nick's music dreams. His garage became Nick's temple. His passion for guitar became Nick's obsession and only way to hang on to his Dad."
+      },
+      "Grace Johnson": {
+        "type": "wife",
+        "impact": "Left her widow struggling financially. She returned to Friendly's after 2 weeks bereavement leave."
+      }
+    },
+    "legacy": {
+      "physical": "Tools remain on garage pegboard exactly where he left them",
+      "spiritual": "Ghost presence in garage, shapes Nick's entire worldview",
+      "musical": "His love of guitar passed to Nick became survival mechanism",
+      "thematic": "Death marks fracture point in Nick/Jackie friendship, emergence of class divisions"
+    },
+    "role_in_story": "Deceased before main action but shapes entire narrative. His death is the catalyst that fractures Nick and Jackie's friendship and reveals class divisions.",
+    "first_appearance": {
+      "chapter": "Referenced early, death scene in 1976 chapters"
+    },
+    "last_updated": "2026-01-10"
+  },
+  
+  "Grace Johnson": {
+    "basic_info": {
+      "age_1979": "approximately 40s",
+      "occupation": "Waitress at Friendly's Restaurant, wants to be manager",
+      "location": "Dutton Road, Sudbury MA (working-class side)",
+      "physical": {
+        "distinctive": "Wears Friendly's uniform, name tag reads GRACE"
+      }
+    },
+    "personality": {
+      "traits": [
+        "resilient",
+        "never complains",
+        "glass half full while struggling to make ends meet",
+        "proud of Nick's talent",
+        "uncertain how to support Nick's music dreams",
+        "not ashamed of working class upbringing"
+      ],
+      "voice": "Working-class, authentic Sudbury native",
+      "identity": "Sudbury is her town"
+    },
+    "background": {
+      "history": "Lost husband Dan in 1976, grew up in Sudbury, working-class roots",
+      "financial_situation": "Struggles to pay mortgage, returned to Friendly's after 2 weeks bereavement leave, insurance company fought claim for 8 months",
+      "aspirations": "Wants to become manager at Friendly's"
+    },
+    "relationships": {
+      "Nick Johnson": {
+        "type": "mother/son",
+        "status": "close, protective",
+        "key_moments": [
+          {
+            "event": "Cried at talent show watching Nick perform",
+            "emotional_state": "Proud, emotional"
+          },
+          {
+            "event": "Dan's death - Nick becomes 'man of the house' at 15",
+            "emotional_state": "Grief-stricken but resilient, relies on Nick"
+          }
+        ]
+      },
+      "Dan Johnson": {
+        "type": "deceased husband",
+        "impact": "His death left her financially struggling, working at Friendly's to keep mortgage paid"
+      },
+      "Maxanne Sartori": {
+        "type": "visitor who saw Nick's talent",
+        "met": "March 1979 when Maxanne drove to Dutton Road",
+        "impact": "Offered opportunity for Nick's demo recording"
+      }
+    },
+    "arc": {
+      "key_moment": "Friendly's confrontation - 'when Grace lost her Grace'",
+      "evolution": "From reserved to standing up for herself and her family",
+      "struggle": "Balancing financial survival with supporting Nick's music dreams"
+    },
+    "thematic_role": "Represents working-class dignity, resilience, the human cost of corporate negligence (Dan's death), authentic Sudbury identity",
+    "first_appearance": {
+      "chapter": "Early chapters with Nick's home life"
+    },
+    "last_updated": "2026-01-10"
+  },
+  
+  "Dr. Richard Marsh": {
+    "basic_info": {
+      "age_1979": "approximately 50s",
+      "occupation": "Psychiatrist and Professor at Boston University",
+      "specialization": "Works with trauma patients and teaching",
+      "location": "Concord Road, Sudbury MA (upper-class side)",
+      "class_aspiration": "Upper Middle Class but sees himself and family as strictly Upper Class, never quite reaches this state"
+    },
+    "personality": {
+      "traits": [
+        "controlling",
+        "authoritative",
+        "social climber",
+        "blind to his own son's troubles and conflicts",
+        "know-it-all self confidence"
+      ],
+      "voice": "Authoritative, academic, dismissive of working-class culture",
+      "contradictions": "Specializes in trauma but can't see Jackie's internal conflict. Teaches psychiatry but fails to understand his own child."
+    },
+    "relationships": {
+      "Jackie Marsh": {
+        "type": "father/son",
+        "status": "controlling, determines Jackie's future",
+        "actions": [
+          "Arranges Tanglewood/Juilliard path without consulting Jackie's true desires",
+          "Calls Maxanne about Jackie's recital when word got out about her visiting Nick",
+          "Intervenes after recording session to separate Jackie from Nick",
+          "Mixed emotions about talent show win - likes being a 'winner' but sees Rock and Roll as outcast"
+        ],
+        "impact": "Represents upper-class assumptions and limitations. Class barriers that destroy friendship."
+      },
+      "Elizabeth Marsh": {
+        "type": "father/daughter",
+        "status": "doesn't need to monitor her as much because music comes naturally"
+      },
+      "Eileen Marsh": {
+        "type": "husband/wife",
+        "dynamic": "She supports his controlling decisions, follows his marching orders"
+      }
+    },
+    "arc": {
+      "starting_state": "Know-it-all self confidence",
+      "evolution": "From confidence to humility",
+      "role": "Antagonist not through malice but through class assumptions and control"
+    },
+    "thematic_role": "Embodies class divisions, parental control vs. authentic self-expression, ironic blindness (trauma specialist who can't see his own son's trauma)",
+    "first_appearance": {
+      "chapter": "Early chapters with Jackie's home life"
+    },
+    "last_updated": "2026-01-10"
+  },
+  
+  "Elizabeth Marsh": {
+    "basic_info": {
+      "born": 1965,
+      "age_1979": 14,
+      "grade_1979": "Freshman in high school",
+      "location": "Concord Road, Sudbury MA",
+      "talent": "Violinist, natural prodigy"
+    },
+    "personality": {
+      "traits": [
+        "mature for her age",
+        "naturally musical",
+        "supportive of Jackie",
+        "music comes easy to her"
+      ]
+    },
+    "musical_identity": {
+      "instrument": "Violin (prodigy level)",
+      "training": "Natural musician, doesn't require same pressure from father as Jackie",
+      "band_participation": "Plays violin in Jackie's Queen cover band for Battle of the Bands"
+    },
+    "relationships": {
+      "Jackie Marsh": {
+        "type": "sister/brother",
+        "status": "supportive, understands Jackie's desires",
+        "actions": "Plays in his Battle of the Bands band"
+      },
+      "Dr. Richard Marsh": {
+        "type": "daughter/father",
+        "dynamic": "Father doesn't have to monitor her because music comes naturally, less pressure than Jackie experiences"
+      }
+    },
+    "arc": {
+      "evolution": "From carefree to concerned as she witnesses Jackie's struggles",
+      "role": "Supporting character who represents what natural talent looks like vs. Jackie's pressured perfectionism"
+    },
+    "first_appearance": {
+      "chapter": "Jackie's home life chapters, Battle of the Bands"
+    },
+    "last_updated": "2026-01-10"
+  },
+  
+  "Eileen Marsh": {
+    "basic_info": {
+      "age_1979": "approximately 40s-50s",
+      "occupation": "Socialite",
+      "location": "Concord Road, Sudbury MA"
+    },
+    "personality": {
+      "traits": [
+        "beautiful",
+        "concerned with appearances",
+        "supports Dr. Marsh's controlling decisions",
+        "secretly sympathetic to Jackie but unable to cross Dr. Marsh"
+      ]
+    },
+    "relationships": {
+      "Dr. Richard Marsh": {
+        "type": "wife",
+        "dynamic": "Follows his marching orders, supports his decisions publicly"
+      },
+      "Jackie Marsh": {
+        "type": "mother/son",
+        "status": "conflicted - wants to support Jackie's desires but can't defy husband",
+        "evolution": "From following Dr. Marsh's orders to secretly supporting Jackie but still unable to cross Dr. Marsh"
+      }
+    },
+    "arc": {
+      "starting_state": "Obedient wife focused on appearances",
+      "evolution": "Develops secret sympathy for Jackie but remains trapped by husband's authority",
+      "role": "Embodies upper-class aesthetics and expectations, tragic inability to protect her child"
+    },
+    "thematic_role": "Represents women trapped by upper-class marriage expectations, silent witness to Jackie's suffering",
+    "first_appearance": {
+      "chapter": "Jackie's home life chapters"
+    },
+    "last_updated": "2026-01-10"
+  }
+}

@@ -103,7 +103,7 @@
   - `.cursor/rules/walk-this-way-writing-directives.md` (COMPASS rules)
   - `.cursor/NOVEL_MEMORY_CONFIG.md` (Memory system template)
   - `.cursor/meta-instructions.md` (Meta instructions)
-  - `.cursor/docs/character-voices.md` (Voice DNA template)
+  - `.cursor/docs/References/character-voices.md` (Voice DNA template)
   - All agent definitions (`.json` and `.md`)
   
 - **Question:** Are these the files that should be "COMPASS templates"? Any missing?

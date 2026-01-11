@@ -266,5 +266,5 @@
 ---
 
 **Document Created:** October 25, 2025
-**System:** Scalpel & Hose (The Blood Brothers)
+**System:**  & Hose (The Blood Brothers)
 **For:** "Walk This Way" Novel Project

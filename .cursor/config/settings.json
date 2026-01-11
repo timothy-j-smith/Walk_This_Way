@@ -24,7 +24,7 @@
   ],
   "cursor.memory.configFile": ".cursor/NOVEL_MEMORY_CONFIG.md",
   "cursor.memory.metaInstructions": ".cursor/meta-instructions.md",
-  "cursor.memory.voiceGuide": ".cursor/docs/character-voices.md",
+  "cursor.memory.voiceGuide": ".cursor/docs/References/character-voices.md",
   "cursor.memory.logFile": ".cursor/logs/writing-sessions.jsonl",
 
   "cursor.smartWrite.enabled": true,

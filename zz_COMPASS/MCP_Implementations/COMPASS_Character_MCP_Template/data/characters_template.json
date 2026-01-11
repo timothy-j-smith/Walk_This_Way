@@ -1,0 +1,178 @@
+{
+  "CHARACTER_NAME_1": {
+    "basic_info": {
+      "age": "WRITE_AGE_HERE",
+      "occupation": "WRITE_OCCUPATION_HERE",
+      "location": "WRITE_LOCATION_HERE",
+      "physical": {
+        "height": "WRITE_HEIGHT_HERE",
+        "eyes": "WRITE_EYE_COLOR_HERE",
+        "hair": "WRITE_HAIR_DESCRIPTION_HERE",
+        "distinctive": "WRITE_DISTINCTIVE_FEATURES_HERE"
+      }
+    },
+    "personality": {
+      "traits": [
+        "WRITE_TRAIT_1_HERE",
+        "WRITE_TRAIT_2_HERE",
+        "WRITE_TRAIT_3_HERE"
+      ],
+      "voice": "WRITE_VOICE_PATTERN_HERE (e.g., formal, casual, dialect, speech quirks)",
+      "quirks": [
+        "WRITE_QUIRK_1_HERE",
+        "WRITE_QUIRK_2_HERE"
+      ]
+    },
+    "preferences": {
+      "music": {
+        "loves": ["WRITE_MUSIC_GENRE_OR_ARTIST_HERE"],
+        "hates": ["WRITE_DISLIKED_MUSIC_HERE"]
+      },
+      "food": {
+        "loves": ["WRITE_FAVORITE_FOOD_HERE"],
+        "hates": ["WRITE_DISLIKED_FOOD_HERE"]
+      },
+      "other_preferences": {
+        "CATEGORY_NAME": {
+          "loves": ["WRITE_PREFERENCE_HERE"],
+          "hates": ["WRITE_DISLIKE_HERE"]
+        }
+      }
+    },
+    "background": {
+      "education": "WRITE_EDUCATION_BACKGROUND_HERE",
+      "family": "WRITE_FAMILY_DESCRIPTION_HERE (parents, siblings, spouse, children)",
+      "history": "WRITE_BACKSTORY_HERE",
+      "key_places": [
+        "WRITE_IMPORTANT_LOCATION_1",
+        "WRITE_IMPORTANT_LOCATION_2"
+      ]
+    },
+    "relationships": {
+      "CHARACTER_NAME_2": {
+        "type": "WRITE_RELATIONSHIP_TYPE (e.g., friend, enemy, lover, mentor, sibling)",
+        "status": "WRITE_CURRENT_STATUS (e.g., close, estranged, complicated)",
+        "evolution": "WRITE_HOW_RELATIONSHIP_CHANGES_OVER_TIME",
+        "key_moments": [
+          {
+            "chapter": "WRITE_CHAPTER_NUMBER_OR_SECTION",
+            "event": "WRITE_WHAT_HAPPENS",
+            "change": "WRITE_HOW_RELATIONSHIP_CHANGES"
+          }
+        ]
+      },
+      "CHARACTER_NAME_3": {
+        "type": "WRITE_RELATIONSHIP_TYPE",
+        "status": "WRITE_CURRENT_STATUS",
+        "notes": "WRITE_ADDITIONAL_RELATIONSHIP_DETAILS"
+      }
+    },
+    "arc": {
+      "starting_state": "WRITE_CHARACTER_STATE_AT_STORY_START",
+      "key_moments": [
+        {
+          "chapter": "WRITE_CHAPTER_NUMBER",
+          "event": "WRITE_KEY_EVENT_DESCRIPTION",
+          "change": "WRITE_HOW_CHARACTER_CHANGES",
+          "emotional_state": "WRITE_EMOTIONAL_STATE"
+        },
+        {
+          "chapter": "WRITE_CHAPTER_NUMBER",
+          "event": "WRITE_KEY_EVENT_DESCRIPTION",
+          "change": "WRITE_HOW_CHARACTER_CHANGES",
+          "emotional_state": "WRITE_EMOTIONAL_STATE"
+        }
+      ],
+      "ending_state": "WRITE_CHARACTER_STATE_AT_STORY_END",
+      "unresolved": "WRITE_UNRESOLVED_CONFLICTS_OR_QUESTIONS (optional)"
+    },
+    "first_appearance": {
+      "chapter": "WRITE_CHAPTER_NUMBER",
+      "page": "WRITE_PAGE_NUMBER (optional)"
+    },
+    "last_updated": "WRITE_DATE_HERE (YYYY-MM-DD format)"
+  },
+  
+  "CHARACTER_NAME_2": {
+    "basic_info": {
+      "age": "WRITE_AGE_HERE",
+      "occupation": "WRITE_OCCUPATION_HERE",
+      "location": "WRITE_LOCATION_HERE",
+      "physical": {
+        "distinctive": "WRITE_DISTINCTIVE_FEATURES_HERE"
+      }
+    },
+    "personality": {
+      "traits": [
+        "WRITE_TRAIT_1_HERE",
+        "WRITE_TRAIT_2_HERE"
+      ],
+      "voice": "WRITE_VOICE_PATTERN_HERE"
+    },
+    "preferences": {
+      "CATEGORY_OF_PREFERENCE": {
+        "loves": ["WRITE_PREFERENCE_HERE"],
+        "hates": ["WRITE_DISLIKE_HERE"]
+      }
+    },
+    "background": {
+      "history": "WRITE_BACKSTORY_HERE",
+      "family": "WRITE_FAMILY_DETAILS_HERE"
+    },
+    "relationships": {
+      "CHARACTER_NAME_1": {
+        "type": "WRITE_RELATIONSHIP_TYPE",
+        "status": "WRITE_STATUS",
+        "evolution": "WRITE_EVOLUTION_DESCRIPTION"
+      }
+    },
+    "arc": {
+      "starting_state": "WRITE_STARTING_STATE",
+      "key_moments": [
+        {
+          "chapter": "WRITE_CHAPTER",
+          "event": "WRITE_EVENT",
+          "change": "WRITE_CHANGE"
+        }
+      ],
+      "ending_state": "WRITE_ENDING_STATE"
+    },
+    "first_appearance": {
+      "chapter": "WRITE_CHAPTER_NUMBER"
+    },
+    "last_updated": "WRITE_DATE_HERE"
+  },
+
+  "_TEMPLATE_NOTES": {
+    "instructions": "This is a template for the COMPASS Writing System",
+    "usage": [
+      "Replace ALL_CAPS placeholders with your novel's specific information",
+      "Add as many characters as needed",
+      "Delete this _TEMPLATE_NOTES section when creating your actual character database",
+      "You can add custom fields beyond this template",
+      "Not all fields are required - use what's relevant to your story"
+    ],
+    "field_descriptions": {
+      "basic_info": "Physical and demographic details about the character",
+      "personality": "Traits, voice patterns, behavioral quirks",
+      "preferences": "Likes and dislikes (music, food, hobbies, etc.)",
+      "background": "History, education, family, important locations",
+      "relationships": "Connections to other characters with evolution over time",
+      "arc": "Character development from beginning to end with key moments",
+      "first_appearance": "Where character first appears in story"
+    },
+    "optional_sections_you_can_add": {
+      "skills": "Special abilities or talents",
+      "goals": "What character wants to achieve",
+      "fears": "What character is afraid of",
+      "secrets": "Hidden information about character",
+      "symbolic_items": "Objects associated with character",
+      "timeline_by_year": "Character's age and status in specific years",
+      "narrative_function": "Character's role in story structure",
+      "thematic_role": "What character represents thematically"
+    },
+    "character_naming": "Use full character names as keys (e.g., 'Sarah Chen', not 'sarah_chen')",
+    "relationship_structure": "Always reference other characters by their full names",
+    "date_format": "Use YYYY-MM-DD for all dates"
+  }
+}

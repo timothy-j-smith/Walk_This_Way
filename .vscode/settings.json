@@ -7,8 +7,9 @@
   "editor.wordWrap": "on",
   "editor.wordWrapColumn": 80,
   "editor.formatOnSave": false,
-  "spell.enabled": false,
+  "spell.enabled": true,
   "spell.checkOnSave": false,
-  "cursor.composer.usageSummaryDisplay": "always"
+  "cursor.composer.usageSummaryDisplay": "always",
+  "markdown.validate.enabled": true
 }
 
