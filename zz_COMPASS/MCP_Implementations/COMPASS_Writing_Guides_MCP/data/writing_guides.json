@@ -1,0 +1,1064 @@
+{
+  "metadata": {
+    "version": "1.0.0",
+    "created": "2026-01-10",
+    "description": "COMPASS Writing Guides MCP - Comprehensive fiction writing reference database",
+    "sources": [
+      "Story_Bible/author-style-library.md",
+      "zz_COMPASS/Commands/",
+      "Stephen King: On Writing",
+      "Various author writing advice and quotes",
+      "Agent_Work/SCALPEL_HOSE_PHILOSOPHY.md",
+      "zz_COMPASS/Core/ADVANCED_CURSOR_NOVEL_WRITING_TOOLS.md",
+      ".cursor/config/prompts.json"
+    ]
+  },
+  
+  "authors": {
+    "Stephen King": {
+      "source": "On Writing: A Memoir of the Craft",
+      "core_philosophy": "Story is king. Character drives horror. Ordinary people in extraordinary situations. Accessible literary quality.",
+      "principles": [
+        {
+          "topic": "writing_practice",
+          "quote": "Read a lot and write a lot.",
+          "explanation": "The only way to become a better writer is through consistent practice. Read widely across genres to understand what works, and write regularly to develop your craft."
+        },
+        {
+          "topic": "adverbs",
+          "quote": "The road to hell is paved with adverbs.",
+          "explanation": "Adverbs often weaken prose. Instead of 'he said loudly,' use 'he shouted' or 'he bellowed.' Strong verbs are more effective than weak verbs with modifiers."
+        },
+        {
+          "topic": "passive_voice",
+          "quote": "The passive voice is weak and circuitous.",
+          "explanation": "Use active voice for clarity and impact. 'The ball was hit by John' is weaker than 'John hit the ball.'"
+        },
+        {
+          "topic": "character",
+          "quote": "Character drives plot, not the other way around.",
+          "explanation": "Let your characters' motivations and personalities drive the story. Don't force characters to serve plot; let plot emerge from character."
+        },
+        {
+          "topic": "first_draft",
+          "quote": "Write with the door closed, rewrite with the door open.",
+          "explanation": "First draft is for you - write freely without judgment. Subsequent drafts are for readers - refine and polish with their experience in mind."
+        },
+        {
+          "topic": "killing_darlings",
+          "quote": "Kill your darlings, kill your darlings, even when it breaks your egocentric little scribbler's heart, kill your darlings.",
+          "explanation": "Be willing to cut passages you love if they don't serve the story. Attachment to beautiful prose can weaken the overall narrative."
+        },
+        {
+          "topic": "description",
+          "quote": "Description begins in the writer's imagination, but should finish in the reader's.",
+          "explanation": "Give readers enough detail to picture the scene, but leave room for their imagination. Over-description can distance readers from the story."
+        },
+        {
+          "topic": "dialogue",
+          "quote": "Dialogue is a skill best learned by people who enjoy talking and listening to others.",
+          "explanation": "Good dialogue comes from observing how people actually speak. Listen to conversations, notice rhythms and patterns, and avoid exposition-heavy dialogue."
+        },
+        {
+          "topic": "themes",
+          "quote": "The themes in your work are like the bones in your body - you can't see them, but they hold everything together.",
+          "explanation": "Themes should emerge naturally from story and character. Don't force themes; let them develop organically."
+        },
+        {
+          "topic": "fear",
+          "quote": "The scariest moment is always just before you start.",
+          "explanation": "Beginning a writing project can be intimidating, but the fear diminishes once you begin. Start writing, even if it's imperfect."
+        },
+        {
+          "topic": "developing_voice",
+          "quote": "Read a lot and write a lot.",
+          "explanation": "Read widely across genres and authors to learn techniques, but your voice emerges from writing. Study how masters build characters and pace stories, then apply those tools to your own stories, your own characters, your own themes. Steal techniques, not style. Your unique voice comes from your unique experiences, your blend of influences, and your authentic perspective. Trust that your voice is already there - it just needs you to keep writing to let it emerge."
+        }
+      ],
+      "style_summary": {
+        "prose_style": "Conversational, accessible, working/middle-class. No pretension. Vivid, often visceral metaphors grounded in physical/sensory.",
+        "pacing": "Page-turner pacing. Knows when to speed up, slow down.",
+        "narrative_technique": "Third person omniscient OR limited, often multiple POVs. Patient setup, then accelerating tension.",
+        "character_voice": "Rich backstory. Natural, specific to character. Blue-collar authentic dialogue.",
+        "themes": "Evil (supernatural and human), childhood trauma, small-town America, addiction and recovery, ordinary heroism"
+      }
+    },
+    
+    "Anne Lamott": {
+      "source": "Bird by Bird: Some Instructions on Writing and Life",
+      "core_philosophy": "Writing is a messy, imperfect process. Perfectionism is the enemy of creativity.",
+      "principles": [
+        {
+          "topic": "first_draft",
+          "quote": "The first draft is the child's draft, where you let it all pour out and then let it romp all over the place.",
+          "explanation": "First drafts are meant to be messy. Give yourself permission to write badly in order to discover what you're really trying to say."
+        },
+        {
+          "topic": "perfectionism",
+          "quote": "Perfectionism is the voice of the oppressor, the enemy of the people.",
+          "explanation": "Striving for perfection in early drafts prevents creativity. Allow yourself to write imperfectly, knowing you can revise later."
+        },
+        {
+          "topic": "short_assignments",
+          "quote": "You take it bird by bird.",
+          "explanation": "Break overwhelming projects into small, manageable pieces. Focus on one small section at a time rather than the entire work."
+        }
+      ]
+    },
+    
+    "Brandon Sanderson": {
+      "source": "Writing Excuses podcast, lectures, blog posts",
+      "core_philosophy": "Writing is a learnable craft. Understand the rules, then break them intentionally.",
+      "principles": [
+        {
+          "topic": "worldbuilding",
+          "quote": "Magic systems should have rules and limitations.",
+          "explanation": "Internal consistency is crucial. Magic or fantastical elements need clear rules, even if those rules are simple, to maintain reader engagement and suspension of disbelief."
+        },
+        {
+          "topic": "character",
+          "quote": "Characters need to want something, even if it's only a glass of water.",
+          "explanation": "Every scene needs character motivation. Characters must have clear desires that drive their actions, even in small scenes."
+        },
+        {
+          "topic": "plot",
+          "quote": "Plot is what happens. Story is what it means.",
+          "explanation": "Plot is the sequence of events. Story is the emotional and thematic journey. Both are necessary, but story is what resonates with readers."
+        }
+      ]
+    },
+    
+    "Ernest Hemingway": {
+      "source": "Letters, interviews, Death in the Afternoon, A Moveable Feast",
+      "core_philosophy": "Sparse, direct prose. Show only the tip of the iceberg. Strong nouns and verbs, not adjectives and adverbs. Economy of language.",
+      "principles": [
+        {
+          "topic": "iceberg_theory",
+          "quote": "If a writer of prose knows enough about what he is writing about, he may omit things that he knows and the reader, if the writer is writing truly enough, will have a feeling of those things as strongly as though the writer had stated them.",
+          "explanation": "The Iceberg Theory: Show only the surface (tip of the iceberg). The deeper meaning, emotions, and subtext should be implicit, not explicitly stated. Trust the reader to understand what's beneath the surface."
+        },
+        {
+          "topic": "first_sentence",
+          "quote": "All you have to do is write one true sentence. Write the truest sentence that you know.",
+          "explanation": "Start with one true, honest sentence. Don't worry about the whole story. Begin with something authentic and true, then build from there. This breaks writer's block and establishes authenticity."
+        },
+        {
+          "topic": "adjectives_adverbs",
+          "quote": "Use the minimum number of words necessary.",
+          "explanation": "Avoid adjectives and adverbs. Use strong, specific nouns and verbs instead. 'He walked quickly' becomes 'He hurried' or 'He strode.' Every word must earn its place."
+        },
+        {
+          "topic": "economy",
+          "quote": "Prose is architecture, not interior decoration.",
+          "explanation": "Focus on structure and clarity, not ornamentation. Clean, functional prose built with precision. Avoid purple prose and unnecessary embellishment."
+        },
+        {
+          "topic": "showing",
+          "quote": "Show the readers everything, tell them nothing.",
+          "explanation": "Show through action, dialogue, and sensory details. Don't tell the reader what to feel or think. Let them experience the story through what characters do and say."
+        },
+        {
+          "topic": "rewriting",
+          "quote": "The first draft of anything is shit.",
+          "explanation": "Accept that first drafts are imperfect. Writing is rewriting. The real work happens in revision. Don't expect perfection on the first try."
+        },
+        {
+          "topic": "dialogue",
+          "quote": "Dialogue is what characters do to one another.",
+          "explanation": "Dialogue is action. Characters use words to act upon each other. Every line of dialogue should move the story forward or reveal character. No small talk that doesn't serve the story."
+        },
+        {
+          "topic": "simplicity",
+          "quote": "My aim is to put down on paper what I see and what I feel in the best and simplest way.",
+          "explanation": "Write clearly and simply. Use everyday language. Avoid pretentious vocabulary. The simplest, clearest way to express something is usually the best."
+        }
+      ]
+    },
+    
+    "Raymond Carver": {
+      "source": "Interviews, Fires: Essays, Poems, Stories, workshops",
+      "core_philosophy": "Minimalism. Working-class realism. Focus on everyday moments that reveal larger truths. Clean, precise prose. What's not said matters as much as what is.",
+      "principles": [
+        {
+          "topic": "minimalism",
+          "quote": "Get in, get out. Don't linger.",
+          "explanation": "Economy of language. Start as close to the end as possible. Cut everything that doesn't serve the story. Every word must be necessary. No wasted movement."
+        },
+        {
+          "topic": "everyday_life",
+          "quote": "It's possible, in a poem or a short story, to write about commonplace things and objects using commonplace but precise language, and to endow those things... with immense, even startling power.",
+          "explanation": "Ordinary moments can reveal profound truths. Focus on the everyday, the mundane, but write it with precision. Simple things become powerful when observed accurately."
+        },
+        {
+          "topic": "working_class",
+          "quote": "I'm interested in characters who are aware of their own confusion and don't mind saying so.",
+          "explanation": "Write about ordinary people with real struggles. Characters who are confused, lost, trying to make sense of their lives. Authentic working-class voices and experiences."
+        },
+        {
+          "topic": "subtext",
+          "quote": "It's what's not said that matters.",
+          "explanation": "The most important things are often left unsaid. Use silence, pauses, what characters don't say. Subtext creates depth. What's beneath the surface dialogue is where the real story lives."
+        },
+        {
+          "topic": "precision",
+          "quote": "I try to write the exact word for the exact thing.",
+          "explanation": "Choose the precise word. Not a synonym that's 'close enough.' The exact word creates the exact meaning. Precision in language creates clarity and power."
+        },
+        {
+          "topic": "revision",
+          "quote": "Revise, revise, revise. Then revise some more.",
+          "explanation": "Writing is rewriting. The first draft is raw material. Revision is where the real work happens. Cut, refine, polish. Keep working until every word is right."
+        },
+        {
+          "topic": "specificity",
+          "quote": "Be specific. Don't say 'a tree.' Say 'a sycamore.'",
+          "explanation": "Specific details create vivid images. Generic descriptions are weak. Specific nouns and details make scenes real and memorable. The sycamore is more powerful than 'a tree.'"
+        },
+        {
+          "topic": "emotion",
+          "quote": "Don't tell the reader how to feel. Show them the situation and let them feel it.",
+          "explanation": "Show emotions through action and detail, not through telling. Don't say 'she was sad.' Show her sitting alone at the kitchen table, staring at cold coffee. Let the reader feel the sadness."
+        }
+      ]
+    }
+  },
+  
+  "topics": {
+    "dialogue": {
+      "description": "Writing authentic, compelling dialogue",
+      "principles": [
+        "Each character should have a distinct voice and speaking pattern",
+        "Use subtext - what characters really mean vs. what they say",
+        "Include realistic interruptions, hesitations, and speech patterns",
+        "Add character-specific vocabulary, slang, and cultural references",
+        "Show emotion through dialogue rhythm and word choice",
+        "Avoid exposition-heavy dialogue - make it sound natural",
+        "Use dialogue to reveal character and advance plot simultaneously",
+        "Include appropriate period-specific language and references",
+        "Dialogue is a skill best learned by people who enjoy talking and listening to others - observe real conversations"
+      ],
+      "common_mistakes": [
+        "Using dialogue solely for exposition",
+        "Making all characters sound the same",
+        "Overusing dialogue tags",
+        "Writing dialogue that's too formal or unnatural",
+        "Ignoring subtext and conflict in conversations"
+      ],
+      "related_authors": ["Stephen King", "Dennis Lehane", "J.D. Salinger", "Raymond Carver", "Ernest Hemingway"]
+    },
+    
+    "pacing": {
+      "description": "Controlling the rhythm and tempo of your narrative",
+      "principles": [
+        "Vary sentence length for dynamic pacing (short for tension, long for reflection)",
+        "Control the tempo through paragraph breaks and sentence structure",
+        "Build tension with shorter, punchy sentences during action or conflict",
+        "Allow breathing room with longer, flowing sentences for character development",
+        "Use white space and paragraph breaks strategically for dramatic effect",
+        "Ensure smooth transitions between scenes and ideas",
+        "Maintain reader engagement through varied rhythm and pacing",
+        "Match the pacing to the emotional intensity of the scene",
+        "Know when to speed up (action, conflict) and when to slow down (reflection, emotion)"
+      ],
+      "common_mistakes": [
+        "Maintaining the same pace throughout",
+        "Rushing through important emotional moments",
+        "Dragging out action scenes with excessive description",
+        "Not using paragraph breaks effectively"
+      ],
+      "related_authors": ["Stephen King", "Donna Tartt", "Annie Proulx"]
+    },
+    
+    "character_development": {
+      "description": "Creating deep, authentic characters",
+      "principles": [
+        "Character drives plot, not the other way around",
+        "Characters need to want something, even if it's only a glass of water",
+        "Give characters rich backstories - everyone has history that matters",
+        "Show emotions through physical sensations and body language",
+        "Layer emotions - characters often feel multiple things simultaneously",
+        "Connect emotions to character backstory and motivations",
+        "Use specific, concrete details to convey abstract feelings",
+        "Show emotional growth and change through specific moments",
+        "Avoid telling emotions directly - show through actions and reactions",
+        "Make emotions feel earned and authentic to the character"
+      ],
+      "common_mistakes": [
+        "Creating characters who serve plot rather than drive it",
+        "Telling emotions instead of showing them",
+        "Making characters too perfect or too flawed",
+        "Ignoring character motivations",
+        "Not giving characters distinct voices and personalities"
+      ],
+      "related_authors": ["Stephen King", "Richard Russo", "Donna Tartt"]
+    },
+    
+    "prose_style": {
+      "description": "Crafting rich, literary prose",
+      "principles": [
+        "Use vivid sensory details (sight, sound, smell, touch, taste)",
+        "Employ metaphorical language and imagery",
+        "Vary sentence structure (short punchy sentences mixed with flowing, lyrical ones)",
+        "Create emotional resonance and subtext",
+        "Develop poetic rhythm and musicality",
+        "Show, don't tell - use concrete details to convey abstract concepts",
+        "The road to hell is paved with adverbs - use strong verbs instead",
+        "Use active voice rather than passive voice",
+        "Description begins in the writer's imagination, but should finish in the reader's",
+        "Every word earns its place - compressed prose with explosive impact"
+      ],
+      "common_mistakes": [
+        "Overusing adverbs",
+        "Using passive voice unnecessarily",
+        "Over-describing scenes",
+        "Using weak verbs with modifiers instead of strong verbs",
+        "Ignoring sensory details",
+        "Telling instead of showing"
+      ],
+      "related_authors": ["Stephen King", "Annie Proulx", "Cormac McCarthy", "Donna Tartt", "Ernest Hemingway", "Raymond Carver"]
+    },
+    
+    "atmosphere": {
+      "description": "Creating immersive atmosphere and mood",
+      "principles": [
+        "For DARK/THREATENING scenes: Use ominous weather, shadows, isolation, unsettling sounds",
+        "For ROMANTIC/TENDER scenes: Use soft lighting, intimate spaces, gentle sensory details",
+        "For TENSE/SUSPENSEFUL scenes: Use confined spaces, ticking clocks, environmental pressure",
+        "For PEACEFUL/SERENE scenes: Use open spaces, natural beauty, calming sensory details",
+        "Establish setting through period-specific elements",
+        "Use symbolism and metaphorical language that matches the emotional tone",
+        "Ground scenes in specific time and place with authentic historical details",
+        "Create contrast between internal character state and external environment when appropriate",
+        "Atmosphere should serve story and character, not exist for its own sake"
+      ],
+      "common_mistakes": [
+        "Generic, clichéd atmospheric descriptions",
+        "Atmosphere that doesn't match the emotional tone",
+        "Overdoing atmospheric description",
+        "Ignoring sensory details in favor of visual only"
+      ],
+      "related_authors": ["Donna Tartt", "Cormac McCarthy", "Annie Proulx"]
+    },
+    
+    "point_of_view": {
+      "description": "Choosing and maintaining effective POV",
+      "principles": [
+        "First person: Intimate, immediate, limited to one character's knowledge",
+        "Third person limited: Close to character, single perspective, allows some narrative distance",
+        "Third person omniscient: Multiple perspectives, godlike narrator, wide scope",
+        "Maintain consistent POV within scenes (avoid head-hopping)",
+        "Choose POV that best serves the story",
+        "First person requires authentic, distinct character voice",
+        "Multiple POVs can show different perspectives on events",
+        "POV affects how much information readers receive"
+      ],
+      "common_mistakes": [
+        "Head-hopping within scenes",
+        "Choosing POV that doesn't serve the story",
+        "Inconsistent POV",
+        "First person that sounds like author, not character"
+      ],
+      "related_authors": ["J.D. Salinger", "Donna Tartt", "Stephen King"]
+    },
+    
+    "show_dont_tell": {
+      "description": "Showing emotions and events rather than telling",
+      "principles": [
+        "Use concrete details to convey abstract concepts",
+        "Show emotions through physical sensations and body language",
+        "Reveal character through actions, not descriptions",
+        "Use dialogue and action to show relationships",
+        "Let readers infer emotions and motivations",
+        "Use specific, sensory details instead of general statements",
+        "Show the effect of events on characters rather than describing the events alone"
+      ],
+      "examples": {
+        "telling": "She was angry.",
+        "showing": "Her hands clenched into fists, knuckles white. She turned away without speaking."
+      },
+      "common_mistakes": [
+        "Explaining emotions directly",
+        "Over-describing instead of showing",
+        "Telling readers what to feel",
+        "Missing opportunities to show through action"
+      ]
+    },
+    
+    "revision": {
+      "description": "The revision and editing process",
+      "principles": [
+        "Write with the door closed, rewrite with the door open (King)",
+        "The first draft is the child's draft (Lamott)",
+        "Kill your darlings - be willing to cut what doesn't serve the story",
+        "Let the manuscript rest between drafts",
+        "Read aloud to catch rhythm and flow issues",
+        "Focus on big picture first (structure, character, plot), then polish prose",
+        "Get feedback from trusted readers",
+        "Revise with reader experience in mind"
+      ],
+      "common_mistakes": [
+        "Being too attached to first draft prose",
+        "Polishing prose before fixing structure",
+        "Not getting outside feedback",
+        "Revising while still writing first draft"
+      ]
+    },
+    
+    "developing_your_voice": {
+      "description": "Learning from master authors while developing your unique writing voice",
+      "principles": [
+        "Steal techniques, not style - Learn how masters build characters, pace stories, create tension, but apply these tools to your own stories, characters, and themes",
+        "Read widely across genres and authors - Each author adds tools to your toolkit. Exposure to multiple styles helps you develop your own",
+        "Blend multiple influences - Combine techniques from different authors (e.g., King's accessibility + Russo's empathy + Lehane's grit = your unique voice)",
+        "Study structure, not content - Learn how masters pace scenes, develop characters, build tension, then apply to your world, your characters, your settings",
+        "Write about your world - Masters write about their experiences. You write about yours. Your setting + your characters + your perspective = your voice",
+        "Start with imitation, end with innovation - Early work might sound like your influences. That's normal. With practice, your authentic voice emerges",
+        "Trust your instincts - Your voice is already in you. It emerges through writing. Trust what works, trust your gut, keep writing",
+        "Write what only you can write - Your experiences, your observations, your unique perspective on themes. Masters give you craft; you bring the content",
+        "The magic formula: Master's Craft + Your Content + Your Influences = Your Unique Voice",
+        "King's gift: Craft tools (accessible prose, character depth, pacing), writing philosophy (story is king), work ethic (read a lot, write a lot). Your gift: Your unique experiences, your specific characters, your blend of influences"
+      ],
+      "practical_steps": [
+        "Study master authors' structure and techniques",
+        "Identify what resonates with you from each author",
+        "Practice applying techniques to your own stories",
+        "Read beyond one author - build a diverse toolkit",
+        "Write regularly - voice emerges through practice",
+        "Don't worry if early work sounds derivative - that's part of learning",
+        "Trust that your authentic voice will emerge with time and practice"
+      ],
+      "common_mistakes": [
+        "Trying to copy a master's style exactly instead of learning their techniques",
+        "Only reading one author",
+        "Worrying too much about sounding like someone else in early drafts",
+        "Not trusting your own instincts and voice",
+        "Focusing on style over craft"
+      ],
+      "related_authors": ["Stephen King", "Raymond Carver", "Ernest Hemingway", "Richard Russo", "Dennis Lehane"]
+    }
+  },
+  
+  "author_styles": {
+    "Stephen King": {
+      "core_philosophy": "Story is king. Character drives horror. Ordinary people in extraordinary situations. Accessible literary quality. Evil is human and supernatural.",
+      "prose_style": {
+        "pacing": "Page-turner pacing. Knows when to speed up, slow down.",
+        "sentences": "Conversational, readable. Complex when needed, simple when effective.",
+        "vocabulary": "Accessible. Working/middle-class. No pretension.",
+        "metaphor": "Vivid, often visceral. Grounded in physical/sensory."
+      },
+      "narrative_technique": {
+        "pov": "Third person omniscient OR limited, often multiple POVs",
+        "scope": "Ensemble cast. Small town or contained setting.",
+        "time": "Patient setup, then accelerating tension.",
+        "foreshadowing": "Heavy. Reader knows bad things coming.",
+        "atmosphere": "Dread building. Ordinary becoming sinister."
+      },
+      "character_voice": {
+        "interiority": "Rich backstory. Everyone has history that matters.",
+        "dialogue": "Natural, specific to character. Blue-collar authentic.",
+        "motivation": "Ordinary people wanting ordinary things, then tested.",
+        "relationships": "Drawn with care. Family, friendship, community."
+      },
+      "themes": [
+        "Evil (supernatural and human)",
+        "Childhood trauma and adult consequences",
+        "Small-town America (both comfort and horror)",
+        "Addiction and recovery",
+        "Writing/creativity as theme",
+        "Ordinary heroism"
+      ],
+      "signature_moves": [
+        "Opening establishing normal life about to be disrupted",
+        "Deep character backstory before horror hits",
+        "Pop culture references grounding time/place",
+        "Multiple POV showing approaching disaster",
+        "Child or animal in danger (reader investment)",
+        "Small-town setting as character",
+        "Ending confronting the monster (literal or metaphorical)",
+        "Epilogue showing aftermath"
+      ],
+      "use_for": [
+        "Horror/supernatural fiction",
+        "Small-town settings",
+        "Ensemble casts",
+        "Character-driven genre fiction",
+        "Accessible literary quality",
+        "Stories about ordinary people tested",
+        "Coming-of-age with dark elements"
+      ]
+    },
+    
+    "Richard Russo": {
+      "core_philosophy": "Small-town America with deep empathy. Working-class struggles treated with dignity. Community as character. Gentle humor amid hardship.",
+      "prose_style": {
+        "pacing": "Deliberate, patient. Let moments breathe.",
+        "sentences": "Mix of flowing and punchy. Natural rhythm.",
+        "vocabulary": "Accessible but precise. Working-class vernacular when authentic.",
+        "metaphor": "Grounded in physical world. Tools, weather, worn things."
+      },
+      "themes": [
+        "Class and money (unspoken but everywhere)",
+        "Loyalty vs. self-preservation",
+        "Small dreams in constrained lives",
+        "Dignity in ordinary work",
+        "Past haunting present",
+        "Geography as destiny"
+      ],
+      "use_for": [
+        "Working-class protagonists",
+        "Small-town settings",
+        "Multi-generational stories",
+        "Community-focused narratives",
+        "Character-driven literary fiction",
+        "Stories about economic pressure",
+        "Family sagas"
+      ]
+    },
+    
+    "Dennis Lehane": {
+      "core_philosophy": "Boston working-class with teeth. Moral ambiguity. Violence that matters. Loyalty tested. Streets have memory.",
+      "prose_style": {
+        "pacing": "Propulsive but with breathing room for character",
+        "sentences": "Short and punchy in action. Longer for reflection. Varied.",
+        "vocabulary": "Street-smart. Boston vernacular. Occasional poetry.",
+        "metaphor": "Urban, physical, often violent. City as body."
+      },
+      "themes": [
+        "Violence and its cost",
+        "Loyalty vs. morality",
+        "Class and neighborhood identity",
+        "Past sins haunting present",
+        "Masculine codes and their limits",
+        "Corruption (institutional and personal)"
+      ],
+      "use_for": [
+        "Crime/mystery fiction",
+        "Urban settings (especially Boston)",
+        "Morally complex protagonists",
+        "Stories about loyalty and betrayal",
+        "Working-class crime narratives",
+        "Noir with literary depth"
+      ]
+    },
+    
+    "Donna Tartt": {
+      "core_philosophy": "Literary fiction as immersive experience. Language beautiful even when describing darkness. Character psychology as deep mystery. Classical themes in contemporary settings.",
+      "prose_style": {
+        "pacing": "Patient, deliberate. Builds slowly to eruption.",
+        "sentences": "Long, complex, rhythmic. Occasionally short for impact.",
+        "vocabulary": "Rich, literary, precise. Educated characters speak sophisticatedly.",
+        "metaphor": "Classical, literary, often dark. Art, death, beauty."
+      },
+      "themes": [
+        "Beauty and death entwined",
+        "Corruption of innocence",
+        "Obsession and desire",
+        "Art vs. morality",
+        "Class and belonging",
+        "Secret societies and insular groups",
+        "The past's hold on present"
+      ],
+      "use_for": [
+        "Literary fiction with dark themes",
+        "Campus/university settings",
+        "Psychological depth",
+        "Beautiful but disturbing stories",
+        "First-person retrospective narratives",
+        "Stories about obsession",
+        "Elite/privileged character studies"
+      ]
+    },
+    
+    "J.D. Salinger": {
+      "core_philosophy": "Authentic adolescent consciousness. Phoniness as ultimate sin. Stream-of-consciousness that feels natural. Tenderness hidden under cynicism.",
+      "prose_style": {
+        "pacing": "Rambling but purposeful. Digressive like thought.",
+        "sentences": "Mix of fragments and run-ons. Natural speech rhythm.",
+        "vocabulary": "Teen vernacular of era. Repeated phrases.",
+        "metaphor": "Sparse. Teen doesn't think in elaborate metaphors."
+      },
+      "themes": [
+        "Phoniness vs. authenticity",
+        "Loss of innocence (protectiveness of children)",
+        "Alienation and loneliness",
+        "Class and privilege (criticized from within)",
+        "Mental health (unspoken but present)",
+        "Desperately seeking connection"
+      ],
+      "use_for": [
+        "Teenage protagonists",
+        "First-person intimate narration",
+        "Coming-of-age stories",
+        "Alienation and authenticity themes",
+        "Stream-of-consciousness",
+        "Stories about phoniness and sincerity",
+        "Privileged but unhappy teens"
+      ]
+    },
+    
+    "Annie Proulx": {
+      "core_philosophy": "Every word earns its place. Landscape shapes character. Working-class life with dignity. Compressed prose with explosive impact. No sentimentality.",
+      "prose_style": {
+        "pacing": "Compressed. Decades in a sentence. No wasted words.",
+        "sentences": "Short, muscular, precise. Occasional long sentence for impact.",
+        "vocabulary": "Specific to trade/place. Technical terms. Regional language.",
+        "metaphor": "Sparse, physical, rooted in work/land."
+      },
+      "themes": [
+        "Place shaping identity",
+        "Working-class masculinity",
+        "Environmental destruction",
+        "Rural decline",
+        "Isolation and connection",
+        "Violence (physical and economic)",
+        "Unsentimental love"
+      ],
+      "use_for": [
+        "Rural/Western settings",
+        "Working-class protagonists",
+        "Compressed, powerful prose",
+        "Stories about place shaping people",
+        "Masculine themes (but not exclusively)",
+        "Environmental stories",
+        "Unsentimental character studies",
+        "Flash fiction or novellas"
+      ]
+    },
+    
+    "Cormac McCarthy": {
+      "core_philosophy": "Sparse prose as poetry. Violence as reality. Biblical/mythic resonance. Nature indifferent to human suffering. Philosophical depth through action.",
+      "prose_style": {
+        "pacing": "Deliberate, hypnotic. Long scenes of action, then reflection.",
+        "sentences": "No quotation marks. No apostrophes. Minimal punctuation. Biblical cadence.",
+        "vocabulary": "Mix of simple and archaic. Biblical language. Regional dialect.",
+        "metaphor": "Sparse but powerful. Biblical, natural, violent."
+      },
+      "themes": [
+        "Violence and morality",
+        "Nature's indifference",
+        "Masculine codes",
+        "Good and evil (absolute)",
+        "Civilization vs. wilderness",
+        "Father/son relationships",
+        "Biblical/mythic patterns"
+      ],
+      "use_for": [
+        "Western/Southwestern settings",
+        "Post-apocalyptic fiction",
+        "Philosophical themes",
+        "Sparse, poetic prose",
+        "Violence and morality",
+        "Father/son stories",
+        "Epic scope with minimal prose",
+        "Mythic/Biblical resonance"
+      ]
+    },
+    
+    "Colson Whitehead": {
+      "core_philosophy": "Literary fiction using genre frameworks. Social observation sharp. Historical and contemporary. Race as America's haunting. Accessible sophistication. Genre as tool, not limitation.",
+      "prose_style": {
+        "pacing": "Varies by book. Can be propulsive (thriller-like) or contemplative.",
+        "sentences": "Sophisticated but accessible. Rhythm important. Occasionally playful.",
+        "vocabulary": "Contemporary, educated, specific. Pop culture literate.",
+        "metaphor": "Smart, sometimes surprising. Cultural references."
+      },
+      "themes": [
+        "Race in America (historical and contemporary)",
+        "Survival and resilience",
+        "American mythology vs. reality",
+        "Capitalism and exploitation",
+        "Freedom and its limits",
+        "Historical trauma's persistence",
+        "Identity and belonging"
+      ],
+      "use_for": [
+        "Contemporary literary fiction",
+        "Historical fiction with contemporary sensibility",
+        "Genre-bending literary work",
+        "Stories about race in America",
+        "Alternate history",
+        "Social commentary through narrative",
+        "Literary fiction reaching wide audience",
+        "Stories about freedom and survival"
+      ]
+    }
+  },
+  
+  "techniques": {
+    "pacing_techniques": [
+      "Vary sentence length for dynamic pacing",
+      "Use paragraph breaks strategically",
+      "Short sentences for tension and action",
+      "Long sentences for reflection and emotion",
+      "White space for dramatic pauses",
+      "Control tempo through sentence structure"
+    ],
+    "dialogue_techniques": [
+      "Use subtext - what characters really mean vs. what they say",
+      "Character-specific vocabulary and speech patterns",
+      "Realistic interruptions and hesitations",
+      "Show emotion through dialogue rhythm",
+      "Avoid exposition-heavy dialogue",
+      "Period-specific language and references"
+    ],
+    "character_techniques": [
+      "Show emotions through physical sensations",
+      "Layer emotions - multiple feelings simultaneously",
+      "Connect emotions to backstory",
+      "Use specific details to convey feelings",
+      "Show emotional growth through specific moments",
+      "Avoid telling emotions directly"
+    ],
+    "prose_techniques": [
+      "Vivid sensory details (all five senses)",
+      "Metaphorical language and imagery",
+      "Varied sentence structure",
+      "Strong verbs instead of weak verbs + adverbs",
+      "Active voice over passive voice",
+      "Show, don't tell"
+    ],
+    "atmosphere_techniques": [
+      "Match atmosphere to emotional tone",
+      "Use period-specific elements",
+      "Symbolism and metaphorical language",
+      "Sensory details (not just visual)",
+      "Contrast internal state with external environment",
+      "Create mood through setting and weather"
+    ]
+  },
+  
+  "genre_guidance": {
+    "literary_fiction": {
+      "focus": "Character development, psychological depth, beautiful prose, thematic exploration",
+      "pacing": "Often slower, more contemplative",
+      "key_elements": ["Character depth", "Language and style", "Themes", "Emotional resonance"],
+      "representative_authors": ["Donna Tartt", "Richard Russo", "Annie Proulx", "Marilynne Robinson"]
+    },
+    "crime_mystery": {
+      "focus": "Plot, tension, clues, pacing, resolution",
+      "pacing": "Propulsive, maintains tension",
+      "key_elements": ["Suspense", "Plot structure", "Clues and red herrings", "Resolution"],
+      "representative_authors": ["Dennis Lehane", "Thomas Harris", "Stephen King (some works)"]
+    },
+    "horror_supernatural": {
+      "focus": "Atmosphere, dread, ordinary becoming sinister, character psychology",
+      "pacing": "Patient setup, then accelerating tension",
+      "key_elements": ["Atmosphere", "Dread building", "Character backstory", "Ordinary settings made sinister"],
+      "representative_authors": ["Stephen King", "Thomas Harris"]
+    },
+    "coming_of_age": {
+      "focus": "Character growth, authentic voice, period-specific details, emotional journey",
+      "pacing": "Varies, often episodic",
+      "key_elements": ["Authentic voice", "Character development", "Period details", "Emotional growth"],
+      "representative_authors": ["J.D. Salinger", "Stephen Chbosky"]
+    }
+  },
+  
+  "quotes": {
+    "stephen_king": [
+      {
+        "quote": "The scariest moment is always just before you start.",
+        "context": "On beginning a writing project"
+      },
+      {
+        "quote": "Read a lot and write a lot.",
+        "context": "On developing craft"
+      },
+      {
+        "quote": "The road to hell is paved with adverbs.",
+        "context": "On prose style"
+      },
+      {
+        "quote": "Kill your darlings, kill your darlings, even when it breaks your egocentric little scribbler's heart, kill your darlings.",
+        "context": "On revision"
+      },
+      {
+        "quote": "Description begins in the writer's imagination, but should finish in the reader's.",
+        "context": "On description"
+      }
+    ],
+    "general_writing": [
+      {
+        "quote": "Write with the door closed, rewrite with the door open.",
+        "author": "Stephen King",
+        "context": "On first drafts vs. revision"
+      },
+      {
+        "quote": "Character drives plot, not the other way around.",
+        "author": "Stephen King",
+        "context": "On character and plot"
+      },
+      {
+        "quote": "The first draft is the child's draft, where you let it all pour out.",
+        "author": "Anne Lamott",
+        "context": "On first drafts"
+      },
+      {
+        "quote": "Characters need to want something, even if it's only a glass of water.",
+        "author": "Brandon Sanderson",
+        "context": "On character motivation"
+      },
+      {
+        "quote": "If a writer of prose knows enough about what he is writing about, he may omit things that he knows and the reader, if the writer is writing truly enough, will have a feeling of those things as strongly as though the writer had stated them.",
+        "author": "Ernest Hemingway",
+        "context": "Iceberg Theory - showing only the tip"
+      },
+      {
+        "quote": "All you have to do is write one true sentence. Write the truest sentence that you know.",
+        "author": "Ernest Hemingway",
+        "context": "On starting to write"
+      },
+      {
+        "quote": "Get in, get out. Don't linger.",
+        "author": "Raymond Carver",
+        "context": "On minimalism and economy"
+      },
+      {
+        "quote": "It's what's not said that matters.",
+        "author": "Raymond Carver",
+        "context": "On subtext and meaning"
+      },
+      {
+        "quote": "Revise, revise, revise. Then revise some more.",
+        "author": "Raymond Carver",
+        "context": "On the writing process"
+      }
+    ]
+  },
+  
+  "methodologies": {
+    "scalpel_hose": {
+      "name": "Scalpel & Hose Philosophy",
+      "subtitle": "The Blood Brothers System for Novel Writing",
+      "source": "Agent_Work/SCALPEL_HOSE_PHILOSOPHY.md",
+      "description": "A dual methodology for editing and enhancing prose: Scalpel cuts with precision, Hose adds depth with specificity",
+      "core_principle": "Cut 50% + Add Depth = Exponential Quality Improvement",
+      "scalpel": {
+        "mission": "Cut with precision, eliminate waste, preserve what matters",
+        "cuts": [
+          "Purple prose and overwrought metaphors",
+          "Repetitive phrases and clichéd language",
+          "Abstract philosophy and over-explaining",
+          "Section headers that break narrative flow",
+          "Redundant descriptions and telling what we just showed",
+          "Characters who are cardboard cutouts or clichés",
+          "Prose that sounds 'literary' rather than authentic"
+        ],
+        "tools": [
+          "Brutal honesty about what doesn't work",
+          "Pattern recognition across chapters",
+          "Timeline consistency enforcement",
+          "Character voice accuracy",
+          "Trust the reader principle"
+        ]
+      },
+      "hose": {
+        "mission": "Add depth, create meaning, earn emotion through specificity",
+        "adds": [
+          "Character motivations and the COST of their choices",
+          "Specific fears (not abstract worries)",
+          "Internal moments showing WHY characters choose what they choose",
+          "Concrete sensory details that carry emotion",
+          "One 'defining moment' for each supporting character",
+          "Money sentences that hit hard and earn their place"
+        ],
+        "core_question": "What does this choice COST this character? What are they giving up?"
+      },
+      "character_depth_hierarchy": {
+        "tier_1_main_characters": {
+          "examples": ["Protagonist", "Antagonist", "Love Interest", "Mentor", "Primary Family Members"],
+          "requirements": [
+            "ALWAYS show the COST of their choices",
+            "What are they AFRAID of? (specific, not abstract)",
+            "One internal 'why' moment per chapter",
+            "Motivations visible through action + brief internal thought"
+          ],
+          "question": "What does this choice COST this character? What are they giving up?"
+        },
+        "tier_2_supporting_characters": {
+          "examples": ["Best friend", "Sibling", "Mentor", "Band member", "Rival"],
+          "requirements": [
+            "ONE defining moment that shows who they are",
+            "Reveals why they matter to the protagonist",
+            "Specific detail that makes them real, not cardboard"
+          ],
+          "question": "What is the ONE moment that shows this person's character?"
+        },
+        "tier_3_background_characters": {
+          "examples": ["Teachers", "Parents at PTA", "Customers", "Town gossips"],
+          "requirements": [
+            "They are FORCES, not people",
+            "Show WHAT they do, not WHY",
+            "Concrete details (how they look, what they say) but NO internal life"
+          ],
+          "question": "Does this character's motivation affect the plot? If NO → Tier 3."
+        },
+        "golden_rule": "If a character makes a choice that AFFECTS THE PLOT → Show WHY (Tier 1 or 2). If a character is BACKDROP or ATMOSPHERE → Show WHAT (Tier 3)."
+      },
+      "money_sentence_principle": {
+        "definition": "4-6 sentences per chapter that 'hit hard' and earn their place",
+        "characteristics": [
+          "Earn their place through specificity",
+          "Concrete details, not abstract philosophy",
+          "Emotion earned through action, not explanation",
+          "The line readers will underline"
+        ],
+        "examples": [
+          "Classical earned his father's approval. Rock earned his breath. He couldn't have both.",
+          "He wasn't playing for Dan's memory anymore. He was playing for the woman who'd stood up to the world and said her son mattered.",
+          "The labyrinth has no exit. Fight, compromise, or run—you die regardless."
+        ]
+      },
+      "process": {
+        "step_1_assess": [
+          "Read chapter through",
+          "Identify repetition (words/phrases used 3+ times)",
+          "Find the 'money moment' (scene that HAS to work)",
+          "Note which characters appear (Tier 1/2/3?)"
+        ],
+        "step_2_scalpel": [
+          "Remove section headers",
+          "Cut repetitive phrases",
+          "Eliminate purple prose",
+          "Remove abstract emotions",
+          "Delete over-explaining"
+        ],
+        "step_3_hose": [
+          "Add character's specific fear",
+          "Show COST of their choice",
+          "Add concrete sensory detail",
+          "Craft money sentence",
+          "Give Tier 2 characters defining moment"
+        ],
+        "step_4_polish": [
+          "Read aloud (catches awkward rhythm)",
+          "Check sentence variety",
+          "Verify timeline/consistency",
+          "Confirm word count (1,200-1,500)"
+        ]
+      },
+      "success_metrics": {
+        "starting_point": "6/10 - 'Solid foundation'",
+        "after_scalpel_hose": "8-9/10 - 'Publishable quality'",
+        "target": "8-9/10 throughout for publication readiness",
+        "quality_benchmarks": [
+          "Word count: 1,200-1,500",
+          "Repetition eliminated (no word used 3+ times)",
+          "Purple prose cut",
+          "Tier 1 characters: FEAR and COST visible",
+          "Tier 2 characters: ONE defining moment",
+          "Money sentence present and earned",
+          "Every sentence earns its place",
+          "Timeline consistent",
+          "Reads smoothly aloud"
+        ]
+      },
+      "philosophical_foundation": [
+        "Dual Action - Simultaneous cut & build (efficiency)",
+        "Character Depth Hierarchy - Universal framework (eliminates guesswork)",
+        "Specific Questions Drive Depth - Not random 'make it better'",
+        "Earned Emotion Through Specificity - Concrete details carry meaning",
+        "Brutal Honesty Accepted - Agent must acknowledge failures, not defend",
+        "User's Voice Preserved - ((comment)) system keeps user's aesthetic",
+        "Systematic Application - Methodical, not random inspiration",
+        "Trust + Verification - User trusts agent within constraints",
+        "Memory Across Chapters - Track patterns, maintain consistency",
+        "Focus on Reader Experience - 'Trust the reader' = core principle"
+      ]
+    },
+    
+    "compass_advanced_tools": {
+      "name": "COMPASS Advanced Cursor Novel Writing Tools",
+      "source": "zz_COMPASS/Core/ADVANCED_CURSOR_NOVEL_WRITING_TOOLS.md",
+      "description": "Comprehensive system of revolutionary fiction writing technology combining automatic intelligence, professional feedback, and creative control",
+      "core_systems": {
+        "writing_dna_memory": {
+          "description": "Revolutionary automatic memory system that captures the 'genetic code' of your novel",
+          "features": [
+            "Automatic Plot Capture: Remembers all plot decisions, character relationships, and timeline events",
+            "Intelligent Character Tracking: Tracks character development, voice evolution, and consistency",
+            "World DNA: Remembers setting details, locations, historical context, and atmospheric elements",
+            "Consistency Checks: Real-time validation for plot holes, character consistency, timeline accuracy",
+            "Hybrid Alert System: Critical issues trigger real-time alerts, minor issues available on-demand",
+            "Zen Mode: Toggle all alerts for uninterrupted creative flow"
+          ]
+        },
+        "specialized_agent_system": {
+          "description": "Four professional-grade writing assistants with distinct expertise",
+          "agents": [
+            "STRUCTURAL_PERFECTION_SPECIALIST: Analyzes pacing, structure, flow, and narrative architecture",
+            "CHARACTER_DEPTH_COACH: Focuses on character development, voice consistency, and psychological depth",
+            "PROSE_POLISH_EXPERT: Handles sentence-level refinement, rhythm, and prose quality",
+            "STRATEGIC_WRITING_COORDINATOR: Strategic oversight, workflow coordination, and quality control"
+          ],
+          "mode_system": "All agents support Neutral (default), Nice (supportive), and Brutal (professional critique) modes",
+          "workflow": "Sequential: Strategic → Structural → Character → Prose for maximum efficiency"
+        },
+        "cursor_configuration": {
+          "components": [
+            ".cursor/workspace.json: Project dashboard tracking status and milestones",
+            ".cursorrules: AI writing assistant manual with writing values and directives",
+            ".cursor/prompts.json: Quick command library for specific writing tasks",
+            ".cursor/commands/: Detailed style command files for consistent voice application",
+            ".cursorignore: Specifies files/directories that Git and AI should ignore"
+          ]
+        },
+        "json_prompts_system": {
+          "description": "Powerful functional commands for specific writing transformations",
+          "prompts": [
+            "pov_conversion: Convert passages to 3rd person omniscient while maintaining poetic prose style",
+            "transition_creation: Create smooth transitions that set up next chapter without duplicating content",
+            "class_divide_theme: Enhance class division themes while maintaining authentic character voices",
+            "scene_creation: Transform outlines into complete scenes with rich sensory details and emotional depth",
+            "inner_dialogue: Enhance inner dialogue to show character thoughts, emotions, and internal conflicts"
+          ]
+        }
+      },
+      "advanced_systems": {
+        "smart_rewrites": {
+          "description": "Context-aware prose enhancement with multiple transformation levels",
+          "features": [
+            "Liberty Levels: Conservative (minimal changes), Moderate (balanced enhancement), High (dramatic transformation)",
+            "Comparison Views: Side-by-side original vs. enhanced text",
+            "Agent Integration: Incorporates feedback from specialized agents",
+            "POV Conversion: Transform between 1st and 3rd person while maintaining character voice",
+            "Creative Pipeline: Brainstorm → Outline → Scene Details → Smart Rewrite → Author Review → Final Polish"
+          ]
+        },
+        "enhanced_breadcrumbs": {
+          "description": "Intelligent navigation system with automatic context loading",
+          "features": [
+            "Current Location: Where you are in the novel structure and timeline",
+            "Character Context: Which character's POV and their current emotional/psychological state",
+            "Timeline Position: What's happening when and how it connects to broader story",
+            "World Context: Relevant setting details, historical background, and atmospheric elements",
+            "Plot Threads: Active storylines and their current status",
+            "Thematic Elements: Underlying themes being explored and their development"
+          ]
+        }
+      },
+      "revolutionary_potential": "The most advanced fiction writing technology ever conceived, combining automatic intelligence, professional feedback, intelligent enhancement, visual storytelling, quality assurance, and creative control"
+    },
+    
+    "json_prompts": {
+      "name": "JSON Prompts System",
+      "source": ".cursor/config/prompts.json",
+      "description": "Quick command library for specific writing tasks and transformations",
+      "usage": "Prompts work in both Composer and Command K for maximum flexibility",
+      "available_prompts": {
+        "character_development": "Help me develop this character with authentic voice and consistent personality traits",
+        "dialogue_improvement": "Improve this dialogue to be more natural and character-specific",
+        "scene_enhancement": "Enhance this scene with better sensory details and emotional depth",
+        "plot_consistency": "Check this section for plot consistency and character motivation",
+        "writing_style": "Help me improve the writing style while maintaining my voice",
+        "research_accuracy": "Verify the historical accuracy of these 1970s Boston details",
+        "pov_conversion": "Convert this passage to 3rd person omniscient while maintaining the poetic prose style",
+        "transition_creation": "Create a smooth transition that sets up the next chapter without duplicating its content",
+        "class_divide_theme": "Enhance the class division themes while maintaining authentic character voices",
+        "scene_creation": "Take this outline and build a complete scene with rich sensory details, authentic dialogue, and emotional depth. Include setting description, character actions, dialogue, and internal thoughts. Make it feel like a real moment from the story.",
+        "inner_dialogue": "Enhance the inner dialogue to show character thoughts, emotions, and internal conflicts with authentic voice and psychological depth"
+      }
+    }
+  }
+}
