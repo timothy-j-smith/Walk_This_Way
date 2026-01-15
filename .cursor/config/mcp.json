@@ -6,15 +6,8 @@
         "-y",
         "@modelcontextprotocol/server-filesystem",
         "/Users/timothy/Library/Mobile Documents/com~apple~CloudDocs/Cursor/03_Novels/Walk This Way"
-      ]
-    },
-    "duckduckgo-search": {
-      "command": "npx",
-      "args": ["-y", "@modelcontextprotocol/server-duckduckgo-search"]
-    },
-    "sequential-thinking": {
-      "command": "npx",
-      "args": ["-y", "@modelcontextprotocol/server-sequential-thinking"]
+      ],
+      "disabled": false
     },
     "github": {
       "command": "npx",
@@ -23,21 +16,32 @@
         "@modelcontextprotocol/server-github",
         "--token",
         "env:GITHUB_TOKEN"
-      ]
-    },
-    "GitKraken": {
-      "command": "/Users/timothy/.local/bin/gk",
-      "args": [
-        "mcp",
-        "--host=cursor"
       ],
-      "type": "stdio"
+      "disabled": true
+    },
+    "gitkraken": {
+      "command": "gk",
+      "args": [
+        "mcp"
+      ],
+      "disabled": true
+    },
+    "duckduckgo-search": {
+      "command": "npx",
+      "args": ["-y", "@modelcontextprotocol/server-duckduckgo-search"],
+      "disabled": true
+    },
+    "sequential-thinking": {
+      "command": "npx",
+      "args": ["-y", "@modelcontextprotocol/server-sequential-thinking"],
+      "disabled": false
     },
     "compass-writing-guides": {
       "command": "/Users/timothy/Library/Mobile Documents/com~apple~CloudDocs/Cursor/03_Novels/Walk This Way/zz_COMPASS/MCP_Implementations/COMPASS_Writing_Guides_MCP/venv/bin/python",
       "args": [
         "/Users/timothy/Library/Mobile Documents/com~apple~CloudDocs/Cursor/03_Novels/Walk This Way/zz_COMPASS/MCP_Implementations/COMPASS_Writing_Guides_MCP/server.py"
-      ]
+      ],
+      "disabled": false
     }
   }
 }

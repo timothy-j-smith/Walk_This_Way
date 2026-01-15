@@ -256,10 +256,23 @@ gk auth login
 
 ---
 
-**Status:** ✅ Basic MCP configured (filesystem access only)  
+**Status:** ✅ All MCP servers configured with enable/disable capability  
 **Current Setup:** Mac Studio (primary machine with Git/GitHub)  
-**Next Steps:** 
-- Future: Add GitKraken/GitHub MCP if needed
-- Future: Add Story Bible MCP servers when ready
-- Future: COMPASS MCP when COMPASS structure is finalized
-- Note: If Mac Studio needs reset, copy `~/.cursor/mcp.json` to new setup
+**Last Updated:** January 12, 2026
+
+**What's New:**
+- ✅ All 6 MCP servers properly configured in `.cursor/config/mcp.json`
+- ✅ Using `"disabled": true/false` flags to control which servers are active
+- ✅ Setup script created: `./setup_mcp.sh` for easy installation
+- ✅ Documentation: `MCP_SETUP_INSTRUCTIONS.md` (full guide) and `MCP_QUICK_REFERENCE.md` (quick reference)
+
+**Current Active Servers:**
+- ✅ `walk-this-way-files` (filesystem access) - **ACTIVE**
+- 🔴 All other servers configured but **DISABLED** by default
+
+**To Complete Setup:**
+1. Run `./setup_mcp.sh` to install GitKraken CLI and set GitHub token
+2. Edit `.cursor/config/mcp.json` to enable desired servers (`"disabled": false`)
+3. Restart Cursor IDE
+
+**See:** `MCP_QUICK_REFERENCE.md` for usage instructions
