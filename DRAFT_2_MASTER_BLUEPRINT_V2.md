@@ -193,7 +193,7 @@ Thirty years later, on August 11, 2009, Maxanne Sartori—now 73 and carrying th
 - The Battle of the Bands is now an **internal L-S competition** (all 8 bands from same school)
 
 **Arc**:
-- **Summer 1975 (Age 14)**: Camp Winaukee, sees Nick/Jackie's magic, warns "the world we're going back to isn't set up for this"
+- **Summer 1975 (Age 14)**: Camp Winnipesaukee, sees Nick/Jackie's magic, warns "the world we're going back to isn't set up for this"
 - **1975-1979 (Ages 14-18)**: All three attend L-S High, she sees them in hallways, watches them drift
 - **Spring 1979**: Patty's decision to enter Battle
   - She has her own band, plays Fleetwood Mac-inspired music
@@ -756,7 +756,7 @@ Yeah. Walk this way."
 - Content: First jam session. **Tools vibrating at 82 Hz when Nick plays E minor.** Dan's workbench, milk crates, the garage as sacred space. Nick plays "Sweet Emotion," Jackie plays "Bohemian Rhapsody" melody on guitar. They discover their voices blend. "We should start a band." "What would we call it? 'Queen Smith'?" Laughter, magic, the beginning of something beautiful.
 - Key Image: Wrench rattling against vise grip when certain chords are played
 
-**CHAPTER 03: "Camp Winaukee"**
+**CHAPTER 03: "Camp Winnipesaukee"**
 - POV: 3rd person, Nick, Jackie & Patty introduction
 - Setting: Summer camp, New Hampshire, Summer 1975 (ages 13)
 - Content: Nick and Jackie perform at camp talent show. **First time anyone outside Sudbury sees their magic.** Patty Lally (Sudbury Southeast, pig farm family) watches from audience, recognizes something special. After show, she approaches: "You guys are amazing. But the world we're going back to isn't set up for this." Foreshadowing. They dismiss her warning, still innocent.
@@ -794,8 +794,8 @@ Yeah. Walk this way."
 
 **CHAPTER 09: Maxanne Interlude #1 - "Aerosmith, 1973"**
 - POV: Maxanne, 1st person, 2009 (with 1973 flashback)
-- Setting: WBCN Studio B, August 11, 2009, 8:45 PM | Flashback to Allston dive bar, 1973
-- Content: **Maxanne at 37, discovers Aerosmith before anyone knew them.** Dive bar, Steven Tyler raw and dangerous, Joe Perry's guitar, music authentic. She records on cassette, brings to station next day. "This is what we DO, Maxanne. Find the real shit." Plays them on-air, phones light up. **This is what WBCN was.** 2009 Maxanne: "That was the last time I knew we were still rebels. Six years later, I'd turn two kids into a marketing scheme."
+- Setting: WBCN Studio C, August 11, 2009, 8:45 PM | Flashback to Allston dive bar, 1973
+- Content: **Maxanne at 23, discovers Aerosmith before anyone knew them.** Dive bar, Steven Tyler raw and dangerous, Joe Perry's guitar, music authentic. She records on cassette, brings to station next day. "This is what we DO, Maxanne. Find the real shit." Plays them on-air, phones light up. **This is what WBCN was.** 2009 Maxanne: "That was the last time I knew we were still rebels. Six years later, I'd turn two kids into a marketing scheme."
 - Key Line: "Find the real shit. That was our job. Before it became 'find the demographic.'"
 
 **CHAPTER 10: "Grace's Stand"**

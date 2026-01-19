@@ -4,7 +4,7 @@ CHAPTER 24: PATTY RETURNS
 
 May 9th, 1979. St. Michael's Church, Concord.
 
-The stained glass threw colored light across empty pews. Patty Lally sat alone in the sanctuary, listening to the silence that came after her bandmates packed up their gear and left. Four years since Camp Winaukee. Four years since she'd written seven letters to two boys who did write back—separately, telling different stories about the same events.
+The stained glass threw colored light across empty pews. Patty Lally sat alone in the sanctuary, listening to the silence that came after her bandmates packed up their gear and left. Four years since Camp Winnipesaukee. Four years since she'd written seven letters to two boys who did write back—separately, telling different stories about the same events.
 
 The letters sat in her camp notebook, folded and refolded until the creases threatened to tear. Nick's handwriting cramped and urgent, talking about his father's death like it was something he could resurrect if he played hard enough. Jackie's handwriting precise and measured, talking about classical competitions and college prep like music was a subject to be mastered, not a language to be spoken.
 
@@ -26,7 +26,7 @@ Nothing to prove. Have some fun. See some friends. Good experience.
 
 That's what she'd told her bandmates when they asked why she was entering the Battle of the Bands. But sitting alone in the church, with the letters in her lap and the silence pressing against her ears, she knew it was more than that.
 
-She was free and she knew it, she had always been free with her music. At Camp Winaukee, when they'd harmonized by the lake, she'd felt it—the way three voices could become one thing, something that didn't belong to any of them individually but existed in the space between their breath. That's what music was supposed to be. Not a weapon. Not a prayer. Not a performance.
+She was free and she knew it, she had always been free with her music. At Camp Winnipesaukee, when they'd harmonized by the lake, she'd felt it—the way three voices could become one thing, something that didn't belong to any of them individually but existed in the space between their breath. That's what music was supposed to be. Not a weapon. Not a prayer. Not a performance.
 
 Just truth.
 

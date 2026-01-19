@@ -193,7 +193,7 @@
   - Performed: Their arrangement of "Under Pressure" (acoustic)
   - Duration: 3 minutes 21 seconds
   - Result: First place
-- **Summer 1975:** **MUSIC CAMP** (Camp Winaukee)
+- **Summer 1975:** **MUSIC CAMP** (Camp Winnipesaukee)
   - Nick there on scholarship
   - Jackie because parents thought it would help applications
   - Meet Patty Lally
@@ -503,7 +503,7 @@
 - WBCN studios (location, details)
 - Boston University (Dr. Marsh connection)
 - Friendly's (chain restaurant, uniform, 1970s details)
-- Camp Winaukee (if real, verify; if fictional, make convincing)
+- Camp Winnipesaukee (if real, verify; if fictional, make convincing)
 
 ### **Real Historical Figures**
 - Ephraim Curtis (1642, verify dates/facts)

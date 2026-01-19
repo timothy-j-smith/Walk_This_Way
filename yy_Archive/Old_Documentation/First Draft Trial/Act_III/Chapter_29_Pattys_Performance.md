@@ -20,7 +20,7 @@ The audience was silent, waiting to see what this girl from the next town over w
 
 ### **"Summer of Thirteen"**
 
-Patty's first song was called "Summer of Thirteen," and it was about the summer when she'd met Nick and Jackie at Camp Winaukee, when they'd all been kids who believed that music could bridge any divide.
+Patty's first song was called "Summer of Thirteen," and it was about the summer when she'd met Nick and Jackie at Camp Winnipesaukee, when they'd all been kids who believed that music could bridge any divide.
 
 *"Summer of thirteen, everything was possible*
 *Summer of thirteen, we were all invincible*

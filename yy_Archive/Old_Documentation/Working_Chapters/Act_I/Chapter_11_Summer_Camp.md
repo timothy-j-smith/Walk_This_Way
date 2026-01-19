@@ -7,7 +7,7 @@
 
 ## CHAPTER 11: SUMMER CAMP
 
-The bus to Camp Winaukee smelled like diesel fuel and adolescent anticipation, a combination that made Nick Johnson's stomach flutter with the kind of nervous excitement that comes from stepping into the unknown. He sat next to Jackie Marsh, both of them clutching their acoustic guitars like talismans against whatever social hierarchies awaited them in the New Hampshire woods.
+The bus to Camp Winnipesaukee smelled like diesel fuel and adolescent anticipation, a combination that made Nick Johnson's stomach flutter with the kind of nervous excitement that comes from stepping into the unknown. He sat next to Jackie Marsh, both of them clutching their acoustic guitars like talismans against whatever social hierarchies awaited them in the New Hampshire woods.
 
 "Think anyone else will know about the talent show?" Nick asked, his voice carrying the particular uncertainty that comes from being thirteen and not quite sure where you fit in the world.
 
@@ -15,7 +15,7 @@ Jackie shrugged, but Nick could see the same nervousness in his friend's eyes. "
 
 The bus wound through mountain roads that seemed to climb away from everything familiar—away from Sudbury's invisible class lines, away from the expectations that came with last names and addresses, away from the subtle pressures that had begun to shape their friendship into something more complicated than it had been in the garage.
 
-Camp Winaukee looked exactly like the brochures had promised: rustic cabins that smelled like pine sap and possibility, a dining hall where food fights were democracy in action, and most importantly for their story, a music building where kids who understood that music mattered more than fitting in could find their tribe.
+Camp Winnipesaukee looked exactly like the brochures had promised: rustic cabins that smelled like pine sap and possibility, a dining hall where food fights were democracy in action, and most importantly for their story, a music building where kids who understood that music mattered more than fitting in could find their tribe.
 
 The camp director, a wiry man named Mr. Freedman who looked like he'd been teaching music since before rock and roll was invented, greeted them with the kind of enthusiasm that suggested he'd seen hundreds of kids arrive with guitars and dreams, and he still believed every one of them mattered.
 
@@ -89,7 +89,7 @@ But as Nick lay in his bunk that final night, listening to the sounds of other k
 
 The next morning, as their parents arrived to pick them up, Nick watched Jackie climb into Dr. Marsh's car—a vehicle that spoke of success and stability and a future that was already mapped out. He climbed into Grace's car—a vehicle that spoke of hard work and determination and a future that would have to be earned one day at a time.
 
-As they drove away in different directions, Nick looked back at Camp Winaukee and felt something that would become familiar over the years—the recognition that he'd just experienced something beautiful and temporary, something that couldn't survive the return to the real world.
+As they drove away in different directions, Nick looked back at Camp Winnipesaukee and felt something that would become familiar over the years—the recognition that he'd just experienced something beautiful and temporary, something that couldn't survive the return to the real world.
 
 But he also felt something else, something that would sustain him through the difficult years ahead: the memory of what was possible when three people decided to make music together instead of competing with each other.
 

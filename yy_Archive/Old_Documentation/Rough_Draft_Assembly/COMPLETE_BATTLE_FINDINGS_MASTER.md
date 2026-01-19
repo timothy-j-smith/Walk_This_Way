@@ -24,7 +24,7 @@
   - "The Ballad of Sarah Hutchinson" (1692 witchcraft)
   - "Minuteman's Lament" (Revolutionary War/prison metaphor)
   - "Common Ground" (secret weapon)
-- **SUMMER 1974 CAMP WINAUKEE REVEAL:**
+- **SUMMER 1974 CAMP Winnipesaukee REVEAL:**
   - Nick (scholarship), Jackie (applications), Patty (grandmother inheritance)
   - Two weeks making music together
   - Promises to stay in touch, form world-changing band

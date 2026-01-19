@@ -94,7 +94,7 @@
 **Needs:**
 - [ ] Pacing: Talent show might be too long?
 - [ ] Karen Bowers: Is she necessary or distraction?
-- [ ] Verify: Would Camp Winaukee be a real prize?
+- [ ] Verify: Would Camp Winnipesaukee be a real prize?
 - [ ] Emotion: Dr. Marsh's change of heart - too quick?
 
 **Strengths:**
@@ -125,7 +125,7 @@
 1. **Nick & Jackie's first meeting** - Music room, rainy Tuesday
 2. **Dan Johnson alive** - Need at least one scene of him
 3. **Dan Johnson's death** - Show it or aftermath?
-4. **Camp Winaukee** - Key scenes that damage friendship
+4. **Camp Winnipesaukee** - Key scenes that damage friendship
 5. **The girl** (if she exists) - Introduction and role
 6. **Battle of the Bands preparation** - Both sides getting ready
 7. **Battle of the Bands performance** - The actual event

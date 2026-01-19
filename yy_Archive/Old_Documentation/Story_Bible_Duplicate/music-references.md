@@ -176,7 +176,7 @@
 - [ ] What songs play at Battle of the Bands?
 - [ ] What does Nick's band play?
 - [ ] What does Jackie perform?
-- [ ] Camp Winaukee music program details
+- [ ] Camp Winnipesaukee music program details
 - [ ] Other songs in Maxanne's 4-hour broadcast
 - [ ] Background music at key scenes (parties, etc.)
 

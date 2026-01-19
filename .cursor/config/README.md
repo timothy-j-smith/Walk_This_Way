@@ -15,12 +15,12 @@ All `.json` configuration files for COMPASS are organized here for:
 
 ## 📁 FILES IN THIS DIRECTORY
 
-### Current Config Files:
+### Current Config Files
 - `DRAFT_MODES.json` - Writing mode presets (Get It Down, Make It Good, Make It Shine)
 - `settings.json` - Cursor settings for Walk This Way
 - `prompts.json` - 11 JSON prompts for writing transformations
 
-### Future Config Files:
+### Future Config Files
 - Additional COMPASS configuration files as system evolves
 
 ---

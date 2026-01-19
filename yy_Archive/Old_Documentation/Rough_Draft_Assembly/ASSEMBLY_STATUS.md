@@ -57,7 +57,7 @@ Building the complete ROUGH ROUGH DRAFT by:
 ### 🔄 Chapter 8: Summer Camp 1975 - When Harmony Was Possible
 - **Status:** Exists but needs expansion
 - **Sources:** Extra_Files + Screenplay line 521 (Patty intro)
-- **Notes:** Camp Winaukee, meet Patty, three-way friendship, "Your Song" arrangement
+- **Notes:** Camp Winnipesaukee, meet Patty, three-way friendship, "Your Song" arrangement
 
 ### 🔄 Chapter 9: The First Fracture
 - **Status:** Needs to be written

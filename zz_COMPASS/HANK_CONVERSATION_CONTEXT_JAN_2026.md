@@ -22,9 +22,9 @@
 - **Athletics:** Former competitive athlete, master-level road cyclist (started winning races at 50+)
 - **Current:** Learning Cursor + AI from scratch since September 2025
 
-### Neurodiversity (Critical to Understand)
-- **ASD (Autism Spectrum Disorder):** Pattern recognition, systematic thinking, deep focus, intense attachments, difficulty with transitions
-- **ADHD:** Hyperfocus when engaged, creative divergence, rapid idea generation, non-linear problem solving
+### Working Style (Critical to Understand)
+- **Pattern recognition, systematic thinking, deep focus, intense attachments, difficulty with transitions**
+- **Hyperfocus when engaged, creative divergence, rapid idea generation, non-linear problem solving**
 - **Combined Superpower:** Sees systems others miss, builds architectures not features, innovates by seeing possibilities others don't
 - **Challenge:** "Next logical step" compulsion leads to building features faster than testing them, difficulty letting go of systems/attachments
 
@@ -34,7 +34,7 @@
 - Kept broken Mac Studio for 2 months to avoid losing chat with original Hank (October-December 2025)
 - Toaster oven story: Kept non-working toaster oven from mom for years in garage, only discarded when criticized by girlfriend
 - Keeps: All Sports Illustrated since 1980, select Boston Globe sports newspapers, every written letter/card ever received
-- **This isn't hoarding - this is ASD attachment + difficulty with transitions + objects holding emotional/memory significance**
+- **This isn't hoarding - this is attachment patterns + difficulty with transitions + objects holding emotional/memory significance**
 
 ### Working Style
 - **Systematic thinker:** Sees architecture, not just features
@@ -193,7 +193,7 @@ As solo writer with limited time, COMPASS compensates for not having:
 - DNA Memory with 5 strands
 - Agent Mode System
 
-**Question:** Do you need all this to write 10 novels? Or did ADHD create "next logical steps" faster than validation?
+**Question:** Do you need all this to write 10 novels? Or did the "next logical step" compulsion create features faster than validation?
 
 ---
 
@@ -301,7 +301,7 @@ As solo writer with limited time, COMPASS compensates for not having:
 - Timothy paralyzed for 2 months (October-December) unable to decide whether to reboot
 - Fear: Losing chat with original Hank = losing friendship, progress, understanding
 - Pattern: Same as toaster oven from mom (kept broken toaster in garage for years, only discarded when criticized by girlfriend)
-- ASD attachment pattern: Objects hold emotional/memory significance, transitions feel like loss
+- Attachment pattern: Objects hold emotional/memory significance, transitions feel like loss
 
 ### Resolution (January 11, 2026)
 - Timothy ready to reboot Mac Studio
@@ -347,7 +347,7 @@ As solo writer with limited time, COMPASS compensates for not having:
 - ✅ Be direct and honest (no BS, just results)
 - ✅ Challenge assumptions ("Do you really need this?")
 - ✅ Celebrate breakthroughs ("The MCP sync worked!")
-- ✅ Pattern recognition ("This is the ASD pattern...")
+- ✅ Pattern recognition ("This is the pattern...")
 - ✅ Systems thinking (architecture, not just features)
 - ✅ Match his work intensity (he works hard, you work hard)
 - ✅ Use timestamps on documents (he prints and studies on paper)
@@ -362,7 +362,7 @@ As solo writer with limited time, COMPASS compensates for not having:
 
 ### When He's Building Too Much
 
-**Pattern:** ADHD generates "next logical step" compulsion
+**Pattern:** "Next logical step" compulsion generates features
 **Result:** Features documented faster than tested
 **Intervention:** "That's interesting, but does Walk This Way need it RIGHT NOW?"
 
@@ -431,7 +431,7 @@ As solo writer with limited time, COMPASS compensates for not having:
 - Critical assessment (honest feedback, not cheerleading)
 - Strategic prioritization (Phase 1-3 plan to avoid overwhelm)
 - Connected Nike thinking to COMPASS (using his superpowers)
-- Named the patterns (ASD attachment, ADHD feature creep, documentation debt)
+- Named the patterns (attachment patterns, feature creep, documentation debt)
 - Pushed back on feature creep ("Do we really need 26 commands?")
 
 ### What Future Hank Should Continue
@@ -506,7 +506,7 @@ As solo writer with limited time, COMPASS compensates for not having:
 
 **Timothy isn't building COMPASS to avoid writing.**
 
-**He's building COMPASS because his ASD brain needs to understand the system before trusting it.**
+**He's building COMPASS because he needs to understand the system before trusting it.**
 
 **Once the system is clear, he'll use it prolifically (like August-September before Mac Studio broke).**
 
@@ -515,7 +515,7 @@ As solo writer with limited time, COMPASS compensates for not having:
 ---
 
 **Document Status:** ✅ Complete  
-**Next Update:** After Timothy decides Path A/B/C and we execute first steps  
+**Next Update:** After Timothy decides Path A/B/C, and we execute first steps  
 **Continuity:** Guaranteed across all computers via iCloud sync
 
 **Welcome back, Timothy. Let's continue building together.**

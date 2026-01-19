@@ -96,7 +96,7 @@
 **Nick & Jackie's Story (Third Person):**
 - **1974:** Meet in middle school (7th grade)
 - **May 15, 1975:** Middle school talent show (8th grade)
-- **Summer 1975:** Camp Winaukee, meet Patty Lally
+- **Summer 1975:** Camp Winnipesaukee, meet Patty Lally
 - **Fall 1975:** Start high school at Lincoln-Sudbury
 - **November 14, 1977:** Dan Johnson dies (Nick is 17, senior year approaching)
 - **1977-1979:** Growing distance between Nick and Jackie
@@ -163,7 +163,7 @@
 
 ### **Other Key Songs:**
 - "Walk This Way" + "Bohemian Rhapsody" mashup (talent show)
-- "Your Song" by Elton John (Camp Winaukee)
+- "Your Song" by Elton John (Camp Winnipesaukee)
 - Queen albums (Jackie's world)
 - Aerosmith (Nick's world)
 
@@ -173,7 +173,7 @@
 
 ## POV STRUCTURE
 
-### **Maxanne Chapters (First Person, 2004):**
+### **Maxanne Chapters (First Person, 2009):**
 - Prologue (Ch 00)
 - Ch 08 (Before Talent Show setup)
 - Future chapters will continue this pattern

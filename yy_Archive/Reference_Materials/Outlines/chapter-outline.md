@@ -55,14 +55,14 @@
 - Nick & Jackie perform 8th
 - Mashup of "Dream On" + "Somebody to Love"
 - Standing ovation, win talent show
-- Prize: Camp Winaukee two-week music intensive
+- Prize: Camp Winnipesaukee two-week music intensive
 - Grace Johnson cries, Dr. Marsh realizes he was wrong about "social trajectory"
 - **Emotional beat:** Triumph, proof that collaboration across class works, peak of friendship
 
-### Chapter 7: [Title TBD - Camp Winaukee begins?]
+### Chapter 7: [Title TBD - Camp Winnipesaukee begins?]
 **[Content to be developed from complete draft]**
 - Summer 1977
-- Camp Winaukee
+- Camp Winnipesaukee
 - Introduction of complications
 - Girl character?
 
@@ -121,7 +121,7 @@
 
 ### Flashback Timeline
 - **1975 (age 13):** Ch 6 - Talent show, beginning of friendship
-- **1977 (Summer):** Ch 7-? - Camp Winaukee
+- **1977 (Summer):** Ch 7-? - Camp Winnipesaukee
 - **1977 (November 14):** Dan Johnson dies - [which chapter?]
 - **1977-1979:** Friendship fractures
 - **March 1979:** Ch 2-3 + Battle of Bands sequence
@@ -131,7 +131,7 @@
 - [ ] Daily lunch period collaborations
 - [ ] Dan Johnson alive (before November 1977)
 - [ ] Dan Johnson's funeral/aftermath
-- [ ] Camp Winaukee details
+- [ ] Camp Winnipesaukee details
 - [ ] The girl who comes between them
 - [ ] Nick's band development (the 3 Lincoln boys)
 - [ ] Jackie's classical training scenes
@@ -162,7 +162,7 @@
 1. How many chapters return to 2024 frame? Just 1 and 25, or more?
 2. Exact sequence of flashbacks - chronological or thematic?
 3. Where does Dan Johnson's death scene happen?
-4. How much detail on Camp Winaukee?
+4. How much detail on Camp Winnipesaukee?
 5. Who is the girl (if any) that complicates their friendship?
 6. What exactly happens at Battle of the Bands?
 7. What happened to Nick and Jackie after 1979?

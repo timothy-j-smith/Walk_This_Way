@@ -235,7 +235,7 @@
 #### **Chapter 8: Summer Camp 1975 - When Harmony Was Possible**
 **Current Status:** REFERENCED but not fully shown  
 **Word Count:** ~500 current / 2,500-3,000 target  
-**Content:** Summer 1975, Camp Winaukee, meet Patty, create music  
+**Content:** Summer 1975, Camp Winnipesaukee, meet Patty, create music  
 **Scenes Needed:**
 - Arrival at camp (Nick on scholarship, Jackie because parents want it)
 - Meeting Patty (the third voice)

@@ -61,7 +61,7 @@
 
 ### **Chapter 8: Summer Camp 1975 - When Harmony Was Possible**
 **Word Count:** 2,500-3,000  
-**Content:** Summer 1975, Camp Winaukee, meet Patty, create music, "Your Song" arrangement  
+**Content:** Summer 1975, Camp Winnipesaukee, meet Patty, create music, "Your Song" arrangement  
 **Status:** NEEDS EXPANSION - Establish three-way friendship
 
 ---

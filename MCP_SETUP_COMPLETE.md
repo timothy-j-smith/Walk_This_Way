@@ -219,7 +219,7 @@ GitKraken_MCP_Setup_Summary.md            # Original notes (updated)
 
 ---
 
-## 🚀 Ready to Go!
+## 🚀 Ready to Go
 
 **To complete setup, just run:**
 ```bash

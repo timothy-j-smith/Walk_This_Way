@@ -201,7 +201,7 @@ Completed comprehensive editing pass on all 13 chapters of Act I (Prologue + Cha
 
 ### **Other Songs:**
 - "Walk This Way" + "Bohemian Rhapsody" mashup (talent show) - purposeful
-- "Your Song" (Elton John) - Camp Winaukee - purposeful
+- "Your Song" (Elton John) - Camp Winnipesaukee - purposeful
 - Various Queen/Aerosmith references - establish character musical identities
 - Classical pieces (Chopin, Bach) - establish Jackie's world
 
@@ -259,7 +259,7 @@ User provided inline comments in text editor using `((comment))` format.
 
 ### **Timeline Accuracy:**
 - 1974: Nick & Jackie meet (middle school)
-- 1975: Talent show (May 15), Camp Winaukee (summer)
+- 1975: Talent show (May 15), Camp Winnipesaukee (summer)
 - 1977: Dan Johnson dies (November 14)
 - 1979: Battle of the Bands (March) - senior year
 - 2004: Maxanne narrates (WBCN closing)

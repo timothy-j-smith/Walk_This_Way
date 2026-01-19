@@ -13,7 +13,7 @@
 | --- | --- | --- |
 | **1972-1973** | Maxanne discovers Aerosmith; Nick hears “Dream On” in Dan’s truck | Music as salvation seeded |
 | **1974 (Age 12-13)** | Belt-buckle showdown → Nick & Jackie alliance | Friendship grounded in music rivalry |
-| **Summer 1975** | Camp Winaukee — Patty triangle, first composition of “Your Song” | Patty becomes emotional frequency keeper |
+| **Summer 1975** | Camp Winnipesaukee — Patty triangle, first composition of “Your Song” | Patty becomes emotional frequency keeper |
 | **Spring 1976** | Middle school talent show victory | Proof of combined power |
 | **April 13, 1976** | Dan Johnson dies in construction accident | Nick becomes “man of the house” |
 | **1976-77** | High school sorting pressures begin | Hop Brook divide hardens |

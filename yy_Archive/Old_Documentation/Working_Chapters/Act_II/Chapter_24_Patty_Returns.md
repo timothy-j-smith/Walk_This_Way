@@ -20,7 +20,7 @@ Concord was different from Sudbury. It was smaller, more insular, the kind of to
 
 But Patty had heard about what was happening in Sudbury, and it bothered her. Not because she had a stake in the outcome, but because she understood what it meant when music became a weapon instead of a bridge.
 
-"Remember that summer camp?" she said, looking at Robin with the kind of intensity that came from remembering something important. "Camp Winaukee, the summer of '75? Those two boys from Sudbury—Nick and Jackie? They were so good together. They had this thing, this connection, this way of making music that felt like magic."
+"Remember that summer camp?" she said, looking at Robin with the kind of intensity that came from remembering something important. "Camp Winnipesaukee, the summer of '75? Those two boys from Sudbury—Nick and Jackie? They were so good together. They had this thing, this connection, this way of making music that felt like magic."
 
 Robin nodded, his fingers still moving through the chord progression, his expression one of recognition. "Yeah, I remember. They won the talent show that year, didn't they?"
 
@@ -28,7 +28,7 @@ Robin nodded, his fingers still moving through the chord progression, his expres
 
 ## **THE SUMMER CAMP MEMORY**
 
-Patty had been thinking about that summer a lot lately. The three of them—Nick, Jackie, and Patty—had been inseparable for that one week at Camp Winaukee. They'd practiced together, performed together, dreamed together about what their musical futures might hold.
+Patty had been thinking about that summer a lot lately. The three of them—Nick, Jackie, and Patty—had been inseparable for that one week at Camp Winnipesaukee. They'd practiced together, performed together, dreamed together about what their musical futures might hold.
 
 Nick had been the raw talent, the kid who could make a guitar sing with emotions he couldn't put into words. Jackie had been the technical perfectionist, the kid who could arrange harmonies that made your heart stop. And Patty had been the bridge between them, the kid who could find the melody that connected their different approaches to music.
 

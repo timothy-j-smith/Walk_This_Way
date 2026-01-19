@@ -1,5 +1,5 @@
 # WALK THIS WAY
-### A Novel by Timothy J. Smith
+## A Novel by Timothy J. Smith
 
 ---
 
@@ -12,7 +12,7 @@
 
 ### Logline
 
-On the final night of WBCN radio's 56-year run, legendary DJ Maxanne Sartori tells the story of two teenage musicians—one working-class, one privileged—whose friendship and rivalry in 1970s Boston revealed the moment when American rock and roll chose division over harmony.
+On the final night of WBCN radio's 56-year run, legendary DJ Maxanne Sartori tells the story of two teenage musicians—one working-class, one privileged—whose friendship and rivalry in the 1970s Boston revealed the moment when American rock and roll chose division over harmony.
 
 ### Themes
 
@@ -78,18 +78,18 @@ Nick Johnson (working-class) and Jackie Marsh (upper-class) meet in middle schoo
 
 ## Current Status
 
-### Completed/Revised Chapters:
+### Completed/Revised Chapters
 - ✅ Chapter 1: The Last Voice of Boston Rock
 - ✅ Chapter 2: The Garage That Held More Than Cars  
 - ✅ Chapter 3: The Gilded Cage
 - ✅ Chapter 6: The Talent Show
 
-### In Progress:
+### In Progress
 - Chapters 4-5: Need extraction from complete draft
 - Chapters 7-25: Need development/revision
 
-### Key Decisions Needed:
-- Camp Winaukee details (Ch 7-8)
+### Key Decisions Needed
+- Camp Winnipesaukee details (Ch 7-8)
 - Dan Johnson's death scene placement
 - Battle of the Bands specifics (Ch 18-20?)
 - Ending resolution (Ch 25)
@@ -114,13 +114,13 @@ Nick Johnson (working-class) and Jackie Marsh (upper-class) meet in middle schoo
 
 ## Historical/Cultural Touchstones
 
-### Music:
+### Music
 Aerosmith, Queen, The Cars, J. Geils Band, The Ramones, Clash, Bowie
 
-### Venues:
+### Venues
 WBCN (104.1 FM), The Rat, Boston Tea Party, Symphony Hall
 
-### Era Markers:
+### Era Markers
 - 1979: Disco dying, punk rising, 3 years before MTV
 - Pre-corporate rock, pre-Clear Channel monopolization
 - When DJ voices mattered, when local bands could break nationally
@@ -149,8 +149,8 @@ git log                 # See history
 ## Contact
 
 **Author:** Timothy J. Smith  
-**Email:** timothy@timothyjsmith.com  
-**Project Start:** 2024  
+**Email:** <timothy@timothyjsmith.com>  
+**Project Start:** 2025  
 **Target Completion:** [TBD]
 
 ---
@@ -161,6 +161,6 @@ This novel is part of a 10-novel contract. The organizational system and templat
 
 ---
 
-**Last Updated:** October 9, 2024
+**Last Updated:** November 29, 2025
 **System Status:** ✅ COMPLETE - Ready for serious writing!
 

@@ -154,7 +154,7 @@ The opening notes of "Your Song" filled the cafeteria. Elton John's masterpiece,
 
 Chapter 14: The Song That Changed Everything
 "I need you to understand," I say, fumbling for my lighter because my hands won't stop shaking now, "what that song meant. Because 'Your Song' wasn't just another cover. It was a loaded gun pointed at the past."
-Summer of 1974. Camp Winaukee. Two thirteen-year-old boys in a practice room that smelled like mildew and possibility. Nick had been trying to learn "Walk This Way" on a guitar held together with duct tape and prayer. Jackie had been practicing Chopin etudes because that's what you did when your parents paid for lessons.
+Summer of 1974. Camp Winnipesaukee. Two thirteen-year-old boys in a practice room that smelled like mildew and possibility. Nick had been trying to learn "Walk This Way" on a guitar held together with duct tape and prayer. Jackie had been practicing Chopin etudes because that's what you did when your parents paid for lessons.
 "Play something together," the counselor had suggested, probably just trying to keep them busy while he snuck a cigarette. "Something you both know."
 They'd landed on "Your Song" because it was on the radio constantly that summer. Elton's voice coming through tinny speakers, teaching kids that love could be simple and complicated at the same time.
 "It's a little bit funny, this feeling inside," Jackie sang now in the cafeteria, his voice carrying something I'd never heard from him before. "I'm not one of those who can easily hide..."

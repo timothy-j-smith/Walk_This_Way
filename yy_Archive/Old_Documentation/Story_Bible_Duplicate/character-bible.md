@@ -49,7 +49,7 @@
 - Piano prodigy, accepted to Juilliard pre-college program
 - Struggles with parental expectations, wants to play Rock music
 - Natural ability to blend classical training with rock and roll
-**Arc:** [To be developed - friendship with Nick, Camp Winaukee, Battle of the Bands]
+**Arc:** [To be developed - friendship with Nick, Camp Winnipesaukee, Battle of the Bands]
 
 ---
 
@@ -89,7 +89,7 @@
 ## Secondary Characters
 
 ### [To be added as story develops]
-- Camp Winaukee characters
+- Camp Winnipesaukee characters
 - Other band members
 - Battle of the Bands participants
 - WBCN staff (2024)
@@ -100,7 +100,7 @@
 
 ### Nick & Jackie
 - **1975 (age 13):** Best friends, musical collaboration, won middle school talent show
-- **1977:** Camp Winaukee - [complications introduced]
+- **1977:** Camp Winnipesaukee - [complications introduced]
 - **1979:** Rivals at Battle of the Bands
 - **Key dynamic:** Class divide, different musical approaches, friendship turned to rivalry
 

@@ -107,7 +107,7 @@ The server will help you:
 - "Let's revisit the problem definition with new information"
 
 **Export your thinking:**
-- "Can you show me our full thinking process as markdown?"
+- "Can you show me our full thinking process as Markdown?"
 - "Export this session so I can review it later"
 
 ---
@@ -249,7 +249,7 @@ Try these to see Sequential Thinking in action:
 
 ---
 
-## 🎉 You're Ready!
+## 🎉 You're Ready
 
 Sequential Thinking MCP is now active in your project. Just start a conversation and ask for help thinking through complex problems. The structured approach will help you work through difficult creative and analytical challenges systematically.
 
@@ -257,5 +257,5 @@ Sequential Thinking MCP is now active in your project. Just start a conversation
 
 ---
 
-**Last Updated:** January 12, 2026  
+**Last Updated:** January 12, 2026,  
 **Your Configuration:** Enabled alongside `walk-this-way-files`

@@ -33,7 +33,7 @@
 
 - **Purpose:** Direct access to all your writing files
 - **Location:** `/Users/timothy/Library/Mobile Documents/com~apple~CloudDocs/Cursor/03_Novels/Walk This Way`
-- **Type:** Filesystem MCP (basic file access)
+- **Type:** File system MCP (basic file access)
 - **Features:** File reading, directory access
 - **Enables:** AI can reference your chapters, story bible, documentation
 - **Configuration:** `.cursor/config/mcp.json` (project) + `~/.cursor/mcp.json` (global)
@@ -49,9 +49,9 @@
 
 ## Current Setup Status
 
-### **Basic Filesystem MCP Only**
+### **Basic File System MCP Only**
 
-- ✅ **Active:** Walk This Way Files MCP (filesystem access)
+- ✅ **Active:** Walk This Way Files MCP (file system access)
 - ✅ **Configuration:** Both project and global config files created
 - ✅ **Path:** Correct iCloud location (updated from old "Original Writing" path)
 
@@ -61,7 +61,7 @@
 - ❌ **GitKraken MCP:** Requires CLI setup (deferred)
 - ✅ **GitKraken Desktop:** You have Pro subscription (for visual git work)
 
-**Note:** Basic filesystem MCP is sufficient for now. GitKraken MCP can be added later if needed.
+**Note:** Basic file system MCP is sufficient for now. GitKraken MCP can be added later if needed.
 
 ---
 
@@ -160,7 +160,7 @@ gk auth login
 
 **Key Changes:**
 - ✅ Updated path from old "Original Writing" to correct iCloud location
-- ✅ Simple filesystem MCP only (no GitKraken, no GitHub)
+- ✅ Simple file system MCP only (no GitKraken, no GitHub)
 - ✅ Both global and project config files created
 - ✅ Documentation in `.cursor/config/MCP_CONFIG.md`
 
@@ -267,7 +267,7 @@ gk auth login
 - ✅ Documentation: `MCP_SETUP_INSTRUCTIONS.md` (full guide) and `MCP_QUICK_REFERENCE.md` (quick reference)
 
 **Current Active Servers:**
-- ✅ `walk-this-way-files` (filesystem access) - **ACTIVE**
+- ✅ `walk-this-way-files` (file system access) - **ACTIVE**
 - 🔴 All other servers configured but **DISABLED** by default
 
 **To Complete Setup:**

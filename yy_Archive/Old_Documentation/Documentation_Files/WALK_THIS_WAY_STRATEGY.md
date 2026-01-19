@@ -145,7 +145,7 @@
 
 **Chapters to Focus:**
 - **Extract from complete draft** - All chapters need work
-- **Develop Camp Winaukee** - Key turning point
+- **Develop Camp Winnipesaukee** - Key turning point
 - **Dan Johnson's death** - Impact on Nick
 - **Class tensions** - External pressure
 - **Musical development** - Both characters' growth
@@ -224,7 +224,7 @@
 **Grace Johnson:** Working-class resilience
 **Dr. Richard Marsh:** Academic privilege
 **Dan Johnson:** Ghost presence, working-class dignity
-**Camp Winaukee characters:** [To be developed]
+**Camp Winnipesaukee characters:** [To be developed]
 **Battle of the Bands participants:** [To be developed]
 
 ---
@@ -268,7 +268,7 @@
 ### **Commit Strategy**
 - **After each chapter** - Commit completed work
 - **Before experiments** - Commit stable version
-- **Descriptive messages** - "Ch 7: Developed Camp Winaukee section"
+- **Descriptive messages** - "Ch 7: Developed Camp Winnipesaukee section"
 - **Regular pushes** - Backup to GitHub
 
 ### **File Organization**

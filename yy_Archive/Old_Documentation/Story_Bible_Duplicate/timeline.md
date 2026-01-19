@@ -25,7 +25,7 @@
 - Karen Bowers (blonde, voice lessons) performs 7th: "The Way You Look Tonight"
 - Nick & Jackie perform 8th: Mashup of "Dream On" + "Somebody to Love"
 - Nick & Jackie win talent show
-- Prize: Two weeks at Camp Winaukee music intensive program
+- Prize: Two weeks at Camp Winnipesaukee music intensive program
 - Standing ovation
 - Grace Johnson cries in audience
 - Dr. Richard Marsh realizes his concerns about "social trajectory" were wrong
@@ -33,7 +33,7 @@
 ### 1977
 
 **Summer 1977:**
-- Camp Winaukee - [Details to be developed]
+- Camp Winnipesaukee - [Details to be developed]
 - Introduction of complications to Nick/Jackie friendship
 - Girl whose attention they compete for [name TBD]
 
@@ -161,6 +161,6 @@
 ## Notes
 - Timeline to be updated as story develops
 - Battle of the Bands details need filling in
-- Camp Winaukee story needs development
+- Camp Winnipesaukee story needs development
 - 2024 frame structure needs planning (what gets revealed when)
 

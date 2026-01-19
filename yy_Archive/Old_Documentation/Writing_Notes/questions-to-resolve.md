@@ -8,7 +8,7 @@
 - [ ] What information gets revealed when (pacing of revelations)?
 
 ### Character Arcs
-- [ ] What exactly happens at Camp Winaukee that damages the friendship?
+- [ ] What exactly happens at Camp Winnipesaukee that damages the friendship?
 - [ ] Is there a girl who comes between them? If so, who is she?
 - [ ] How does Dan Johnson's death specifically affect Nick's relationship with Jackie?
 - [ ] Why does Jackie ultimately side with (or against) Nick?
@@ -63,7 +63,7 @@
 - [ ] Construction industry 1977 - OSHA regulations, typical accidents?
 - [ ] Sudbury, MA geography - verify Hop Brook, neighborhoods
 - [ ] Lincoln-Sudbury Regional High School - actual school?
-- [ ] Camp Winaukee - real camp or fictional?
+- [ ] Camp Winnipesaukee - real camp or fictional?
 
 ### Music Details
 - [ ] Release dates of songs mentioned - all accurate to timeline?

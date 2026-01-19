@@ -100,7 +100,7 @@
 
 ## **CHAPTER 7: Summer Camp 1974 - Before the World Explained**
 **POV:** Flashback (3rd person, Summer 1974)
-**Intent:** CRITICAL BACKSTORY. Camp Winaukee - Nick (scholarship), Jackie (resume building), PATTY (grandmother's inheritance). Two weeks making music together. Promises to stay in touch. "Then camp ended. They went back to their respective lives, their respective futures." Patty REMEMBERS.
+**Intent:** CRITICAL BACKSTORY. Camp Winnipesaukee - Nick (scholarship), Jackie (resume building), PATTY (grandmother's inheritance). Two weeks making music together. Promises to stay in touch. "Then camp ended. They went back to their respective lives, their respective futures." Patty REMEMBERS.
 **Status:** ✅ HAVE PROSE (File 53 - Chapter 8, lines 461-473)
 **Key beats:**
 - Three kids, two weeks, one frequency
@@ -241,7 +241,7 @@
 
 ## **CHAPTER 18: Patty - The Wild Card from Concord**
 **POV:** Patty (3rd person limited)
-**Intent:** Introduce PATTY properly. St. Michael's church basement, band Rumours. NOT doing covers - originals. "Common Ground," "Minuteman's Lament." She REMEMBERS Camp Winaukee 1974. Sees Nick and Jackie's rivalry as tragedy. Plans to remind them what music is really for. "Tomorrow we remind them what they forgot."
+**Intent:** Introduce PATTY properly. St. Michael's church basement, band Rumours. NOT doing covers - originals. "Common Ground," "Minuteman's Lament." She REMEMBERS Camp Winnipesaukee 1974. Sees Nick and Jackie's rivalry as tragedy. Plans to remind them what music is really for. "Tomorrow we remind them what they forgot."
 **Status:** ✅ HAVE PROSE (File 53 - Chapter 8, Wild Card)
 **Key beats:**
 - Church basement rehearsal
@@ -301,10 +301,10 @@
 
 ## **CHAPTER 23: The Song That Changed Everything**
 **POV:** Maxanne (1st person)
-**Intent:** Crown Jewels' final song: "YOUR SONG." Jackie sings it EXACTLY as he and Nick arranged it at Camp Winaukee 1974. Including the "wrong chord that sounded better." His voice CRACKS. Geography starts to blur. Nick stands up, CLAPS FIRST. Slow, deliberate applause. "Like gunshots, like prayers, like walls coming down."
+**Intent:** Crown Jewels' final song: "YOUR SONG." Jackie sings it EXACTLY as he and Nick arranged it at Camp Winnipesaukee 1974. Including the "wrong chord that sounded better." His voice CRACKS. Geography starts to blur. Nick stands up, CLAPS FIRST. Slow, deliberate applause. "Like gunshots, like prayers, like walls coming down."
 **Status:** ✅ HAVE PROSE (File 53 - Chapter 14, lines 640-655)
 **Key beats:**
-- Camp Winaukee arrangement, mistake included
+- Camp Winnipesaukee arrangement, mistake included
 - Jackie crying, makeup ruined
 - Geography blurring
 - Nick's applause = recognition

@@ -1,5 +1,5 @@
 # MCP Configuration for Walk This Way
-**Date:** January 10, 2026  
+**Date:** 2026-01-10  
 **Location:** `.cursor/config/mcp.json`  
 **Purpose:** Model Context Protocol setup for file access
 
@@ -8,7 +8,7 @@
 ## CURRENT CONFIGURATION
 
 **Single MCP Server:**
-- **Walk This Way Files** - Filesystem access to project directory
+- **Walk This Way Files** - File system access to project directory
 
 **Path:** `/Users/timothy/Library/Mobile Documents/com~apple~CloudDocs/Cursor/03_Novels/Walk This Way`
 
@@ -21,7 +21,9 @@
 - ✅ AI can read files in the project
 - ✅ Access to Story_Bible, Draft_1, documentation
 - ✅ File structure visibility
-- ✅ Basic filesystem operations
+- ✅ Basic file system operations
+// All instances of "file system" in the Walk This Way codebase should use the correctly spelled two-word form.
+// Note: If you find configuration files, comments, documentation, or code referencing "filesytem" (the misspelled version), update them to use "file system" for correctness and consistency.
 
 ---
 
@@ -55,4 +57,4 @@
 
 ---
 
-**Last Updated:** January 10, 2026
+**Last Updated:** 2026-01-10

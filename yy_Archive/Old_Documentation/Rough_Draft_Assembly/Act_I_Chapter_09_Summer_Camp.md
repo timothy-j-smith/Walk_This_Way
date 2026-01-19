@@ -8,7 +8,7 @@
 ## ASSEMBLY NOTES:
 
 **Date:** Summer 1975 (CORRECTED from 1974)
-**Location:** Camp Winaukee, New Hampshire
+**Location:** Camp Winnipesaukee, New Hampshire
 **Duration:** Two weeks
 
 ---
@@ -35,7 +35,7 @@ She wasn't the prettiest girl at camp, but she was the most magnetic. There was 
 
 **From Extra_Files/53 (lines 461-464):**
 
-In the summer of 1974 [CHANGE TO 1975], back when they were all twelve and thirteen, back before high school taught them who they were supposed to hate, there had been a regional summer music camp. Two weeks at a place called Camp Winaukee, where kids from different towns learned that music was bigger than zip codes.
+In the summer of 1974 [CHANGE TO 1975], back when they were all twelve and thirteen, back before high school taught them who they were supposed to hate, there had been a regional summer music camp. Two weeks at a place called Camp Winnipesaukee, where kids from different towns learned that music was bigger than zip codes.
 
 Nick had been there on scholarship—one of those programs designed to make rich donors feel good about themselves. Jackie had been there because his parents thought it would look good on future applications. Patty had been there because her grandmother had left her a small inheritance with the stipulation that it be used for "something beautiful."
 

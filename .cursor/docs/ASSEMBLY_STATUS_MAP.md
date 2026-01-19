@@ -127,7 +127,7 @@
 **Status:** HAVE COMPLETE PROSE
 **Source:** File 53 - Chapter 8 Wild Card (lines 461-473)
 **What we have:**
-- Summer 1974, Camp Winaukee
+- Summer 1974, Camp Winnipesaukee
 - Nick (scholarship), Jackie (applications), Patty (grandmother's inheritance)
 - Two weeks making music together
 - Promises to stay in touch
@@ -287,7 +287,7 @@
 - Patty at St. Michael's church basement
 - Band "Rumours" rehearsing
 - Original songs: "Common Ground," "Minuteman's Lament," "Ballad of Sarah Hutchinson"
-- Patty remembers Camp Winaukee 1974
+- Patty remembers Camp Winnipesaukee 1974
 - "Tomorrow we remind them what they forgot"
 
 ---
@@ -353,7 +353,7 @@
 **Source:** File 53 - Chapter 14 (lines 640-655)
 **What we have:**
 - Crown Jewels' final song
-- Jackie sings it EXACTLY as he and Nick arranged at Camp Winaukee
+- Jackie sings it EXACTLY as he and Nick arranged at Camp Winnipesaukee
 - Including the "wrong chord that sounded better"
 - Voice CRACKS - first imperfect note
 - Geography starts to blur

@@ -11,7 +11,8 @@
 3. [COMPASS Core vs Premium](#compass-core-vs-premium)
 4. [File Types Guide](#file-types-guide)
 5. [Critical Clarifications](#critical-clarifications)
-6. [Quick Reference](#quick-reference)
+6. [MCP Setup Checklist](#mcp-setup-checklist)
+7. [Quick Reference](#quick-reference)
 
 ---
 
@@ -491,6 +492,29 @@ git push
 
 ---
 
+## 🚀 MCP SETUP CHECKLIST
+
+### **⚠️ CRITICAL: When Starting a New Novel**
+
+**Filesystem MCP must be configured for each novel!** Each novel needs its own `.cursor/config/mcp.json` with novel-specific paths.
+
+**Quick Checklist:**
+1. ✅ Create `.cursor/config/mcp.json` in novel root
+2. ✅ Add Filesystem MCP with **novel-specific path** (absolute path)
+3. ✅ Configure core MCPs (Sequential Thinking, COMPASS Writing Guides, etc.)
+4. ✅ Test MCPs after restarting Cursor completely
+
+**Why Project-Specific:**
+- ✅ **Isolation:** Each novel has its own MCP scope
+- ✅ **Portability:** Config stays with project
+- ✅ **Version Control:** MCP config in Git with project
+
+**Detailed Guide:** See `zz_COMPASS/MCP_INTEGRATION.md` for complete setup checklist and template.
+
+**Common Mistake:** Forgetting to set up Filesystem MCP for new novel! ⚠️
+
+---
+
 ## 🚀 TROUBLESHOOTING
 
 ### **Can't Find File?**
@@ -508,18 +532,24 @@ git push
 - Verify repository is initialized
 - Check remote URL: `git remote -v`
 
+### **MCP Not Working?**
+- Verify paths in `.cursor/config/mcp.json` are **absolute** (not relative)
+- Restart Cursor completely (Cmd+Q, don't just reload)
+- Check MCP paths point to correct folders
+- Filesystem MCP must point to **novel folder** (not COMPASS folder)
+
 ---
 
 ## 📝 NOTES
 
 - **Story_Bible errors:** Dr. Marsh profession needs correction (Economist/Psychiatrist/Surgeon)
-- **MCP:** May already exist but needs verification/configuration
+- **MCP Configuration:** Each novel needs its own `.cursor/config/mcp.json` - See `MCP_INTEGRATION.md` for setup checklist
 - **.cursorignore:** Current standard (not `.cursor/ignore/`)
 - **Multi-root workspaces:** Will be useful when COMPASS extracted
 
 ---
 
-**Last Updated:** Saturday, November 29, 2025  
+**Last Updated:** January 17, 2026 21:40 PST  
 **Status:** Comprehensive guide complete
 
 

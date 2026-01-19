@@ -18,7 +18,7 @@
 1. **walk-this-way-files** - Filesystem access to your novel files
 
 ### 🔴 CONFIGURED BUT DISABLED (disabled: true)
-2. **github** - GitHub repository access
+2. **GitHub** - GitHub repository access
 3. **gitkraken** - GitKraken git operations
 4. **duckduckgo-search** - Web search for research
 5. **sequential-thinking** - Structured problem-solving
@@ -56,7 +56,7 @@ gk auth login
 ### 2. Set Up GitHub Token
 
 **Create GitHub Personal Access Token:**
-1. Go to: https://github.com/settings/tokens
+1. Go to: <https://github.com/settings/tokens>
 2. Click "Generate new token (classic)"
 3. Select scopes: `repo`, `read:user`, `read:org`
 4. Copy the token (starts with `ghp_`)
@@ -178,7 +178,7 @@ You can also comment out entire server blocks:
 - sequential-thinking
 
 **Disabled:**
-- github, gitkraken, compass-writing-guides
+- GitHub, gitkraken, compass-writing-guides
 
 **Use for:** Historical research, fact-checking
 
@@ -187,7 +187,7 @@ You can also comment out entire server blocks:
 ### Profile 3: Development Mode
 **Enabled:**
 - walk-this-way-files
-- github
+- GitHub
 - gitkraken
 
 **Disabled:**

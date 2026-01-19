@@ -112,9 +112,9 @@
 **Status:** EXISTS - Needs expansion to establish three-way friendship  
 **Word Count:** 2,500-3,000  
 **File Reference:** Extra_Files/15. 08:30:25 Walk This Way Revisions 10PM TXT copy 3.txt (lines 248-256) and Extra_Files/53. Crash The Silence: Full Novel TXT copy 2.txt (lines 461-464)  
-**Intent:** Summer 1975, Camp Winaukee, meet Patty, create music, "Your Song" arrangement - establishes the three-way friendship, the "what if"  
+**Intent:** Summer 1975, Camp Winnipesaukee, meet Patty, create music, "Your Song" arrangement - establishes the three-way friendship, the "what if"  
 **Key Beats:**
-- Camp Winaukee arrival (Nick on scholarship, Jackie for applications)
+- Camp Winnipesaukee arrival (Nick on scholarship, Jackie for applications)
 - Meeting Patty Lally (wheat-colored hair, magnetic personality)
 - First time all three play together
 - Creating "Your Song" arrangement together

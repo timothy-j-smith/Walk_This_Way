@@ -115,7 +115,7 @@
 
 ## Boston Music Scene References
 
-### Bands Mentioned:
+### Bands Mentioned
 - **Aerosmith:** "Four guys from New Hampshire who thought they could take on the world"
 - **Steven Tyler:** Hair caught in mixing board (1972), sent bourbon for final broadcast
 - **J. Geils:** "Just a kid with a harmonica and a dream"
@@ -123,7 +123,7 @@
 - **Boston:** Self-explanatory
 - **The Ramones:** Played The Rat in '77 (Joey ducked under pipes)
 
-### Venues:
+### Venues
 - **WBCN 104.1 FM:** "The Rock of Boston" (56 years)
 - **The Rat:** Legendary club, now luxury condos
 - **Symphony Hall:** Referenced as contrast
@@ -132,7 +132,7 @@
 
 ## Music as Theme
 
-### Key Thematic Uses of Music:
+### Key Thematic Uses of Music
 
 **Democracy's Wild Card:**
 - "Music has always been democracy's wild card"
@@ -177,7 +177,7 @@
 - [ ] What songs play at Battle of the Bands?
 - [ ] What does Nick's band play?
 - [ ] What does Jackie perform?
-- [ ] Camp Winaukee music program details
+- [ ] Camp Winnipesaukee music program details
 - [ ] Other songs in Maxanne's 4-hour broadcast
 - [ ] Background music at key scenes (parties, etc.)
 

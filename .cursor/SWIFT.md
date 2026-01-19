@@ -1,0 +1,1219 @@
+# S.W.I.F.T.
+
+**Strategic Workflow Innovation Footwear Timelines**
+
+*Nike Footwear Innovation Executive Publication*  
+*Version 1.0 | January 2026*
+
+---
+
+## THE INNOVATION TEAM'S DAILY REALITY
+
+Every innovation program lives or dies by its timeline. But innovation is inherently uncertain—programs start late, requirements change, unexpected challenges emerge.
+
+Imagine coordinating 200+ people across Design, Engineering, Testing, Manufacturing, and Production. Each function moves at different rhythms. Each speaks a different language. Without a unified operating system, this becomes dependency chaos.
+
+SWIFT (Strategic Workflow Innovation Footwear Timelines) is that unified operating system. Built by the Innovation Team, for the Innovation Team. It understands how innovation actually works—with ambiguity, with pivots, with the need to adapt.
+
+SWIFT by name, swift by nature. It makes timelines work FOR innovation teams, not against them. Structure AND flexibility. Not forced to choose.
+
+### The Challenge Innovation Teams Face
+
+Nike operates global, multi-year innovation pipelines with fundamentally different rhythms across functions:
+
+- **Design and NXT** move fluidly through ideation and iteration
+- **NSRL and FPT** require structured testing protocols and validation windows
+- **CODE** demands precise integration gates and data handshakes
+- **Category** maintains long-track strategic continuity
+- **Factory and Production** operate on fixed capital cycles and tooling schedules
+
+Without a unified operating language, these asymmetric rhythms create dependency chaos, missed windows, and late-cycle firefighting.
+
+### Why Traditional Systems Fail
+
+Most project management systems are built for predictable work. They assume:
+- Requirements are known upfront
+- Timelines are fixed
+- Dependencies are linear
+- Change is the exception, not the rule
+
+Innovation work is none of these things. Innovation requires:
+- Exploration and experimentation
+- Pivots when evidence changes direction
+- Ambiguity early, clarity late
+- Flexibility where it matters, structure where it's critical
+
+Traditional systems force innovation teams to choose: structure OR flexibility. SWIFT gives them both.
+
+### The SWIFT Philosophy
+
+SWIFT was built from the ground up with one core principle: **innovation requires both structure and flexibility.**
+
+- **Structure** where it matters: immovable gates that protect manufacturing, safety, and integration integrity
+- **Flexibility** everywhere else: workstreams that adapt to program needs, compress when necessary, pivot when evidence demands it
+
+This isn't a compromise. It's a design philosophy that recognizes innovation's reality: uncertainty early, clarity late, and the need to adapt continuously.
+
+### The Human Behavior Change Approach
+
+SWIFT wasn't built to force adoption. It was built to earn it.
+
+The philosophy is simple: **once people use SWIFT, they never go back to the old way.**
+
+This happens through:
+- **Flexibility and customization** that adapts to how teams actually work
+- **Intuitive interface** that hides complexity behind simplicity
+- **Automation** that eliminates busy work, freeing time for innovation
+- **Living, live tool** that evolves with user feedback
+
+Adoption is about human behavior change, not forced compliance. SWIFT earns adoption by making innovation work better.
+
+---
+
+## SWIFT: THE INTERFACE THAT HIDES COMPLEXITY
+
+### The Airtable Foundation
+
+SWIFT is built on Airtable—a powerful platform with numerous interacting tables and linked records that create a sophisticated data layer. This foundation enables:
+
+- Cross-functional data relationships
+- Automated calculations and timeline logic
+- Real-time updates across global teams
+- Complex workstream coordination
+
+But here's what makes SWIFT different: **users never see this complexity.**
+
+### The Interface Layer
+
+SWIFT presents an app-like experience that hides the data layer's complexity. The Program Management Hub displays clean navigation, intuitive modules, and clear workflows. The navigation sidebar organizes modules logically. Dashboard views provide executive summaries and program overviews at a glance.
+
+**What users see:** Their work, their programs, their next steps.
+
+**What SWIFT handles:** Data relationships, cross-functional coordination, timeline calculations, workstream synchronization.
+
+### The Philosophy: Simplicity Hides Complexity
+
+Innovation teams don't need to see the data layer. They need to see their work, their programs, their next steps. By handling much of the busy work through automations and an intuitive interface, more time can be spent on innovating instead of creating presentation-level updates that become obsolete (static) as soon as they are created.
+
+**SWIFT is a living, live tool—not a static snapshot.**
+
+### The Result
+
+Teams work faster, smarter, without being overwhelmed. They see what they need, when they need it. The system handles the complexity behind the scenes, enabling teams to focus on what matters: innovation.
+
+---
+
+## THE SWIFT ECOSYSTEM: MODULES THAT WORK TOGETHER
+
+SWIFT is more than a timeline tool. It's an ecosystem of integrated modules, each serving a specific purpose in the innovation journey. Each module works independently but connects seamlessly with others, creating a unified operating system.
+
+### Timeline: The Rhythm
+
+**What it is:** The week-based calendar that sets the tempo for everything. Week 260 → Week 0 countdown. Scenario Planning enables teams to see multiple futures, compare launch seasons, and adapt quickly.
+
+**Why it matters:** Innovation teams need to see time clearly, adapt quickly. The Timeline module provides the steady rhythm that keeps all teams synchronized and moving forward together.
+
+**The metaphor:** Timeline is like the rhythm of SWIFT—setting the steady tempo that keeps all teams synchronized and moving forward together.
+
+**How it helps:**
+- Season-agnostic week numbers work for any launch
+- Scenario Planning shows multiple futures with one click
+- Teams always know where they are, how much time remains
+- The Footwear Innovation Calendar is embedded within Timeline, and every workstream can be viewed standalone—you can pick and choose which workstreams are visible, and at any time invoke Scenario Planning to view other timelines if program needs shift
+
+### Planning: The Blueprint
+
+**What it is:** Program folders that capture product briefs and ethos. Links to project folders and Miró boards. Team coordination tools for 30/60/90/120 day plans. Program team contact information. Critical issues tracking. Key Program Meeting preparation.
+
+**Why it matters:** Innovation needs structure, but structure that adapts. Planning provides the structural foundation that guides teams while remaining flexible enough to adapt as innovation evolves.
+
+**The metaphor:** Planning is like the blueprint of SWIFT—providing the structural foundation that guides teams while remaining flexible enough to adapt as innovation evolves.
+
+**How it helps:**
+- Centralized program information accessible globally
+- Team coordination across time zones and functions
+- Critical issues tracked and visible
+- Meeting preparation streamlined
+
+### Readiness: The Checkpoint
+
+**What it is:** Program Phase Readiness assessment. Innovation Readiness Assessment (IRA). Critical Issues tracking.
+
+**Why it matters:** Innovation teams need to know: Are we ready? What's missing? Readiness keeps teams honest about what's really ready and what still needs work.
+
+**The metaphor:** Readiness is like the conscience of SWIFT—it keeps teams honest about what's really ready and what still needs work.
+
+**How it helps:**
+- Clear visibility into program readiness at each phase
+- Innovation Readiness Assessment provides structured evaluation
+- Critical Issues surface early, before they become blockers
+- Teams know exactly what's needed to move forward
+
+### FPT: The Feedback Loop
+
+**What it is:** Footwear Product Testing module that links programs with field tests. Tracks athlete feedback and Sports Research Lab testing results. Connects innovation to real-world performance validation.
+
+**Why it matters:** Innovation needs real-world proof, not just theory. FPT connects innovation to real-world performance through athlete testing and Sports Research Lab validation.
+
+**The metaphor:** FPT is like the feedback loop of SWIFT—connecting innovation to real-world performance through athlete testing and Sports Research Lab validation.
+
+**How it helps:**
+- Field test results drive program decisions immediately
+- Athlete feedback integrated into design iterations
+- Sports Research Lab validation provides performance proof
+- Real-world testing informs innovation direction
+
+### Library: The Archive
+
+**What it is:** One-stop document repository. Tech Details including Tech Packs and Tech Drawings. Asia feedback. Digital Assets (siping, jet printing, etc.). Key Reports (LT updates). All testing reports from NSRL, M&M, FEA. Critical onshore and offshore trials documentation.
+
+**Why it matters:** Innovation teams need quick access to everything, not scattered files. Library stores every document, report, and detail teams need to access instantly.
+
+**The metaphor:** Library is like the memory of SWIFT—storing every document, report, and detail teams need to access instantly.
+
+**How it helps:**
+- No more searching through scattered folders
+- All program documentation in one place
+- Quick access to historical decisions and learnings
+- Complete program record for future reference
+
+### Footwear Builder & Sample Pipeline: The Bridge
+
+**What it is:** Combined module for technical and aesthetic footwear details communicated with Asia and Italy counterparts. Sample build requests and tracking system. Asia & Italy partners have dedicated interface for building footwear and initiating sample tracking. PMO and Factory Partner integration.
+
+**Why it matters:** Innovation happens globally, needs seamless communication and efficient sample delivery. Footwear Builder & Sample Pipeline connects global teams and enables the flow of technical details, builds, and samples across borders.
+
+**The metaphor:** Footwear Builder & Sample Pipeline is like the bridge of SWIFT—connecting global teams and enabling the flow of technical details, builds, and samples across borders.
+
+**How it helps:**
+- Systematic builds eliminate ambiguity
+- Faster sample delivery with improved quality
+- Asia & Italy partners have interface tailored to their needs
+- PMO and Factory Partners work more efficiently
+- Value proposition: time saved, quality improved
+
+### How Modules Work Together
+
+These modules don't operate in isolation. They're designed to work together:
+
+- **Timeline** sets the rhythm, **Planning** provides the blueprint
+- **Readiness** checks progress, **FPT** validates performance
+- **Library** archives everything, **Footwear Builder & Sample Pipeline** connects globally
+
+Together, they create a unified operating system that serves as the hub for all checks and balances, enabling teams to move projects forward with clarity and confidence.
+
+---
+
+## FLEXIBILITY & ADAPTATION: HOW SWIFT HANDLES REALITY
+
+### Why Flexibility Is Core to SWIFT
+
+Innovation is inherently uncertain. Programs start late. Pull forwards happen. Mid-cycle pivots occur. Late adds emerge. Fast-track programs demand acceleration. Requirements change.
+
+SWIFT was designed from the ground up to handle this reality. The system provides structure without brittleness, clarity without rigidity, and predictability without constraint.
+
+### The Innovation Team's Reality
+
+Innovation teams work in a world where:
+- Programs start 8 weeks late and still need to launch on time
+- Design pivots happen mid-cycle when new evidence emerges
+- Launch seasons change based on market conditions
+- Fast-track programs compress timelines without breaking quality
+- Pull forwards accelerate timelines when opportunities arise
+
+SWIFT handles all of this through a framework of **flex zones** and **immovable gates**.
+
+### Flex Zones vs. Immovable Gates
+
+**Flexible Elements:**
+- NXT Review timing and frequency
+- Design Tech Pack iteration cycles
+- Category long-track touchpoint frequency
+- Internal alignment meeting structures
+- Test planning windows (within validation pulse constraints)
+
+**Why these flex:** They represent internal program work that can compress, merge, or accelerate without affecting downstream manufacturing or integration commitments.
+
+**Immovable Elements:**
+- CODE integration gates
+- Factory Trials
+- NSRL/FPT Dress Rehearsal
+- Production Start
+- Launch Week
+
+**Why these don't flex:** They involve external dependencies (factories, suppliers, tooling vendors), capital commitments, safety validation requirements, or global operations synchronization. Moving these creates expensive cascading failures.
+
+### Real-World Examples
+
+**Example 1: Program Starts 8 Weeks Late**
+- IMAGINE phase compressed from 26 weeks to 18 weeks
+- First two Explore Reviews merged into one
+- All PROVE-phase validation pulses maintained (testing cannot compress)
+- All CODE gates and Factory Trials protected
+- **Result:** Program lands on time with managed risk
+
+**Example 2: Mid-Cycle Design Pivot at Week 180**
+- Assess: Still in PROVE phase, manageable timing
+- Tech Pack progression re-baselined
+- Additional NSRL validation pulse added to re-prove benefit
+- Refine Review -3 pushed back by 2 weeks
+- All downstream gates protected
+- **Result:** Pivot absorbed without impacting launch
+
+**Example 3: Factory Trial #1 Reveals Unexpected Issue at Week 76**
+- Escalate immediately (this is what trials are for)
+- Assess options: redesign, material substitution, process adjustment
+- If fixable in 4 weeks: proceed to Trial #2 as planned
+- If needs 8+ weeks: escalate to leadership for launch decision
+- **Result:** Issue surfaced and resolved at the right escalation point
+
+### The Philosophy
+
+Structure enables flexibility. Flexibility enables innovation.
+
+SWIFT provides the structure (week-based calendar, clear gates, decision windows, validation pulses) that enables flexibility (late starts, mid-cycle pivots, workstream compression) without compromising readiness.
+
+This is why SWIFT scales across programs, seasons, and complexity levels. The system adapts to the innovation, not the other way around.
+
+---
+
+## THE FOOTWEAR INNOVATION CALENDAR: TIMELINES THAT ADAPT
+
+### The Week-Based System
+
+The Footwear Innovation Calendar is the backbone of SWIFT—a five-year blueprint expressed in week numbers. Week 260 represents five years before launch. Week 0 is launch. Everything in between is expressed as an offset from launch.
+
+**Why Week Numbers:**
+- **Season-agnostic:** The same calendar structure works for Spring, Fall, Holiday, or any seasonal launch
+- **Reusable:** Every program follows the same week-based logic regardless of launch season
+- **Clear:** Teams immediately understand how far they are from launch and how much time remains
+- **Coordination:** Global partners can synchronize without constant translation between time zones and local calendars
+
+### Core Principles
+
+**Launch Week (W0) is the Only Absolute**
+Everything else is expressed as an offset from launch. This creates temporal clarity and enables season-agnostic planning.
+
+**Ambiguity Cost Curve**
+The system recognizes that ambiguity early is healthy (exploration requires it), ambiguity mid-cycle is manageable (iteration absorbs it), but ambiguity late is expensive (production cannot tolerate it).
+
+**Intent Over Process**
+The calendar defines what needs to happen and why, not how it happens. Teams retain autonomy within their decision windows.
+
+**Phases Define Posture, Not Deliverables**
+Each phase is characterized by intent and decision posture, not rigid deliverables.
+
+### The Six Phases
+
+**IMAGINE (Week 260 → Week 235)**
+- **Intent:** Inspiration and direction-finding
+- **Decision Posture:** Open exploration
+- **Outcomes:** Concept with potential
+
+The IMAGINE phase is about possibility. Teams explore trends, identify opportunities, and develop initial hypotheses. Decisions are lightweight and reversible.
+
+**EXPLORE (Week 234 → Week 209)**
+- **Intent:** Pattern confirmation
+- **Decision Posture:** Structured experimentation
+- **Outcomes:** Confirmed potential
+
+Teams test initial concepts through early prototypes and validation. The goal is to confirm (or disconfirm) the original hypothesis with evidence.
+
+**PROVE (Week 208 → Week 157)**
+- **Intent:** Proving benefit
+- **Decision Posture:** Evidence-driven confidence building
+- **Outcomes:** High confidence in value proposition
+
+This is the longest phase. Teams develop working prototypes, conduct structured testing, and build the case for the innovation. By the end of PROVE, the program should have clear evidence of performance benefit.
+
+**REFINE (Week 156 → Week 105)**
+- **Intent:** Integrating and improving
+- **Decision Posture:** Convergence toward singular solution
+- **Outcomes:** Integrated, manufacturable design
+
+The REFINE phase brings everything together—design, engineering, manufacturing feasibility, and system integration. Solutions converge from many variants to one singular design.
+
+**FINALIZE (Week 104 → Week 1)**
+- **Intent:** Validating and aligning
+- **Decision Posture:** Readiness proofs
+- **Outcomes:** Launch-ready product
+
+This phase is about proving readiness through factory trials, dress rehearsals, and final validation. No technical debt is deferred past this phase.
+
+**LAUNCH (Week 0)**
+- **Intent:** Delivering to market
+- **Decision Posture:** Execute
+- **Outcomes:** Product in consumer hands
+
+The culmination of five years of innovation work.
+
+### Scenario Planning: Seeing Multiple Futures
+
+Scenario Planning is the fundamental flexible project Calendar tool within SWIFT. It allows teams to:
+- Look at various scenarios with varying launch seasons
+- Compare and contrast different launch seasons
+- Move a program forward or push a season back
+- See what's possible with different timeline configurations
+
+**How it works:** With one click, Scenario Planning creates automated timelines. Teams can modify launch seasons at any point in time, and SWIFT adapts immediately. As the business and plans change, SWIFT is right there with these plans and not missing a beat.
+
+**The Result:** Teams always know where they are, how much time remains, and what's possible. With SWIFT, communication becomes clear, focused planning enables fast-track execution, and the system adapts to time compression and launch season changes—enabling informed trade-offs rather than chaos.
+
+---
+
+## HOW SWIFT WORKS: DECISION WINDOWS, VALIDATION PULSES, WORKSTREAM RHYTHMS
+
+### Decision Windows: Batched Moments for High-Quality Decisions
+
+Instead of continuous status updates and ad-hoc meetings, SWIFT concentrates decisions into scheduled windows with clear inputs and outputs.
+
+**Structure:**
+- Pre-reads delivered 24-48 hours in advance
+- Decision-quality artifacts (not exhaustive documentation)
+- Single outcome: Go / Iterate / No-Go
+- Immediate documentation and communication
+
+**Why it matters:** Innovation teams need focused decision time, not constant meetings. Decision Windows reduce context-switching for leaders, improve decision quality through preparation, create traceable decision history, and protect team focus between windows.
+
+**Example Decision Windows:**
+- NXT Reviews (Create A, Create B, Prove, Refine, Finalize)
+- Category Long-Track Checkpoints
+- Design Tech Pack Reviews
+
+### Validation Pulses: Complete Test Loops
+
+Validation Pulses structure testing and validation as complete loops within a single window.
+
+**Pulse Structure:**
+- **Plan:** Protocol, instrumentation, success criteria
+- **Execute:** Test execution with proper controls
+- **Analyze:** Data analysis and interpretation
+- **Act:** Decisions and next steps
+
+**Critical Rule:** Analysis and action must occur within the pulse window. No lagging readouts weeks after testing completes.
+
+**Why it matters:** Innovation needs immediate feedback, not lagging readouts. NSRL/FPT Testing Pulses follow this rhythm, ensuring that test results drive immediate program decisions rather than creating information debt.
+
+### Workstream Rhythms: Natural Cadences, Shared Milestones
+
+Each functional workstream operates at its natural cadence while maintaining alignment through shared milestones.
+
+- **Category:** Portfolio continuity through long-track strategy. Fewer, higher-leverage touchpoints that maintain strategic alignment across seasons.
+- **NXT Milestones & Reviews:** Decision-making cadence for innovation programs. Reviews structured as Go/Iterate/No-Go gates with clear progression criteria.
+- **Design Deadlines:** Tech Pack evolution and locks. Progressive refinement from initial concepts to final locked specifications.
+- **NSRL/FPT Testing:** Validation pulses that generate evidence and drive decisions. Structured test packs with clear protocols and immediate readouts.
+- **CODE:** Integration gates that set the tempo for technical readiness. These gates are the metronome for the entire system—API freeze, contract lock, integration readiness, data handshake.
+- **Factory/Production:** Feasibility checks, trials, and production readiness. These are proof events that validate manufacturability and scale.
+- **Trials:** Readiness proofs at increasing scales. Used as escalation points for unresolved technical or manufacturing risk.
+- **Travel & Holidays/PTO:** Intentional pacing buffers built into the calendar to manage governance cadence and prevent team burnout.
+
+**Why it matters:** Innovation teams work differently, but need coordination. Workstream Rhythms allow each function to operate at its natural pace while maintaining alignment through shared milestones.
+
+### Governance Rules: Immovable Gates + Flexible Workstreams
+
+SWIFT governance is simple: some things are fixed, most things are flexible.
+
+**Immovable Gates:**
+- CODE Gates (API Freeze, Contract Lock, Integration, Handshake Validation)
+- NSRL/FPT Dress Rehearsal
+- Factory Trials (#1 and #2)
+- Production Start
+- Launch Week
+
+**Why these are immovable:** They define integration integrity, manufacturability, data readiness, tooling schedules, safety validation, and global operations synchronization. Moving these creates cascading failures across factory bookings, supplier slots, code integrations, and commercialization.
+
+**Flexible Workstreams:**
+- NXT Reviews (can merge adjacent windows)
+- Design Tech Packs (can slim artifacts while maintaining decision quality)
+- Category Long-Track (can reduce touchpoints while maintaining strategic rigor)
+- Internal Alignment (can shift from multiple meetings to async + one live decision)
+- Travel/PTO windows (can be used strategically as compression buffers)
+
+**Why these are flexible:** These workstreams are designed to absorb program variability. They can compress, merge, or shift without compromising downstream readiness.
+
+**The Balance:** Innovation needs structure where it matters, flexibility everywhere else. SWIFT provides both.
+
+---
+
+## SWIFT'S EVOLUTION: BUILT BY THE TEAM, FOR THE TEAM
+
+### The Organic Evolution
+
+SWIFT grew with business needs, adapted to user feedback. It didn't start as a complete system—it evolved organically, responding to what innovation teams actually needed.
+
+**Current State:** SWIFT has officially launched the Sample Build/SRF module, Scenario Planning, and Readiness. The majority of modules are ready for adoption when the time is right, with more modules coming soon. This organic approach—allowing teams to discover and adopt SWIFT naturally—reflects the philosophy that adoption is about human behavior change, not forced compliance.
+
+### The Adoption Philosophy
+
+SWIFT wasn't built to force adoption. It was built to earn it.
+
+**Key Principles:**
+- **Not forced adoption** - Teams discover SWIFT's value naturally
+- **Built with flexibility and customization** - SWIFT adapts to how teams work
+- **"Once people use SWIFT, they never go back to the old way"** - Value speaks for itself
+- **Currently finalizing sophisticated, custom-based reporting capabilities and interfaces** that will accelerate adoption
+
+The challenge has been human behavior change—the unwillingness to force people to use new systems. SWIFT's philosophy: provide so much value that adoption becomes natural, not mandatory.
+
+### Current Evolution
+
+SWIFT is evolving rapidly with new capabilities:
+
+- Custom dashboards
+- Flexible reporting
+- Presentation-ready slides
+- Design Deadlines
+- Tech Pack Deadlines
+- Idea tracking
+- Costing
+- Nike Vision-Mission-Maxims integration
+
+### The APP Vision
+
+Moving toward mobile application for appropriate modules. Like Apple's software updates, SWIFT evolves continuously—the core platform remains stable while enhancements and new capabilities improve the system for all users.
+
+**Continuous Improvement:** SWIFT receives regular updates that enhance functionality while maintaining platform stability. The basic product remains the same, but software updates make it better—just like Apple's approach to product evolution.
+
+### Development Priorities
+
+Development is user feedback-driven, guided by strategic program needs. SWIFT grows with the innovation teams it serves, adapting to their evolving requirements.
+
+### Partnership Opportunities
+
+Other functions can leverage SWIFT's automated system that works across all of Footwear Innovation. The Footwear Innovation Calendar is embedded within SWIFT's Timeline module, and every workstream can be viewed standalone—you can pick and choose which workstreams are visible, and at any time invoke Scenario Planning to view other timelines if program needs shift.
+
+The Rhythm (timeline management) and Blueprint (planning structure) philosophies are proven, and the system is flexible and adaptable—ready to add new milestones, adjust dates, and evolve with partner needs.
+
+**Why this matters:** While other functions within Footwear Innovation are attempting to create new platforms that essentially do what SWIFT has already proven, SWIFT offers partnership opportunities. This isn't a defense mechanism—it's an awareness with the ability to share and partner with the right functions.
+
+---
+
+## APPENDIX A: COMPLETE WORKSTREAM GUIDE
+
+### Category
+
+**Purpose:** Maintain portfolio continuity and strategic alignment across multi-year arcs.
+
+**Key Milestones:**
+- XLT (Extra Long Track) Brief Kickoffs and Deadlines
+- LT (Long Track) Brief Kickoffs and Deadlines
+- Product Alignment moments (PA, PR, GGP, SPA)
+- Long-Term Weartests
+- BOM Deadlines at key gates
+
+**Operating Principle:** Category works at portfolio scale, not program scale. Fewer touchpoints, higher strategic leverage. Long-track items create continuity that absorbs program-level variability.
+
+### NXT Milestones & Reviews
+
+**Purpose:** Drive innovation programs through structured decision-making.
+
+**Key Milestones:**
+- Pitch & Brief (program initiation)
+- Explore Reviews (pattern confirmation)
+- Prove Reviews (benefit validation)
+- Refine Reviews (solution convergence)
+- Finalize Review (readiness confirmation)
+- Innovation Launch (program completion)
+- QSG (Quick Start Guide) and Tech Manual milestones
+
+**Operating Principle:** Reviews are decision gates with clear Go/Iterate/No-Go outcomes. Not status updates, not information sharing—decisions.
+
+### Design Deadlines
+
+**Purpose:** Evolve product specifications from concept to locked Tech Packs.
+
+**Key Milestones:**
+- Tech Pack #1 (component baseline)
+- Tech Pack #2 (proto-ready)
+- Tech Pack #3 (refined)
+- Tech Pack #4 (final lock)
+
+**Operating Principle:** Progressive refinement with decision-quality content at each stage. Final lock timing may vary but is typically protected near Factory Trial windows.
+
+### NSRL/FPT Testing
+
+**Purpose:** Generate validation evidence through structured testing protocols.
+
+**Key Milestones:**
+- Test Pack planning windows
+- Test execution windows
+- Dress Rehearsal (final validation proof)
+
+**Operating Principle:** Validation pulses with immediate analysis and action. No lagging readouts. Testing drives decisions, not reports.
+
+### CODE
+
+**Purpose:** Ensure technical integration readiness and data integrity.
+
+**Key Milestones:**
+- API Specification Freeze
+- Interface Contract Lock
+- Integration Readiness Gate
+- Data Handshake Validation
+
+**Operating Principle:** CODE gates are immovable. They set the tempo for the entire system. Programs adjust around CODE, not through it.
+
+### Air
+
+**Purpose:** Develop and validate Air cushioning technology through structured flow stages.
+
+**Key Milestones:**
+- Air Flow 1: EXPLORE
+- Air Flow 2: FEASIBILITY
+- Air Flow 3: PROTOTYPE
+- Air Flow 4: REFINEMENT
+- Air Flow 5: FINALIZATION
+- Air Flow 6: VALIDATION
+- Air Flow 7: PRODUCTION
+- Air Concept Lock and Air RFC gates
+
+**Operating Principle:** Air follows a parallel development path with clear stage gates aligned to overall program phases.
+
+### Factory & Production
+
+**Purpose:** Validate manufacturability and prepare for scale production.
+
+**Key Milestones:**
+- Process Feasibility Checks
+- Factory Trials (#1 and #2)
+- Production Start
+
+**Operating Principle:** Trials are readiness proofs. Teams should not escalate technical risk early—they escalate here, at the trial, where the entire system can validate the solution at scale.
+
+### Trials
+
+**Purpose:** Prove readiness at increasing production scales.
+
+**Key Milestones:**
+- Internal Trial
+- Offshore Trial #1
+- Middle Scale Trial (40 pairs)
+- Pre-Prod Trial (100 pairs)
+- Pilot Production (100 pairs/week)
+
+**Operating Principle:** Trials validate not just design, but manufacturability, tooling readiness, QA protocols, and supply chain coordination.
+
+### Flyknit
+
+**Purpose:** Manage Flyknit-specific design and technical development.
+
+**Key Milestones:**
+- Design Brief Handoff
+- Progressive Design Locks (PR, GGP, Pre-RFC, RFC)
+- Tech Pack Transfer
+- IKW (Initial Knit Week)
+
+**Operating Principle:** Flyknit requires specialized design-to-manufacturing handoffs with clear lock points at each major gate.
+
+### Travel & Holidays/PTO
+
+**Purpose:** Manage governance cadence and team pacing.
+
+**Key Milestones:**
+- Placeholder windows at strategic intervals
+
+**Operating Principle:** These windows are intentional governance buffers. They prevent meeting overload during peak travel seasons and holidays, and can be used strategically during program compression.
+
+### Lab, Materials, Capabilities, Digital
+
+**Purpose:** Support workstreams for specialized technical development.
+
+**Current State:** Placeholder milestones at Week 260 serve as reminders for program managers to populate these workstreams with specific program needs.
+
+**Operating Principle:** These workstreams are intentionally lightweight in the template. Programs activate them as needed and delete them if not relevant.
+
+---
+
+## APPENDIX B: OPERATIONS HANDBOOK
+
+### Operations Protocols for Running SWIFT
+
+This section provides practical protocols for Operations teams managing programs within SWIFT.
+
+### Before Each Phase Begins
+
+#### Confirm Upcoming Decision Windows
+- Review all scheduled decision windows for the phase
+- Validate expected attendees and decision-makers
+- Check for conflicts with travel, holidays, or other programs
+
+#### Validate Immovable Gate Status
+- Confirm no CPI (Critical Path Impact) risk to CODE gates
+- Verify Factory Trial bookings and materials readiness
+- Check NSRL/FPT Dress Rehearsal capacity and protocol status
+
+#### Sync with Functional Leads
+- Align with NXT on review readiness and artifact status
+- Confirm NSRL/FPT testing protocols and equipment booking
+- Validate CODE integration checkpoints
+- Check Category long-track alignment needs
+
+#### Update SWIFT Calendar
+- Pre-load Airtable with expected milestone updates
+- Flag any known risks or dependencies
+- Ensure all stakeholders have visibility
+
+#### Resolve Governance Conflicts
+- Identify conflicts with Travel/Holiday/PTO windows
+- Adjust meeting timing if needed
+- Communicate changes early
+
+### Before a Decision Window
+
+#### Finalize Pre-Reads (24-48 Hours Prior)
+- Confirm all required artifacts are complete
+- Validate artifact quality (decision-ready, not exhaustive)
+- Ensure NXT, Design, and Category inputs are aligned
+- Package NSRL/FPT insights as actionable outcomes
+
+#### Publish Decision Agenda
+- Clear statement of decision to be made
+- Expected outputs (Go / Iterate / No-Go)
+- Artifact links and pre-read materials
+- Meeting logistics and attendee list
+
+#### Remove Optional Content
+- Decision windows are for decisions, not updates
+- Status information goes in pre-reads
+- Meeting time is protected for discussion and decision-making
+
+#### Confirm Decision-Maker Availability
+- Validate key decision-makers will attend
+- Identify backup decision authority if needed
+- Brief decision-makers on pre-read content
+
+### During a Decision Window
+
+#### Enforce Single-Decision Clarity
+- Drive to clear outcome: Go / Iterate / No-Go
+- Document decision rationale in real-time
+- Capture any conditions or dependencies
+
+#### Flag Risks Explicitly
+- Timing risks (will we make the next gate?)
+- Technical risks (unresolved performance questions)
+- Manufacturing risks (feasibility concerns)
+- Scope risks (feature creep or complexity growth)
+
+#### Categorize Risk Severity
+- **High:** threatens immovable gates or launch
+- **Medium:** manageable with mitigation plan
+- **Low:** watch item, no immediate action
+
+#### Confirm Compression Impacts
+- If decision involves workstream compression, document what's changing
+- Validate flex workstreams only (no immovable gate impact)
+- Update calendar immediately
+
+#### Reconfirm Gate Protection
+- Explicitly state: "No immovable gates are at risk"
+- Or flag: "This decision creates risk to [specific gate], mitigation plan required"
+
+### After a Decision Window
+
+#### Update Week-Based Calendar Immediately
+- Reflect decision outcomes in Airtable
+- Update milestone dates if compression occurred
+- Flag any new milestones added
+
+#### Communicate Decision Outputs
+- Sync outputs to downstream owners (Design, CODE, Factory, Category)
+- Notify stakeholders of any timeline changes
+- Update program status dashboards
+
+#### Track New Risks in Ops Watchlist
+- Add flagged risks to active tracking
+- Assign mitigation owners
+- Set review dates for risk reassessment
+
+#### Confirm Next Artifact Requirements
+- What artifacts are needed for the next decision window?
+- Who owns each artifact?
+- What is the delivery date?
+
+#### Generate Shift Memo (If Needed)
+If a timeline slip or compression occurred, issue a Shift Memo:
+- What moved
+- Why it moved
+- Impact on downstream milestones
+- Adjusted decision windows
+- Confirmation that no immovable gates are impacted (or explicit flag if they are)
+
+### Before a Validation Pulse (Test Pack, Dress Rehearsal)
+
+#### Confirm Build Readiness
+- Validate sample/prototype availability with Design/Engineering
+- Verify build quality meets test protocol requirements
+- Confirm correct specifications and configurations
+
+#### Pre-Check Lab Resources
+- Confirm test facility booking (NSRL, FPT, external lab)
+- Validate equipment availability and calibration status
+- Check technician/engineer availability
+
+#### Ensure Protocol Readiness
+- Testing protocol finalized and approved
+- Instrumentation specified and available
+- Data collection methods validated
+- CODE data flow confirmed (if applicable)
+
+#### Validate Success Criteria
+- Clear performance targets or KPIs defined
+- Pass/fail criteria established
+- Decision framework for results interpretation agreed upon
+
+#### Publish Ops Readiness Notes
+- Summary of test objectives and protocol
+- Expected timeline and readout date
+- Known constraints or risks
+- Stakeholder notification list
+
+### After a Validation Pulse
+
+#### Require Immediate Readout
+- Analysis and results within the pulse window
+- No lagging readouts weeks after testing completes
+- Data analysis drives immediate program decisions
+
+#### Capture Actions and Timeline Implications
+- What did we learn?
+- What decisions does this enable or require?
+- Do any milestones need adjustment?
+- Are any risks elevated or retired?
+
+#### Revalidate Next Decision Window
+- Confirm next decision window timing still works
+- Update agenda based on test results
+- Flag any new artifacts or analysis needed
+
+#### Escalate if Factory Trial Path is Threatened
+- If results indicate risk to Factory Trial timing or success, escalate immediately
+- Never wait until after Trial #1 to surface issues that could have been caught earlier
+- Escalation is expected and healthy—trials exist to prove readiness
+
+### Before a Factory Trial
+
+#### Validate All Upstream Gates
+- Design Tech Pack finalized and locked
+- CODE integration handshake complete (if applicable)
+- NSRL/FPT validation complete with passing results
+- All known performance and safety risks addressed
+
+#### Confirm Factory Readiness
+- Materials allocated and available
+- Tooling ready and validated
+- Operators trained on build process
+- QA protocols established
+
+#### Finalize Trial Protocol
+- Build quantity and timeline confirmed
+- QA checkpoints and success criteria defined
+- Data collection and analysis plan ready
+
+#### Align on Success Criteria
+- What defines a successful trial?
+- What are the go/no-go criteria for next steps?
+- Who makes the escalation decision if issues arise?
+
+#### Triple-Check Immovable Window Protection
+- Confirm Trial #1 at Week 76 is protected
+- Confirm Trial #2 at Week 48 is protected (if applicable)
+- Validate Production Start at Week 30 is not at risk
+
+### After a Factory Trial
+
+#### Capture Trial Report (72-Hour Window)
+- Build summary (quantity, quality, timing)
+- QA results and findings
+- Manufacturing learnings and recommendations
+- Photos and documentation
+
+#### Validate Next-Step Actions
+- What needs to change before Trial #2 or Production?
+- Who owns each action?
+- What is the timeline for resolution?
+
+#### Update Production Start Confidence
+- Are we on track for Week 30 Production Start?
+- What risks remain?
+- What mitigation plans are in place?
+
+#### Reconfirm Downstream Gate Protection
+- Explicitly state: no downstream gates are compromised
+- Or escalate: Production Start or Launch is at risk, decision required
+
+#### Communicate Changes Immediately
+- Trial results and implications
+- Any timeline adjustments
+- Updated risk status
+- Next steps and owners
+
+### Before Production Start
+
+#### Confirm All Gates Green
+- **Design:** Final Tech Pack locked, all specs confirmed
+- **Category:** All alignment complete, BOM finalized
+- **NXT:** Finalize Review complete, program approved
+- **CODE:** All integration and data validation complete
+- **NSRL/FPT:** Dress Rehearsal passed, performance validated
+- **Factory:** Trial #2 successful (if applicable), tooling ready
+
+#### Finalize Production Documentation
+- Locked Tech Pack with no open issues
+- Final BOM with supplier confirmation
+- Compliance documentation complete
+- QA and testing protocols established
+
+#### Verify Performance Meets Launch Criteria
+- All performance targets met and validated
+- Safety testing complete and passed
+- Durability validation complete
+- No technical debt deferred past launch
+
+#### Confirm No Deferred Technical Debt
+- All known issues resolved or explicitly accepted
+- No "we'll fix it later" items
+- Clear risk register with mitigation for any open items
+
+#### Run Final Readiness Call
+- Go/no-go decision for Production Start
+- All functional leads confirm readiness
+- Leadership approval to proceed
+
+### Pre-Launch
+
+#### Ensure Launch-Ready Health Indicators
+- Production running at target volume
+- Quality metrics within spec
+- Supply chain stable and delivering
+- No critical open issues
+
+#### Confirm Distribution and Commercialization
+- Distribution partners ready
+- Marketing and communications aligned
+- Retail or digital channel readiness confirmed
+
+#### Validate Final Testing
+- Field validation complete (if applicable)
+- Athlete or user feedback incorporated
+- No last-minute surprises
+
+#### Run "No Surprises" Protocol
+- Final sweep for any potential launch risks
+- Clear escalation path for any last-minute issues
+- Communication plan for stakeholders
+
+### Ops Communication Templates
+
+#### 30-Second Leadership Update
+Use this format for quick executive syncs:
+
+- **Launch:** [Week 0 target date]
+- **This Week's Decision Windows:** [list]
+- **Status:** On Plan / Compressed / At Risk
+- **Immovable Gates:** All Protected / Concern at [specific gate]
+- **Ask:** [Resource need, unblock request, or escalation]
+
+#### Shift Memo Template
+When timelines change:
+
+- **What Moved:** [specific milestones]
+- **Why:** [clear rationale]
+- **Impact:** [downstream effects]
+- **Adjusted Windows:** [new decision window dates]
+- **Immovable Gates:** No impact / Impact flagged at [specific gate]
+- **Next Step:** [clear action and owner]
+
+#### Ops One-Pager Template
+For stakeholder updates:
+
+- **Phase Progression:** Current phase and week number
+- **Workstream Map:** Showing immovables (🔒) vs flex (~)
+- **Decision Windows:** Upcoming decisions and expected outcomes
+- **Validation Pulses:** Testing schedule and readout timing
+- **Factory Trial Dates:** Confirmed dates and readiness status
+- **Risks:** Top 3 risks and mitigation plans
+- **Ask:** What leadership needs to provide or decide
+
+---
+
+## APPENDIX C: FLEXIBILITY & ADAPTATION DETAILS
+
+### Late-Start Compression Model
+
+When programs start late (and they often do), SWIFT provides a structured approach to compression.
+
+#### Compression Principles
+
+1. **Protect All Immovable Gates**  
+   CODE gates, Trials, Dress Rehearsal, Production Start, and Launch are non-negotiable. Compression happens everywhere else.
+
+2. **Merge Adjacent Decision Windows**  
+   Instead of separate Create A and Create B reviews, combine them into a single Create review with integrated decision-making.
+
+3. **Slim Artifacts to Decision-Quality**  
+   Reduce documentation volume but maintain decision-critical content. Teams deliver what's needed to make the decision, nothing more.
+
+4. **Reduce Category Touchpoints, Not Rigor**  
+   Fewer meetings, same strategic depth. Category long-track maintains quality with increased async work and focused live sessions.
+
+5. **Enforce Pre-Read Discipline**  
+   Compressed timelines cannot afford wasted meeting time. Pre-reads become mandatory, meetings become decision-only.
+
+#### Compression Levers for Ops
+
+When managing compressed programs, Ops has several tools:
+
+**Workstream Merging**
+- Combine NXT reviews (e.g., Prove Review + Refine Review -3)
+- Consolidate Category alignment moments
+- Bundle Design reviews with NXT decision windows
+
+**Async-First Alignment**
+- Shift status updates to async channels
+- Reserve live time for decisions only
+- Use pre-recorded video updates for context-setting
+
+**Accelerated Build Cycles**
+- Fast-track sample builds between testing windows
+- Prioritize critical path components
+- Defer nice-to-have iterations
+
+**Strategic PTO Window Usage**
+- Use planned holiday windows as compression buffers
+- Shift non-critical work around travel windows
+- Protect team recovery time to prevent burnout
+
+**Lab/Testing Capacity Management**
+- Pre-book test equipment and facilities
+- Run parallel test protocols where safe
+- Prioritize decision-critical testing over comprehensive coverage
+
+### Mid-Season Pivots
+
+Sometimes programs need to change direction mid-cycle—new performance targets, revised design direction, unexpected competitive pressure.
+
+SWIFT handles this through structured pivot protocols:
+
+1. **Assess Pivot Timing**
+   - Early pivot (IMAGINE/EXPLORE): Minimal impact, high flexibility
+   - Mid pivot (PROVE/REFINE): Manageable with workstream adjustment
+   - Late pivot (FINALIZE): High risk, requires executive decision and explicit trade-offs
+
+2. **Revalidate Downstream Gates**
+   - Can immovable gates still be met?
+   - Which flex workstreams need adjustment?
+   - What decision windows need to be added or merged?
+
+3. **Communicate Impact Clearly**
+   - What changed and why
+   - Which milestones are affected
+   - What the new critical path looks like
+   - What risks are being managed
+
+4. **Update the Calendar Immediately**  
+   SWIFT is only useful if it reflects reality. Ops updates week-based milestones immediately after pivot decisions.
+
+### Managing Ambiguity
+
+Different phases tolerate different levels of ambiguity.
+
+- **IMAGINE/EXPLORE: Ambiguity is Healthy**  
+  Teams should be exploring multiple directions. Premature convergence kills innovation.
+
+- **PROVE: Ambiguity is Manageable**  
+  Some uncertainty remains, but teams should be building evidence to reduce it. Structured testing helps narrow the possibility space.
+
+- **REFINE: Ambiguity is Expensive**  
+  By REFINE, most major uncertainties should be resolved. Remaining ambiguity gets expensive as tooling and supply chain commitments begin.
+
+- **FINALIZE: Ambiguity is Unacceptable**  
+  No technical debt. No unresolved questions. No "we'll figure it out in production." Everything must be proven and validated.
+
+Ops watches the ambiguity cost curve and escalates when programs carry too much uncertainty too late.
+
+### Capacity and Resource Flexibility
+
+SWIFT recognizes that not all constraints are temporal—some are resource-based.
+
+**Lab/Testing Capacity**
+- NSRL and FPT have finite equipment and staff
+- SWIFT helps teams book capacity early and manage conflicts
+- Compressed programs may need to run tests in parallel or off-hours
+
+**Sample Build Capacity**
+- Prototyping shops have throughput limits
+- SWIFT visualizes build demand across programs
+- Ops can identify bottlenecks early and adjust
+
+**Decision-Maker Availability**
+- Leadership calendars are finite
+- SWIFT batches decisions to respect executive time
+- Pre-reads and async updates maximize meeting efficiency
+
+### Flexibility Boundaries
+
+SWIFT's flexibility has limits. Some things cannot bend:
+
+- **Safety and Performance Validation**  
+  Cannot be compressed or deferred. Products must meet performance and safety standards, period.
+
+- **Manufacturing Feasibility**  
+  If it can't be made at scale, it can't launch. Factory Trials exist to prove this definitively.
+
+- **CODE Integration Integrity**  
+  Digital products require data handshakes and system integration. These cannot be rushed without creating field failures.
+
+- **Launch Week Coordination**  
+  Global commercialization involves hundreds of people and millions of dollars in coordinated activity. Launch Week is the one absolute.
+
+When programs hit these boundaries, the answer is not to bend the system—it's to make an explicit decision: delay launch, reduce scope, or accept defined risk with mitigation.
+
+### Leadership's Role in Flexibility
+
+Leaders enable flexibility by:
+
+- **Backing Ops on Immovable Gates**  
+  When Ops says a gate cannot move, leadership supports that decision—even when it's uncomfortable.
+
+- **Making Explicit Trade-Offs**  
+  When programs need compression, leaders decide what bends and what doesn't. Clear decisions, clearly communicated.
+
+- **Enforcing Decision Discipline**  
+  Compressed timelines require crisp decisions. Leaders show up prepared, decide in the room, and move forward.
+
+- **Protecting Team Capacity**  
+  Flexibility is not infinite. Leaders watch for team burnout and protect recovery time.
+
+- **Modeling Transparency**  
+  When things change, leaders communicate why, what the impact is, and what the new plan looks like.
+
+### The Flexibility Mindset
+
+SWIFT works because it embraces a fundamental truth: innovation requires both structure and flexibility.
+
+- Structure without flexibility becomes bureaucracy.
+- Flexibility without structure becomes chaos.
+
+SWIFT provides the structure (week-based calendar, clear gates, decision windows, validation pulses) that enables flexibility (late starts, mid-cycle pivots, workstream compression) without compromising readiness.
+
+This is why SWIFT scales across programs, seasons, and complexity levels. The system adapts to the innovation, not the other way around.
+
+---
+
+## APPENDIX D: MILESTONE INDEX
+
+### Complete Milestone Reference by Workstream
+
+This section provides a comprehensive index of all milestones within SWIFT, organized by workstream for quick reference.
+
+- Phase Markers
+- Category
+- NXT Milestones
+- Design
+- FPT
+- Lab
+- Air
+- Production
+- Trials
+- NSRL
+- Flyknit
+- Factory
+- Materials
+- Capabilities
+- Digital
+- Travel
+- Holidays/PTO
+
+---
+
+## APPENDIX E: TERMINOLOGY GLOSSARY
+
+- **Week Number:** A countdown format where Week 260 = 5 years before launch and Week 0 = Launch. Week numbers are always positive integers representing "weeks until product launch."
+- **Phase:** A multi-week period defined by intent and decision posture (IMAGINE, EXPLORE, PROVE, REFINE, FINALIZE, LAUNCH).
+- **Milestone:** A single-day event or deliverable within a workstream.
+- **Decision Window:** A scheduled moment for batched decision-making with clear Go/Iterate/No-Go outcomes.
+- **Validation Pulse:** A complete test-and-analysis loop (plan → execute → analyze → act) within a single window.
+- **Immovable Gate:** A milestone that cannot shift without creating cascading failures (CODE gates, Factory Trials, Production Start, Launch).
+- **Flex Zone:** A workstream or milestone cluster that can compress, merge, or shift to absorb program variability.
+- **Placeholder:** A reminder milestone (typically at Week 260) prompting program managers to populate workstream details.
+- **CODE:** Connected, Omni-responsive, Diversely Enabled—Nike's digital integration framework.
+- **XLT:** Extra Long Track (Category planning horizon)
+- **LT:** Long Track (Category planning horizon)
+- **QSG:** Quick Start Guide (Visual Communications deliverable)
+- **TM:** Tech Manual
+- **BOM:** Bill of Materials
+- **RFC:** Ready for Construction (manufacturing gate)
+- **FSR:** Full Size Run
+- **GGP:** Global Geo Pivot
+- **SPA:** Season Product Alignment
+- **IPW:** Initial Production Week
+- **IKW:** Initial Knit Week (Flyknit-specific)
+
+---
+
+## APPENDIX F: ADDITIONAL SWIFT MODULES
+
+### Sample Build Request & Tracking
+
+A centralized system for managing sample build requests, tracking build status, and coordinating with prototyping shops. This module provides visibility into build capacity, turnaround times, and quality metrics across all active programs.
+
+**Value Proposition:** Time saved and sample delivery speed improved while sample quality increases. SWIFT was built with flexibility in mind so as the needs of the PMO and Factory Partners evolve, SWIFT can and will evolve in lock step.
+
+### SWIFT Library
+
+A comprehensive knowledge repository housing all program-critical documentation:
+
+- **Photogrammetry Archive**  
+  High-resolution 3D scans and visual documentation of prototypes, samples, and production units at each program milestone.
+
+- **FPT & M&M Documentation**  
+  Complete testing protocols, raw data, analysis reports, and validation summaries from Footwear Product Testing and Materials & Manufacturing teams.
+
+- **NSRL Testing Records**  
+  Nike Sports Research Lab testing data, athlete feedback, performance validation results, and biomechanical analysis reports.
+
+- **Digital & Tech Details**  
+  CODE integration specifications, API documentation, data schemas, system architecture diagrams, and technical debt tracking.
+
+- **Meeting Notes & Decision Records**  
+  Searchable archive of all decision window outcomes, program reviews, technical discussions, and strategic alignment sessions—creating a complete decision history for each program.
+
+### Advanced Reporting & Analytics
+
+Enhanced dashboard capabilities providing leadership with real-time program health metrics, risk indicators, portfolio views, and predictive analytics for launch readiness.
+
+### Integration Enhancements
+
+Deeper connections with Nike's enterprise systems including PLM (Product Lifecycle Management), ERP (Enterprise Resource Planning), and supply chain management platforms for seamless data flow and reduced manual entry.
+
+### Collaboration Tools
+
+Enhanced communication features including automated stakeholder notifications, milestone reminders, pre-read distribution, and integrated feedback collection. Future enhancements include embedded comment sections with email notification toggles.
+
+---
+
+## CLOSING: THE SWIFT COMMITMENT
+
+SWIFT represents Nike Footwear Innovation's commitment to operational excellence without sacrificing creative freedom.
+
+It is a living system—one that evolves with our programs, absorbs our learnings, and scales to our ambitions.
+
+This publication captures SWIFT's current state, but the system continues to grow as we pioneer new approaches to innovation program management.
+
+SWIFT is the hub for all of our checks and balances and how we move projects forward. It's the operating system that makes innovation work better—for the teams who build it, for the teams who use it, and for the consumers who benefit from the innovations it enables.
+
+---
+
+**For questions, feedback, or suggestions for future capabilities:**
+
+**Timothy Smith, Program Director**  
+Nike Footwear Innovation  
+S.W.I.F.T. Innovation Systems
+
+**Document Version:** 1.0  
+**Publication Date:** January 2026
+
+---
+
+**END OF PUBLICATION**
