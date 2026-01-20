@@ -606,7 +606,7 @@ python sync_story_bible.py
 - Accepted to Juilliard, trapped by expectations
 - Arc: Confidence → isolation → resignation to father's wishes
 
-**Maxanne Sartori (73 in 2004):**
+**Maxanne Sartori (59 in 2009; 29 in 1979; 23 in 1973):**
 - Former WBCN DJ, discovered Aerosmith
 - Narrates from 25 years after Battle of Bands
 - Role: Witness, judge, keeper of memory

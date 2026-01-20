@@ -193,7 +193,7 @@
 **Key Characters:**
 - Nick Johnson (17, working-class, Aerosmith fan)
 - Jackie Marsh (17, upper-class, Queen fan, classically trained)
-- Maxanne Sartori (73, former rock-star status WBCN DJ in the 1970's, 1st person narrator for certain chapters, wise, nostalgic)
+- Maxanne Sartori (59 in 2009, 29 in 1979, 23 in 1973, former rock-star status WBCN DJ in the 1970's, 1st person narrator for certain chapters, wise, nostalgic)
 - Patty Lally (17, sage messenger, , Frequency keeper, Fleetwood Mac)
 
 **Critical Timeline:**

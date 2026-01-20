@@ -208,7 +208,7 @@ The Creative Collaborator is the "Swiss Army Knife" agent who knows and deploys:
 
 ### **CHARACTER VOICE DNA:**
 
-**Maxanne Sartori (73, 2009):**
+**Maxanne Sartori (59, 2009; 29, 1979; 23, 1973):**
 - 1970s Boston radio DJ who lived the music revolution
 - Nostalgic but not sentimental, wise but slightly bitter
 - Voice: Conversational, reflective, radio-broadcast rhythm with natural pauses

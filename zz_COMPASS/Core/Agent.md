@@ -39,7 +39,7 @@
 
 ## CHARACTER ARCHITECTURE
 **Main Characters:**
-- **Maxanne Sartori** (73, 2024) - WBCN DJ, narrator, witness to music history
+- **Maxanne Sartori** (59, 2009; 29, 1979; 23, 1973) - WBCN DJ, narrator, witness to music history
 - **Nick Johnson** (17, 1979) - Working-class kid, raw musical talent
 - **Jackie Marsh** (17, 1979) - Upper-class kid, classically trained musician
 - **Patty Lally** - Concord kid who refuses to choose sides

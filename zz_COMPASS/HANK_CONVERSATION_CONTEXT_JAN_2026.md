@@ -69,7 +69,7 @@
 Two teenage musicians (Nick Johnson - working class, Jackie Marsh - upper class) bond over music in 1970s Boston, friendship fractures due to class division and prejudice. Told through frame story of WBCN DJ Maxanne Sartori's final broadcast before station sells out. Theme: Loss of Innocence (personal + institutional).
 
 ### Main Characters
-- **Maxanne Sartori** (73, 2024) - WBCN DJ, narrator
+- **Maxanne Sartori** (59, 2009; 29, 1979; 23, 1973) - WBCN DJ, narrator
 - **Nick Johnson** (17, 1979) - Working-class rocker, Aerosmith-influenced
 - **Jackie Marsh** (17, 1979) - Upper-class pianist, Queen-influenced
 - **Grace Johnson** - Nick's mother, Friendly's waitress

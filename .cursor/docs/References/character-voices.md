@@ -40,7 +40,7 @@
 
 ---
 
-## Maxanne Sartori (Age 73, 2024 Frame Narrative)
+## Maxanne Sartori (Age 59, 2009 Frame Narrative; Age 29, 1979; Age 23, 1973)
 
 - **Baseline Rhythm:** Radio cadence—conversational, intimate, uses beats and ellipses like a live broadcast.
 - **Diction:** 1970s/80s Boston radio lexicon. References vinyl, turntables, cart machines, sponsors, FCC rules.
