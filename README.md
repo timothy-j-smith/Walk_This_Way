@@ -28,7 +28,7 @@ On the final night of WBCN radio's 56-year run, legendary DJ Maxanne Sartori tel
 ## Story Structure
 
 **Frame Story (2024):**  
-Maxanne Sartori, 73, hosts the final 4-hour broadcast of WBCN before the station converts to automated Christian contemporary format. She uses this time to tell a story she's carried for 45 years.
+Maxanne Sartori, 59, hosts the final 4-hour broadcast of WBCN before the station converts to automated Christian contemporary format. She uses this time to tell a story she's carried for 45 years.
 
 **Main Story (1975-1979):**  
 Nick Johnson (working-class) and Jackie Marsh (upper-class) meet in middle school, bond over music, win a talent show together. Their friendship fractures over the next four years, culminating in a Battle of the Bands that becomes a metaphor for larger American divisions.

@@ -119,7 +119,7 @@
 - WBCN 104.1 FM dies at midnight
 - After 56 years as "the Rock of Boston"
 - Flipping to automated Christian contemporary format
-- Maxanne Sartori (age 73) hosts final 4-hour broadcast
+- Maxanne Sartori (age 59) hosts final 4-hour broadcast
 - Studio C (same studio where Aerosmoth played in '72)
 - Program Director: 28 years old, thinks rock started with Nirvana
 - Engineer: Young, on phone, doesn't understand significance of final broadcast and the end of WBCN

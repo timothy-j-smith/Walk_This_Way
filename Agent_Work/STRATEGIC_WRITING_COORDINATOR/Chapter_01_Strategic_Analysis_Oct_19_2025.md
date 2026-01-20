@@ -24,7 +24,7 @@
 ## CRITICAL ISSUE: TIMELINE DISCREPANCY
 
 **User Instructions:** "1987 Boston and Sudbury"  
-**Actual Chapter Setting:** 2009 (Maxanne is 73) with flashbacks to 1979  
+**Actual Chapter Setting:** 2009 (Maxanne is 59) with flashbacks to 1979  
 
 **ACTION REQUIRED:** Clarify which timeline is correct before proceeding.
 

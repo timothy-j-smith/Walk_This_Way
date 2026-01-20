@@ -56,7 +56,7 @@
 
 In the spring of 1979, two seventeen-year-olds from opposite sides of Sudbury, Massachusetts prepare for their high school's Battle of the Bands—a competition that becomes a proxy war for class, authenticity, and the soul of rock and roll. Nick Johnson, a working-class kid channeling Aerosmith from his dead father's garage, and Jackie Marsh, a classically-trained prodigy performing Queen from his professor father's estate, were once best friends who made magic together. But as the Battle approaches—sponsored by Boston's legendary WBCN radio and judged by DJ Maxanne Sartori—their friendship drowns in the same divisions tearing America apart: Hop Brook separating rich from poor, the high school cafeteria divided into warring tribes, and two belt buckles (Queen vs. Aerosmith) that used to symbolize friendship now marking battle lines. When the judges declare a tie and force the boys into shared studio time, they record one perfect song at 2 AM—a mashup of "Sweet Emotion" and "Bohemian Rhapsody" that proves harmony is still possible. But both choose to walk away: Nick to honor his mother's sacrifice, Jackie to respect his father's investment, each believing loyalty to family is more important than loyalty to dreams.
 
-Thirty years later, on August 11, 2009, Maxanne Sartori—now 73 and carrying three decades of guilt—sits in WBCN's Studio B for the station's final broadcast before the frequency becomes Christian radio. She drew the short straw among reluctant returning DJs, stuck with the midnight shift no one wanted. With four hours until the station dies, she tells the story of Nick and Jackie: how she engineered the Battle of the Bands as a marketing scheme, how she wrote contest rules that would force the tie, how she offered them the studio session hoping to fix what she'd broken, and how she's carried their unauthorized demo tape in her purse for thirty years—a recording no one has ever heard. At 11:55 PM, she plays the tape at FULL VOLUME (her signature move), defying the corporate machine one last time. At midnight, WBCN goes silent, replaced by static and then Christian programming. But at 12:15 AM, her niece texts: someone recorded the broadcast and uploaded it to YouTube, and the demo is going viral—50,000 views, 100,000, a million. A new generation discovers Nick and Jackie's four-minute proof that harmony existed, even if the labyrinth destroyed the boys who created it. The novel asks: What do we lose when we choose division over connection? And answers: The individuals, always. But the music survives, waiting for the next frequency.
+Thirty years later, on August 11, 2009, Maxanne Sartori—now 59 and carrying three decades of guilt—sits in WBCN's Studio B for the station's final broadcast before the frequency becomes Christian radio. She drew the short straw among reluctant returning DJs, stuck with the midnight shift no one wanted. With four hours until the station dies, she tells the story of Nick and Jackie: how she engineered the Battle of the Bands as a marketing scheme, how she wrote contest rules that would force the tie, how she offered them the studio session hoping to fix what she'd broken, and how she's carried their unauthorized demo tape in her purse for thirty years—a recording no one has ever heard. At 11:55 PM, she plays the tape at FULL VOLUME (her signature move), defying the corporate machine one last time. At midnight, WBCN goes silent, replaced by static and then Christian programming. But at 12:15 AM, her niece texts: someone recorded the broadcast and uploaded it to YouTube, and the demo is going viral—50,000 views, 100,000, a million. A new generation discovers Nick and Jackie's four-minute proof that harmony existed, even if the labyrinth destroyed the boys who created it. The novel asks: What do we lose when we choose division over connection? And answers: The individuals, always. But the music survives, waiting for the next frequency.
 
 ---
 
@@ -166,15 +166,15 @@ Thirty years later, on August 11, 2009, Maxanne Sartori—now 73 and carrying th
 **Hamartia (Tragic Flaw)**: Believes she can game the corporate system, use marketing to fund authenticity
 
 **Arc**:
-- **1973 (Age 37)**: Discovers Aerosmith in bar, breaks them on WBCN, "This is what we DO—find the real shit"
-- **Fall 1978 (Age 42)**: Program Director suggests Battle of the Bands as marketing
-- **Spring 1979**: Pitches Battle as "discover talent" but knows it's really demographics/sponsors
-- **May 1979**: Judges Battle, watches friendship drown in public, realizes what she's done
-- **March 16, 1979, 2 AM**: Offers boys studio time, tries to fix what she broke
+- **1973 (Age 23)**: Discovers Aerosmith in bar, breaks them on WBCN, "This is what we DO—find the real shit"
+- **Fall 1978 (Age 28)**: Program Director suggests Battle of the Bands as marketing
+- **Spring 1979 (Age 29)**: Pitches Battle as "discover talent" but knows it's really demographics/sponsors
+- **May 1979 (Age 29)**: Judges Battle, watches friendship drown in public, realizes what she's done
+- **March 16, 1979, 2 AM (Age 29)**: Offers boys studio time, tries to fix what she broke
 - **Dr. Marsh intervenes**: She preserves tape but fails to preserve friendship
-- **1980 (Age 44)**: Leaves WBCN "to preserve integrity," goes corporate (A&R, management)
-- **1980-2009 (Ages 44-73)**: 29 years helping "safe bands," became the machinery she fled
-- **2009 (Age 73)**: WBCN's final night, confession, plays tape, witnesses viral resurrection
+- **1980 (Age 30)**: Leaves WBCN "to preserve integrity," goes corporate (A&R, management)
+- **1980-2009 (Ages 30-59)**: 29 years helping "safe bands," became the machinery she fled
+- **2009 (Age 59)**: WBCN's final night, confession, plays tape, witnesses viral resurrection
 
 **Recognition (Anagnorisis)**: "I left WBCN to stay pure. But I became corporate anyway, just with better excuses. All three of us—Nick stayed real, Jackie compromised, I fled—and the system crushed us all."
 
@@ -314,7 +314,7 @@ Thirty years later, on August 11, 2009, Maxanne Sartori—now 73 and carrying th
 **POV**: Maxanne (1st person, 2009 broadcast with 1973 flashback)
 
 **Content**:
-- Young Maxanne (37) at dive bar in Allston
+- Young Maxanne (23) at dive bar in Allston
 - Sees unknown band playing: Aerosmith
 - Steven Tyler raw, Joe Perry dangerous, music authentic
 - She records them on cassette (old school scouting)
@@ -796,7 +796,7 @@ Yeah. Walk this way."
 **CHAPTER 09: Maxanne Interlude #1 - "Aerosmith, 1973"**
 - POV: Maxanne, 1st person, 2009 (with 1973 flashback)
 - Setting: WBCN Studio B, August 11, 2009, 8:45 PM | Flashback to Allston dive bar, 1973
-- Content: **Maxanne at 37, discovers Aerosmith before anyone knew them.** Dive bar, Steven Tyler raw and dangerous, Joe Perry's guitar, music authentic. She records on cassette, brings to station next day. "This is what we DO, Maxanne. Find the real shit." Plays them on-air, phones light up. **This is what WBCN was.** 2009 Maxanne: "That was the last time I knew we were still rebels. Six years later, I'd turn two kids into a marketing scheme."
+- Content: **Maxanne at 23, discovers Aerosmith before anyone knew them.** Dive bar, Steven Tyler raw and dangerous, Joe Perry's guitar, music authentic. She records on cassette, brings to station next day. "This is what we DO, Maxanne. Find the real shit." Plays them on-air, phones light up. **This is what WBCN was.** 2009 Maxanne: "That was the last time I knew we were still rebels. Six years later, I'd turn two kids into a marketing scheme."
 - Key Line: "Find the real shit. That was our job. Before it became 'find the demographic.'"
 
 **CHAPTER 10: "Grace's Stand"**
