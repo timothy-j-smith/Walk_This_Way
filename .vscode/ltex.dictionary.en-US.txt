@@ -72,3 +72,5 @@ Vectara
 Copyscape
 Supabase
 FEA
+PiloTY
+Anki
