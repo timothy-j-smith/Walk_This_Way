@@ -50,6 +50,20 @@ cd "/Users/timothy/Library/Mobile Documents/com~apple~CloudDocs/Cursor/03_Novels
 
 **This is NOT automatic daily** - You run it when you want to export chats.
 
+### **⚠️ IMPORTANT: No Duplicates!**
+
+**The script is smart:**
+- ✅ **First run:** Exports ALL chats
+- ✅ **Subsequent runs:** Only exports NEW chats (skips already exported ones)
+- ✅ **No duplicates created** - Safe to run multiple times
+- ✅ **Checks Session IDs** - Remembers what's already exported
+
+**You'll see:**
+- ✅ New chats: "✅ Exported"
+- ⏭️ Old chats: "⏭️ Already exported (skipped)"
+
+**Run it anytime - it won't create duplicates!**
+
 ---
 
 ### **To View Chats in Browser:**
@@ -149,6 +163,8 @@ git push origin main
 
 ### **Chat Export:**
 - **NOT automatic daily** - You run the export script when you want to export
+- **No duplicates** - Script skips already-exported chats (checks Session IDs)
+- **Safe to run multiple times** - Only exports new chats on subsequent runs
 - **Run before Mac Studio re-image** - Export all chats first!
 - **Files sync to MacBook Air** - They're in your iCloud folder
 - **Permanent markdown files** - Can open anytime, anywhere
@@ -186,9 +202,10 @@ git push origin main
 - `READ_THIS_FIRST.md` - Simple instructions
 - `SIMPLE_INSTRUCTIONS.md` - Quick reference
 - `WHERE_ARE_MY_CHAT_FILES.md` - Explains file locations
-- `EXPORT_ALL_CHATS.sh` - Automated export script
+- `EXPORT_ALL_CHATS.sh` - Automated export script (same script name - no changes)
 - `START_SERVER.sh` - Server starter script
-- `export_all_chats.py` - Python export script
+- `export_all_chats.py` - Python export script (updated to prevent duplicates)
+- `EXPORT_SCRIPT_BEHAVIOR.md` - Explains duplicate prevention
 
 **GitHub guides:**
 - `GITHUB_AUTHENTICATION_FIX.md` - Token setup
@@ -201,9 +218,12 @@ git push origin main
 
 **Chat Export:**
 - ✅ Automated scripts created
+- ✅ **Same script name:** `EXPORT_ALL_CHATS.sh` (no changes needed)
+- ✅ **No duplicates:** Script skips already-exported chats
 - ✅ Run manually when needed (not automatic daily)
 - ✅ Exports to iCloud (syncs to MacBook Air)
 - ✅ Permanent markdown files
+- ✅ Safe to run multiple times
 
 **GitHub:**
 - ✅ Personal account (`timothy-j-smith`)
@@ -212,6 +232,25 @@ git push origin main
 - ✅ Work account completely separate
 
 **Everything is set up and working!** 🎉
+
+---
+
+## 🔄 UPDATE: Duplicate Prevention (Added After Initial Summary)
+
+**After the initial summary was created, the export script was improved:**
+
+- ✅ **Script updated** to check for existing Session IDs
+- ✅ **Prevents duplicates** - Skips already-exported chats
+- ✅ **Only exports new chats** on subsequent runs
+- ✅ **Same script name** - No need to change your command
+- ✅ **Safe to run anytime** - Won't create duplicate files
+
+**The script you use is the same:**
+```bash
+cd "/Users/timothy/Library/Mobile Documents/com~apple~CloudDocs/Cursor/03_Novels/Walk This Way/.cursor/docs/Chat_History" && ./EXPORT_ALL_CHATS.sh
+```
+
+**It's just smarter now - it won't create duplicates!**
 
 ---
 
