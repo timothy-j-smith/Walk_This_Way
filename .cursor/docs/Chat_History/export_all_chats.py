@@ -68,6 +68,28 @@ def is_hank_chat(chat):
     
     return False
 
+def get_existing_session_ids(output_dir):
+    """Get all session IDs from already exported files"""
+    existing_ids = set()
+    if not output_dir.exists():
+        return existing_ids
+    
+    for file_path in output_dir.glob("*.md"):
+        try:
+            with open(file_path, "r", encoding="utf-8") as f:
+                content = f.read()
+                # Look for Session ID in the file
+                if "**Session ID:**" in content:
+                    for line in content.split("\n"):
+                        if "**Session ID:**" in line:
+                            session_id = line.split("**Session ID:**")[1].strip()
+                            existing_ids.add(session_id)
+                            break
+        except:
+            continue
+    
+    return existing_ids
+
 def create_markdown_filename(chat):
     """Create a filename for the chat"""
     date = format_date(chat.get("date", 0))
@@ -139,18 +161,34 @@ def main():
     HANK_DIR.mkdir(parents=True, exist_ok=True)
     OTHER_DIR.mkdir(parents=True, exist_ok=True)
     
+    # Get already exported session IDs to avoid duplicates
+    existing_hank_ids = get_existing_session_ids(HANK_DIR)
+    existing_other_ids = get_existing_session_ids(OTHER_DIR)
+    
     # Export each chat
     hank_count = 0
     other_count = 0
+    skipped_count = 0
     
     for i, chat in enumerate(chats, 1):
+        session_id = chat.get("session_id", "unknown")
         is_hank = is_hank_chat(chat)
         output_dir = HANK_DIR if is_hank else OTHER_DIR
+        existing_ids = existing_hank_ids if is_hank else existing_other_ids
+        
+        # Skip if already exported
+        if session_id in existing_ids:
+            skipped_count += 1
+            if is_hank:
+                print(f"  ⏭️  [{i}/{len(chats)}] HANK: Already exported (skipped)")
+            else:
+                print(f"  ⏭️  [{i}/{len(chats)}] Other: Already exported (skipped)")
+            continue
         
         filename = create_markdown_filename(chat)
         output_path = output_dir / filename
         
-        # Handle duplicate filenames
+        # Handle duplicate filenames (shouldn't happen now, but just in case)
         counter = 1
         original_path = output_path
         while output_path.exists():
@@ -171,9 +209,10 @@ def main():
     print("=" * 60)
     print("✅ EXPORT COMPLETE!")
     print("=" * 60)
-    print(f"📊 Total chats exported: {len(chats)}")
-    print(f"   - HANK chats: {hank_count}")
-    print(f"   - Other chats: {other_count}")
+    print(f"📊 Total chats processed: {len(chats)}")
+    print(f"   - New HANK chats: {hank_count}")
+    print(f"   - New Other chats: {other_count}")
+    print(f"   - Already exported (skipped): {skipped_count}")
     print("")
     print(f"📁 Location: {CHAT_HISTORY_DIR}")
     print("")
