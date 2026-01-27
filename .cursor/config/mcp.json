@@ -31,18 +31,24 @@
       "args": ["-y", "@modelcontextprotocol/server-duckduckgo-search"],
       "disabled": false
     },
-    "google-workspace": {
-      "command": "uvx",
-      "args": ["workspace-mcp"],
-      "env": {
-        "GOOGLE_OAUTH_CLIENT_ID": "env:GOOGLE_OAUTH_CLIENT_ID",
-        "GOOGLE_OAUTH_CLIENT_SECRET": "env:GOOGLE_OAUTH_CLIENT_SECRET"
-      },
-      "disabled": true
-    },
     "sequential-thinking": {
       "command": "npx",
       "args": ["-y", "@modelcontextprotocol/server-sequential-thinking"],
+      "disabled": false
+    },
+    "sequential-thinking-mas": {
+      "command": "npx",
+      "args": ["-y", "@fradser/mcp-server-mas-sequential-thinking"],
+      "disabled": false
+    },
+    "sequential-thinking-ultra": {
+      "command": "npx",
+      "args": ["-y", "@sequential-thinking/ultra"],
+      "disabled": false
+    },
+    "enhanced-sequential-thinking": {
+      "command": "npx",
+      "args": ["-y", "@vitalymalakanov/mcp-enhanced-sequential-thinking"],
       "disabled": false
     },
     "compass-writing-guides": {
@@ -57,13 +63,28 @@
       "args": ["-y", "@modelcontextprotocol/server-memory"],
       "disabled": false
     },
+    "memorygraph": {
+      "command": "npx",
+      "args": ["-y", "@memorygraph/mcp-server"],
+      "disabled": false
+    },
+    "enhanced-mcp-memory": {
+      "command": "npx",
+      "args": ["-y", "@cbunting99/enhanced-mcp-memory"],
+      "disabled": false
+    },
+    "supermemory": {
+      "command": "npx",
+      "args": ["-y", "@supermemory/mcp-server"],
+      "disabled": false
+    },
     "firecrawl": {
       "command": "npx",
       "args": ["-y", "firecrawl-mcp"],
       "env": {
         "FIRECRAWL_API_KEY": "env:FIRECRAWL_API_KEY"
       },
-      "disabled": true
+      "disabled": false
     },
     "pandoc": {
       "command": "uvx",
@@ -77,7 +98,112 @@
         "VECTARA_API_KEY": "env:VECTARA_API_KEY",
         "VECTARA_ENV": "env:VECTARA_ENV"
       },
+      "disabled": false
+    },
+    "cognee-connections": {
+      "command": "python",
+      "args": ["-m", "cognee_mcp"],
+      "env": {
+        "COGNEE_DATA_PATH": "/Users/timothy/Library/Mobile Documents/com~apple~CloudDocs/Cursor/03_Novels/Walk This Way/.cognee-data"
+      },
+      "disabled": false
+    },
+    "ultrarag": {
+      "command": "python",
+      "args": ["-m", "ultrarag"],
+      "disabled": false
+    },
+    "ragenta": {
+      "command": "python",
+      "args": ["-m", "ragenta"],
+      "disabled": false
+    },
+    "scalemcp": {
+      "command": "npx",
+      "args": ["-y", "@scalemcp/server"],
+      "disabled": false
+    },
+    "ai-writers-workshop": {
+      "command": "npx",
+      "args": ["-y", "@ai-writers-workshop/mcp-server"],
+      "disabled": false
+    },
+    "style-emulation": {
+      "command": "/Users/timothy/mcp-servers/style-emulation-mcp/venv/bin/python",
+      "args": [
+        "-m",
+        "style_emulation.server"
+      ],
+      "env": {
+        "PYTHONPATH": "/Users/timothy/mcp-servers/style-emulation-mcp/src",
+        "ANTHROPIC_API_KEY": "env:ANTHROPIC_API_KEY"
+      },
+      "disabled": false
+    },
+    "google-workspace": {
+      "command": "uvx",
+      "args": ["workspace-mcp"],
+      "env": {
+        "GOOGLE_OAUTH_CLIENT_ID": "env:GOOGLE_OAUTH_CLIENT_ID",
+        "GOOGLE_OAUTH_CLIENT_SECRET": "env:GOOGLE_OAUTH_CLIENT_SECRET"
+      },
       "disabled": true
+    },
+    "anki-flashcards": {
+      "command": "npx",
+      "args": ["-y", "@anki/mcp-server"],
+      "disabled": false
+    },
+    "workflow-automation": {
+      "command": "npx",
+      "args": ["-y", "@n8n/mcp-server"],
+      "env": {
+        "N8N_API_KEY": "env:N8N_API_KEY"
+      },
+      "disabled": false
+    },
+    "zen-orchestrator": {
+      "command": "node",
+      "args": ["/Users/timothy/mcp-servers/zen-mcp-server/index.js"],
+      "env": {
+        "OPENAI_API_KEY": "env:OPENAI_API_KEY",
+        "GOOGLE_API_KEY": "env:GOOGLE_API_KEY",
+        "ANTHROPIC_API_KEY": "env:ANTHROPIC_API_KEY"
+      },
+      "disabled": false
+    },
+    "dennis-lehane-style": {
+      "command": "python",
+      "args": [
+        "/Users/timothy/Library/Mobile Documents/com~apple~CloudDocs/Cursor/03_Novels/Walk This Way/zz_COMPASS/MCP_Implementations/DENNIS_LEHANE_MCP/server.py"
+      ],
+      "disabled": false
+    },
+    "toolbox": {
+      "command": "uvx",
+      "args": ["--prerelease=allow", "mcp-toolbox[all]@latest", "stdio"],
+      "disabled": false
+    },
+    "cursor-workflow-orchestrator": {
+      "command": "/Users/timothy/Library/Mobile Documents/com~apple~CloudDocs/Cursor/03_Novels/Walk This Way/zz_COMPASS/MCP_Implementations/CURSOR_WORKFLOW_ORCHESTRATOR_MCP/venv/bin/python",
+      "args": [
+        "/Users/timothy/Library/Mobile Documents/com~apple~CloudDocs/Cursor/03_Novels/Walk This Way/zz_COMPASS/MCP_Implementations/CURSOR_WORKFLOW_ORCHESTRATOR_MCP/server.py"
+      ],
+      "disabled": false
+    },
+    "fiction-reverse-engineering": {
+      "command": "/Users/timothy/Library/Mobile Documents/com~apple~CloudDocs/Cursor/03_Novels/Walk This Way/zz_COMPASS/MCP_Implementations/FICTION_REVERSE_ENGINEERING_MCP/venv/bin/python",
+      "args": [
+        "/Users/timothy/Library/Mobile Documents/com~apple~CloudDocs/Cursor/03_Novels/Walk This Way/zz_COMPASS/MCP_Implementations/FICTION_REVERSE_ENGINEERING_MCP/server.py"
+      ],
+      "disabled": false
+    },
+    "professional-editor": {
+      "command": "python",
+      "args": [
+        "/Users/timothy/Library/Mobile Documents/com~apple~CloudDocs/Cursor/03_Novels/Walk This Way/zz_COMPASS/MCP_Implementations/PROFESSIONAL_EDITOR_MCP/server.py"
+      ],
+      "disabled": false
     }
   }
 }

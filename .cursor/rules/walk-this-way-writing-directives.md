@@ -526,6 +526,58 @@ Central organizing principle - the harmony frequency where all voices matter, BU
 
 ---
 
+## QUICK WINS - WORKFLOW OPTIMIZATIONS
+
+**5 techniques that multiply your MCP system effectiveness:**
+
+1. **XML Tags** - Structured prompting with `<goal>`, `<tone>`, `<constraint>` tags
+2. **Context Pinning** - Pin Story Bible, Directives, Current Chapter for instant access
+3. **Chain of Thought** - Add `<thinking>` step for deeper reasoning
+4. **Few-Shot Examples** - Show Good/Bad examples to lock in style
+5. **Role Prompting** - Activate specialized personas ("You are a developmental editor...")
+
+**Full Guides:** See `.cursor/rules/QUICK_WINS_MASTER_REFERENCE.md` for complete documentation
+
+**Quick Start:**
+- Pin Story Bible + Writing Directives + Current Chapter (10 sec)
+- Use XML tags in next prompt (5 min)
+- Add Chain of Thought to major decisions (5 min)
+
+**These are force multipliers, not replacements - they make your MCP system more effective.**
+
+---
+
+### **STANDARD WORKFLOW - EVERY SESSION:**
+
+**1. Session Start (Automated):**
+```bash
+./.cursor/scripts/session-start.sh
+```
+- Run at beginning of each writing session
+- Reminds you to pin files
+- Provides quick access to guides and templates
+
+**2. Pin Files (Manual - Required):**
+- Right-click `Story_Bible/character-bible.md` → "Pin to Context"
+- Right-click `.cursor/rules/walk-this-way-writing-directives.md` → "Pin to Context"
+- Right-click your current chapter → "Pin to Context"
+
+**3. Use Templates (As Needed):**
+- Type `/quick-wins` in Cursor Chat to open template library
+- Or open: `.cursor/rules/quick-wins-templates.md`
+- Copy/paste templates into prompts
+
+**4. Build Example Library (Ongoing):**
+- Save your best Good/Bad example pairs to `.cursor/examples/`
+- Organize by: character-voices/, prose-styles/, scene-types/
+- Reference in prompts using Few-Shot Examples template
+
+**Quick Reference:** See `.cursor/QUICK_WINS_QUICK_REFERENCE.md` for one-page cheat sheet
+
+**This workflow is now part of your standard process - use it every session.**
+
+---
+
 ## THE REVOLUTION
 
 This isn't just about writing one novel—it's about building the most advanced fiction writing system ever conceived. Every tool, every agent, every feature serves Timothy's dual mission:
