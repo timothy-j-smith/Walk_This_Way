@@ -1,5 +1,5 @@
 # WORKSPACE REORGANIZATION OUTLINE
-**Created:** February 9, 2026, ~9:00 PM PST (Pacific Standard Time, Oregon)  
+**Created:** February 9, 2026, ~11:15 PM PST (Pacific Standard Time, Portland, Oregon)  
 **Status:** APPROVED -- Execution in progress
 
 ---

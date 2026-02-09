@@ -1,0 +1,4 @@
+{
+  "summary": "AI-Trail end-of-session. ace_learn unavailable. CRITICAL SESSION: Discovered GitHub token contamination — ~/.zshrc GITHUB_TOKEN belongs to Nike work account (tsmit1_nike), not personal (timothy-j-smith). Personal token in Keychain is expiring. Deleted suspicious Cursor branch. Verified both repos clean of Nike content. All prior MCP fixes intact. User must generate new personal PAT with no expiration before next session.",
+  "current_status": "URGENT: User needs to create personal GitHub PAT (timothy-j-smith, no expiration, repo scope) and replace Nike token in ~/.zshrc. Then: update Keychain, make Tim-Cursor-Experiment private, fill in other API keys. ACE needs signup at get-ace.app. Homebrew needs permissions fix for Vale install."
+}

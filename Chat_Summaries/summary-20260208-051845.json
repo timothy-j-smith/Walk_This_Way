@@ -1,0 +1,4 @@
+{
+  "summary": "RESOLVED: GitHub token contamination fully fixed. Verified all 3 tokens: (1) ghp_0AND = Nike work (tsmit1_nike) — moved to GITHUB_NIKE_TOKEN, (2) ghp_6fmZ = dead/revoked (bad credentials), (3) ghp_gm1I = personal (timothy-j-smith) — now set as GITHUB_TOKEN in ~/.zshrc, stored in Keychain, and updated in ~/.cursor/mcp.json. Git fetch confirmed working. Both repos now PRIVATE. Tim-Cursor-Experiment changed from public to private. Expired 'Walk this Way' token on GitHub needs manual deletion by user.",
+  "current_status": "GitHub fully resolved. Personal and Nike tokens separated. Both repos private. All prior MCP fixes intact. Remaining user actions: (1) delete expired 'Walk this Way' token from GitHub, (2) consider regenerating new token since shared in chat, (3) fill in other API keys in ~/.zshrc, (4) fix Homebrew perms + brew install vale, (5) ACE signup."
+}

@@ -1,0 +1,4 @@
+{
+  "summary": "Diagnosed MacBook Air beach ball / spinning cursor issue. System is under heavy load: 16GB RAM nearly exhausted (15GB used, 737MB free), 9.9M swap-outs, load average 10-14 (well above 8-core capacity). Cursor alone consuming ~4GB RAM and 250%+ CPU across main process, renderer, GPU helper, and extension host. ApplicationsStorageExtension burning 41% CPU unnecessarily. Recommended: kill Storage processes, close unused apps (Pages, Safari tabs), and consider disabling unused MCPs to reduce node process count.",
+  "current_status": "System performance diagnosis complete. yy_Archive permission fixed. 66 MCPs configured (46 enabled). All prior changes committed to GitHub. Pending: user decision on killing storage processes and disabling unused MCPs to improve MacBook Air performance."
+}

@@ -1,0 +1,4 @@
+{
+  "summary": "Major MCP fix session. Completed: (1) Global config cleaned — PostHog removed, 16 empties removed, paths fixed, firecrawl/perplexity env var refs fixed. (2) Vale-MCP cloned/built/installed globally (vale-cli works). (3) zen-mcp-server cloned, Python 3.10 venv created, workspace config fixed from broken node to correct python. (4) API key placeholders added to ~/.zshrc with URLs. (5) GitHub confirmed working (account timothy-j-smith, 1 repo Tim-Cursor-Experiment). (6) Identified 5 Python MCPs with non-existent packages (ragenta, getgather, mcp_ai_memory, book_series_mcp, writer_mcp). User action needed: fill API keys, fix Homebrew perms, brew install vale, ACE signup.",
+  "current_status": "Most fixable MCPs now fixed. User needs to: (A) fill in 5 API keys in ~/.zshrc, (B) sudo chown homebrew + brew install vale, (C) ACE signup at get-ace.app. 5 Python MCPs have non-existent packages. cognee needs PostgreSQL headers."
+}

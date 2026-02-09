@@ -1,0 +1,4 @@
+{
+  "summary": "Started systematic MCP fix session. (1) ACE Pattern Learning: identified as paid extension from get-ace.app, has free tier, user needs to sign up and login via Command Palette. (2) PostHog: REMOVED from global ~/.cursor/mcp.json along with 16 empty placeholder MCPs (Braintrust, ClickUp, etc.). Fixed walk-this-way filesystem path in global config. Global config went from 30+ entries to 13 functional MCPs. Awaiting user's API keys to proceed with Priority 1.",
+  "current_status": "PostHog removed. Global config cleaned. ACE needs user signup at get-ace.app. Waiting for user to provide API keys (GitHub, Anthropic, Perplexity, Firecrawl) for Priority 1. Priorities 2-5 still pending."
+}

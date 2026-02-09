@@ -1,0 +1,4 @@
+{
+  "summary": "Session end: AI-Trail MCP:7 Shell:102 Edits:22 Responses:28 on main (58c20cf). ACE MCP still errored — requires user signup at get-ace.app and login. No new technical work this turn; user confirmed relief after GitHub token separation verification.",
+  "current_status": "GitHub tokens fully verified and separated. ACE still needs user-side setup. Remaining non-urgent tasks: API keys in ~/.zshrc, Homebrew permissions + Vale CLI, ACE signup, non-functional Python MCPs decision."
+}

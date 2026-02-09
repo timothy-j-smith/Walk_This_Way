@@ -1,0 +1,4 @@
+{
+  "summary": "User requested the list of 10 highly specialized MCPs for review. Provided numbered list: Adobe Creative Cloud, Imagen3, Airtable, Vizro, Label Studio, GrowthBook, Chain of Draft, GitLab, FIXParser/JVM/IBM FileNet, Amplitude/Dynatrace/Arize Phoenix. Also confirmed Firecrawl IS in config and enabled but still needs actual API key — placeholder in ~/.zshrc needs to be replaced with real key from firecrawl.dev. AI-Trail: MCP:7 Shell:195 Edits:41 Responses:42. Git: main (58c20cf). ACE still errored.",
+  "current_status": "Cross-reference complete. User reviewing specialized MCPs list to decide which to keep/skip. Firecrawl confirmed in config but needs API key. 43 MCPs configured. ACE still needs user setup at ace-ai.app."
+}

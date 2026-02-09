@@ -1,0 +1,13 @@
+{
+  "folders": [
+    {
+      "name": "Walk This Way",
+      "path": "."
+    },
+    {
+      "name": "MCP Library + COMPASS",
+      "path": "../../MCP_Library_COMPASS"
+    }
+  ],
+  "settings": {}
+}

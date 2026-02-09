@@ -1,0 +1,4 @@
+{
+  "summary": "Found that user had a previous MCP Dashboard (React + Python) built in January at /tmp/mcp-dashboard/ but it was likely wiped by macOS. No existing Cursor command for toggling MCPs. Explained Linear MCP (AI accesses Linear from Cursor, doesn't run inside Linear). Updated Encyclopedia brothers numbering and API reference committed and pushed to GitHub (b7969c0). 6 of 11 TO DO items complete. Next: workspace separation (#7), HTML dashboard (#9), or non-MCP tools reference (#11).",
+  "current_status": "6 of 11 TO DO items completed. MCP Encyclopedia fully built with 66 entries + API reference + glossary. All committed to GitHub (b7969c0). Remaining: workspace separation planning, Tim Cursor Experiment organization, HTML Dashboard, Full Project Dashboard, non-MCP Tools Reference."
+}
