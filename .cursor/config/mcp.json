@@ -97,7 +97,7 @@
     "pandoc": {
       "command": "uvx",
       "args": ["mcp-pandoc"],
-      "disabled": false
+      "disabled": true
     },
     "style-emulation": {
       "command": "/Users/timothy/mcp-servers/style-emulation-mcp/venv/bin/python",
@@ -121,7 +121,7 @@
         "GOOGLE_API_KEY": "env:GOOGLE_API_KEY",
         "ANTHROPIC_API_KEY": "env:ANTHROPIC_API_KEY"
       },
-      "disabled": false
+      "disabled": true
     },
     "dennis-lehane-style": {
       "command": "/Users/timothy/Library/Mobile Documents/com~apple~CloudDocs/Cursor/03_Novels/Walk This Way/zz_COMPASS/MCP_Implementations/DENNIS_LEHANE_MCP/venv/bin/python",
@@ -133,14 +133,14 @@
     "toolbox": {
       "command": "uvx",
       "args": ["--prerelease=allow", "mcp-toolbox[all]@latest", "stdio"],
-      "disabled": false
+      "disabled": true
     },
     "cursor-workflow-orchestrator": {
       "command": "/Users/timothy/Library/Mobile Documents/com~apple~CloudDocs/Cursor/03_Novels/Walk This Way/zz_COMPASS/MCP_Implementations/CURSOR_WORKFLOW_ORCHESTRATOR_MCP/venv/bin/python",
       "args": [
         "/Users/timothy/Library/Mobile Documents/com~apple~CloudDocs/Cursor/03_Novels/Walk This Way/zz_COMPASS/MCP_Implementations/CURSOR_WORKFLOW_ORCHESTRATOR_MCP/server.py"
       ],
-      "disabled": false
+      "disabled": true
     },
     "fiction-reverse-engineering": {
       "command": "/Users/timothy/Library/Mobile Documents/com~apple~CloudDocs/Cursor/03_Novels/Walk This Way/zz_COMPASS/MCP_Implementations/FICTION_REVERSE_ENGINEERING_MCP/venv/bin/python",
@@ -159,7 +159,7 @@
     "open-library": {
       "command": "npx",
       "args": ["-y", "@8enSmith/mcp-open-library"],
-      "disabled": false
+      "disabled": true
     },
     "perplexity": {
       "command": "npx",
@@ -167,12 +167,12 @@
       "env": {
         "PERPLEXITY_API_KEY": "env:PERPLEXITY_API_KEY"
       },
-      "disabled": false
+      "disabled": true
     },
     "context7": {
       "command": "npx",
       "args": ["-y", "@upstash/context7-mcp"],
-      "disabled": false
+      "disabled": true
     },
     "supabase": {
       "command": "npx",
@@ -182,7 +182,7 @@
         "--access-token",
         "env:SUPABASE_ACCESS_TOKEN"
       ],
-      "disabled": false
+      "disabled": true
     },
     "assemblyai": {
       "command": "npx",
@@ -190,7 +190,7 @@
       "env": {
         "ASSEMBLYAI_API_KEY": "env:ASSEMBLYAI_API_KEY"
       },
-      "disabled": false
+      "disabled": true
     },
     "brave-search": {
       "command": "npx",
@@ -198,7 +198,7 @@
       "env": {
         "BRAVE_API_KEY": "env:BRAVE_API_KEY"
       },
-      "disabled": false
+      "disabled": true
     },
     "exa": {
       "command": "npx",
@@ -206,7 +206,7 @@
       "env": {
         "EXA_API_KEY": "env:EXA_API_KEY"
       },
-      "disabled": false
+      "disabled": true
     },
     "figma": {
       "command": "npx",
@@ -214,12 +214,12 @@
       "env": {
         "FIGMA_ACCESS_TOKEN": "env:FIGMA_ACCESS_TOKEN"
       },
-      "disabled": false
+      "disabled": true
     },
     "linear": {
       "command": "npx",
       "args": ["-y", "mcp-remote", "https://mcp.linear.app/mcp"],
-      "disabled": false
+      "disabled": true
     },
     "slack": {
       "command": "npx",
@@ -228,12 +228,12 @@
         "SLACK_BOT_TOKEN": "env:SLACK_BOT_TOKEN",
         "SLACK_TEAM_ID": "env:SLACK_TEAM_ID"
       },
-      "disabled": false
+      "disabled": true
     },
     "puppeteer": {
       "command": "npx",
       "args": ["-y", "@modelcontextprotocol/server-puppeteer"],
-      "disabled": false
+      "disabled": true
     },
     "fetch": {
       "command": "npx",
@@ -299,12 +299,12 @@
     },
     "enhanced-mcp-memory": {
       "command": "/Users/timothy/mcp-servers/enhanced-mcp-memory/venv/bin/enhanced-mcp-memory",
-      "disabled": false
+      "disabled": true
     },
     "supermemory": {
       "command": "npx",
       "args": ["-y", "@supercorp/memory-mcp"],
-      "disabled": false
+      "disabled": true
     },
     "vectara": {
       "command": "/Users/timothy/mcp-servers/vectara-mcp/venv/bin/vectara-mcp",
@@ -313,7 +313,7 @@
         "VECTARA_API_KEY": "env:VECTARA_API_KEY",
         "VECTARA_CORPUS_KEY": "env:VECTARA_CORPUS_KEY"
       },
-      "disabled": false
+      "disabled": true
     },
     "anki-flashcards": {
       "command": "/Users/timothy/mcp-servers/anki-mcp/venv/bin/mcp-ankiconnect",
@@ -337,7 +337,7 @@
     "ffmcp": {
       "command": "npx",
       "args": ["-y", "ffmcp"],
-      "disabled": false
+      "disabled": true
     },
     "postgresql": {
       "command": "npx",
@@ -347,7 +347,7 @@
     "sqlite": {
       "command": "npx",
       "args": ["-y", "mcp-sqlite", "/Users/timothy/mcp-servers/databases/local.db"],
-      "disabled": false
+      "disabled": true
     },
     "docker": {
       "command": "npx",
@@ -365,12 +365,12 @@
     },
     "jupyter-notebook": {
       "command": "/Users/timothy/mcp-servers/jupyter-mcp/venv/bin/jupyter-mcp-server",
-      "disabled": false
+      "disabled": true
     },
     "everart": {
       "command": "npx",
       "args": ["-y", "@modelcontextprotocol/server-everart"],
-      "disabled": false
+      "disabled": true
     },
     "minimax": {
       "command": "npx",
@@ -405,7 +405,7 @@
     "agent-hub": {
       "command": "npx",
       "args": ["-y", "agent-hub-mcp"],
-      "disabled": false
+      "disabled": true
     },
     "apache-airflow": {
       "command": "/Users/timothy/mcp-servers/airflow-mcp/venv/bin/mcp-server-apache-airflow",
@@ -426,7 +426,7 @@
     "adobe-express": {
       "command": "npx",
       "args": ["-y", "@adobe/express-developer-mcp@latest", "--yes"],
-      "disabled": false
+      "disabled": true
     },
     "imagen3": {
       "command": "node",
@@ -446,7 +446,7 @@
     },
     "vizro-dashboards": {
       "command": "/Users/timothy/mcp-servers/vizro-mcp/venv/bin/vizro-mcp",
-      "disabled": false
+      "disabled": true
     },
     "label-studio": {
       "command": "/Users/timothy/mcp-servers/label-studio-mcp/venv_dir/bin/mcp-label-studio",
@@ -459,7 +459,7 @@
     "chain-of-draft": {
       "command": "npx",
       "args": ["-y", "mcp-chain-of-draft-server"],
-      "disabled": false
+      "disabled": true
     }
   }
 }
