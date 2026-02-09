@@ -9,6 +9,15 @@
       ],
       "disabled": false
     },
+    "tim-cursor-experiment-files": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@modelcontextprotocol/server-filesystem",
+        "/Users/timothy/Library/Mobile Documents/com~apple~CloudDocs/Cursor/Tim Cursor Experiment"
+      ],
+      "disabled": false
+    },
     "github": {
       "command": "npx",
       "args": [
@@ -28,7 +37,7 @@
     },
     "duckduckgo-search": {
       "command": "npx",
-      "args": ["-y", "@modelcontextprotocol/server-duckduckgo-search"],
+      "args": ["-y", "duckduckgo-mcp-server"],
       "disabled": false
     },
     "sequential-thinking": {
@@ -36,19 +45,33 @@
       "args": ["-y", "@modelcontextprotocol/server-sequential-thinking"],
       "disabled": false
     },
-    "sequential-thinking-mas": {
-      "command": "npx",
-      "args": ["-y", "@fradser/mcp-server-mas-sequential-thinking"],
-      "disabled": false
-    },
     "sequential-thinking-ultra": {
-      "command": "npx",
-      "args": ["-y", "@sequential-thinking/ultra"],
+      "command": "node",
+      "args": ["/Users/timothy/mcp-servers/sequential-thinking-ultra/dist/index.js"],
+      "env": {
+        "ULTRA_THINK_AUTO_LABEL": "true",
+        "ULTRA_THINK_QUALITY": "true",
+        "ULTRA_THINK_META": "true",
+        "ULTRA_THINK_BUDGET": "true",
+        "ENABLE_QUERY_REWRITING": "true",
+        "DEFAULT_BUDGET_MODE": "balanced"
+      },
       "disabled": false
     },
-    "enhanced-sequential-thinking": {
-      "command": "npx",
-      "args": ["-y", "@vitalymalakanov/mcp-enhanced-sequential-thinking"],
+    "sequential-thinking-mas": {
+      "command": "/Users/timothy/mcp-servers/sequential-thinking-mas/venv/bin/mcp-server-mas-sequential-thinking",
+      "env": {
+        "LLM_PROVIDER": "anthropic",
+        "ANTHROPIC_API_KEY": "env:ANTHROPIC_API_KEY"
+      },
+      "disabled": false
+    },
+    "sequential-thinking-enhanced": {
+      "command": "/Users/timothy/mcp-servers/sequential-thinking-enhanced/venv/bin/enhanced-sequential-thinking-server",
+      "disabled": false
+    },
+    "sequential-thinking-rust": {
+      "command": "/Users/timothy/.cargo/bin/sequential-thinking-server",
       "disabled": false
     },
     "compass-writing-guides": {
@@ -61,21 +84,6 @@
     "knowledge-graph-memory": {
       "command": "npx",
       "args": ["-y", "@modelcontextprotocol/server-memory"],
-      "disabled": false
-    },
-    "memorygraph": {
-      "command": "npx",
-      "args": ["-y", "@memorygraph/mcp-server"],
-      "disabled": false
-    },
-    "enhanced-mcp-memory": {
-      "command": "npx",
-      "args": ["-y", "@cbunting99/enhanced-mcp-memory"],
-      "disabled": false
-    },
-    "supermemory": {
-      "command": "npx",
-      "args": ["-y", "@supermemory/mcp-server"],
       "disabled": false
     },
     "firecrawl": {
@@ -91,43 +99,6 @@
       "args": ["mcp-pandoc"],
       "disabled": false
     },
-    "vectara": {
-      "command": "npx",
-      "args": ["-y", "vectara-mcp"],
-      "env": {
-        "VECTARA_API_KEY": "env:VECTARA_API_KEY",
-        "VECTARA_ENV": "env:VECTARA_ENV"
-      },
-      "disabled": false
-    },
-    "cognee-connections": {
-      "command": "python",
-      "args": ["-m", "cognee_mcp"],
-      "env": {
-        "COGNEE_DATA_PATH": "/Users/timothy/Library/Mobile Documents/com~apple~CloudDocs/Cursor/03_Novels/Walk This Way/.cognee-data"
-      },
-      "disabled": false
-    },
-    "ultrarag": {
-      "command": "python",
-      "args": ["-m", "ultrarag"],
-      "disabled": false
-    },
-    "ragenta": {
-      "command": "python",
-      "args": ["-m", "ragenta"],
-      "disabled": false
-    },
-    "scalemcp": {
-      "command": "npx",
-      "args": ["-y", "@scalemcp/server"],
-      "disabled": false
-    },
-    "ai-writers-workshop": {
-      "command": "npx",
-      "args": ["-y", "@ai-writers-workshop/mcp-server"],
-      "disabled": false
-    },
     "style-emulation": {
       "command": "/Users/timothy/mcp-servers/style-emulation-mcp/venv/bin/python",
       "args": [
@@ -140,31 +111,11 @@
       },
       "disabled": false
     },
-    "google-workspace": {
-      "command": "uvx",
-      "args": ["workspace-mcp"],
-      "env": {
-        "GOOGLE_OAUTH_CLIENT_ID": "env:GOOGLE_OAUTH_CLIENT_ID",
-        "GOOGLE_OAUTH_CLIENT_SECRET": "env:GOOGLE_OAUTH_CLIENT_SECRET"
-      },
-      "disabled": true
-    },
-    "anki-flashcards": {
-      "command": "npx",
-      "args": ["-y", "@anki/mcp-server"],
-      "disabled": false
-    },
-    "workflow-automation": {
-      "command": "npx",
-      "args": ["-y", "@n8n/mcp-server"],
-      "env": {
-        "N8N_API_KEY": "env:N8N_API_KEY"
-      },
-      "disabled": false
-    },
     "zen-orchestrator": {
-      "command": "node",
-      "args": ["/Users/timothy/mcp-servers/zen-mcp-server/index.js"],
+      "command": "/Users/timothy/mcp-servers/zen-mcp-server/venv/bin/python",
+      "args": [
+        "/Users/timothy/mcp-servers/zen-mcp-server/server.py"
+      ],
       "env": {
         "OPENAI_API_KEY": "env:OPENAI_API_KEY",
         "GOOGLE_API_KEY": "env:GOOGLE_API_KEY",
@@ -173,7 +124,7 @@
       "disabled": false
     },
     "dennis-lehane-style": {
-      "command": "python",
+      "command": "/Users/timothy/Library/Mobile Documents/com~apple~CloudDocs/Cursor/03_Novels/Walk This Way/zz_COMPASS/MCP_Implementations/DENNIS_LEHANE_MCP/venv/bin/python",
       "args": [
         "/Users/timothy/Library/Mobile Documents/com~apple~CloudDocs/Cursor/03_Novels/Walk This Way/zz_COMPASS/MCP_Implementations/DENNIS_LEHANE_MCP/server.py"
       ],
@@ -199,10 +150,315 @@
       "disabled": false
     },
     "professional-editor": {
-      "command": "python",
+      "command": "/Users/timothy/Library/Mobile Documents/com~apple~CloudDocs/Cursor/03_Novels/Walk This Way/zz_COMPASS/MCP_Implementations/PROFESSIONAL_EDITOR_MCP/venv/bin/python",
       "args": [
         "/Users/timothy/Library/Mobile Documents/com~apple~CloudDocs/Cursor/03_Novels/Walk This Way/zz_COMPASS/MCP_Implementations/PROFESSIONAL_EDITOR_MCP/server.py"
       ],
+      "disabled": false
+    },
+    "open-library": {
+      "command": "npx",
+      "args": ["-y", "@8enSmith/mcp-open-library"],
+      "disabled": false
+    },
+    "perplexity": {
+      "command": "npx",
+      "args": ["-y", "@jschuller/perplexity-mcp"],
+      "env": {
+        "PERPLEXITY_API_KEY": "env:PERPLEXITY_API_KEY"
+      },
+      "disabled": false
+    },
+    "context7": {
+      "command": "npx",
+      "args": ["-y", "@upstash/context7-mcp"],
+      "disabled": false
+    },
+    "supabase": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@supabase/mcp-server-supabase@latest",
+        "--access-token",
+        "env:SUPABASE_ACCESS_TOKEN"
+      ],
+      "disabled": false
+    },
+    "assemblyai": {
+      "command": "npx",
+      "args": ["-y", "assembly-ai-mcp@latest"],
+      "env": {
+        "ASSEMBLYAI_API_KEY": "env:ASSEMBLYAI_API_KEY"
+      },
+      "disabled": false
+    },
+    "brave-search": {
+      "command": "npx",
+      "args": ["-y", "@brave/brave-search-mcp-server"],
+      "env": {
+        "BRAVE_API_KEY": "env:BRAVE_API_KEY"
+      },
+      "disabled": false
+    },
+    "exa": {
+      "command": "npx",
+      "args": ["-y", "exa-mcp-server"],
+      "env": {
+        "EXA_API_KEY": "env:EXA_API_KEY"
+      },
+      "disabled": false
+    },
+    "figma": {
+      "command": "npx",
+      "args": ["-y", "figma-developer-mcp"],
+      "env": {
+        "FIGMA_ACCESS_TOKEN": "env:FIGMA_ACCESS_TOKEN"
+      },
+      "disabled": false
+    },
+    "linear": {
+      "command": "npx",
+      "args": ["-y", "mcp-remote", "https://mcp.linear.app/mcp"],
+      "disabled": false
+    },
+    "slack": {
+      "command": "npx",
+      "args": ["-y", "@modelcontextprotocol/server-slack"],
+      "env": {
+        "SLACK_BOT_TOKEN": "env:SLACK_BOT_TOKEN",
+        "SLACK_TEAM_ID": "env:SLACK_TEAM_ID"
+      },
+      "disabled": false
+    },
+    "puppeteer": {
+      "command": "npx",
+      "args": ["-y", "@modelcontextprotocol/server-puppeteer"],
+      "disabled": false
+    },
+    "fetch": {
+      "command": "npx",
+      "args": ["-y", "@mcpflow.io/mcp-fetch"],
+      "disabled": false
+    },
+    "google-workspace": {
+      "command": "uvx",
+      "args": ["workspace-mcp"],
+      "env": {
+        "GOOGLE_OAUTH_CLIENT_ID": "env:GOOGLE_OAUTH_CLIENT_ID",
+        "GOOGLE_OAUTH_CLIENT_SECRET": "env:GOOGLE_OAUTH_CLIENT_SECRET"
+      },
+      "disabled": true
+    },
+    "openmemory": {
+      "command": "npx",
+      "args": ["-y", "@openmemory/mcp-server"],
+      "env": {
+        "OPENMEMORY_API_KEY": "env:OPENMEMORY_API_KEY"
+      },
+      "disabled": true
+    },
+    "goodreads-scraper": {
+      "command": "npx",
+      "args": ["-y", "apify-mcp@latest"],
+      "env": {
+        "APIFY_API_TOKEN": "env:APIFY_API_TOKEN"
+      },
+      "disabled": true
+    },
+    "winston-ai": {
+      "command": "npx",
+      "args": ["-y", "winston-ai-mcp@latest"],
+      "env": {
+        "WINSTON_AI_API_KEY": "env:WINSTON_AI_API_KEY"
+      },
+      "disabled": true
+    },
+    "ebook": {
+      "command": "python",
+      "args": ["-m", "ebook_mcp"],
+      "env": {
+        "EPUB_LIBRARY_PATH": "env:EPUB_LIBRARY_PATH"
+      },
+      "disabled": true
+    },
+    "clerk": {
+      "command": "npx",
+      "args": ["-y", "@clerk/clerk-mcp@latest"],
+      "env": {
+        "CLERK_SECRET_KEY": "env:CLERK_SECRET_KEY"
+      },
+      "disabled": true
+    },
+    "yepcode": {
+      "command": "npx",
+      "args": ["-y", "yepcode-mcp@latest"],
+      "env": {
+        "YEPCODE_API_KEY": "env:YEPCODE_API_KEY"
+      },
+      "disabled": true
+    },
+    "enhanced-mcp-memory": {
+      "command": "/Users/timothy/mcp-servers/enhanced-mcp-memory/venv/bin/enhanced-mcp-memory",
+      "disabled": false
+    },
+    "supermemory": {
+      "command": "npx",
+      "args": ["-y", "@supercorp/memory-mcp"],
+      "disabled": false
+    },
+    "vectara": {
+      "command": "/Users/timothy/mcp-servers/vectara-mcp/venv/bin/vectara-mcp",
+      "args": ["--transport", "stdio"],
+      "env": {
+        "VECTARA_API_KEY": "env:VECTARA_API_KEY",
+        "VECTARA_CORPUS_KEY": "env:VECTARA_CORPUS_KEY"
+      },
+      "disabled": false
+    },
+    "anki-flashcards": {
+      "command": "/Users/timothy/mcp-servers/anki-mcp/venv/bin/mcp-ankiconnect",
+      "disabled": true
+    },
+    "walkthisway-characters": {
+      "command": "/Users/timothy/Library/Mobile Documents/com~apple~CloudDocs/Cursor/03_Novels/Walk This Way/zz_COMPASS/MCP_Implementations/WalkThisWay_Character_MCP/venv/bin/python",
+      "args": [
+        "/Users/timothy/Library/Mobile Documents/com~apple~CloudDocs/Cursor/03_Novels/Walk This Way/zz_COMPASS/MCP_Implementations/WalkThisWay_Character_MCP/server.py"
+      ],
+      "disabled": false
+    },
+    "cognee-connections": {
+      "command": "/Users/timothy/mcp-servers/cognee-mcp/repo/cognee-mcp/.venv/bin/cognee-mcp",
+      "env": {
+        "LLM_API_KEY": "env:OPENAI_API_KEY",
+        "ENABLE_BACKEND_ACCESS_CONTROL": "false"
+      },
+      "disabled": true
+    },
+    "ffmcp": {
+      "command": "npx",
+      "args": ["-y", "ffmcp"],
+      "disabled": false
+    },
+    "postgresql": {
+      "command": "npx",
+      "args": ["-y", "@modelcontextprotocol/server-postgres", "env:POSTGRES_URI"],
+      "disabled": true
+    },
+    "sqlite": {
+      "command": "npx",
+      "args": ["-y", "mcp-sqlite", "/Users/timothy/mcp-servers/databases/local.db"],
+      "disabled": false
+    },
+    "docker": {
+      "command": "npx",
+      "args": ["-y", "@docker/mcp-server-docker"],
+      "disabled": true
+    },
+    "n8n-workflow": {
+      "command": "npx",
+      "args": ["-y", "n8n-nodes-mcp"],
+      "env": {
+        "N8N_API_KEY": "env:N8N_API_KEY",
+        "N8N_BASE_URL": "env:N8N_BASE_URL"
+      },
+      "disabled": true
+    },
+    "jupyter-notebook": {
+      "command": "/Users/timothy/mcp-servers/jupyter-mcp/venv/bin/jupyter-mcp-server",
+      "disabled": false
+    },
+    "everart": {
+      "command": "npx",
+      "args": ["-y", "@modelcontextprotocol/server-everart"],
+      "disabled": false
+    },
+    "minimax": {
+      "command": "npx",
+      "args": ["-y", "minimax-mcp-js"],
+      "env": {
+        "MINIMAX_API_KEY": "env:MINIMAX_API_KEY",
+        "MINIMAX_API_HOST": "env:MINIMAX_API_HOST"
+      },
+      "disabled": true
+    },
+    "blender": {
+      "command": "/Users/timothy/mcp-servers/blender-mcp/venv/bin/blender-mcp",
+      "disabled": true
+    },
+    "deepseek-thinker": {
+      "command": "npx",
+      "args": ["-y", "deepseek-thinker-mcp"],
+      "env": {
+        "API_KEY": "env:DEEPSEEK_API_KEY",
+        "BASE_URL": "https://api.deepseek.com"
+      },
+      "disabled": true
+    },
+    "scanadi-ai-memory": {
+      "command": "node",
+      "args": ["/Users/timothy/mcp-servers/scanadi-memory/repo/dist/cli.js"],
+      "env": {
+        "POSTGRES_URL": "env:POSTGRES_URI"
+      },
+      "disabled": true
+    },
+    "agent-hub": {
+      "command": "npx",
+      "args": ["-y", "agent-hub-mcp"],
+      "disabled": false
+    },
+    "apache-airflow": {
+      "command": "/Users/timothy/mcp-servers/airflow-mcp/venv/bin/mcp-server-apache-airflow",
+      "env": {
+        "AIRFLOW_BASE_URL": "env:AIRFLOW_BASE_URL",
+        "AIRFLOW_USERNAME": "env:AIRFLOW_USERNAME",
+        "AIRFLOW_PASSWORD": "env:AIRFLOW_PASSWORD"
+      },
+      "disabled": true
+    },
+    "compass-intelligence": {
+      "command": "/Users/timothy/Library/Mobile Documents/com~apple~CloudDocs/Cursor/03_Novels/Walk This Way/zz_COMPASS/MCP_Implementations/COMPASS_INTELLIGENCE_MCP/venv/bin/python",
+      "args": [
+        "/Users/timothy/Library/Mobile Documents/com~apple~CloudDocs/Cursor/03_Novels/Walk This Way/zz_COMPASS/MCP_Implementations/COMPASS_INTELLIGENCE_MCP/server.py"
+      ],
+      "disabled": false
+    },
+    "adobe-express": {
+      "command": "npx",
+      "args": ["-y", "@adobe/express-developer-mcp@latest", "--yes"],
+      "disabled": false
+    },
+    "imagen3": {
+      "command": "node",
+      "args": ["/Users/timothy/mcp-servers/imagen3-mcp/repo/build/index.js"],
+      "env": {
+        "GEMINI_API_KEY": "env:GEMINI_API_KEY"
+      },
+      "disabled": true
+    },
+    "airtable": {
+      "command": "npx",
+      "args": ["-y", "airtable-mcp-server"],
+      "env": {
+        "AIRTABLE_API_KEY": "env:AIRTABLE_API_KEY"
+      },
+      "disabled": true
+    },
+    "vizro-dashboards": {
+      "command": "/Users/timothy/mcp-servers/vizro-mcp/venv/bin/vizro-mcp",
+      "disabled": false
+    },
+    "label-studio": {
+      "command": "/Users/timothy/mcp-servers/label-studio-mcp/venv_dir/bin/mcp-label-studio",
+      "env": {
+        "LABEL_STUDIO_URL": "env:LABEL_STUDIO_URL",
+        "LABEL_STUDIO_API_KEY": "env:LABEL_STUDIO_API_KEY"
+      },
+      "disabled": true
+    },
+    "chain-of-draft": {
+      "command": "npx",
+      "args": ["-y", "mcp-chain-of-draft-server"],
       "disabled": false
     }
   }

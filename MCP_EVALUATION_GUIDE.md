@@ -66,6 +66,13 @@
 
 ### **How I'll Analyze Each MCP:**
 
+**Step 0: COMPASS Capability Anchor** *(Do this first)*
+- **Which COMPASS capability (or planned Premium feature) does this MCP serve?**
+  - Reference: `COMPASS_PREMIUM_ROADMAP.md` Part 2 (MCP Mapping to COMPASS)
+  - Capabilities: Core System | DNA Memory | Research | Style | Multi-Model | Agent Choreography | Workflow | Supporting Tools
+- **If none** → Skip unless it suggests a *new* COMPASS capability worth documenting.
+- **If yes** → Compare only to MCPs already mapped to that capability. Proceed to Step 1.
+
 **Step 1: Problem Definition**
 - What writing task does this MCP address?
 - What gap in your current system does it fill?
@@ -76,7 +83,7 @@
 - What are its capabilities and limitations?
 
 **Step 3: Analysis**
-- Compare to your existing MCPs
+- Compare to your existing MCPs (especially those in the same COMPASS capability)
 - Identify overlap (superfluous) vs. unique value
 - Assess integration potential
 
@@ -85,10 +92,11 @@
 - What tasks would benefit from it?
 - What's the integration cost/benefit?
 
-**Step 5: Conclusion**
-- ✅ **Add** = Valuable, fills gap, improves workflow
-- ⚠️ **Consider** = Potentially useful, needs testing
-- ❌ **Skip** = Superfluous, overlaps existing MCPs
+**Step 5: Conclusion — Augment, Replace, or Reject**
+- ✅ **Augment** = Adds value; fills gap; improves workflow (add alongside existing)
+- 🔄 **Replace** = Clearly superior to an existing MCP for that COMPASS capability (swap in)
+- ❌ **Reject** = Superfluous, overlaps existing, or serves no COMPASS capability
+- ⚠️ **Consider** = Potentially useful, needs testing before decision
 
 ---
 
@@ -162,9 +170,10 @@
 - Deep research and comparison
 
 **Step 2: I'll Create Evaluation Report**
-- ✅ **Add** = Recommended
-- ⚠️ **Consider** = Maybe useful
-- ❌ **Skip** = Superfluous
+- ✅ **Augment** = Recommended (adds value)
+- 🔄 **Replace** = Superior to existing MCP for that COMPASS capability
+- ❌ **Reject** = Superfluous or no COMPASS capability
+- ⚠️ **Consider** = Maybe useful, needs testing
 
 **Step 3: Integration Recommendations**
 - Where each MCP fits in your stack
@@ -205,10 +214,10 @@
 - Task 3: [How it helps]
 
 **Recommendation:**
-✅ Add | ⚠️ Consider | ❌ Skip
+✅ Augment | 🔄 Replace | ❌ Reject | ⚠️ Consider
 
 **Reason:**
-[Why add/skip]
+[Why augment/replace/reject]
 
 **Integration Steps:**
 [If adding, how to integrate]
@@ -273,4 +282,4 @@ Use Sequential Thinking MCP to analyze these."
 
 ---
 
-*Last Updated: January 17, 2026 20:50 PST*
+*Last Updated: January 26, 2026 — Added Step 0 (COMPASS Capability Anchor), Augment/Replace/Reject framing*

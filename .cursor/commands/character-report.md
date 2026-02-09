@@ -8,8 +8,7 @@
 **Usage:** Type `/character-report Nick Johnson` in Cursor Chat.
 
 **What It Shows:**
-- Total character mentions
-- Mentions by chapter
+- Total character mentions by chapter
 - Voice consistency check
 - Character development tracking
 

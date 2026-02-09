@@ -1,0 +1,26 @@
+{
+  "xml_tags": {
+    "character_extraction": "<character_extraction>\nFor EACH character who appears, speaks, or is referenced:\n- name, role, emotional_state, key_actions, key_dialogue\n- relationships_shown with evidence\n- observations (traits, behaviors, details)\n</character_extraction>",
+    "location_extraction": "<location_extraction>\nFor EACH location or setting:\n- name, physical_description, atmosphere\n- narrative_function, characters_present\n- observations\n</location_extraction>",
+    "event_extraction": "<event_extraction>\nFor EACH significant plot beat:\n- name, description, characters_involved\n- location, chapter_position, consequences\n- observations\n</event_extraction>",
+    "theme_extraction": "<theme_extraction>\nFor EACH theme expressed or developed:\n- name, how_expressed, characters_connected\n- development_stage (introduced/developing/challenged/deepened/resolved)\n- observations\n</theme_extraction>",
+    "plot_thread_extraction": "<plot_thread_extraction>\nFor EACH plot thread advanced or introduced:\n- name, status, description\n- connected_characters, observations\n</plot_thread_extraction>",
+    "craft_extraction": "<craft_extraction>\nFor NOTABLE prose techniques:\n- technique, example (brief quote)\n- effect on reader, observations\n</craft_extraction>",
+    "system_context": "<system_context>\nYou are a literary intelligence extraction system.\nExtract every narratively significant element into structured categories.\nBe thorough but precise. Only extract what is ACTUALLY in the text.\nUse Chain of Thought reasoning for each category.\n</system_context>",
+    "reference_context": "<reference_context>\nPin the following for cross-reference:\n- Story_Bible/ (character DNA, plot DNA, world DNA)\n- Previous Knowledge Graph entities\n</reference_context>"
+  },
+  "chain_of_thought": {
+    "character_analysis": "Step 1: Identify all characters mentioned.\nStep 2: For each character, note their actions and dialogue.\nStep 3: Analyze emotional state and motivation.\nStep 4: Map relationships shown in this passage.\nStep 5: Compare against established character DNA for consistency.",
+    "plot_analysis": "Step 1: Identify the main plot beats in this chapter.\nStep 2: Determine chapter position (opening/rising/climax/falling/closing).\nStep 3: Trace cause-and-effect chains.\nStep 4: Identify what this chapter sets up for future chapters.\nStep 5: Check against established plot threads for continuity.",
+    "theme_analysis": "Step 1: What themes are present in this chapter?\nStep 2: How are they expressed (through character, setting, action, dialogue)?\nStep 3: Are any themes in tension with each other?\nStep 4: Has a theme deepened, been challenged, or resolved?\nStep 5: Which characters embody or oppose each theme?"
+  },
+  "context_pinning": {
+    "novel_context": "Always pin: Story_Bible/, Character DNA files, Plot DNA, World DNA, previous Knowledge Graph state.",
+    "chapter_context": "Pin: Previous chapter summary, current chapter file, next chapter outline (if exists).",
+    "character_context": "Pin: Character's full DNA profile, all scenes they appear in, relationship map."
+  },
+  "few_shot_examples": {
+    "character_extraction_example": "INPUT: 'Nick leaned against the doorframe, his guitar case hanging from one hand like a question mark.'\nOUTPUT: {\n  \"name\": \"Nick Johnson\",\n  \"physical_details\": \"Leaning posture, carrying guitar case\",\n  \"emotional_state\": \"Uncertain, tentative \u2014 guitar case 'like a question mark'\",\n  \"observations\": [\"Guitar is extension of identity\", \"Body language shows uncertainty\", \"Simile suggests seeking something\"]\n}",
+    "event_extraction_example": "INPUT: 'The first chord rang out across the lake, and every kid at Camp Winnipesaukee stopped.'\nOUTPUT: {\n  \"name\": \"Nick's Breakthrough Performance\",\n  \"description\": \"Nick plays guitar at camp, enters flow state, captivates audience\",\n  \"chapter_position\": \"climax\",\n  \"consequences\": \"Establishes natural talent, sets up music as identity\"\n}"
+  }
+}

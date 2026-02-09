@@ -10,6 +10,7 @@
   "spell.enabled": true,
   "spell.checkOnSave": false,
   "cursor.composer.usageSummaryDisplay": "always",
-  "markdown.validate.enabled": true
+  "markdown.validate.enabled": true,
+  "git.ignoreLimitWarning": true
 }
 

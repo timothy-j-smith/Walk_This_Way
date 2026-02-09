@@ -7,7 +7,7 @@ FIRST DRAFT GENERATION (Base)                    |  DENNIS LEHANE MCP (Enhanced)
 
 The lake water was still cold in early July,      |  The water was cold. Even in July,
 even with the sun beating down on the dock.       |  even with the sun on his back,
-Nick sat with his legs dangling over the edge,    |  the lake water was cold.
+Nick sat with his legs dangling over the ``edge,    |  the lake water was cold.
 his guitar case propped beside him like a         |  Nick sat on the dock, his legs
 second person. The wood planks were warm          |  hanging over the edge, his guitar
 under his palms, rough with splinters that        |  case beside him like a second person.

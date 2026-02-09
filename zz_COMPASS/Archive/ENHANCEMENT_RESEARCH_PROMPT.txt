@@ -1,0 +1,1 @@
+Analyze this research and make recommendations for COMPASS. Use zz_COMPASS/Archive/COMPASS_ENHANCEMENT_RESEARCH_GUIDE.md and JAZZ_CHAT_ANALYSIS.md as the template. Output: (1) techniques to implement, (2) nuggets to document, (3) experiments to try, (4) what's already covered by MCPs so we don't duplicate.
