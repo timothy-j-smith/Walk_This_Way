@@ -14,6 +14,21 @@ CHAT_HISTORY_DIR="$PROJECT_DIR/.cursor/docs/Chat_History"
 mkdir -p "$CHAT_HISTORY_DIR/HANK"
 mkdir -p "$CHAT_HISTORY_DIR/Other"
 
+# Check if cursor-view exists (e.g. /tmp can be cleared on reboot)
+if [ ! -f /tmp/cursor-view/server.py ]; then
+    echo "⚠️  cursor-view not found. Cloning from GitHub..."
+    cd /tmp
+    rm -rf cursor-view 2>/dev/null
+    git clone https://github.com/saharmor/cursor-view.git cursor-view 2>/dev/null
+    if [ ! -f /tmp/cursor-view/server.py ]; then
+        echo "❌ Failed to clone cursor-view. Please run manually:"
+        echo "   cd /tmp && git clone https://github.com/saharmor/cursor-view.git cursor-view"
+        exit 1
+    fi
+    echo "✅ cursor-view restored"
+    echo ""
+fi
+
 # Check if server is running
 if ! curl -s http://localhost:5001/api/chats > /dev/null 2>&1; then
     echo "⚠️  Server is not running. Starting it now..."

@@ -1,0 +1,9 @@
+# MY DAILY EDITING ROUTINE
+
+1. Open chapter in WORKING folder
+2. Cmd+L: "Score this chapter using @CHAPTER-FORMULA.txt"
+3. Fix the lowest scoring element
+4. Cmd+L: "Check this against @DANGER-ZONES.txt"
+5. Fix any issues found
+6. Run one POWER-PROMPT from @POWER-PROMPTS.txt
+7. Save and move to next chapter

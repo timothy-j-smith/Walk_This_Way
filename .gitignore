@@ -34,6 +34,9 @@ __pycache__/
 # Temporary session files
 tmp/
 
+# Chat export nightly log (created by launchd at 1 AM)
+.cursor/docs/Chat_History/nightly_export.log
+
 # Autopilot config (contains credential placeholders)
 .autopilot.json
 

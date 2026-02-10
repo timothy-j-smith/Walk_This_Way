@@ -1,0 +1,10 @@
+Novels/notes.md
+Novels/test-writing.md
+Novels/The Last Football Match . txt.txt
+.DS_Store
+Novels/Literary Analysis - The Last Football Match.md
+Novels/characters.md
+Novels/outline.md
+.cursor/rules/core-writing.md
+.cursor/agents/literary-scholar.json
+.cursor/settings.json

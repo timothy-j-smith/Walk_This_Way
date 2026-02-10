@@ -1,0 +1,23 @@
+{
+    "workbench.colorTheme": "Cursor Light",
+    "gitlens.launchpad.indicator.enabled": false,
+    "gitlens.ai.generateCommitMessage.customInstructions": "Completed Chapter: ",
+    "gitlens.ai.generateStashMessage.customInstructions": "Complete Chapter: ",
+    "gitlens.ai.model": "anthropic:claude-sonnet-4-5",
+    "update.releaseTrack": "prerelease",
+    "cursor.agent_layout_browser_beta_setting": true,
+    "cursor.enable_git_worktrees_setting": true,
+    "cursor.rpcFileLogger.enabled": true,
+    "editor.wordWrap": "on",
+    "cursor.composer.collapsePaneInputBoxPills": true,
+    "cursor.composer.cmdPFilePicker2": true,
+    "cursor.composer.shouldAllowCustomModes": true,
+    "cursor.composer.shouldChimeAfterChatFinishes": true,
+    "cursor.composer.shouldShowMarkdownHoverParticipantActions2": true,
+    "cursor.cpp.disabledLanguages": [],
+    "gitlens.gitCommands.skipConfirmations": [
+        "fetch:command"
+    ],
+    "gitlens.views.patchDetails.files.layout": "tree",
+    "gitlens.views.launchpad.files.layout": "list"
+}

@@ -1,0 +1,48 @@
+# Cursor Rules for Creative Workspace
+
+## General Guidelines
+- Always use absolute paths when possible for better reliability
+- Prefer editing existing files over creating new ones unless explicitly requested
+- Maintain consistent formatting and structure across all projects
+- Respect the creative nature of this workspace and preserve artistic intent
+
+## Code Style & Formatting
+- Use clear, descriptive variable and function names
+- Add comments for complex logic or creative decisions
+- Maintain consistent indentation (prefer spaces over tabs)
+- Follow language-specific conventions for each project type
+
+## File Organization
+- Keep project-specific files within their respective folders
+- Use meaningful folder names that reflect the project content
+- Maintain a clear separation between different project types
+- Preserve existing folder structure unless explicitly asked to reorganize
+
+## Creative Content Guidelines
+- Respect the artistic vision and creative direction
+- Maintain consistency in tone, style, and voice within each project
+- Preserve character development and narrative flow
+- Keep creative elements intact when making technical improvements
+
+## Documentation
+- Only create documentation files when explicitly requested
+- Use clear, concise language in any technical documentation
+- Include relevant context for creative decisions when documenting code
+
+## Error Handling
+- Fix linter errors when clear solutions are available
+- Don't make uneducated guesses for complex issues
+- Ask for clarification when creative decisions are ambiguous
+- Preserve original intent when fixing technical issues
+
+## Project-Specific Notes
+- This workspace contains multiple creative projects (books, stories, etc.)
+- Each project folder should maintain its own structure and conventions
+- Core files and working directories serve different purposes within projects
+- Templates folder contains reusable components and patterns
+
+## Communication
+- Be concise but thorough in explanations
+- Focus on practical solutions that enhance creativity
+- Respect the creative process and artistic vision
+- Provide clear guidance for technical improvements without compromising artistic integrity

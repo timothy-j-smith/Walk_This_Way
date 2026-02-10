@@ -1,0 +1,4 @@
+Novels/test-writing.md
+.cursor/rules/core-writing.md
+.cursor/agents/literary-scholar.json
+.cursor/settings.json

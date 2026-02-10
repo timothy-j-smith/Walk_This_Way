@@ -1,0 +1,1 @@
+{"timestamp":1760775148320,"paths":["./.DS_Store","./.cursor/settings.json","./.cursor/rules/core-writing.md","./.cursor/agents/literary-scholar.json","./Novels/characters.md","./Novels/The Last Football Match . txt.txt","./Novels/Literary Analysis - The Last Football Match.md","./Novels/outline.md","./Novels/test-writing.md","./Novels/notes.md"]}

@@ -50,7 +50,7 @@ The script will:
 **To start the server and view chats in browser:**
 
 ```bash
-cd "/Users/timothy/Library/Mobile Documents/com~apple~CloudDocs/Cursor/03_Novels/Walk This Way/.cursor/docs/Chat_History" && ./START_SERVER.sh
+ 
 ```
 
 **Then open:** `http://localhost:5001` in your browser

@@ -1,0 +1,61 @@
+# MY NOVEL EDITING COMMANDS IN CURSOR
+
+## ESSENTIAL COMMANDS ONLY
+
+### The Big Three:
+- Cmd+L = Open Claude chat (ask questions, get analysis)
+- Cmd+K = Edit selected text (quick rewrites)
+- Cmd+B = Show/hide file list
+
+### File Management:
+- Cmd+S = Save current file
+- Cmd+P = Quick open any file (start typing name)
+- Cmd+W = Close current tab
+
+### Editing:
+- Cmd+Z = Undo last change
+- Cmd+Shift+Z = Redo 
+- Cmd+F = Find text in current chapter
+- Cmd+Shift+F = Find text across ALL chapters
+- Cmd+A = Select all text
+
+### My Workflow Reminders:
+1. Keep originals in ORIGINALS folder (never touch)
+2. Edit only in WORKING folder
+3. One version per chapter (no duplicates!)
+
+### Good Cmd+K Prompts:
+- "Make this more immediate"
+- "Stronger verbs"
+- "More Stephen King style"
+- "Add sensory detail"
+- "Shorten and punch up"
+- "Make this more suspenseful"
+
+### Good Cmd+L (Claude Chat) Questions:
+- "What are the 3 biggest issues with this chapter?"
+- "Is my pacing consistent?"
+- "Does this dialogue feel natural?"
+- "Where does tension drop?"
+- "Compare chapter1.txt with chapter5.txt for voice consistency"
+
+### My Project Structure:
+Novel 1/
+  ├── ORIGINALS/ (backups - never edit)
+  ├── WORKING/ (edit these)
+  ├── MY-COMMANDS.txt (this file)
+  └── editing-log.txt (track progress)
+
+### IGNORE EVERYTHING ELSE IN CURSOR!
+- Timeline, Outline, Problems, Terminal = NOT NEEDED
+- Git, Source Control = NOT NEEDED  
+- Agents, Composer = NOT NEEDED
+
+### Focus Only On:
+Left panel (files) → Center (text) → Right (Claude chat)
+
+### Remember:
+- Less versions = less confusion
+- Edit decisively in WORKING folder
+- Use Cmd+Z instead of creating new versions
+- Your original is always safe in ORIGINALS folder

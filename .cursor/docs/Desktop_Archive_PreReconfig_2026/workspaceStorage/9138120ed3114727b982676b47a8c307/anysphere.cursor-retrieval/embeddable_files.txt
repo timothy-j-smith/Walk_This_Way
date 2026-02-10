@@ -1,0 +1,217 @@
+Original Writing/Test_Draft_Copy/Act_III/Chapter_33_The_Final_Separation.txt
+Original Writing/Test_Draft_Copy/Act_III/Chapter_32_The_Recording_Session.txt
+Original Writing/Test_Draft_Copy/Act_III/Chapter_27_Jacks_Performance.txt
+Original Writing/Test_Draft_Copy/Act_III/Chapter_26_The_Battle_Begins.txt
+Original Writing/Test_Draft_Copy/Act_III/Chapter_34_The_Last_Voice_of_Boston_Rock_Part_2.txt
+Original Writing/Test_Draft_Copy/Act_III/Chapter_29_The_Recording_Session.txt
+Original Writing/Test_Draft_Copy/Act_III/Chapter_27_Jacks_Performance_working.txt
+Original Writing/Test_Draft_Copy/Act_III/Chapter_28_Pattys_Performance.txt
+Original Writing/Test_Draft_Copy/Act_I/Chapter_08_Maxanne_Before_Talent_Show.txt
+Original Writing/Test_Draft_Copy/Act_III/Chapter_31_The_Announcement_Aftermath.txt
+Original Writing/Test_Draft_Copy/Act_III/Chapter_30_Nicks_Performance.txt
+Original Writing/Test_Draft_Copy/Act_I/Chapter_02_Jackies_World_The_Gilded_Cage.txt
+Original Writing/Test_Draft_Copy/Act_I/Chapter_03_The_Geography_of_Sudbury.txt
+Original Writing/Test_Draft_Copy/Act_I/Chapter_12_Dans_Death.txt
+Original Writing/Test_Draft_Copy/Act_I/Chapter_01_Nicks_World_The_Garage.txt
+Original Writing/Test_Draft_Copy/Act_I/Chapter_10_Summer_Camp.txt
+Original Writing/Test_Draft_Copy/Act_I/Chapter_04_The_Belt_Buckles_That_Started_Everything.txt
+Original Writing/Test_Draft_Copy/Act_I/Chapter_06_Jacks_World.txt
+Original Writing/Test_Draft_Copy/Act_I/Chapter_05_Best_Friends_Middle_School.txt
+Original Writing/Test_Draft_Copy/Act_I/Chapter_11_The_First_Fracture.txt
+Original Writing/Test_Draft_Copy/Act_I/Chapter_00_prologue_The_Last_Voice_of_Boston_Rock.txt
+Original Writing/Test_Draft_Copy/Act_II/Chapter_20_Teachers_Who_Fanned_the_Flames.txt
+Original Writing/Test_Draft_Copy/Act_II/Chapter_14_The_Bridge_Where_Friendship_Died.txt
+Original Writing/Test_Draft_Copy/Act_I/Chapter_07_Nicks_World_The_Garage_and_The_Dream.txt
+Original Writing/Test_Draft_Copy/Act_II/Chapter_16_Senior_Year_Nicks_World.txt
+Original Writing/Test_Draft_Copy/Act_I/Chapter_09_The_Talent_Show.txt
+Original Writing/Test_Draft_Copy/Act_II/Chapter_21_Nicks_Rehearsal.txt
+Original Writing/.cursorrules
+Original Writing/Test_Draft_Copy/Act_II/Chapter_25_Eve_of_the_Battle.txt
+Original Writing/STRATEGIC_WRITING_COORDINATOR.md
+Original Writing/Test_Draft_Copy/Act_II/Chapter_24_Patty_Returns.txt
+Original Writing/PROSE_POLISH_EXPERT.md
+Original Writing/Test_Draft_Copy/Act_II/Chapter_23_Maxanne_Battle_Setup.txt
+Original Writing/README.md
+Original Writing/Test_Draft_Copy/Act_II/Chapter_13_Maxanne_Act2_Setup.txt
+Original Writing/Working_Chapters/Act_III/Chapter_27_The_Battle_Begins.txt
+Original Writing/Working_Chapters/Act_III/Chapter_29_Pattys_Performance.txt
+Original Writing/Working_Chapters/Act_III/Chapter_33_The_Final_Separation.txt
+Original Writing/Test_Draft_Copy/Act_II/Chapter_18_Town_Investment.txt
+Original Writing/Working_Chapters/Act_III/Chapter_32_The_Recording_Session.txt
+Original Writing/Test_Draft_Copy/Act_II/Chapter_22_Jacks_Rehearsal.txt
+Original Writing/Working_Chapters/Act_III/Chapter_28_The_Recording_Session.txt
+Original Writing/Test_Draft_Copy/Act_II/Chapter_17_Senior_Year_Jacks_World.txt
+Original Writing/Working_Chapters/Act_III/Chapter_34_The_Last_Voice_of_Boston_Rock_Part_2.txt
+Original Writing/Test_Draft_Copy/Act_II/Chapter_19_Grace_Loses_Her_Grace.txt
+Original Writing/Working_Chapters/Act_III/Chapter_31_The_Announcement_Aftermath.txt
+Original Writing/Test_Draft_Copy/Act_II/Chapter_15_The_Poster.txt
+Original Writing/Working_Chapters/Act_III/Chapter_30_Nicks_Performance.txt
+Original Writing/Working_Chapters/Act_III/Chapter_28_Jacks_Performance.txt
+Original Writing/Working_Chapters/Chapter_27_Jackies_Performance_V2.txt
+Original Writing/Working_Chapters/Chapter_27_Jackies_Performance.txt
+Original Writing/Documentation/CONTINUITY_TRACKER.md
+Original Writing/Working_Chapters/Act_I/Chapter_03_Jackies_World_The_Gilded_Cage.txt
+Original Writing/Working_Chapters/Act_I/Chapter_01_The_Last_Voice_of_Boston_Rock.txt
+Original Writing/Documentation/ASSEMBLY_STATUS_MAP.md
+Original Writing/Working_Chapters/Act_I/Chapter_13_Dans_Death.txt
+Original Writing/Documentation/NEW_CHAPTER_OUTLINE.md
+Original Writing/Working_Chapters/Act_I/Chapter_11_Summer_Camp.txt
+Original Writing/Documentation/REVISION_ROADMAP.md
+Original Writing/Working_Chapters/Act_I/Chapter_07_Jacks_World.txt
+Original Writing/Working_Chapters/Act_I/Chapter_09_Maxanne_Before_Talent_Show.txt
+Original Writing/Working_Chapters/Act_I/Chapter_04_The_Geography_of_Sudbury.txt
+Original Writing/Working_Chapters/Act_I/Chapter_05_The_Belt_Buckles_That_Started_Everything.txt
+Original Writing/Working_Chapters/Act_I/Chapter_12_The_First_Fracture.txt
+Original Writing/Working_Chapters/Act_I/Chapter_06_Best_Friends_Middle_School.txt
+Original Writing/Documentation/PROGRESS_REPORT_TODAY.md
+Original Writing/Documentation/AI_INSTRUCTIONS_MASTER.md
+Original Writing/Working_Chapters/Act_I/Chapter_08_Nicks_World_The_Garage_and_The_Dream.txt
+Original Writing/Documentation/NEXT_SESSION_ROADMAP.md
+Original Writing/Documentation/Scalpel and Hose Work TXT.txt
+Original Writing/Working_Chapters/Act_I/Chapter_10_The_Talent_Show.txt
+Original Writing/Working_Chapters/Act_I/Chapter_02_Nicks_World_The_Garage.txt
+Original Writing/Working_Chapters/Act_II/Chapter_15_The_Bridge_Where_Friendship_Died.txt
+Original Writing/Documentation/WALK_THIS_WAY_STRATEGY.md
+Original Writing/Working_Chapters/Act_II/Chapter_17_Senior_Year_Nicks_World.txt
+Original Writing/Documentation/INITIAL_ASSESSMENT.md
+Original Writing/Documentation/FEEDBACK_NOTES.md
+Original Writing/Working_Chapters/Act_II/Chapter_21_Teachers_Who_Fanned_the_Flames.txt
+Original Writing/Documentation/DETAILED_CHAPTER_OUTLINE.md
+Original Writing/Documentation/ECOSYSTEM_SUMMARY.md
+Original Writing/Working_Chapters/Act_II/Chapter_24_Patty_Returns.txt
+Original Writing/Working_Chapters/Act_II/Chapter_27_The_Battle_of_the_Bands.txt
+Original Writing/Documentation/STORY_BIBLE.md
+Original Writing/Working_Chapters/Act_II/Chapter_22_Nicks_Rehearsal.txt
+Original Writing/Documentation/APPROVED_CHAPTER_STRUCTURE.md
+Original Writing/Working_Chapters/Act_II/Chapter_23_Jacks_Rehearsal.txt
+Original Writing/Documentation/PROJECT_STATUS_DECEMBER_10_2025.md
+Original Writing/Working_Chapters/Act_II/Chapter_19_Town_Investment.txt
+Original Writing/Documentation/TIMOTHY_FEEDBACK_FORM.md
+Original Writing/Working_Chapters/Act_II/Chapter_14_Maxanne_Act2_Setup.txt
+Original Writing/Working_Chapters/Act_II/Chapter_16_The_Poster.txt
+Original Writing/Documentation/SIMPLE_CHAPTER_OUTLINE_FOR_APPROVAL.md
+Original Writing/Working_Chapters/Act_II/Chapter_18_Senior_Year_Jacks_World.txt
+Original Writing/Documentation/PROJECT_STATUS_SUMMARY.md
+Original Writing/Working_Chapters/Act_II/Chapter_25_Maxanne_Battle_Setup.txt
+Original Writing/Documentation/FINAL_CHAPTER_SEQUENCE_FOR_APPROVAL.md
+Original Writing/Working_Chapters/Act_II/Chapter_26_Eve_of_the_Battle.txt
+Original Writing/Working_Chapters/Act_II/Chapter_20_Grace_Loses_Her_Grace.txt
+Original Writing/Documentation/Scalpel and Hose Chapter 22 work.pages
+Original Writing/Fiction Writing Agents with Mode Systems TXT 2.txt
+Original Writing/CURSOR LATEST FEATURES & CAPABILITIES TXT.txt
+Original Writing/CURSOR_COMPLETE_FEATURES_SUMMARY.md
+Original Writing/.gitignore
+Original Writing/📊 COMPLETE PARAMETER MATRIX TXT.txt
+Original Writing/STRATEGIC ANALYSIS 10:18:25 TXT.txt
+Original Writing/CREATIVE_COLLABORATOR 2.md
+Original Writing/REORGANIZATION_PLAN_backup.md
+Original Writing/First Draft Trial/Act_III/Chapter_27_The_Battle_Begins.txt
+Original Writing/First Draft Trial/Act_III/Chapter_29_Pattys_Performance.txt
+Original Writing/First Draft Trial/Act_III/Chapter_33_The_Final_Separation.txt
+Original Writing/First Draft Trial/Act_III/Chapter_32_The_Recording_Session.txt
+Original Writing/First Draft Trial/Act_III/Chapter_28_The_Recording_Session.txt
+Original Writing/First Draft Trial/Act_III/Chapter_34_The_Last_Voice_of_Boston_Rock_Part_2.txt
+Original Writing/First Draft Trial/Act_III/Chapter_31_The_Announcement_Aftermath.txt
+Original Writing/First Draft Trial/Act_III/Chapter_30_Nicks_Performance.txt
+Original Writing/First Draft Trial/Act_III/Chapter_28_Jacks_Performance.txt
+Original Writing/First Draft Trial/Act_I/Chapter_03_Jackies_World_The_Gilded_Cage.txt
+Original Writing/First Draft Trial/Act_I/Chapter_01_The_Last_Voice_of_Boston_Rock.txt
+Original Writing/First Draft Trial/Act_I/Chapter_13_Dans_Death.txt
+Original Writing/First Draft Trial/Act_I/Chapter_11_Summer_Camp.txt
+Original Writing/First Draft Trial/Act_I/Chapter_07_Jacks_World.txt
+Original Writing/Documentation/CLEAN_CHAPTER_OUTLINE.md
+Original Writing/First Draft Trial/Act_I/Chapter_09_Maxanne_Before_Talent_Show.txt
+Original Writing/Documentation/CHAPTER_1_AI_PROMPT.md
+Original Writing/First Draft Trial/Act_I/Chapter_04_The_Geography_of_Sudbury.txt
+Original Writing/First Draft Trial/Act_I/Chapter_05_The_Belt_Buckles_That_Started_Everything.txt
+Original Writing/CURSOR_FEATURES_FORMATTED.md
+Original Writing/First Draft Trial/Act_I/Chapter_12_The_First_Fracture.txt
+Original Writing/First Draft Trial/Act_I/Chapter_06_Best_Friends_Middle_School.txt
+Original Writing/REORGANIZATION_PLAN.md
+Original Writing/First Draft Trial/Act_I/Chapter_08_Nicks_World_The_Garage_and_The_Dream.txt
+Original Writing/Agent_Work/Creative_Collaborator/Chapter_Analysis_10_25_25.md
+Original Writing/Agent_Work/Creative_Collaborator/Chapter_01_Enhancement_Oct_20_2025.md
+Original Writing/First Draft Trial/Act_I/Chapter_10_The_Talent_Show.txt
+Original Writing/First Draft Trial/Act_I/Chapter_02_Nicks_World_The_Garage.txt
+Original Writing/Agent_Work/Creative_Collaborator/QUICK_START_GUIDE.md
+Original Writing/First Draft Trial/Act_II/Chapter_15_The_Bridge_Where_Friendship_Died.txt
+Original Writing/Agent_Work/Creative_Collaborator/CHAPTER_25_OUTLINE.md
+Original Writing/First Draft Trial/Act_II/Chapter_17_Senior_Year_Nicks_World.txt
+Original Writing/Agent_Work/Creative_Collaborator/PROSE_DNA.md
+Original Writing/First Draft Trial/Act_II/Chapter_21_Teachers_Who_Fanned_the_Flames.txt
+Original Writing/Agent_Work/Creative_Collaborator/CHAPTER_25_ELEVATION_PLAN.md
+Original Writing/First Draft Trial/Act_II/Chapter_24_Patty_Returns.txt
+Original Writing/Agent_Work/Creative_Collaborator/SCALPEL_HOSE_PHILOSOPHY.md
+Original Writing/First Draft Trial/Act_II/Chapter_27_The_Battle_of_the_Bands.txt
+Original Writing/Agent_Work/Creative_Collaborator/CHAPTER_26_OUTLINE.md
+Original Writing/Agent_Work/Creative_Collaborator/Session_10_21_25.md
+Original Writing/First Draft Trial/Act_II/Chapter_22_Nicks_Rehearsal.txt
+Original Writing/First Draft Trial/Act_II/Chapter_23_Jacks_Rehearsal.txt
+Original Writing/Agent_Work/Creative_Collaborator/SCALPEL_HOSE_APPLIED_TO_WALK_THIS_WAY.md
+Original Writing/First Draft Trial/Act_II/Chapter_19_Town_Investment.txt
+Original Writing/Agent_Work/Creative_Collaborator/Session_10_19_25.md
+Original Writing/First Draft Trial/Act_II/Chapter_14_Maxanne_Act2_Setup.txt
+Original Writing/First Draft Trial/Act_II/Chapter_16_The_Poster.txt
+Original Writing/Agent_Work/Creative_Collaborator/Chapter_27_Rewrite_Summary.md
+Original Writing/First Draft Trial/Act_II/Chapter_18_Senior_Year_Jacks_World.txt
+Original Writing/First Draft Trial/Act_II/Chapter_25_Maxanne_Battle_Setup.txt
+Original Writing/Agent_Work/Strategic_Coordinator/Chapter_01_Strategic_Analysis_Oct_19_2025.md
+Original Writing/First Draft Trial/Act_II/Chapter_26_Eve_of_the_Battle.txt
+Original Writing/Agent_Work/Strategic_Coordinator/Strategic_Analysis_January_27_2025.md
+Original Writing/First Draft Trial/Act_II/Chapter_20_Grace_Loses_Her_Grace.txt
+Original Writing/BREAKTHROUGH_SESSION_OCTOBER_19_2025.md
+Original Writing/Ch_01/Archive/Ch_01_Prose_Vault.txt
+Original Writing/Story_Bible/10:20:25 Notes from Walk this Way chat TXT 3.txt
+Original Writing/Ch_01/Archive/Ch_01_alternate.txt
+Original Writing/Story_Bible/10:20:25 Notes from Walk this Way chat TXT 2.txt
+Original Writing/Ch_01/Archive/Ch_01_V4.txt
+Original Writing/Ch_01/Ch_01_Working.txt
+Original Writing/Story_Bible/1979 BATTLE OF THE BANDS TXT.txt
+Original Writing/CREATIVE_COLLABORATOR.md
+Original Writing/Ch_06/Ch_06_Working.txt
+Original Writing/TEMPERATURE & ALL CONTROL LEVERS: THE COMPLETE GUIDE TXT 2.txt
+Original Writing/Story_Bible/1979 BATTLE OF THE BANDS TXT 2.txt
+Original Writing/STRUCTURAL_PERFECTION_SPECIALIST.md
+Original Writing/CURSOR_COMMANDS_QUICK_REFERENCE.md
+Original Writing/Fiction Writing Agents with Mode Systems TXT.txt
+Original Writing/Story_Bible/music-references.md
+Original Writing/Story_Bible/timeline.md
+Original Writing/Universal-Fiction-Templates.md
+Original Writing/Story_Bible/character-bible.md
+Original Writing/Story_Bible/author-style-library.md
+Original Writing/📊 COMPLETE PARAMETER MATRIX TXT 2.txt
+Original Writing/CURSOR_COMPLETE_FEATURES_SUMMARY 2.md
+.cursorignore
+.cursor/settings.json
+Original Writing/CHARACTER_DEPTH_COACH.md
+Original Writing/WRITING_DNA_MEMORY_SYSTEM.md
+Tim's_Walk_This_Way_FILE_FINDER.md
+Original Writing/Ch_05/Ch_05_Working.txt
+.cspell.json
+NOVEL_WRITING_WORKSPACE_SUMMARY.md
+Original Writing/Ch_05/Archive/Ch_05_Prose_Vault.txt
+.gitignore
+FROM_CONCEPT_TO_FIRST_DRAFT.md
+Original Writing/Ch_02/Archive/Ch_02_Prose_Vault.txt
+CURSORIGNORE_GUIDE.md
+Original Writing/Ch_02/Ch_02_Working.txt
+OPTIMAL_WRITING_SETUP.md
+Original Writing/PROJECT_STATUS_HANDOFF_DECEMBER_10_2025.md
+SPECIAL_AGENT_SETUP_GUIDE.md
+Original Writing/CURSOR_FEATURES_SUMMARY.md
+.vscode/settings.json
+Original Writing/Ch_03/Archive/Ch_03_Prose_Vault.txt
+EXPERIMENTAL_WORKSPACE_SETUP.md
+Original Writing/Ch_03/Ch_03_Working.txt
+COPY_CHAPTERS_COMMAND.md
+Original Writing/Agent.md
+Original Writing/Strategic_Writing_Coordinator 10.18.25 TXT.txt
+Original Writing/Research/COMPREHENSIVE_NOVEL_ANALYSIS_AND_WRITING_COACH_GUIDE.md
+Original Writing/Luna Alpha/Luna_Alpha_Development/LUNA_ALPHA_FEEDBACK_FORM 2.md
+Original Writing/Ch_04/Tim Prompt Test
+Original Writing/Luna Alpha/Luna_Alpha_Development/LUNA_ALPHA_FEEDBACK_FORM.md
+Original Writing/Ch_04/Ch_04_Working.txt
+Original Writing/ADVANCED_CURSOR_NOVEL_WRITING_TOOLS.md
+Original Writing/TEMPERATURE & ALL CONTROL LEVERS: THE COMPLETE GUIDE TXT.txt
+Original Writing/CURSOR_COMMANDS_QUICK_REFERENCE 2.md
+Original Writing/CURSOR_COMPLETE_FEATURES_FORMATTED.md
