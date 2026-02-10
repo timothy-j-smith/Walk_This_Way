@@ -58,6 +58,19 @@ Everything (manuscript, Story Bible, COMPASS, agents, .cursor, ACE, Chat_History
 
 ---
 
+## 7. Evaluate & test COMPASS (sophisticated MCPs)
+
+After the Mac Studio is back and the project is open:
+
+1. **Quick health check:** In Cursor Chat, run **`/compass-status`** to see what's working (agents, commands, MCPs).
+2. **Agent to use for testing:** Use **HANK** (Super Agent) — open a new chat and @ the HANK agent or start with "I want to evaluate and test the COMPASS writing system and MCPs." HANK is your strategic partner and technical architect for COMPASS.
+3. **Systematic MCP tests:** Use **`zz_COMPASS/MCP_Implementations/COMPASS_Writing_Guides_MCP/TEST_QUESTIONS.md`** — work through Basic (Tests 1–4), then Topics, Styles, etc. Paste test prompts into chat and ask the agent to run them.
+4. **Context:** Point the agent at **`zz_COMPASS/COMPASS_AUDIT_REPORT.md`** and **`zz_COMPASS/HANK_DEEP_ASSESSMENT_JANUARY_2026.md`** for priorities.
+
+No special sub-agent required — use HANK + `/compass-status` + TEST_QUESTIONS.md.
+
+---
+
 ## Quick reference
 
 | Goal              | Action |
@@ -66,5 +79,6 @@ Everything (manuscript, Story Bible, COMPASS, agents, .cursor, ACE, Chat_History
 | Sync from GitHub  | `git pull origin main` (or GitKraken) |
 | Export chats      | Run `EXPORT_ALL_CHATS.sh` from Chat_History |
 | ACE login         | Cmd+Shift+P → ACE: Configure / Login |
+| Test COMPASS      | `/compass-status` + HANK + TEST_QUESTIONS.md |
 
 You’re not starting over — you’re opening the same workspace from iCloud and (optionally) GitHub.

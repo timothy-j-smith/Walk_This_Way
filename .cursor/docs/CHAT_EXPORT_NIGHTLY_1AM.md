@@ -6,23 +6,37 @@ Chat export runs automatically every night at **1:00 AM** on whichever machine y
 
 ## One-time setup (do this on each Mac)
 
-### 1. Copy the plist into LaunchAgents
+**You don’t type `~/Library/LaunchAgents` by itself** — that’s just the folder on your Mac where the job file will live. Do this instead:
 
-On **Mac Studio** (or **MacBook Air**), run in Terminal:
+1. Open **Terminal** (Spotlight: type `Terminal` and press Enter).
+2. **Copy-paste the first command below** into Terminal, press **Enter**.
+3. **Copy-paste the second command**, press **Enter**.
+
+That’s it. The first command **copies** the schedule file (plist) from your Walk This Way project into macOS’s `LaunchAgents` folder. The second command **tells macOS to run it** every night at 1 AM.
+
+---
+
+### Command 1 — Copy the plist into LaunchAgents
+
+Paste this whole line into Terminal and press Enter:
 
 ```bash
 cp "/Users/timothy/Library/Mobile Documents/com~apple~CloudDocs/Cursor/03_Novels/Walk This Way/.cursor/scripts/chat-export-nightly.plist" ~/Library/LaunchAgents/com.walkthisway.chat-export-nightly.plist
 ```
 
-(If the project lives somewhere else on that Mac, edit the plist after copying and fix the paths, then copy the edited plist.)
+(If the project is somewhere else on that Mac, the path in quotes may need to be different; you can check in Finder where “Walk This Way” lives inside iCloud Drive.)
 
-### 2. Load the job
+---
+
+### Command 2 — Load the job
+
+Paste this and press Enter:
 
 ```bash
 launchctl load ~/Library/LaunchAgents/com.walkthisway.chat-export-nightly.plist
 ```
 
-### 3. Check it’s loaded (optional)
+### Command 3 — Check it’s loaded (optional)
 
 ```bash
 launchctl list | grep walkthisway

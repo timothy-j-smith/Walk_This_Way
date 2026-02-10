@@ -4,7 +4,7 @@
 
 ---
 
-## ace_learn payload (run when ACE MCP is available)
+## ace_learn payload (use with ace_learn MCP in Cursor)
 
 ```json
 {
