@@ -1,0 +1,17 @@
+---
+description: Produce clean, lint-free markdown in all generated files
+alwaysApply: true
+---
+
+# Clean Markdown Output
+
+When creating or editing markdown files (.md), always follow these formatting rules:
+
+- Add a blank line before and after every heading (#, ##, ###, etc.)
+- Add a blank line before and after every list (bullet or numbered)
+- Add a blank line before and after every code block
+- Add a blank line before and after every horizontal rule (---)
+- Start numbered lists at 1 (do not continue numbering from a previous section)
+- Do not put trailing punctuation (colons, periods) in heading text
+- Do not wrap heading text in bold (**) — the heading marker itself provides emphasis
+- Use consistent table formatting with spaces around pipe characters
