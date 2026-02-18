@@ -2,5 +2,6 @@
   "env": {
     "ACE_ORG_ID": "org_39PVTuBw7IhoK0AuIsWxDs1bYp3",
     "ACE_PROJECT_ID": "prj_f952d4ab56f378fe"
-  }
+  },
+  "aceWorkspaceVersion": "0.2.52"
 }

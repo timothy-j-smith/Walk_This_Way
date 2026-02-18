@@ -1,6 +1,16 @@
 {
   "version": 1,
   "hooks": {
+    "sessionStart": [
+      {
+        "command": ".cursor/scripts/ace_session_start.sh"
+      }
+    ],
+    "sessionEnd": [
+      {
+        "command": ".cursor/scripts/ace_session_end.sh"
+      }
+    ],
     "afterMCPExecution": [
       {
         "command": ".cursor/scripts/ace_track_mcp.sh"
@@ -23,7 +33,22 @@
     ],
     "stop": [
       {
-        "command": ".cursor/scripts/ace_stop_hook.sh"
+        "command": ".cursor/scripts/ace_stop_wrapper.sh"
+      }
+    ],
+    "preCompact": [
+      {
+        "command": ".cursor/scripts/ace_pre_compact.sh"
+      }
+    ],
+    "subagentStart": [
+      {
+        "command": ".cursor/scripts/ace_subagent_start.sh"
+      }
+    ],
+    "subagentStop": [
+      {
+        "command": ".cursor/scripts/ace_subagent_stop.sh"
       }
     ]
   }

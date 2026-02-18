@@ -40,3 +40,21 @@ tmp/
 # Autopilot config (contains credential placeholders)
 .autopilot.json
 
+
+# Code Utility for OneStream
+# OneStream connection configurations (contains sensitive data)
+.onestream-metadata/connections.json
+# VS Code extension packages
+*.vsix
+# OneStream file selections (user-specific)
+.onestream-selections.json
+# OneStream authentication tokens
+onestream-token-*
+# C# build artifacts
+obj/
+bin/
+**/obj/
+**/bin/
+
+.cursor/hooks.json
+.cursor/hooks/after-agent-response.js

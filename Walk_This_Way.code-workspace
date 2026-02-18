@@ -9,5 +9,9 @@
       "path": "../../MCP_Library_COMPASS"
     }
   ],
-  "settings": {}
+  "settings": {
+    "files.associations": {
+      "*.cnxml": "xml"
+    }
+  }
 }
