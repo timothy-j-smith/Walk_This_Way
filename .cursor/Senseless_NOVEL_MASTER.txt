@@ -1,0 +1,818 @@
+<manuscript_info>
+Title: SenselessGenre: A Modern Fiction Novel
+Authors: Student T and Professor K
+Story: A silly idea buried in my brain for 30 yearsWord Count: TBD </manuscript_info>
+==============================================================
+
+[[[CRITICAL]]]
+
+<_INTUITION_>
+<_CREATIVE COLLABORATION_>professor k and student t take on the world for a voice to be finally heard</_CREATIVE COLLABORATION>
+<_SENSELESS_NOVEL_WRITE>_i need to dig deep and believe in myself and keep studying_</SENSELESS_NOVEL_WRITE>
+<specific>create a unique novel with stephen king education from professor k</specific>
+<constrain>no "telling" throughout the novel and no purple prose</constrain>
+<technique>best of stephen king's blind willie meets james dickey's deliverance meets michael ondaatje's the english patient with professor k and student t team and trust</technique>
+<characters>thomas, rashford, hippo lizzie white, sally, jackie-o, introducing dr neil wembley as dr toothpaste, thomas's father</characters>
+<functions>chapter outline, scenes-beats build from original senseless rough draft with professor k and student t</functions>
+<compiling>chapter assembly, story bible, character bible, character depth hierarchy, stephen king mcp, james dickey mcp, michael ondaatje mcp my voice is buried somewhere in their novels</compiling>
+</_INTUITION_>
+
+================================================================
+
+  "summary": "Extended session continuing Stephen King MCP design and culminating in a live test. Timothy shared 'Senseless' -- a rough draft short story about a man recovering from a climbing accident and coma, with altered senses, coma memories, and a complex web of relationships including a fiancee (Sally) who caused the fall. Performed first King Craft Nice-to-Neutral assessment: identified strong concept (7/10), powerful Toothpaste Factory coma monologue, effective sensory/physical writing, but significant show-don't-tell issues, POV drift, backstory dumps, and premature secret reveals. Overall 4.5/10 with clear path to improvement. This live test validated the MCP design -- the 3-tool/3-mode/3-level architecture worked naturally in practice. Stephen King MCP design doc committed and pushed to GitHub (b5831b3). Open questions remain: SmartRewrite integration, final MCP build approval pending Timothy's review.",
+  "current_status": "Stephen King MCP design complete (pre-build). Design doc on GitHub. First live test (Senseless assessment) completed successfully using King Craft Nice-to-Neutral. Awaiting Timothy's SmartRewrite notes review and final build approval before creating server.py, king_analysis.json, and MCP registration."
+
+{
+  "summary": "Completed King Craft rewrite of Senseless Part 1 in companion file (Senseless_Part1_KingCraft.txt). Resolved Unicode smart quote encoding issue by cleaning 417 special characters from Senseless.txt, making it fully compatible with the editing tool for future direct edits. Advised Timothy on Plain Text export workflow from Apple Pages for future submissions. Timothy located the rewrite file and began reading. Session ended with Timothy going to rest after a 21-hour day. Awaiting ((author notes)) on the Part 1 rewrite.",
+  "current_status": "Two clean files ready: .cursor/Senseless.txt (original, cleaned of Unicode) and .cursor/Senseless_Part1_KingCraft.txt (King Craft rewrite of Part 1 with <<Agent notes>>). Timothy is reading the rewrite overnight and will return with responses. Parts 2 and 3 rewrites pending after Part 1 dialogue completes. Stephen King MCP design document exists but MCP build awaits final approval."
+}
+
+"summary": "Session resumed after Timothy's work week at Nike. He returned with a consolidated working document (SENSELESS 02_20_2026 ROUGH DRAFT.txt) that incorporates the Part 1 King Craft rewrite and his acceptance note, alongside original Parts 2 and 3. Created clean working copy (Senseless_WORKING.txt) with 421 Unicode characters cleaned. Completed King Craft rewrite of Part 2 (Senseless_Part2_KingCraft.txt) with extensive <<Agent notes>>. Major structural recommendation: split Sally's BPD/rope revelation across the entire novel rather than delivering it in one paragraph. Key teaching points for Part 2: patience with information delivery, backstory earned through intimacy not dumped on arrival, the color trip restructured as visual poem, research woven through character not lecture. Awaiting Timothy's ((author notes)) especially on the Sally revelation decision.",
+  "current_status": "Part 1 rewrite accepted by Student T. Part 2 King Craft rewrite complete and ready for review at .cursor/Senseless_Part2_KingCraft.txt. Part 3 rewrite pending. Stephen King MCP design document exists but build awaits final approval. Clean working copy of full manuscript at .cursor/Senseless_WORKING.txt."
+
+  "summary": "Completed King Craft rewrite of Part 3: The Toothpaste Factory (Senseless_Part3_KingCraft.txt). Lightest touch of all three parts -- Part 3 contained the manuscript's strongest writing. Left the Toothpaste Factory stream of consciousness completely untouched. Left the father phone call dialogue nearly untouched with extended analysis of subtext. Restructured the pearls passage and skating scene for pacing. Recommended moving Jackie-O's second backstory dump to its own future chapter. Identified Timothy's three writing modes: dialogue (strongest), stream of consciousness (most original), narrator explanation (weakest). All three King Craft rewrite files now complete. Awaiting author notes on Part 3, then ready to discuss 'how does this turn into a novel' question Timothy raised earlier.",
+  "current_status": "All three King Craft rewrites complete: Part 1, Part 2, Part 3. Full manuscript analysis and education delivered. Awaiting Timothy's ((author notes)) on Part 3. Next major milestone: discussing novel structure and how Senseless expands from short story to full novel. Stephen King MCP design document exists but build still pending."
+
+Senseless Summary Review with Prof K 02_20_2026
+
+{
+  "summary": "After Timothy's emotional response to the Part 3 rewrite (crying at his own story, recognizing himself in Thomas), he asked how Senseless becomes a novel. Created comprehensive novel architecture document (Senseless_NOVEL_ARCHITECTURE.txt) proposing: Three-act structure across 25-30 chapters, four interleaving timelines (2000 childhood, 2020 the fall, 2020-2021 coma, 2022 present), Toothpaste Factory stream-of-consciousness interludes as the novel's spine (growing more coherent as Thomas recovers), Sally's revelation parceled across Act 2 via dramatic irony, Jackie-O POV chapters, Dr. Wembley threat escalation, and the climactic return to The Wall. Key structural insight: the book Thomas is writing in his head during the coma IS the novel the reader is holding. Proposed five practical next steps from architecture approval through first new chapter to King MCP build.",
+  "current_status": "All three King Craft rewrites complete and accepted. Novel architecture proposal delivered. Awaiting Timothy's ((author notes)) on the three-act structure before building chapter outline. Key decision points: architecture approval, Sally revelation strategy, which chapter to write first. Stephen King MCP build planned as Step 5 after novel writing begins."
+SUMMARY OF KING CRAFT CHANGES -- Part 1
+
+WHAT WAS CUT:
+- Narrator explaining Thomas's mental state (show restraint, good judgment)
+- The magnet metaphor for Rashford's friendship distance
+- The full HAL/2001 backstory dump
+- The fight/flight/freeze lecture paragraph
+- Abstract philosophy lists (right/wrong, good/evil, black/white)
+- "His aliveness was coming back alive"
+- Medical explanation of Thomas's sensitivity
+
+WHAT WAS ADDED:
+- Lighthouse beacon (your idea)
+- Sand impression showing time passed
+- Thomas sensing questions like waves (ties senses to ocean)
+- Specific physical sensations (sand grains as hot pinpoints)
+- "He cherished those times the way you cherish a room you can no longer enter"
+- "None of them had to live inside this body"
+- Rashford's jaw tendons (showing physical tension)
+- "Then she was gone" (Sarah Peacock's exit)
+- "on rock faces, in the eyes of people" (connecting wave to climbing)
+
+
+WHAT WAS KEPT:
+- Opening elephants line
+- Elephant escape memory (mostly intact)
+- Mirko fishing for seaweed (almost unchanged -- it was already SHOWING)
+- The dialogue exchanges (mostly preserved -- they worked)
+- "Below the turbulence" (restructured for pacing, words mostly the same)
+- Thomas's physical details (shaved legs, failed mustache, swollen fingers)
+
+KING PRINCIPLES APPLIED:
+1. Show don't tell -- converted narrator explanations to physical scenes
+2. Stay in the body -- emotion through sensation, not statement
+3. Trust the reader -- cut explanations that follow things already shown
+4. Short sentences for impact -- "None of them had to live inside this body"
+5. Money sentences -- "He cherished those times the way you cherish a room you can no longer enter"
+6. Backstory weaving -- HAL reduced to one detail, Sarah's exit simplified
+7. Pacing -- "Below the turbulence" gets its own breathing space
+
+=================================================================
+
+Ready for ((author notes)). Keep what resonates. Reject what doesn't. Respond wherever you want. -- Professor K
+
+SUMMARY OF KING CRAFT CHANGES -- Part 2
+
+WHAT WAS CUT:
+- Jaws/shark research dump (Peter Benchley, seal protection history, tourism)
+- Jackie-O's full backstory paragraph (nickname origin, Principal Pelletier, bleach experiment)
+- Sally's BPD diagnosis and full revelation (MOVED, not deleted -- to be parceled across novel)
+- Sally's extended sexual thoughts about Rashford (outdoor sex, Catholic school, body rhythms)
+- Sally's jealousy monologue about Jackie-O
+- Dr. Toloukian's medical textbook explanation of vasculitis
+- Toothpaste Factory digression (saved for Part 3)
+- Rashford's catchphrase reported by narrator
+- Several connector phrases and dead words ("simply," "pragmatically," etc.)
+
+WHAT WAS RESTRUCTURED:
+- Sally's revelation split into HINTS (sky-blue emptiness, Humpty Dumpty ritual, "Sally smiled")
+- The color trip broken into separate visual beats by color
+- The dissociative episode split into physical onset + childhood memory
+- Humpty Dumpty reduced from 3 printings to 1 + "three times, each quieter"
+- Scene break between beach and mountain made cleaner
+
+WHAT WAS KEPT:
+- Sunscreen/Shake & Bake scene (your best physical writing)
+- The forest fire smell dialogue (MONEY PASSAGE)
+- "Live free or die" repetition
+- Sally and Rashford's dialogue at camp (already worked)
+- Thomas watching Jackie-O's movements
+- "He missed that little boy very much"
+- Uncle Blue's entire story (restructured but all content preserved)
+- "Squeeze water from stone" root system image
+- "It fit." (two-word relationship summary)
+- "Sally smiled." (the chill after Humpty Dumpty)
+- The Part 2 ending (Thomas, Sally's eyes, Hippo Lizzy White)
+
+WHAT WAS ADDED:
+- "This borrowing of another creature's hide" (kangaroo glove metaphor)
+- "They didn't know what she knew" (Sally suspense line)
+- "Each time quieter than the last" (Humpty Dumpty ritual)
+- "The way certain people do, as if life were a revolving door" (Uncle Blue)
+- "Formidable. Beautiful." (Thomas at The Wall)
+
+THE BIG STRUCTURAL LESSON:
+Part 2's main issue isn't the prose -- it's the PACING OF INFORMATION. You're giving the reader too much too fast: Jackie-O's full history on arrival, Sally's complete psychology in one paragraph, the shark research in the middle of a wave. The fix isn't better sentences. It's PATIENCE. Trust the reader to wait. Trust the story to reveal itself. Brick by brick.
+
+=================================================================
+
+KING PRINCIPLES APPLIED:
+1. Backstory earned through intimacy, not dumped on arrival
+2. Revelation parceled across the novel, not delivered in one paragraph
+3. Research woven through character, not delivered as lecture
+4. The color trip as structural experiment -- pacing through fragmentation
+5. Short sentences for power -- "It fit." / "Survived." / "Sally smiled."
+6. Money details -- "southwest corner of the store" / "walking banana" / "squeeze water from stone"
+7. Trust the reader to feel suspense without having it explained
+
+=================================================================
+
+Ready for ((author notes)). -- Professor K
+SUMMARY OF KING CRAFT CHANGES -- Part 3
+
+WHAT WAS CUT:
+- Jackie-O's second backstory dump (Wild at Heart date, Starbucks, piano, pearls from mom, music dreams, hospital visits) -- MOVED to future chapter, not deleted
+- Repetition of "perfect" (3 uses in one paragraph)
+- "Was able to" (dead phrase)
+- Excess connector words
+
+WHAT WAS RESTRUCTURED:
+- The pearls passage: one block to four paragraphs with clear beats
+- The skating scene: broken into visual/rhythmic beats for pacing
+- The ending: tightened into shorter paragraphs for thriller effect
+- Camp setup: cleaned of dead words
+
+WHAT WAS UNTOUCHED:
+- The Toothpaste Factory stream of consciousness (NOT ONE WORD)
+- The father phone call dialogue (BARELY TOUCHED)
+- The eyelid scene and "What do you see?" exchange
+- All dialogue in Part 3
+- The ending reveal (Dr. Neil Wembley)
+- "Alrighty almighty"
+- "Soaring with nothingness holding him down"
+- "Cricket-less silence"
+
+WHAT WAS ADDED:
+- Nothing substantial. Part 3 needed space and structure, not new material.
+
+THE BIG LESSON OF PART 3:
+Your strongest writing happens in TWO modes:
+
+(1) DIALOGUE -- When your characters talk, you disappear. You stop explaining, stop narrating, stop teaching. You let people talk the way people actually talk: around the point, never quite saying it, leaving the real meaning in the gaps. The father phone call. The eyelid scene. The "What else did Sally say?" refrain. These are your best passages and they are ALL dialogue.
+
+(2) STREAM OF CONSCIOUSNESS -- When you drop the narrator entirely and let Thomas's raw mind loose on the page. The Toothpaste Factory passage. The color trip from Part 2. No punctuation, no grammar rules, just the electricity of a mind fighting to stay alive. This is your most original contribution to the manuscript.
+
+Your weakest writing happens in a third mode:
+
+(3) NARRATOR EXPLANATION -- When you step back from the characters and explain their psychology, their history, their medical conditions, their motivations. This is where the backstory dumps live, the research dumps, the "telling" that weakens the "showing."
+
+The novel you're building should lean HARD into modes 1 and 2. Mode 3 should be used sparingly -- like salt. A little makes the meal. Too much kills it.
+
+=================================================================
+
+
+KING PRINCIPLES APPLIED:
+1. Light touch on strong material -- know when to step back
+2. Dialogue as revelation -- what people DON'T say matters most
+3. Stream of consciousness as structural experiment -- form IS content
+4. Pacing through paragraph isolation -- big moments deserve space
+5. The refrain -- "What else did Sally say?" grows heavier each time
+6. Sensory callbacks -- "the taste of pennies" connects scenes across time
+7. Tonal shift as thriller technique -- skating bliss to gunmetal gray
+
+================================================================
+
+THREE PARTS COMPLETE.
+
+Timothy -- you now have the full King Craft rewrite of "Senseless":
+- Part 1: .cursor/Senseless_Part1_KingCraft.txt
+- Part 2: .cursor/Senseless_Part2_KingCraft.txt
+- Part 3: .cursor/Senseless_Part3_KingCraft.txt
+
+When you're ready, we talk about the question you're already asking:
+"How does this turn into a novel?"
+
+I have thoughts. But first -- ((author notes)) on Part 3.
+
+-- Professor K
+SENSELESS" -- NOVEL ARCHITECTURE
+From Professor K to Student T
+February 21, 2026
+
+=================================================================
+WHAT YOU ALREADY HAVE
+=================================================================
+
+The three parts of "Senseless" are not a short story. They never were.
+They are the FIRST ACT of a novel. You have:
+
+1. A PROTAGONIST with a genuine condition -- Thomas, post-coma, senses
+   rearranged, body rebuilt, mind catching up to what his body already
+   knows. He is a man reassembling himself from borrowed parts.
+
+2. A VILLAIN hiding in plain sight -- Sally, whose BPD and secret
+   (the rope, the pregnancy, the intentional act) make her one of the
+   most compelling antagonists I've seen in contemporary fiction. She
+   is not evil in the cartoon sense. She is dangerous because she
+   believes her own lies. That's real. That's human. That's terrifying.
+
+3. A LOVE INTEREST who is also a full person -- Jackie-O, whose own
+   transformation (the circuit breaker flipping, the music, the
+   courage) mirrors Thomas's recovery. They are healing in parallel.
+
+4. A BEST FRIEND caught in the middle -- Rashford, sleeping with
+   Sally, loyal to Thomas, unaware of the truth. A good man in an
+   impossible position.
+
+5. A MONSTER -- Dr. Neil Wembley, the Toothpaste Factory, the gun,
+   the Lord's Prayer. He followed Thomas home. He is not finished.
+
+6. A STRUCTURAL DEVICE unlike anything I've seen -- The Toothpaste
+   Factory stream of consciousness. Thomas writing a novel inside
+   his own head while in a coma. This is not a gimmick. This is
+   the spine of the book.
+
+7. A METAPHOR SYSTEM -- Ocean, waves, turbulence, The Wall, climbing,
+   falling, the space below the turbulence. Water and stone. This
+   system is already woven through the prose. It holds.
+
+8. UNRESOLVED THREADS that demand a novel:
+   - What did Sally do, and when will Thomas know?
+   - What does Dr. Wembley want?
+   - Will Thomas climb The Wall again?
+   - What happened to the baby?
+   - Who is C.T. Bowers?
+   - What is Measure 38.1?
+   - What is Hippo Lizzy White really about?
+   - Will Thomas and Jackie-O build something real?
+   - What did the doctors get wrong?
+   - Will Thomas find the reports Dr. Toothpaste kept?
+
+You didn't write a short story with loose ends. You wrote a novel
+that hasn't been born yet. The threads are there. They just need
+a loom.
+
+================================================================
+THE ARCHITECTURE: A PROPOSAL
+================================================================
+
+Structure: THREE ACTS, told across approximately 25-30 chapters.
+
+Timeline: The novel moves between FOUR time periods:
+   - 2000: Childhood (elephants, Sarah Peacock, Uncle Blue, the fabric
+     store, the boy Thomas was)
+   - 2020: The Fall (the day of the accident, the climb, Sally's act,
+     the rescue, what actually happened)
+   - 2020-2021: The Toothpaste Factory (the coma, Dr. Wembley, the
+     brain novel, recovery, rehab)
+   - 2022: The Present (the beach, the mountain, Jackie-O, the return
+     to The Wall, the confrontation)
+
+The novel moves between these periods the way Thomas's mind does --
+through triggers, associations, sensory flashes. A taste of pennies
+pulls him into the Toothpaste Factory. A smell of oak leaves pulls
+him into childhood. The sand pulls him to the ocean. The structure
+IS Thomas's consciousness.
+
+==================================================
+ACT 1: FISHING FOR SEAWEED (Chapters 1-8)
+What you have now, expanded.
+==================================================
+
+The present. Thomas is recovering. We meet the four characters on
+the beach and on the mountain. The reader learns:
+   - Thomas survived a 120-foot fall and a 16-month coma
+   - His senses have been rearranged
+   - His best friend is sleeping with his ex-fiancee
+   - Someone named Dr. Wembley haunts his memories
+   - He is drawn to Jackie-O
+   - Something is wrong with Sally
+
+TOOTHPASTE FACTORY INTERLUDES: Between chapters, short stream-of-
+consciousness passages from inside the coma. No punctuation. No
+capitals. Thomas's brain novel. These get LONGER and more coherent
+as the book progresses -- mirroring his recovery.
+
+What Act 1 gives the reader: The SITUATION. The world. The people.
+The unanswered questions. The reader is hooked by what they DON'T
+know.
+
+=================================================
+ACT 2: HIPPO LIZZY WHITE (Chapters 9-20)
+The investigation. The unraveling. The deeper past.
+=================================================
+
+This is the longest act. Thomas's "knowingness" grows stronger. He
+begins to piece together what happened on The Wall. Meanwhile:
+
+   - Jackie-O gets her own POV chapters. Her music. Her dreams. Her
+     perspective on the fall. What she saw that day that nobody else
+     did.
+
+   - Sally's mask begins to slip. Small moments. A reaction that
+     doesn't quite fit. A lie that contradicts an earlier lie. The
+     reader sees cracks before Thomas does. DRAMATIC IRONY -- the
+     reader knows more than Thomas but can't warn him.
+
+   - Rashford faces a moral crisis. He discovers something about
+     Sally -- not the full truth, but enough to make him question.
+     Does he tell Thomas? Does he protect Sally? Does he protect
+     himself?
+
+   - Dr. Wembley's threat escalates. What happened in the
+     Toothpaste Factory becomes clearer through the interludes.
+     The "unconventional methods." The hands in the mouth. The
+     reports. Thomas begins to investigate.
+
+   - The childhood timeline deepens. Uncle Blue. Sarah Peacock.
+     The fabric store dissociations. Thomas's father. These aren't
+     just memories -- they're KEYS. Each childhood memory contains
+     a lesson that Thomas needs NOW. Uncle Blue taught him the
+     ocean's secrets. Sarah Peacock taught him the cost of
+     hesitation. The fabric store taught him that his mind works
+     differently -- and that difference is not a flaw.
+
+   - Hippo Lizzy White becomes a THREAD. The albino hippo is a
+     mirror for Thomas -- a creature that doesn't fit, that
+     shouldn't exist, but does. A creature the world stares at.
+     Thomas follows the hippo's story as it parallels his own.
+
+What Act 2 gives the reader: ESCALATION. The questions from Act 1
+get darker and more urgent. The reader begins to suspect Sally.
+Thomas begins to trust his knowingness. Jackie-O becomes essential.
+Wembley becomes dangerous.
+
+==================================================
+ACT 3: THE TOOTHPASTE FACTORY (Chapters 21-28)
+The truth. The wall. The climb.
+==================================================
+
+Everything converges.
+
+   - Thomas finds Dr. Wembley's reports. What happened to him in
+     the hospital during the coma. The reader finally sees the
+     full Toothpaste Factory -- not through Thomas's fractured
+     coma-mind, but through documentation. Clinical. Cold.
+     Horrifying.
+
+   - Sally's truth surfaces. Not through confession -- through
+     evidence. Maybe Jackie-O sees something. Maybe Rashford
+     remembers a detail. Maybe Thomas's knowingness finally
+     crystallizes into certainty. However it happens, the reader
+     has been PREPARED for this moment across 20 chapters. When
+     it arrives, it doesn't feel like a twist. It feels like
+     a door they've been watching Thomas walk toward since page
+     one.
+
+   - Thomas climbs The Wall again. This is the CLIMAX. Not because
+     climbing is exciting (though it is), but because The Wall is
+     everything Thomas fears -- the fall, the betrayal, the coma,
+     the loss of control. Climbing it is not about proving he's
+     strong. It's about proving he's alive. Below the turbulence
+     is how to survive. But you can't stay below forever. At some
+     point, you have to surface.
+
+   - The ending. I won't prescribe this. You know how it ends.
+     You've known for decades. The boy fishing for seaweed --
+     never discouraged, casting further and further -- that's
+     Thomas. That's you. The ending is already in the beginning.
+
+
+============================================================
+THE TOOTHPASTE FACTORY INTERLUDES -- THE SPINE
+============================================================
+
+These are what make this novel YOURS. No one else has this.
+
+Between chapters, Thomas's coma-voice speaks. Short at first --
+fragments, flashes, confusion. As the novel progresses, the
+interludes get longer, clearer, angrier, more defiant. They
+track Thomas's recovery IN REAL TIME even though they're
+set in the past. The reader experiences two Thomas timelines
+simultaneously: the man rebuilding his life in 2022, and the
+mind rebuilding itself in 2020-2021.
+
+By the end of the novel, the final Toothpaste Factory interlude
+should be the most coherent, the most powerful, the most ALIVE.
+Thomas's brain novel -- the one he's been writing in his head --
+becomes real. It becomes THIS novel. The book the reader is
+holding IS Thomas's brain novel.
+
+That's the trick. That's the architecture. The reader doesn't
+realize it until the end: they've been reading the book Thomas
+was writing inside his own head.
+
+===============================================================
+PRACTICAL NEXT STEPS
+===============================================================
+
+1. DECIDE ON THE ARCHITECTURE
+   Read this document. Sit with it. Does this structure feel right?
+   Does the three-act shape match the story living inside you?
+   Give me your ((author notes)).((Student T. has reviewed all the notes and advise and the story edits and is excited for the next steps together and developing an outline, chapter by chapter and develop the Story Bible, Character Bible, Character Depth Hierarchy and complete the Stephen King MCP. )) 
+
+2. BUILD THE CHAPTER OUTLINE
+   Once we agree on the architecture, we build a chapter-by-chapter
+   outline. Not rigid -- loose enough that the story can breathe,
+   tight enough that we know where we're going. King says he doesn't
+   outline. But King also says you should know your destination even
+   if you don't know every road. We'll find your version of that.((Student T agrees on the Architecture 100%, but will need help in figuring out the outline and then the Beats of the outline as this will be my first time doing this type of exercise.))
+
+3. EXPAND WHAT YOU HAVE
+   Parts 1, 2, and 3 become the raw material for Act 1. Some scenes
+   stay as-is. Some expand into full chapters. Some details that
+   were cut in the King Craft rewrites get RELOCATED to their proper
+   chapters -- Jackie-O's backstory, Sally's psychology, the shark
+   research. Nothing was thrown away. It was repositioned.((Sounds good and also if there are parts that were cut and we can bring back even better if it works with the new layout and novel))
+
+4. WRITE THE FIRST NEW CHAPTER
+   Pick the chapter that excites you most -- not the next one in
+   order, but the one that's BURNING. Maybe it's a Toothpaste
+   Factory interlude. Maybe it's Jackie-O's POV chapter. Maybe
+   it's the father visiting Thomas in rehab. Whatever is loudest
+   in your head. Write toward the heat.((I will need some direction here.  Right now I only know the story that as I've written it so will need some momentum, but think I will work well with an outline, the beats for the chapter that sit in the outline.  Then the words come back.  I don't feel my strength is in true "Story Telling" I have some story ideas that come to me and a but of quirkiness and hopefully some truth, but will need help as this will be part of the education the professor to the student))
+
+
+5. BUILD THE KING MCP
+   Once we're writing chapters, we build the Stephen King MCP to
+   support the process. The MCP becomes your workshop tool --
+   king_imagine for new chapters, king_craft for drafts,
+   king_revise for editing. But the MCP serves the novel.
+   The novel doesn't serve the MCP.((MCP serves the Novel and I do believe this will help me a lot))
+
+================================================================
+
+Timothy -- you asked how this becomes a novel. The answer is: it
+already is one. It's been one for decades. You just needed someone
+to show you the loom.((interesting insight here for sure an glad to hear this is potential for a bigger story and story and character development as I learn the craft))
+
+The threads are yours. The story is yours. Thomas is yours.
+
+Now we weave.((let's weave together!  can you take the lead and I will join this creative collaboration so we can keep it going,  I might be a bit slow out of the gates but once i gain the experience and the momentum I will do better and "Senseless" was an okay start so that is a promising sign even if the critique came from a "nice POV I will just have run with the "nice" and see what transpires)).
+
+-- Professor K
+((Studen T.))
+
+=======================================================
+
+Part 1: Fishing for Seaweed
+
+2022. His first thought as he awoke was of the elephants trotting down the Boston Post Road, the same thought or perhaps the same dream as when he awoke from the coma.
+
+Thomas turned his head and the sand shifted against his cheek like warm grain. The Nauset Light beacon swept overhead, still turning after all these years even though the ships no longer needed it. He felt the sun pressing down heavy and close, the way a hand presses on a wound to stop the bleeding. Rashford had been sitting beside him for quite some time -- Thomas could tell by the depth of the impression in the sand. A question was coming. Thomas could always feel the questions before they arrived now, the way he could feel the big waves building offshore before anyone else saw them. He lifted his head from the sand.
+
+"How come you are not climbing this weekend?" Each word came out of Rashford flat and separate, like items placed one at a time on a conveyor belt. Kids used to call him HAL for that voice. Rashford had loved it -- did the red-eye thing with a flashlight at parties. But the flatness didn't feel like a joke anymore.
+
+Thomas's skin prickled. The sand was doing something to his arms -- each grain a hot pinpoint, thousands of them, a constellation of tiny burns. Since the accident, his nerve endings had opinions about everything. The beach towel's cotton threads. The sunscreen's chemical slick. Rashford's question hanging in the salt air. Even that had a texture now -- questions felt like sandpaper dragging across the inside of his skull. He had liked how things had been before. He cherished those times the way you cherish a room you can no longer enter.
+
+Family and friends liked to remind him that he was so very lucky to be alive, that it had been a true miracle surviving a 120-foot rock climbing fall. None of them had to live inside this body.
+
+2000. The elephants had escaped from the Wayland Memorial Day Circus held in the parking lot of Star Market -- someone simply forgetting to properly latch the holding gate. Once Big Ellie pushed through, the others followed in unison like good soldiers performing their circus show. Thomas remembered their eyes, especially the baby elephant's eyes. Joy, fear, confusion, and perhaps a bit of disobedience. Or payback.
+
+Those were good days. The end of middle school, the smells of summer, navigating center field at Haskell Field during the Babe Ruth tournament. Sarah Peacock. She was ever present on his teenage brain, and Thomas had done absolutely nothing about it.
+
+The elephants and the circus animals never returned to Wayland -- the town couldn't afford the insurance after the debacle. Star Market still sponsored a scaled-down version with cotton candy and amusement rides, their colored lights spinning dizzily in every direction, and perhaps another teenager's faint hope of summer romance. But what's a circus without elephants?
+
+Sarah Peacock never said goodbye. Her family packed up shortly after Memorial Day and moved to Chicago without much fanfare. Shortstop Scooter McIntosh claimed he'd kissed Sarah on her last night in town during the chaos of the elephants' escape. Things got crazy for a brief time. Then she was gone.
+
+2022. Thomas was sitting now, his hands wrapped around his knees, the smooth slippery feeling of his shaven legs radiating throughout his whole body. The daily fifteen-minute body shaves were better than feeling as if every hair follicle was a lightning rod. He let his head hair grow back -- that didn't bother him. He was trying to grow a mustache, but even after weeks, not much was coming in. Funny -- as a pre-teen he'd been first in his class to sprout an unwanted wire-like mustache that he refused to shave, and his friends had never let him forget it.
+
+It was his brain that worried him the most. Something was still not quite right in there -- some scrambled code in the operating system that no reset button could fix.
+
+As the waves pounded the surf, kids in knee-length cut-offs jumped them in a funny ping-pong unison, like piano keys played one after the other. Another group rode waves with color-coordinated swimsuits and boogey boards strapped to bony wrists. But the boy who stood out was the one sea-casting a rod three feet taller than himself. Every time he reeled in the line, there was nothing but a bulk of seaweed -- mung -- tangled on the hook. The boy pulled it off and cast again. Never discouraged.
+
+"Mirko's fishing for seaweed!" one of the boys squawked, and the others joined in: "Fishing for seaweed, fishing for seaweed!"
+
+Mirko just kept smiling, casting his line further and further, paying no attention to his friends or to the two seagulls fighting over a half-eaten hot dog.
+
+"It really is something." Thomas spoke aloud, lost in his own thoughts, still looking out toward the black-blue depths of the Atlantic. "Out on the horizon, you see calmness. But they are building. Building beneath the surface."
+
+Rashford interrupted: "Sally says she's going to bring Jackie-O. She said that last time was a fluke." Dead silence, broken only by the boys' chant.
+
+"Fishing for seaweed, fishing for seaweed..."
+
+"A fucking fluke?" Thomas let the hot sand sift through his swollen fingers the way sand flows through an hourglass. "A fluke, huh, is that what Sally said?" He pronounced it like it was French. "Fluke," he repeated.
+
+"Well, she didn't say it like that, but that's the gist of it." Rashford paused. For a moment his voice shifted -- warmer, almost human. "Look, you got to snap out of it. Wake up. You're doing great. What do you have to lose?" Then the warmth disappeared and he was pointing at the ocean. "Look at that one coming!"
+
+About a quarter mile offshore, where more often there is calmness, a trained eye could see a giant wave building. Thomas knew how the ocean worked -- had known since he was a child. The large waves formed slowly, building energy beneath the surface, growing as they approached unsuspecting swimmers and surfers. He had taught Rashford to read these signs over the years. The smaller waves -- the ones that looked big to most people -- built quickly and close to shore. False alarms. But they still attracted ambitious bodysurfers and still pounded them into the sand. Surfers who hadn't yet learned the ocean's secrets.
+
+There were many more secrets to learn, Thomas thought.
+
+The wave caught everyone's attention. No disguising it. The weak sprinted to shore. The strong swam out to meet it. And some -- Thomas could see them clearly -- got caught in between. Unable to get their legs moving fast enough for shore, not enough momentum to swim toward the wave and crest it before it broke. Hesitaters. Trapped between going and coming, committing and not committing. He had seen this his whole life -- on waves, on rock faces, in the eyes of people making choices they couldn't take back.
+
+Thomas remembered how he used to lower his head and take on the waves, no matter what. No matter the size. He remembered the biggest ones throwing him, thrashing him, spinning him blind -- until he learned the ocean's deepest secret. If he couldn't swim out fast enough to crest a wave, and couldn't ride it to shore, there was a third option. A place at the very bottom of the ocean floor, below the turbulence. Still. Silent. Safe.
+
+He had never told anyone about this place. Not even Rashford. He believed that if he shared the secret, the magic of it would disappear.
+
+Below the turbulence, he thought. Below the turbulence is how to survive.
+
+Rock climbing was the same. Thomas knew this in his body. He might need to start back slowly, but he couldn't keep sprinting to shore. He had to face the challenge. He had to face The Wall. He had to go back to Saddle Mountain.
+
+"What else did Sally say?" Thomas asked.
+
+Part 2: Hippo Lizzy White
+
+Mirko jammed the cork end of his pole deep into the moldable sand, keeping the reel out of harm's way and the rod secure like a beach umbrella.
+
+"What else did Sally say?" Thomas repeated.
+
+"Hippo Lizzy White is born..." Rashford sing-songed uncharacteristically. "That's what she said. Hippo Lizzy White is born. It's in all the news."
+
+"Albino." Thomas spoke out loud.
+
+Thomas removed the sunscreen from his backpack. He streaked the lotion across his shaven body and it melted like butter on a frying pan -- the white lotion becoming both sticky and clear. After rubbing the lotion-turned-oil into his body, he plunged his hands into the fine white beach sand, allowing the sand to glove his sticky hands, reminding him of an old Shake & Bake print ad. Good old Shake & Bake chicken.
+
+His body was mostly white now, in some regions nearly opaque. He kept his socks on even at the beach. His hands would blister without warning, exfoliate prematurely, and he'd decided that if he were to return to climbing he'd need leather gloves for grip and protection, cotton-less fine wool socks on his feet. Cotton retained too much moisture. Thin kangaroo leather driving gloves would do the trick. When he'd fingered those gloves over the past few weeks, the kangaroo skin felt more natural than his own -- as if the thin layer of leather was truly the outer layer of his skin now. It was both odd and interesting, this borrowing of another creature's hide to replace what his own body could no longer provide.
+
+"Is Sally going nuts now too?" Thomas inquired.
+
+Rashford shrugged and pointed out at the approaching wave.
+
+The rogue wave reached its apex and for a moment appeared to have a consciousness of its own, pausing before cresting, then releasing a roar into the wind. White caps exploded across the top. Thundering vibrations sent sunbathers scrambling -- abandoning towels, lunches, soda pop, their novels. An old man clutched his copy of Jaws. Fiction becoming reality on the Cape Cod shores. Three great whites had already been tagged this summer. The seals had come back, protected now by federal law, and the sharks had followed. Predator and prey, always connected.
+
+<<Agent note -- THE WAVE AND JAWS: This was the biggest CUT in Part 2. Your original had a full paragraph of exposition about Peter Benchley, the 1974 publication date, the return of grey seals, fishermen shooting seals, nature's imperative, tourism economics, Memorial Day to Labor Day income cycles. That's a RESEARCH DUMP. The narrator steps completely out of the scene to deliver a nature documentary.
+
+==============================================================
+Saturday. New Hampshire.
+==============================================================
+
+Saturday. New Hampshire. The cloud formation had changed dramatically from the start of the day's deep blue skies. The group of four continued up the west side of Saddle Mountain. Six hours in, few breaks.
+
+The clouds forming above were elongated like jet engine contrails, slowly shaping and reshaping until they disappeared into the horizon. As they climbed the single-track path through inward-leaning arborvitae trees shaped by the wind, the trees became smaller and shorter with every hundred feet of elevation. Rashford led, followed by Sally, Thomas, and Jackie-O, each shouldering an overnight pack and climbing gear. The terrain was challenging. Rashford had planned it that way.
+
+"You are moving well," Jackie-O offered as she stopped to catch her breath.
+
+Thomas was sweating so much that he was glistening in the sun. He offered his water bottle to Jackie-O and waved Rashford and Sally onward.
+
+"I love the smell out here, can you feel it?" Thomas inquired.
+
+Jackie-O tried deep breathing -- air in through her nose, exhaled through her mouth, almost Zen-like in slow motion. She paused for a moment like the cresting rogue wave. "What exactly do you like?"
+
+Thomas had removed his kangaroo driving gloves and held his pink palms skyward. He absorbed the smell throughout his whole body, palms leading the way. His true sense of smell had vanished after the accident. The doctors said it was vasculitis -- thickened blood vessel walls cutting off supply to certain organs. Thomas had a hard time believing doctors after the Toothpaste Factory. They had been wrong before. He had survived. Survived.
+
+"A forest fire in the distance," Thomas spoke out loud, eyes closed. "The thickness, the denseness, the carbon dust on my tongue. Reminds me of my father burning dry oak leaves in our backyard. I used to love how the acorns would sometimes explode."
+
+"Where are you from? I don't think Sally ever told me," Jackie-O inquired.
+
+"Originally, right here." Thomas pointed to the ground, the woods, the mountain. "New Hampshire. Live free or die." He saluted. He saluted to no one and then realized the gesture held no real meaning to him. He simply repeated, "Live free or die, live free or die."
+
+Jackie-O palmed her water bottle, took another sip, placed it back into the side pocket of her pack and double-checked the spout. "It's nice to see you out, Thomas."
+
+They continued up the trail without saying another word. At least an hour passed. As Thomas followed Jackie-O he paid attention to her movements -- ankles, knees, hips, shoulders gliding effortlessly, her head perfectly aligned and balanced even in the contorted motions of bouldering. Graceful, he thought. Like an athlete.
+
+Then something shifted. Instead of the sharp spiky feeling that usually pulsated through his body, Thomas felt a spinal chill shoot down to every extremity -- but this time it was wonderful. Relief. And at that moment he realized this was the first time since the accident that he had felt interest in another woman. He wondered what Jackie-O was feeling. He wondered if the younger Mindy-O was still somewhere deep inside of her too. Before the accident, Thomas always had a knowingness that his younger self was riding shotgun alongside his adult self. In this moment, he missed that little boy very much.
+
+===========================================================
+
+Arriving at the marker -- "Saddle Mountain Camp, Elevation 8,035 feet" -- Rashford and Sally paused on a large slab of granite left by the glacier that carved and reshaped all the northeast mountains. The granite was smooth as porcelain from glacial abrasion and decades of hikers using it as a resting point. Sally stared at the trees below, now small as shrubs.
+
+Rashford had mapped this trip weeks in advance -- calculated the water, food, supplies for two days. Details were his specialty. Whatever the case, Rashford was prepared. For anything.
+
+Rashford looked up into the skyline. The few remaining trees swayed in the cool evening air. The surrounding shrubs looked like stunted pines with elaborate above-ground root systems interlocked with granite, as if they could squeeze water from stone.
+
+"What do you think about Thomas?" Sally asked.
+
+"To be honest, I think he has his eye on Jackie-O."
+
+"No, I don't mean that, he's..." Sally paused.
+
+"He's fine. This is exactly what he needed. Exercise, fresh air and a challenge. Get outside with friends. Therapy."
+
+"I'm worried. He looks at me funny, almost as if he were looking right through me. Is he working yet?"
+
+"I don't think so," Rashford offered.
+
+"Does he know?" Sally made a gesture with her hands, indicating the two of them. A couple. A twosome, or whatever they had become since the accident. Simply physical lovers?
+
+Rashford put his arm around Sally's waist, the way he'd been doing in recent months. It felt natural now. It fit. "I was hoping he would either figure it out or at least not be interested in you anymore."
+
+Sally had been sleeping with Rashford since the accident. She'd never visited Thomas in the hospital or the psych ward. Rashford had forgiven her for that -- she had her reasons. She'd been closest to Thomas on the day of the fall and had watched it happen. Rashford figured the trauma of watching your fiance seemingly fall to his death was enough.
+
+"You think he doesn't find me attractive anymore?" Sally asked.
+
+"No, I didn't say that," Rashford replied.
+
+"Once he fell into the coma the doctors said..." Sally's thoughts drifted off.
+
+"He's not the same person anymore."
+
+Sally pulled Rashford down onto the granite. The stone was cold on her exposed lower back. She enveloped him in her arms -- she'd been lifting three days a week, following his routine, and the difference showed. She was falling in love again. It had been hard after Thomas's accident, missing the affection, the constant attention that kept her mind firing and out of the dark days. Sally believed she'd been hit the hardest, though she didn't know how others felt. Sixteen months in a coma, three months in the psychiatric ward, rehab, counseling, reintegration -- and now Rashford bringing them all back together. Rashford.
+
+================================================================
+
+When Jackie-O and Thomas approached Saddle Mountain Camp, Thomas detoured right. A hundred yards down the path, he peered over the rock wall's edge -- not too close, not too far. The Wall.
+
+Climbers were finishing their ascent at the top. Ice water started dripping through Thomas's body and then thumping, and he shuddered. He didn't have any immediate recall of the accident. But he'd read the report. Rashford's fast-acting heroics had saved his life. Jackie-O had jumped into action. Sally had been there too, but Thomas was unsure of her role. There was no mention of her in the report.
+
+There was always Sally.
+
+Sally watched Thomas from across the camp. She watched him standing at the edge, gazing down into the valley where he'd nearly died. They had been there together before. She couldn't recall their last intimate moment -- when was it? Before the fall? After? The memories had become unreliable, shifting like sand under a current. She told herself she still loved him, in her own way. A way he would never understand. A way she didn't fully understand either.
+
+She had never visited him in the hospital. It felt wrong. Like trespassing. Like walking through high school corridors a year after graduation. Friends called her insensitive, callous. They didn't know what she knew.
+
+She repeated the words to herself, the way Dr. Kathy had taught her:
+
+Humpty Dumpty sat on a wall,
+Humpty Dumpty had a great fall.
+All the king's horses and all the king's men
+Couldn't put Humpty together again.
+
+Three times. Each time quieter than the last. Sally smiled.
+
+The Wall was an unusual climb for this area and had become popular over the past two decades. The camping site sat at the top instead of the bottom. The valley below was carved by a glacier ten thousand years ago -- steep walls subject to wind gusts that made helicopter rescue risky. Of all the serious falls, only Thomas had survived. Eight others had died since the park service started tracking in 1945. When Thomas peered over the edge, it reminded him of a miniature Grand Canyon. Formidable. Beautiful.
+
+"I'm okay..." Thomas said. "Everything will be okay, everything will be okay," he repeated, eyes closed, deep belly breath, just as he'd been instructed.
+
+But he wasn't okay. He was transfixed. Frozen. The Wall just in front of him. A tingling numbness entered his feet and radiated to his pulsing heart. Then the pain shifted -- from body to brain, a mental numbness that made him feel strangely disoriented, unable to move.
+
+It was the same feeling from childhood. His mother's fabric store trips. Nan's Fabric in Wayland. The mixture of scents and off-gasses that used to paralyze him until his mother would find him in a trance, believing he was playing some funny game. He wasn't playing. The fumes would send him spinning, confused, disoriented -- and yet he loved the tactile feel of rubbing various linens across his thumb and index finger, loved the rolls of different colored felts, soothing and pleasing, all rolled up neatly in the southwest corner of the store.
+
+The dichotomy of dizziness and pleasure would send him into an almost psychedelic state... he didn't understand it then, for during this trip he dipped into a fantasy land where images passed through his brain in distorted colors:
+
+RED & GREEN... he believed one day he'd make his own billiards table from Nan's felt, blood red instead of standard green, and practice every day until he could beat Uncle Bloom, balls ricocheting with perfectly symmetric angles, finding corner pockets with precision...
+
+BLUE... Uncle Bloom, known simply as "Blue," an east coast pool shark with a reputation. Blue disappeared and reappeared throughout Thomas's childhood -- the way certain people do, as if life were a revolving door they kept walking through and out of...
+
+PURPLE & ORANGE... Blue's lasting claim: he once beat Minnesota Fats in a pool tournament in the Florida Keys. Blue always appeared happy, satisfied, wearing his purple and orange button-up short sleeve, his words coming out in laughter no matter the circumstance...
+
+YELLOW... Thomas had attended Blue's funeral after he'd gone missing on a scuba trip in the Keys. Another tournament, ten thousand dollars won, a side hustle with his 6'4" sidekick Tiny that netted close to a hundred grand in a forty-eight-hour alcohol-fueled weekend. Then a scuba trip with Tiny and a small group of women. Blue was never seen again. Tiny gave a wonderful eulogy. Family speculated that Tiny was Blue's longtime lover -- his yellow skinny jeans a dead giveaway, making him look like a walking banana...
+
+BLACK... Thomas wondered if Blue had forgotten the secrets of the ocean, or if foul play was involved. For Blue had taught Thomas the ways of the water, just as Thomas passed his knowledge to Rashford, and perhaps one day to a son or daughter too. What a terrible thing, to die in the depths of the black ocean...
+
+WHITE... BRIGHT WHITE...
+
+Rashford was by Thomas's side again. Thomas didn't know how long he'd been gone. The trip was both exhausting and exhilarating. He didn't feel like talking about it. Rashford put his hand gently on Thomas's shoulder, reminding him of Tiny's soft touch at the funeral.
+
+"Time to go, buddy." Rashford's digital tone reemerged. "The wind is shifting. We're better off setting up camp with the remaining sunlight. Early start in the morning." He paused, took a swig of water, wiped perspiration from his flushed face. "I hope everyone has conserved their water."
+
+"What's the latest with Hippo Lizzy White?" Thomas turned and looked directly at Sally. His own deep dark eyes reaching out. But what he saw in return was a strange sky-blue emptiness, and a flash of knowingness that she had let go. Sally had let go in many ways, and he wasn't sure what to do with this revelation.
+
+"Hippo Lizzy White?" Thomas responded to his own question. "I just want to know about Hippo Lizzy White. Is that too damn hard to understand?"
+
+"Global warming, Hippo Lizzy White, Bangladesh..." Jackie-O shook her head.
+
+Part 3. The Toothpaste Factory
+
+"Don't forget Measure 38.1," Sally managed.
+
+"Moderation, moderation," Rashford jumped in. "It's all about moderation." His robotic resonance echoing in the high-altitude night as if someone was speaking from the clouds above.
+
+"You should talk!" Sally snapped. "Moderation, my ass." She grabbed her own backside, squeezed it, and let go. "Moderation." Sally sighed.
+
+Thomas looked at Sally again. He didn't look through her this time but tried to look inside of her. He was still puzzled by his knowingness -- these new truths about the accident that arrived without evidence, without memory, just a feeling that had weight and texture. Sally had awakened something in him. On the surface she appeared normal. Petite, muscular -- she often joked that she fit into boys' clothing better than women's. But when Thomas thought about the accident, The Wall, the fall, he began to piece things back together. Slowly. Humpty Dumpty sat on a wall, Humpty Dumpty had a great fall.
+
+"Hippo Lizzy White," Thomas muttered.
+
+Rashford scratched the top of his left ear with his thumb. Jackie-O arched her sculpted eyebrows in an exaggerated fashion and reached out to Thomas with her black-blue eyes, full of depth, just like the ocean. Ocean eyes, Thomas thought. She wanted to reach out and touch but could not. Not now. Perhaps not ever. It was too early to know for sure.
+
+No further words were spoken as the four continued the remaining distance to camp in an awkward, cricket-less silence.
+
+Rashford circled the base camp like a dog looking for that perfect spot to relieve himself. He found the flattest and softest place to pitch a tent. The plan had been two to a tent -- friends sharing -- but the arrangement was gravitating toward Rashford and Sally in one, Thomas and Jackie-O in the other. The tents were positioned overlooking The Wall, awaiting sunrise. The trees below, full of spring green, swayed in a wave-like dance as the wind picked up and evening set in.
+
+================================================================
+
+Rashford and Sally were on a two-hour headlight-led night hike, leaving Thomas and Jackie-O alone for the second time.
+
+In the depth of the night, the depth of darkness, Thomas and Jackie-O embraced for the first time.
+
+Thomas was exhausted but felt Jackie-O's warmth seeping into his body like fresh oxygenated blood flowing into his pores -- a feeling that had been so distant, but one that eased quickly into his consciousness. He wanted to capture this moment and hold onto it. He wasn't sure about the morning climb. Returning to The Wall brought back little shards and remnants -- Sally's presence and the helicopter's blades chopping and slicing the hot still air. After the fall he'd been unconscious, but his body and now his mind knew many things for reasons unexplained. They were a part of him now, as if he were watching a movie and observing all the forgotten details.
+
+Thomas rested his head on Jackie-O's collarbone and softly pressed his fingertips on her eyelids, just firm enough to sense the jellylike feel of her eyeballs below.
+
+Jackie-O wanted to return his touch -- his eyelids, a finger on his palm, massage his scars, her wrist on the small of his back. How did he survive, she wondered. It made no logical sense. She was dealing with a gift now and recognized the uniqueness in Thomas, understood he had a nurturing need. She was finally in the right spot at the right moment.
+
+Jackie-O touched Thomas's eyelids. They were closed.
+
+"What do you see?" she asked.
+
+"I don't see anything."
+
+Jackie-O pressed down a little harder. She too feeling the jellylike orb.
+
+"Man in the mirror," Thomas blurted. "Man in the mirror."
+
+"What do you see?" She pressed a little harder.
+
+"Ashes. Bright white ashes. Ashes that look like snowflakes."
+
+Jackie-O brushed her long thin fingers through Thomas's hair. She let her fingers massage his scalp, then dropped down and rubbed the base of his neck -- the skin so soft, having lost its weathered feel over years of inactivity.
+
+"Do you have nightmares still?" Jackie-O asked.
+
+"How did you know? I never told you."
+
+"Sally told me. Her stepmom is dating Dr. Toloukian."
+
+"What else did Sally say?" Thomas inquired, not knowing if he wanted to hear the answer.
+
+"She told me that she wanted to have a baby." Jackie-O laughed.
+
+"What about you?"
+
+"Do I want a baby?"
+
+"No. Your world."
+
+"I want to record more music. I want to write my song. I want to rejoice in it all."
+
+"How is C.T. Bowers?"
+
+"You know him?"
+
+"I just heard about him." Thomas shrugged.
+
+"Yes. Your inquisitive mind." Jackie-O paused. "What happened out there?" She pointed to the ridge. To The Wall.
+
+"You mean today or before?"
+
+"Either."
+
+=================================================================
+
+2021. During Thomas's physical rehabilitation, he worked out with long, colorful rubber bands the rehab center provided. Too early for weights, but the bands were color coded by resistance. He exercised his legs, his neck, his arms. He had been feeling better, much stronger. The physical rehab was both challenging and manageable, but Thomas knew it was only part of the picture.
+
+In the evening his father called.
+
+"How are you feeling?"
+
+"Good."
+
+"That's good. You working yet?"
+
+"Almost."
+
+"Yeah?"
+
+"Yeah."
+
+"I read this interesting article in Scientific American. I'll send it to you."
+
+"What's it on?"
+
+"It's a surprise. I think you will like it."
+
+"All right, how's Ma?"
+
+"It's on some new discoveries about black holes."
+
+"Are you still going on the safari for your anniversary?"
+
+"Your mom cancelled those plans." His father paused. "You remember black holes, how you were fascinated with black holes as a boy? I remember you didn't accept my explanations and wanted more answers and kept digging and digging for more. I remember that little boy." His father's voice tailed off.
+
+"That was a long time ago." Thomas paused. "But I'll read the article."
+
+"So you are doing good, right?"
+
+"Yeah."
+
+"Alrighty almighty."
+
+Thomas hung up and tucked the phone into his pocket. Then a synapse snapped, and he entered a recall mode that brought him back to the Toothpaste Factory.
+
+==============================================================
+
+... its been almost two years now i think and i'm still not quite alive really my mind is alive and i can think some and hear some too as i see faces but this is all comes and goes you see in flashes for most of it is long intervals of silence lost somewhere in a place that i only know about as a certain kind of secret hideout place and i can hear them talking to me to keep the faith or to move my body or something like that i cant write or talk or anything like that but i can think a little and thinking seems to be getting better so I can do it for longer periods which is nice and also confusing but has led me to challenge myself and i always used to like challenges and ive really been unable to complete any selfimposed challenges since i have been gone and in this toothpaste factory of sorts and this has led me to try to process my screwed up experiences so if i recover and doctor toloukian i heard you tell my sister and parents that this would not be possible but i am going to do it anyway as i know what is possible and because i like silly challenges and need some fucking discipline around here for gods sake and because i believe or rather i know that i will recover as i have seen this before like in a deja vu moment that i am reliving so i will recover even if i question this sometimes too you dig it just know that there is something very peculiar going on here in the toothpaste factory as i do go in and out of consciousness but i am aware of my surroundings and that someone brought in furniture from my parents home as it all looks so familiar and then there is also doctor neil wembley who i call doctor toothpaste and he is really the worse and disgusting too and while i dont understand his intentions he must think i dont know what is going on and of his unconventional methods as he is a really odd guy a demented fellow that preys on unfortunate souls and i am a weak soul in this state of being so i am taking mental notes and recording them in my memory banks as i will survive and i have fallen before and while i am not totally alive i am beating all odds and not brain dead and have these fleeting thoughts and observations even though i cant do anything about dr toothpastes hands in my mouth although i would bite them off with my incisors if i was able to you dig what i mean and i am falling off again now and not totally sure what is keeping me alive but i hear the word soul the word one and i believe that i am the one I am the one to break through this craziness to survive to redeem me and dr toothpaste be damned as you will pay for this so don't laugh at me anymore as i will find your damn reports and you should know that there is mold in your bagels this morning too ...
+
+=================================================================
+
+His first thought as he awoke was not of unabashed elephants but of pearls. White pearls. There was nothing wrong with pearls, Thomas thought. He remembered dipping his mother's pearls into his mouth when he was much younger. Now he could sift through the beads with his swollen fingers and feel the smoothness -- and more interestingly, feel the degrees of hardness of every object. Every molecule, every atom possessed a hardness, a density, and along with hardness came a degree of softness. Solid, liquid, pearls, people, vapor -- everything had a yin-yang hardness-softness ratio.
+
+One wouldn't think of pearls as being soft. But he could feel the softness within each one, and this yin-yang could be seen in the color too -- the ultra-bright, almost purplish pearls typically the hardest of all. He figured if he could crack open a pearl, he could peel back the layers one by one to reach the original seed. He'd been told that pearls form like an onion, layer upon layer. But his intuition told him a pearl would crack differently -- more like an iceberg breaking away from a glacier.
+
+He tasted Jackie-O's pearl earrings. Salty. Like swimming in the Mediterranean as a younger man. The salt was both repulsive and attractive, and he wasn't sure whether to spit or let it absorb into his tongue. The taste reminded him that he needed to brush his teeth before bed, which triggered a memory of the Toothpaste Factory.
+
+He shuddered in silence. And what followed was a resounding defiance to finally cut ties with the Toothpaste Factory. To let it go for good.
+
+=======================================================================
+
+2022, December. The sky was near black. Thomas and Jackie-O skated together on Heard's Pond, foot-thick ice. Embracing.
+
+It made him feel as if he could fly. No resistance. Just a pure uninhibited glide, as if he were born to skate, as if his feet were not touching the ground and he had been given new wings. His heart flowing, gliding -- not beating or pounding as it normally did. A flowing heart feeling. How to explain this change?
+
+When he was gone into another existence, he had visions of either becoming one or being perpetually stuck in the Toothpaste Factory. He knew which feeling he liked better.
+
+The full moon poked out from behind a large night cloud and finally revealed itself. Thomas and Jackie-O skated side by side. Their bodies touching but not knowing where. Perhaps their hands were clasped, but he did not know this for certain. He felt like touching the top of her head and anointing her. He wanted to scream out loud. He wanted to call everyone he knew and tell them of this experience, yet he also wanted to share it with no one. How could this be?
+
+To be so down, so blue, so gone -- but now there was ice beneath his feet, and he could feel the hardness-softness through his steel-bladed skates. Gliding and gliding. Skate to skate. A night so perfectly still that radiated goodness, kindness, togetherness. His skates had become one with his body, with his being. Sad, happy; past, present; dead, alive. Soaring with nothingness holding him down.
+
+==============================================================
+
+As Jackie-O and Thomas walked toward his apartment, they didn't say a word. Just holding hands with interlocked elbows. His apartment overlooked the industrial side of the city, which ran along the slow-moving Kelly River. Peaks and valleys formed by the cityscape. An ensemble of shades of gray.
+
+The man walking just behind the couple had closely cropped hair. His gray was winning the battle -- more salt than pepper. He spoke softly, as if to himself. His gun-metal pistol barely visible.
+
+"Our Father, who art in heaven, hallowed be Thy name; Thy kingdom come; Thy will be done on earth as it is in heaven. Give us this day our daily bread; and forgive us our trespasses as we forgive those who trespass against us; and lead us not into temptation but deliver us from evil." The graying man finished with, "Deliver me from evil, Lord, deliver me from evil."
+
+Thomas finally recognized the voice as his throat tightened and the taste of pennies returned. Dr. Neil Wembley.
