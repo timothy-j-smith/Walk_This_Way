@@ -54,11 +54,11 @@ print(json.loads(result[0].text))
 
 ### Lint and test
 
-There is no linter, test framework, or CI configured for this project. Python syntax can be checked with:
+No test framework or CI is configured. Available lint checks:
 
-```bash
-venv/bin/python -m py_compile server.py
-```
+- **Markdown lint**: `markdownlint '**/*.md' --ignore '**/venv/**' --ignore '.cursor/**'` (config in `.markdownlint.json`)
+- **Spell check**: `cspell '**/*.md'` (config in `.cspell.json`)
+- **Python syntax**: `venv/bin/python -m py_compile server.py` (run from each MCP server directory)
 
 ### Dependencies
 
