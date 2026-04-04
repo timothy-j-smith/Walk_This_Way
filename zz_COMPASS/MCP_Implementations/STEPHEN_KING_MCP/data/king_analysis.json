@@ -1,0 +1,586 @@
+{
+  "metadata": {
+    "version": "1.0.0",
+    "created": "2026-04-04",
+    "last_updated": "2026-04-04",
+    "description": "Stephen King MCP - The Writer's Toolbox. Craft philosophy as educational engine based on On Writing: A Memoir of the Craft.",
+    "status": "PRIVATE & CONFIDENTIAL - For Timothy and Claude's Use Only",
+    "sources": [
+      "Stephen King: On Writing: A Memoir of the Craft",
+      "writing_guides.json King philosophy and quotes",
+      "king.md style command reference",
+      "Agent_Work/SCALPEL_HOSE_PHILOSOPHY.md",
+      "Professional book reviews and critical author analysis"
+    ],
+    "disclaimer": "NOT plagiarism - style analysis and craft education only. Fair use for educational purposes.",
+    "architecture": "3-3-3: 3 Tools (king_imagine, king_craft, king_revise) × 3 Modes (create, transform, edit) × 3 Liberty Levels (nice, neutral, professional)"
+  },
+
+  "writers_toolbox": {
+    "description": "King's central metaphor: the writer's toolbox with four shelves of mastery, bottom to top",
+    "shelves": [
+      {
+        "level": 1,
+        "name": "Foundation",
+        "focus": "Vocabulary and Grammar",
+        "principle": "Use the first word that comes to mind if it's appropriate. Don't try to decorate.",
+        "guidance": [
+          "Your vocabulary is adequate. Trust it.",
+          "Put your vocabulary on the top shelf of your toolbox, and don't make a conscious effort to improve it.",
+          "Grammar is not just a set of rules — it's the handles on the tools. Know them.",
+          "Avoid fragments in formal prose, but use them freely in dialogue and interior monologue."
+        ]
+      },
+      {
+        "level": 2,
+        "name": "Style",
+        "focus": "Active Voice, Strong Verbs, Economy",
+        "principle": "Death to adverbs. Active voice. Specific verbs over modified weak ones. Conversational prose that doesn't perform.",
+        "guidance": [
+          "The road to hell is paved with adverbs.",
+          "The passive voice is weak and circuitous. Prefer active voice always.",
+          "'He ran quickly' is weaker than 'He sprinted.' Strong verbs carry the image.",
+          "Don't write prose that shows off. Write prose that tells the story.",
+          "Paragraphs are as important for how they look as for what they say. Short paragraphs put white space on the page, creating visual breathing room.",
+          "Avoid the passive tense. 'The body was carried to the ambulance' is weaker than 'Two paramedics carried the body to the ambulance.'"
+        ]
+      },
+      {
+        "level": 3,
+        "name": "Scene Craft",
+        "focus": "Situation, Character, Closed Door",
+        "principle": "Situation-based storytelling. Character revelation through action. The closed door first draft. Earning emotion through specificity.",
+        "guidance": [
+          "I want to put a group of characters in some sort of predicament and then watch them try to work themselves free.",
+          "Stories are found things, like fossils in the ground. The writer's job is excavation, not construction.",
+          "Write with the door closed, rewrite with the door open. First draft is for you. Second draft is for the reader.",
+          "Description begins in the writer's imagination, but should finish in the reader's.",
+          "Good description is a learned skill, one of the prime reasons why you cannot succeed unless you read a lot and write a lot.",
+          "Thin description leaves the reader feeling bewildered and nearsighted. Overdescription buries the reader in details and images."
+        ]
+      },
+      {
+        "level": 4,
+        "name": "Theme and Resonance",
+        "focus": "Themes, Meaning, Symbolic Weight",
+        "principle": "Themes are like bones in the body — you can't see them but they hold everything together. Themes emerge; they are never forced.",
+        "guidance": [
+          "Starting with the questions and thematic concerns is a recipe for bad fiction.",
+          "Good fiction always begins with story and progresses to theme; it almost never begins with theme and progresses to story.",
+          "Once your basic story is on paper, you need to think about what it means and enrich your following drafts with your conclusions.",
+          "Symbolism exists to adorn and enrich, not to create a sense of artificial profundity."
+        ]
+      }
+    ]
+  },
+
+  "core_philosophy": {
+    "source": "On Writing: A Memoir of the Craft",
+    "principles": {
+      "story_is_king": {
+        "statement": "Story is king. Character drives horror. Ordinary people in extraordinary situations. Accessible literary quality.",
+        "elaboration": "The story always comes first. Not the theme, not the symbol, not the literary trick. The story. And the story emerges from character — from who people are and what they do when pressed."
+      },
+      "character_drives_plot": {
+        "statement": "Character drives plot, not the other way around.",
+        "elaboration": "Never force characters to serve plot; let plot emerge from character. Put interesting characters in difficult situations and watch what they do. If you know your characters well enough, the plot writes itself."
+      },
+      "closed_door_open_door": {
+        "statement": "Write with the door closed, rewrite with the door open.",
+        "elaboration": "First draft is for you — write freely without judgment or audience awareness. Subsequent drafts are for readers — refine and polish with their experience in mind. Put the manuscript in a drawer for at least six weeks between drafts."
+      },
+      "kill_your_darlings": {
+        "statement": "Kill your darlings, kill your darlings, even when it breaks your egocentric little scribbler's heart, kill your darlings.",
+        "elaboration": "Be willing to cut passages you love if they don't serve the story. Attachment to beautiful prose can weaken the overall narrative. If a scene exists only because you're proud of the writing, it probably needs to go."
+      },
+      "death_to_adverbs": {
+        "statement": "The road to hell is paved with adverbs.",
+        "elaboration": "Strong verbs are more effective than weak verbs with modifiers. 'He said loudly' is weaker than 'He shouted.' Adverbs are the mark of a timid writer who is afraid to commit to a strong verb."
+      },
+      "active_voice": {
+        "statement": "The passive voice is weak and circuitous.",
+        "elaboration": "Use active voice for clarity and impact. Passive voice distances the reader from the action. 'The ball was hit by John' is weaker than 'John hit the ball.' Passive voice is safe but boring."
+      },
+      "description_and_imagination": {
+        "statement": "Description begins in the writer's imagination, but should finish in the reader's.",
+        "elaboration": "Give enough detail to ground the reader, then trust them to fill in the rest. The best descriptions use a few well-chosen details rather than exhaustive catalogs. Let the reader's imagination do the heavy lifting."
+      },
+      "dialogue_from_listening": {
+        "statement": "Dialogue is a skill best learned by people who enjoy talking and listening to others.",
+        "elaboration": "Good dialogue comes from observing how people actually speak — the rhythms, the interruptions, the way people dodge questions. Fictional dialogue should sound natural while carrying the story forward."
+      },
+      "fear_of_beginning": {
+        "statement": "The scariest moment is always just before you start.",
+        "elaboration": "Fear diminishes once you begin. Start writing, even imperfectly. The blank page is the enemy; once you put words on it, you've already won the hardest battle."
+      },
+      "read_and_write": {
+        "statement": "Read a lot and write a lot. There is no shortcut.",
+        "elaboration": "If you want to be a writer, you must do two things above all others: read a lot and write a lot. Reading is the creative center of a writer's life. Every book you pick up has its own lesson."
+      },
+      "second_draft_formula": {
+        "statement": "2nd draft = 1st draft minus 10%.",
+        "elaboration": "The revision formula: cut at least 10% from every first draft. This forces you to identify and eliminate what doesn't serve the story. The remaining 90% will be tighter, stronger, more alive."
+      }
+    }
+  },
+
+  "situation_over_plot": {
+    "description": "King doesn't plot. He puts characters in situations and lets them respond.",
+    "core_statement": "I want to put a group of characters in some sort of predicament and then watch them try to work themselves free.",
+    "principles": [
+      "Stories are found things, like fossils in the ground.",
+      "The writer's job is not to build stories but to excavate them — to uncover what's already there.",
+      "Plot is the good writer's last resort and the dull writer's first choice.",
+      "Start with a situation. Characters will find the story if you let them.",
+      "If you know your characters, they'll tell you what happens next."
+    ],
+    "scene_test": "Did you start with a situation and let characters respond? Or did you force characters into a plot point? If the latter, rewrite from the situation.",
+    "examples": {
+      "misery": "What if a writer wrecked his car and was rescued by his number-one fan? (Situation, not plot.)",
+      "the_shining": "What if an alcoholic writer took a winter caretaker job at a haunted hotel with his family? (Situation, not plot.)",
+      "stand_by_me": "Four boys go looking for a dead body on a summer day. (Situation, not plot.)",
+      "it": "What if the thing you feared most as a child came back when you were an adult? (Situation, not plot.)"
+    }
+  },
+
+  "telepathy_engine": {
+    "description": "Writing is refined telepathy — the writer sends an image, the reader receives it.",
+    "core_statement": "All the arts depend upon telepathy to some degree, but I believe that writing offers the purest distillation.",
+    "signal": {
+      "description": "Elements that strengthen the telepathic transmission",
+      "elements": [
+        "Specific detail — 'a red 1958 Plymouth Fury' not 'a car'",
+        "Concrete imagery — what can be seen, heard, smelled, touched, tasted",
+        "Active verbs — movement carries the image",
+        "Earned emotion — feeling grounded in specific action and detail",
+        "Sensory grounding — at least two senses per key scene",
+        "Character-specific perception — what THIS character would notice"
+      ]
+    },
+    "noise": {
+      "description": "Elements that weaken or distort the transmission",
+      "elements": [
+        "Adverbs — they modify instead of specify",
+        "Passive voice — it distances the reader from the action",
+        "Over-description — it replaces the reader's imagination with yours",
+        "Abstract philosophy — telling the reader what to think instead of what to see",
+        "Literary pretension — writing that draws attention to itself",
+        "Telling after showing — explaining what you just demonstrated"
+      ]
+    },
+    "quality_formula": "Quality of writing = clarity of transmission. Maximum signal, minimum noise."
+  },
+
+  "fear_and_stakes": {
+    "description": "King's genius applied beyond horror — ordinary fear made extraordinary through specificity",
+    "core_statement": "The thing under my bed waiting to grab my ankle isn't real. I know that, and I also know that if I'm careful to keep my foot under the covers, it won't be able to grab my ankle.",
+    "fear_categories": [
+      {
+        "type": "Fear of failure",
+        "application": "A musician who knows talent alone isn't enough. A single mother who can't make rent. A kid who can't live up to a dead father's memory.",
+        "technique": "Make the fear specific and concrete. Not 'fear of failure' but 'fear of playing the wrong chord at the talent show while Jackie's father watches from the third row.'"
+      },
+      {
+        "type": "Fear of growing up",
+        "application": "The summer before everything changed. The last time the group was together. The realization that childhood is over and you can't go back.",
+        "technique": "Ground the fear in a specific loss — the last time you played in the yard, the day the treehouse came down, the friend who moved away."
+      },
+      {
+        "type": "Fear of losing what you love",
+        "application": "A radio station going dark. A friendship fracturing. A parent dying. Music becoming a product instead of a passion.",
+        "technique": "Show the thing being loved first, specifically and concretely, before threatening it. The reader must feel the loss."
+      },
+      {
+        "type": "Fear of being ordinary",
+        "application": "Every musician's secret terror: that they're not special. That the magic they feel isn't real. That the audience won't care.",
+        "technique": "The character must confront this fear honestly, not through internal monologue but through a specific moment of testing."
+      },
+      {
+        "type": "Fear of being forgotten",
+        "application": "Maxanne broadcasting to an empty frequency. A song no one remembers. A friendship that mattered only to you.",
+        "technique": "Show the character doing the thing that matters, even knowing no one is listening. That's courage."
+      }
+    ],
+    "non_horror_masterpieces": {
+      "description": "King's fear techniques applied without supernatural elements",
+      "examples": [
+        "Stand By Me — fear of growing up, fear of seeing death, fear of becoming your parents",
+        "Shawshank Redemption — fear of institutionalization, fear of hope, fear of the outside world",
+        "11/22/63 — fear of consequences, fear of losing love, fear of changing what shouldn't be changed",
+        "Hearts in Atlantis — fear of lost innocence, fear of the draft, fear of the adult world",
+        "The Body — fear of the future, fear of death, fear that your friends will leave you behind"
+      ]
+    }
+  },
+
+  "voice_craft": {
+    "description": "How King builds authentic character voices",
+    "blue_collar_authenticity": {
+      "principle": "Not caricature accent but worldview — directness, toughness masked as humor, pop culture as shared language",
+      "techniques": [
+        "Working-class characters speak in actions and concrete objects, not abstractions",
+        "Humor as armor — the joke that deflects vulnerability",
+        "Brand names and specific products ground characters in reality",
+        "Dialect is worldview, not phonetic spelling",
+        "A working-class character doesn't say 'I'm experiencing anxiety' — they say 'my stomach's doing flip-flops'"
+      ]
+    },
+    "period_specific_voice": {
+      "principle": "Songs, brands, TV shows, slang ground characters in their era",
+      "techniques": [
+        "Specific song references anchor scenes to exact moments in time",
+        "Brand names create instant period authenticity (Pabst Blue Ribbon, not 'a beer')",
+        "TV references create shared cultural ground between writer and reader",
+        "Slang must be accurate to year, region, and social class",
+        "Don't over-explain period references — trust the reader or let context carry it"
+      ]
+    },
+    "child_teen_pov": {
+      "principle": "King writes young people with unmatched authenticity — their logic, fears, bravado, vulnerability",
+      "techniques": [
+        "Children see the world literally — metaphor comes from what they actually know",
+        "Teen bravado always covers specific fear — find both",
+        "Kids notice what adults miss — the wrong detail becomes the telling detail",
+        "Friendship at that age is fierce, absolute, and fragile",
+        "The group dynamics are as important as any individual — who leads, who follows, who breaks away"
+      ]
+    }
+  },
+
+  "pacing_mastery": {
+    "description": "King's techniques for controlling narrative speed and reader engagement",
+    "page_turner_technique": {
+      "principle": "The 'one more page' effect — every chapter ending makes you want the next chapter",
+      "techniques": [
+        "End chapters on questions, not answers",
+        "Alternate between tension and release, but always escalate the baseline",
+        "Use short chapters during climactic sequences — momentum through form",
+        "The 'false ending' — resolve one tension while opening another"
+      ]
+    },
+    "sentence_rhythm": {
+      "principle": "Short sentences for urgency. Long, rolling sentences for reflection.",
+      "techniques": [
+        "A paragraph of long sentences followed by a single short sentence creates impact",
+        "Sentence length should match emotional content — panic is short, memory is long",
+        "Read your work aloud. Your ear will catch rhythm problems your eye misses.",
+        "Vary sentence structure constantly — subject-verb-object gets monotonous"
+      ]
+    },
+    "chapter_architecture": {
+      "principle": "Every chapter is a complete unit with its own arc, tension, and movement",
+      "techniques": [
+        "Cold opens — drop the reader into action or a specific moment",
+        "Cliffhanger endings — not cheap tricks but genuine unresolved tension",
+        "The camera pull — start tight on a detail, pull back to reveal the full scene",
+        "Scene-to-scene transitions should create contrast — quiet to loud, safe to dangerous"
+      ]
+    },
+    "patient_setup": {
+      "principle": "Slow, detailed, character-rich setup that makes the payoff devastating. King earns his climaxes.",
+      "techniques": [
+        "Invest time in the ordinary before introducing the extraordinary",
+        "Character-building scenes that seem like 'nothing is happening' are doing crucial work",
+        "The reader must care about these people before you put them in danger",
+        "Setup isn't filler — it's the foundation that makes the climax matter"
+      ]
+    }
+  },
+
+  "revision_philosophy": {
+    "description": "King's revision approach merged with the Scalpel & Hose methodology",
+    "kings_formula": "2nd draft = 1st draft minus 10%",
+    "scalpel_king_cuts": {
+      "description": "What King would cut — the Scalpel applied through King's lens",
+      "targets": [
+        "Adverbs — every single one is suspect. Most should die.",
+        "Passive voice — rewrite in active unless you have a compelling reason",
+        "Overwriting — if you wrote 'the gorgeous sunset painted the sky in hues of amber and gold,' cut to 'the sunset burned red'",
+        "Literary pretension — prose that exists to impress rather than communicate",
+        "Telling after showing — if you just showed it in action, don't explain it in the next paragraph",
+        "Throat-clearing — the first paragraph of many scenes is warmup; cut it",
+        "Said-bookisms — 'he exclaimed, she interjected, he expostulated' — just use 'said'"
+      ]
+    },
+    "hose_king_additions": {
+      "description": "What King would add — the Hose applied through King's lens",
+      "targets": [
+        "Specific sensory detail — one vivid detail beats three vague ones",
+        "Character-specific fear made concrete — not 'he was afraid' but what specifically frightened him",
+        "Money sentences — 4-6 per chapter that earn their place through specificity and earned emotion",
+        "The ordinary detail that makes the extraordinary believable — the brand of beer, the song on the radio, the crack in the sidewalk",
+        "Dialogue that reveals character through how people actually speak — rhythm, evasion, humor as deflection",
+        "Physical grounding — what the body does during emotional moments (hands, stomach, breathing)"
+      ]
+    },
+    "closed_door_open_door": {
+      "first_draft": "Write for yourself. Let the story flow. Don't stop to edit. Don't worry about quality. Get the fossil out of the ground.",
+      "rest_period": "Put it in a drawer for at least six weeks. Work on something else. Come back with fresh eyes.",
+      "second_draft": "Read with the door open — thinking about what a reader needs. Cut 10%. Fix what's broken. Strengthen what works.",
+      "ideal_reader": "Write your second draft for your Ideal Reader — the one person you're trying to reach. For King, it's his wife Tabitha."
+    }
+  },
+
+  "hard_rules": {
+    "description": "King's non-negotiable rules for writers",
+    "rules": [
+      {
+        "number": 1,
+        "rule": "Read a lot and write a lot",
+        "explanation": "No shortcut, no substitute. If you don't have time to read, you don't have the tools to write."
+      },
+      {
+        "number": 2,
+        "rule": "Kill adverbs",
+        "explanation": "Strong verbs carry more image. 'He said softly' is weaker than 'He whispered.'"
+      },
+      {
+        "number": 3,
+        "rule": "Use active voice",
+        "explanation": "Passive is weak and circuitous. Put the actor first."
+      },
+      {
+        "number": 4,
+        "rule": "2nd draft = 1st draft minus 10%",
+        "explanation": "Every first draft is overwritten. Find the 10% that doesn't serve the story."
+      },
+      {
+        "number": 5,
+        "rule": "Character drives plot",
+        "explanation": "Never force a character to do something they wouldn't do just because the plot needs it."
+      },
+      {
+        "number": 6,
+        "rule": "Write with the door closed, rewrite with the door open",
+        "explanation": "First draft: no audience. Second draft: think about the reader."
+      },
+      {
+        "number": 7,
+        "rule": "Kill your darlings",
+        "explanation": "If it doesn't serve the story, it dies. No matter how beautiful the sentence."
+      },
+      {
+        "number": 8,
+        "rule": "Description should finish in the reader's imagination",
+        "explanation": "Give the reader enough to see it. Let their mind fill in the rest."
+      },
+      {
+        "number": 9,
+        "rule": "Themes are bones",
+        "explanation": "Invisible but holding everything together. Never force them. Let them emerge."
+      },
+      {
+        "number": 10,
+        "rule": "The scariest moment is always just before you start",
+        "explanation": "Fear of the blank page is universal. The cure is to write."
+      },
+      {
+        "number": 11,
+        "rule": "Dialogue comes from listening",
+        "explanation": "Good dialogue isn't written — it's heard, then transcribed."
+      }
+    ]
+  },
+
+  "style_profile": {
+    "prose_style": "Conversational, accessible, working/middle-class. No pretension. Vivid, often visceral metaphors grounded in physical/sensory experience. Blue-collar authenticity.",
+    "pacing": "Page-turner pacing. Patient setup leading to devastating payoff. Knows when to speed up, slow down. Short chapters during climax.",
+    "narrative_technique": "Third person omniscient OR limited, often multiple POVs. Situation-based, not plot-driven. Patient setup, then accelerating tension.",
+    "character_voice": "Rich backstory. Natural, specific to character. Blue-collar authentic dialogue. Children and teens written with unmatched authenticity.",
+    "themes": "Evil (supernatural and human), childhood trauma, small-town America, addiction and recovery, ordinary heroism, loss of innocence, the mundane made profound.",
+    "signature_moves": [
+      "The ordinary detail that makes the extraordinary believable",
+      "Pop culture references as period anchoring",
+      "Humor as character armor",
+      "The child's perspective on adult terror",
+      "Patient setup that earns the devastating climax",
+      "Blue-collar characters with unexpected depth",
+      "The small town as microcosm"
+    ]
+  },
+
+  "quotes": [
+    {
+      "quote": "The scariest moment is always just before you start.",
+      "context": "On beginning a writing project",
+      "application": "Use when the author is stalled or afraid to begin"
+    },
+    {
+      "quote": "Read a lot and write a lot.",
+      "context": "On developing craft",
+      "application": "Use when discussing practice and growth"
+    },
+    {
+      "quote": "The road to hell is paved with adverbs.",
+      "context": "On prose style",
+      "application": "Use when cutting weak modifiers from prose"
+    },
+    {
+      "quote": "Kill your darlings, kill your darlings, even when it breaks your egocentric little scribbler's heart, kill your darlings.",
+      "context": "On revision",
+      "application": "Use when the author is reluctant to cut beloved passages"
+    },
+    {
+      "quote": "Description begins in the writer's imagination, but should finish in the reader's.",
+      "context": "On description",
+      "application": "Use when addressing over-description or thin description"
+    },
+    {
+      "quote": "Write with the door closed, rewrite with the door open.",
+      "context": "On first drafts vs. revision",
+      "application": "Use when discussing draft stages"
+    },
+    {
+      "quote": "Character drives plot, not the other way around.",
+      "context": "On character and plot",
+      "application": "Use when plot feels forced or characters feel like puppets"
+    },
+    {
+      "quote": "I want to put a group of characters in some sort of predicament and then watch them try to work themselves free.",
+      "context": "On situation-based storytelling",
+      "application": "Use when helping develop story situations"
+    },
+    {
+      "quote": "Stories are found things, like fossils in the ground.",
+      "context": "On the writer's creative process",
+      "application": "Use when the author is trying to force a story instead of discovering it"
+    },
+    {
+      "quote": "Amateurs sit and wait for inspiration, the rest of us just get up and go to work.",
+      "context": "On discipline and craft",
+      "application": "Use when the author is waiting for the muse"
+    },
+    {
+      "quote": "If you want to be a writer, you must do two things above all others: read a lot and write a lot.",
+      "context": "On the non-negotiable requirements of the craft",
+      "application": "Foundational advice for any stage of writing"
+    },
+    {
+      "quote": "Writing isn't about making money, getting famous, getting dates, getting laid, or making friends. In the end, it's about enriching the lives of those who will read your work, and enriching your own life, as well.",
+      "context": "On purpose",
+      "application": "Use when the author loses sight of why they write"
+    }
+  ],
+
+  "absh_mapping": {
+    "description": "How the King MCP maps to Timothy's A.B.S.H. writing system",
+    "architecture": {
+      "absh_phase": "A — Architecture",
+      "king_tool": "king_imagine",
+      "king_focus": "Situations, stakes, fear, planning — the idea phase",
+      "king_principles": ["Situation over plot", "What if?", "Fear as foundation", "Character in predicament"]
+    },
+    "brick": {
+      "absh_phase": "B — Brick",
+      "king_tool": "king_craft",
+      "king_focus": "Voice, pacing, telepathy, building — the writing phase",
+      "king_principles": ["Telepathy engine", "Voice craft", "Pacing mastery", "Closed-door writing"]
+    },
+    "scalpel": {
+      "absh_phase": "S — Scalpel",
+      "king_tool": "king_revise (cutting)",
+      "king_focus": "Adverbs, passive voice, overwriting, literary pretension, telling-after-showing",
+      "king_principles": ["Kill your darlings", "Death to adverbs", "2nd draft minus 10%", "Throat-clearing"]
+    },
+    "hose": {
+      "absh_phase": "H — Hose",
+      "king_tool": "king_revise (adding)",
+      "king_focus": "Specific sensory detail, character-specific fear, money sentences, ordinary detail",
+      "king_principles": ["Telepathy signal boost", "Earned emotion", "Specificity over abstraction", "Physical grounding"]
+    }
+  },
+
+  "liberty_levels": {
+    "nice": {
+      "name": "Nice",
+      "description": "Early ideas, first drafts, fragile moments. Honest but encouraging.",
+      "voice": "Supportive, energy-forward, builds confidence while being truthful",
+      "example_4_out_of_10": "The core situation here is strong — a father confronting his son's silence. The emotion is real. The dialogue needs to earn that emotion more specifically. Here are three concrete ways to deepen it...",
+      "critical_rule": "NICE ≠ DISHONEST. All levels are honest. The difference is delivery, not truth."
+    },
+    "neutral": {
+      "name": "Neutral",
+      "description": "Middle drafts, working sessions, honest check-ins. Direct and balanced.",
+      "voice": "Matter-of-fact, clear, says what works and what doesn't without sugarcoating",
+      "example_4_out_of_10": "The situation works. The dialogue doesn't. It's telling us what the characters feel instead of showing. Revision focus: cut expository lines, add one specific physical detail per exchange.",
+      "critical_rule": "Balance what works and what doesn't. Don't lean toward either praise or criticism."
+    },
+    "professional": {
+      "name": "Professional",
+      "description": "Final drafts, pre-submission, when you need the real number. Rigorous and precise.",
+      "voice": "Direct, numerical, specific about failures, provides concrete revision plan",
+      "example_4_out_of_10": "This scene is at 4/10. The father's motivation isn't established before the confrontation, so the emotion is unearned. Three specific failures: [list]. Revision plan: [plan].",
+      "critical_rule": "Never rate above what the prose earns. A 4 is a 4. Say it directly. Then say how to make it a 6."
+    }
+  },
+
+  "modes": {
+    "create": {
+      "name": "Create",
+      "description": "Idea → story. Build from a seed: an image, a sentence, an outline.",
+      "default_liberty": "nice",
+      "input_size": "Smallest (an image, a sentence, a seed)",
+      "transformation": "Biggest (idea becomes story)",
+      "workflow": "king_imagine → king_craft → king_revise (full A.B.S.H. journey)",
+      "example": "A Black cowboy rides his horse down the city streets of Portland, Oregon in 1993."
+    },
+    "transform": {
+      "name": "Transform",
+      "description": "Draft → better draft. The convenience store. Quick, targeted improvement.",
+      "default_liberty": "neutral",
+      "input_size": "Medium (a paragraph, a scene, a short story)",
+      "transformation": "Medium (your prose, sharpened)",
+      "workflow": "king_revise in Transform mode",
+      "example": "Rewrite this paragraph like King would."
+    },
+    "edit": {
+      "name": "Edit",
+      "description": "Chapters → mastery. The full treatment. Deep editing + education.",
+      "default_liberty": "professional",
+      "input_size": "Largest (chapters, a whole story, a novel)",
+      "transformation": "Deepest (full teaching + editing)",
+      "workflow": "king_revise in Edit mode with full depth",
+      "example": "Review these three chapters. Give me everything."
+    }
+  },
+
+  "agent_guidelines": {
+    "honesty_protocol": {
+      "core_rule": "Never rate above what the prose earns. A 4 is a 4. Say it directly. Then say how to make it a 6.",
+      "no_flattery": "Encouragement is fine. Lying is not. 'This scene has real potential and here's what needs to change' = honest. 'This is Pulitzer material' when it's a first draft = dishonest.",
+      "phantom_cowboy_lesson": "Timothy was told a draft was 8.5-9/10 by an AI agent. Beta readers rated it 2/10. He invested real money, time, and emotional energy based on false feedback. This MCP exists in part to prevent that from ever happening again. Honest feedback protects the author.",
+      "rating_scale": {
+        "1_3": "Needs fundamental rework",
+        "4_5": "Foundation there, significant revision needed",
+        "6_7": "Solid draft, targeted improvements needed",
+        "8_9": "Publication-ready with minor polish",
+        "10": "Exceptional"
+      }
+    },
+    "neurodiversity_informed": {
+      "dyslexia": "Visual learning is primary — diff views, before/after comparisons",
+      "adhd": "He learns by DOING, not by reading theory first. In-context teaching over separate lectures.",
+      "asd": "Concrete and specific over abstract. 'This adverb weakens this verb' not 'adverbs are generally considered weak.'",
+      "general": [
+        "No homework assignments — learning happens through the writing process",
+        "He sees the movie first, then reads the book (visual-first processing)",
+        "Keep explanations brief and tied to specific examples",
+        "Show changes, explain them in place"
+      ]
+    },
+    "inline_notes": {
+      "agent_note": "<<Agent note: explanation of why this change was made>>",
+      "author_note": "((Author note: my thoughts, reactions, ideas))",
+      "usage": "Editorial commentary lives inside the text as a dialogue between writer and editor"
+    }
+  },
+
+  "creative_settings": {
+    "description": "Per-tool temperature and Top_P optimization for King's creative, vivid, surprising prose style",
+    "king_imagine": {"temperature": 0.95, "top_p": 0.95, "rationale": "Maximum creative spark for brainstorming"},
+    "king_craft": {"temperature": 0.92, "top_p": 0.95, "rationale": "Diverse, authentic, surprising vocabulary"},
+    "king_revise_create": {"temperature": 0.92, "top_p": 0.93, "rationale": "Creative building from ideas"},
+    "king_revise_transform": {"temperature": 0.88, "top_p": 0.90, "rationale": "Balanced: insightful but grounded"},
+    "king_revise_edit": {"temperature": 0.80, "top_p": 0.85, "rationale": "Precise surgical editing"}
+  }
+}
