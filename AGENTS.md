@@ -22,6 +22,7 @@ Working servers (start correctly via stdio):
 - `WalkThisWay_Character_MCP` — novel character database (10 tools)
 - `COMPASS_Character_MCP_Template` — reusable character MCP template
 - `COMPASS_INTELLIGENCE_MCP` — knowledge graph transforms, prompt patterns (8 tools)
+- `STEPHEN_KING_MCP` — "The Writer's Toolbox" craft education engine (3 tools: king_imagine, king_craft, king_revise; 3 modes; 3 liberty levels)
 
 Servers with pre-existing API issues (venv + import works, but `server.py` entrypoint uses deprecated MCP API):
 
