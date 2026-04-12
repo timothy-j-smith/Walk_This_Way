@@ -590,6 +590,15 @@ Evaluation saved to: {eval_path}
     else:
         return [TextContent(type="text", text=f"Unknown tool: {name}")]
 
+async def main():
+    """Run the MCP server."""
+    async with mcp.server.stdio.stdio_server() as (read_stream, write_stream):
+        await app.run(
+            read_stream,
+            write_stream,
+            app.create_initialization_options(),
+        )
+
 if __name__ == "__main__":
-    import mcp.server.stdio
-    mcp.server.stdio.stdio_server(app)
+    import asyncio
+    asyncio.run(main())
