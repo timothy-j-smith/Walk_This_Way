@@ -237,6 +237,15 @@ async def call_tool(name: str, arguments: dict) -> list[TextContent]:
             text=json.dumps({"error": f"Unknown tool: {name}"}, indent=2)
         )]
 
+async def main():
+    """Run the MCP server."""
+    async with mcp.server.stdio.stdio_server() as (read_stream, write_stream):
+        await app.run(
+            read_stream,
+            write_stream,
+            app.create_initialization_options(),
+        )
+
 if __name__ == "__main__":
-    import mcp.server.stdio
-    mcp.server.stdio.stdio_server(app)
+    import asyncio
+    asyncio.run(main())
