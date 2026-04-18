@@ -1,0 +1,776 @@
+".cursor/\"SENSELESS\".md"
+.cursor/MAXANNE_AGE_FIX_SUMMARY.md
+.cursor/NOVEL_MEMORY_CONFIG.md
+.cursor/QUICK_REFERENCE_AUTOMATION.md
+.cursor/QUICK_WINS_QUICK_REFERENCE.md
+.cursor/REORGANIZATION_PLAN.md
+.cursor/SWIFT.md
+.cursor/SWIFT_APPROACH_CHANGES_SUMMARY.md
+.cursor/SWIFT_REIMAGINED_APPROACH.md
+.cursor/SWIFT_REORGANIZATION_PLAN.md
+.cursor/ace/session_capture_2026-01-22_prereconfig_desktop_chat.md
+.cursor/ace/session_capture_2026-02-10_ace_troubleshooting.md
+.cursor/ace/session_capture_2026-02-10_final_prereconfig.md
+.cursor/ace/session_capture_2026-02-10_prereconfig_execution.md
+.cursor/commands/ace-bootstrap.md
+.cursor/commands/ace-configure.md
+.cursor/commands/ace-help.md
+.cursor/commands/ace-learn.md
+.cursor/commands/ace-search.md
+.cursor/commands/ace-status.md
+.cursor/commands/chapter-to-knowledge-graph.md
+.cursor/commands/character-report.md
+.cursor/commands/compass-intelligence.md
+.cursor/commands/compass-status.md
+.cursor/commands/consistency-check.md
+.cursor/commands/dna-status.md
+.cursor/commands/examples.md
+.cursor/commands/export-chats.md
+.cursor/commands/git-status.md
+.cursor/commands/knowledge-graph-visualize.md
+.cursor/commands/mcp-lookup.md
+.cursor/commands/mcp-to-knowledge-graph.md
+.cursor/commands/quick-reference.md
+.cursor/commands/quick-wins-templates.md
+.cursor/commands/sequentialthinkingmcp.md
+.cursor/commands/session-continuity.md
+.cursor/commands/session-start.md
+.cursor/commands/word-count.md
+.cursor/config/MCP_CONFIG.md
+.cursor/config/README.md
+.cursor/docs/ACE_AND_NIGHTLY_TROUBLESHOOTING.md
+.cursor/docs/AFTER_RECONFIG_RESURRECTION.md
+.cursor/docs/ASK_HANK_REMINDER.md
+.cursor/docs/ASK_TIMOTHY_QUESTIONNAIRE.md
+.cursor/docs/ASSEMBLY_STATUS_MAP.md
+.cursor/docs/BEFORE_MAC_STUDIO_RECONFIG.md
+.cursor/docs/BREAKTHROUGH_LOG.md
+.cursor/docs/CHAPTER_FIX_SUMMARY.md
+.cursor/docs/CHAPTER_OUTLINE.md
+.cursor/docs/CHAPTER_STRUCTURE.md
+.cursor/docs/CHAT_EXPORT_AND_DESKTOP_SAVE_ANSWERS.md
+.cursor/docs/CHAT_EXPORT_NIGHTLY_1AM.md
+.cursor/docs/CHAT_RESTORATION_GUIDE.md
+.cursor/docs/CLEANUP_COMPLETION_SUMMARY.md
+.cursor/docs/CLEANUP_PLAN_ORPHANS_PLACEHOLDERS.md
+.cursor/docs/CLEANUP_SUMMARY.md
+.cursor/docs/CLI_EXPLANATION.md
+.cursor/docs/COMPASS_ENCYCLOPEDIA_ANALYSIS.md
+.cursor/docs/COMPLETE_ANSWERS.md
+.cursor/docs/COMPLETE_COMMAND_INVENTORY.md
+.cursor/docs/COMPLETE_FOLDER_STRUCTURE_REFERENCE.md
+.cursor/docs/COMPLETE_ORGANIZATION_SUMMARY.md
+.cursor/docs/COMPREHENSIVE_CLEANUP_PLAN.md
+.cursor/docs/CONTINUITY_TRACKER.md
+.cursor/docs/CORRECT_CLI_DOWNLOAD.md
+.cursor/docs/CREATE_PERSONAL_TOKEN_NOW.md
+.cursor/docs/CURSORRC_ARCHITECTURE_ADDRESSED.md
+.cursor/docs/CURSOR_ADVANCED_FEATURES_ANALYSIS.md
+.cursor/docs/CURSOR_COMMANDS_QUICK_REFERENCE.md
+.cursor/docs/CURSOR_CREATIVE_WRITING_SECRET_SAUCE_MASTER_GUIDE.md
+.cursor/docs/CURSOR_GITKRAKEN_MCP_STATUS.md
+.cursor/docs/Chat_History/ALL_WORKSPACES_LOADED.md
+.cursor/docs/Chat_History/CHAT_HISTORY_SYSTEM_COMPLETE.md
+.cursor/docs/Chat_History/CURSOR_VIEW_SETUP_INSTRUCTIONS.md
+.cursor/docs/Chat_History/DATES_IN_CURSOR_VIEW.md
+.cursor/docs/Chat_History/EXPORT_INSTRUCTIONS.md
+.cursor/docs/Chat_History/EXPORT_SCRIPT_BEHAVIOR.md
+.cursor/docs/Chat_History/EXTRACTION_SETUP_COMPLETE.md
+.cursor/docs/Chat_History/EXTRACTION_TOOLS_FOUND.md
+.cursor/docs/Chat_History/EXTRACT_ALL_WORKSPACES.md
+.cursor/docs/Chat_History/EXTRACT_FROM_BACKUP_FOLDERS.md
+.cursor/docs/Chat_History/HANK/2025-10-13_Share_Chat_MacBook_Air_HANK_MCP.md
+.cursor/docs/Chat_History/HANK/2025-10-18_THE_COACHmd_I_am_working_on_Chapter_One_.md
+.cursor/docs/Chat_History/HANK/2025-10-19_STRATEGIC_WRITING_COORDINATORmd_You_are_.md
+.cursor/docs/Chat_History/HANK/2025-10-20_CREATIVE_COLLABORATORmd_I_am_working_on_.md
+.cursor/docs/Chat_History/HANK/2025-10-24_scene_creation_Joe_waslked_tthe_store_to.md
+.cursor/docs/Chat_History/HANK/2025-10-25_MacBook_Air_HANK_MCP_8_Hour_Session.md
+.cursor/docs/Chat_History/HANK/2025-10-26_COMPASS_Cursor_Session.md
+.cursor/docs/Chat_History/HANK/2025-10-27_HANK-I_need_help_with_the_final_chapters.md
+.cursor/docs/Chat_History/HANK/2025-10-28_Im_working_on_Walk_This_Way_and_you_have.md
+.cursor/docs/Chat_History/HANK/2025-10-28_Im_working_with_Creative_Collaborator_on.md
+.cursor/docs/Chat_History/HANK/2025-11-01_Whats_your_role_What_tools_do_you_deploy.md
+.cursor/docs/Chat_History/HANK/2025-11-02_Im_working_on_Walk_This_Way_You_have_MCP.md
+.cursor/docs/Chat_History/HANK/2026-01-19_I_am_looking_for_SUPER_AGENT_HANK__are_y.md
+.cursor/docs/Chat_History/HANK/2026-01-19_Walk_This_Way_And_COMPASS_With_HANK.md
+.cursor/docs/Chat_History/HANK/2026-01-20_SUPER_AGENT_HANK_COMPASS_Chat_History.md
+.cursor/docs/Chat_History/HANK/2026-01-26_I_am_thinking_about_the_work_I_am_doing_.md
+.cursor/docs/Chat_History/HANK/CHAT_ARCHIVE_INDEX.md
+.cursor/docs/Chat_History/HANK/MARKDOWN_FILE_REVIEW.md
+.cursor/docs/Chat_History/HANK/README.md
+.cursor/docs/Chat_History/HOW_WORKSPACES_ARE_ORGANIZED.md
+.cursor/docs/Chat_History/IMPORTANT_CLARIFICATION.md
+.cursor/docs/Chat_History/Other/2025-10-14_CRITICAL_Chapter_03_should_be_switched_t.md
+.cursor/docs/Chat_History/Other/2025-10-15_Agentmd_Build_a_new_chapter_and_we_will_.md
+.cursor/docs/Chat_History/Other/2025-10-15_Agentmd_kingmd_Chapter_08_needs_to_be_co.md
+.cursor/docs/Chat_History/Other/2025-10-15_Chapter_Creation_directions_provided_in_.md
+.cursor/docs/Chat_History/Other/2025-10-15_I_am_in_the_Cursor_Chat_and_my_CmdL_and_.md
+.cursor/docs/Chat_History/Other/2025-10-17_How_do_you_easily_copy_a_batcj_of_files_.md
+.cursor/docs/Chat_History/Other/2025-10-17_IMPORTANT_Can_you_read_this_document_and.md
+.cursor/docs/Chat_History/Other/2025-10-17_STRATEGIC_WRITING_COORDINATORmd.md
+.cursor/docs/Chat_History/Other/2025-10-18_STRATEGIC_WRITING_COORDINATORmd_Im_worki.md
+.cursor/docs/Chat_History/Other/2025-10-18_inner_dialogue_writing_style_transition_.md
+.cursor/docs/Chat_History/Other/2025-10-19_can_you_find_the_word_anout_that_should_.md
+.cursor/docs/Chat_History/Other/2025-10-20_Agentmd_CREATIVE_COLLABORATORmd_Read_the.md
+.cursor/docs/Chat_History/Other/2025-10-22_You_are_SCAPEL__HOSE_-_the_Blood_Brother.md
+.cursor/docs/Chat_History/Other/2025-10-22_do_you_work_with_java_script.md
+.cursor/docs/Chat_History/Other/2025-10-24_I_am_trying_to_make_this_body_of_fiction.md
+.cursor/docs/Chat_History/Other/2025-10-27_Are_you_ready_to_be_creative.md
+.cursor/docs/Chat_History/Other/2025-10-27_Chapter_27_Jacks_Performancetxt_SCALPEL_.md
+.cursor/docs/Chat_History/Other/2025-10-27_Creative_Collaborator-I_need_some_help_w.md
+.cursor/docs/Chat_History/Other/2025-10-27_Hi_I_need_some_advice.md
+.cursor/docs/Chat_History/Other/2025-10-27_STORY_BIBLEmd__character-biblemd_timelin.md
+.cursor/docs/Chat_History/Other/2025-10-27_timelinemd_character-biblemd_Chapter_Ana.md
+.cursor/docs/Chat_History/Other/2025-11-12_Build_out_a_list_of_chapters_for_the_nov.md
+.cursor/docs/Chat_History/Other/2026-01-10_What_are_the_error_messages_in_the_text_.md
+.cursor/docs/Chat_History/Other/2026-01-22_Run_the_Last_Football_Match_through_the_.md
+.cursor/docs/Chat_History/Other/2026-01-22_httplocalhost5001apichats.md
+.cursor/docs/Chat_History/Other/README.md
+.cursor/docs/Chat_History/PORT_5000_ISSUE_FIXED.md
+.cursor/docs/Chat_History/README.md
+.cursor/docs/Chat_History/READY_TO_EXTRACT.md
+.cursor/docs/Chat_History/READ_THIS_FIRST.md
+.cursor/docs/Chat_History/SEQUENTIAL_THINKING_ANSWER.md
+.cursor/docs/Chat_History/SEQUENTIAL_THINKING_EXTRACTION_ANALYSIS.md
+.cursor/docs/Chat_History/SESSION_SUMMARY_2026-01-22.md
+.cursor/docs/Chat_History/SIMPLE_INSTRUCTIONS.md
+.cursor/docs/Chat_History/WHERE_ARE_MY_CHAT_FILES.md
+.cursor/docs/DETAILED_CHAPTER_OUTLINE.md
+.cursor/docs/DOCS_REVIEW_EXECUTION_PLAN.md
+.cursor/docs/DOCS_REVIEW_STATUS.md
+.cursor/docs/DOCUMENTATION_QUICK_REVIEW.md
+.cursor/docs/DRAFT_MANAGEMENT_SYSTEM.md
+.cursor/docs/DRAFT_WORKFLOW_CONFIRMED.md
+.cursor/docs/Desktop_Archive_PreReconfig_2026/01_10_25_cursor_macbook_air_hank_mcp_STRONG_CHAT_8_HOURS.md
+.cursor/docs/Desktop_Archive_PreReconfig_2026/01_10_26 Compass_cursor_sent_to_chat.md
+.cursor/docs/Desktop_Archive_PreReconfig_2026/Cursor/05_Claude_Cursor_Pages/01_Cursor_Setup_Configuration_Overview.md
+.cursor/docs/Desktop_Archive_PreReconfig_2026/Cursor/05_Claude_Cursor_Pages/02_AI_Writing_Techniques_Overview.md
+.cursor/docs/Desktop_Archive_PreReconfig_2026/Cursor/05_Claude_Cursor_Pages/03_Claude_Insights_Advice_Overview.md
+.cursor/docs/Desktop_Archive_PreReconfig_2026/Cursor/05_Claude_Cursor_Pages/04_Workflow_Optimization_Overview.md
+.cursor/docs/Desktop_Archive_PreReconfig_2026/Cursor/05_Claude_Cursor_Pages/05_Troubleshooting_Overview.md
+.cursor/docs/Desktop_Archive_PreReconfig_2026/Cursor/05_Claude_Cursor_Pages/06_Advanced_Features_Overview.md
+.cursor/docs/Desktop_Archive_PreReconfig_2026/Cursor/05_Claude_Cursor_Pages/Advanced_Cursor_Power_Moves.md
+.cursor/docs/Desktop_Archive_PreReconfig_2026/Cursor/05_Claude_Cursor_Pages/CURSOR_Quick_Start_Guide.md
+.cursor/docs/Desktop_Archive_PreReconfig_2026/Cursor/05_Claude_Cursor_Pages/Character_Development_Checklist.md
+.cursor/docs/Desktop_Archive_PreReconfig_2026/Cursor/05_Claude_Cursor_Pages/Cursor_Beta_Features_Guide.md
+.cursor/docs/Desktop_Archive_PreReconfig_2026/Cursor/05_Claude_Cursor_Pages/Cursor_Configuration_Examples.md
+.cursor/docs/Desktop_Archive_PreReconfig_2026/Cursor/05_Claude_Cursor_Pages/Cursor_Encyclopedia_Creation_Guide.md
+.cursor/docs/Desktop_Archive_PreReconfig_2026/Cursor/05_Claude_Cursor_Pages/Cursor_Writing_Reference_Guide.md
+.cursor/docs/Desktop_Archive_PreReconfig_2026/Cursor/05_Claude_Cursor_Pages/Ultimate_Novel_Writing_Encyclopedia.md
+.cursor/docs/Desktop_Archive_PreReconfig_2026/Cursor/05_Claude_Cursor_Pages/Ultimate_Novel_Writing_Encyclopedia_Part1.md
+.cursor/docs/Desktop_Archive_PreReconfig_2026/Cursor/05_Claude_Cursor_Pages/Ultimate_Novel_Writing_Encyclopedia_Part2.md
+.cursor/docs/Desktop_Archive_PreReconfig_2026/Cursor/05_Claude_Cursor_Pages/Ultimate_Novel_Writing_Encyclopedia_Part3.md
+.cursor/docs/Desktop_Archive_PreReconfig_2026/Cursor/05_Claude_Cursor_Pages/Ultimate_Novel_Writing_Encyclopedia_Part4.md
+.cursor/docs/Desktop_Archive_PreReconfig_2026/Cursor/05_Claude_Cursor_Pages/Ultimate_Novel_Writing_Encyclopedia_Part5.md
+.cursor/docs/Desktop_Archive_PreReconfig_2026/Cursor/05_Claude_Cursor_Pages/Ultimate_Novel_Writing_Encyclopedia_Part6.md
+.cursor/docs/Desktop_Archive_PreReconfig_2026/Cursor/05_Claude_Cursor_Pages/Ultimate_Novel_Writing_Encyclopedia_Part7.md
+.cursor/docs/Desktop_Archive_PreReconfig_2026/Cursor/05_Claude_Cursor_Pages/Ultimate_Novel_Writing_Encyclopedia_Part8.md
+.cursor/docs/Desktop_Archive_PreReconfig_2026/Cursor/05_Claude_Cursor_Pages/complete-writing-architecture.md
+.cursor/docs/Desktop_Archive_PreReconfig_2026/Cursor/05_Claude_Cursor_Pages/power-moves-binder.md
+.cursor/docs/Desktop_Archive_PreReconfig_2026/NOVELS/Streets of Dreams/Literary Analysis - The Last Football Match.md
+.cursor/docs/Desktop_Archive_PreReconfig_2026/NOVELS/Streets of Dreams/characters.md
+.cursor/docs/Desktop_Archive_PreReconfig_2026/NOVELS/Streets of Dreams/notes.md
+.cursor/docs/Desktop_Archive_PreReconfig_2026/NOVELS/Streets of Dreams/outline.md
+.cursor/docs/Desktop_Archive_PreReconfig_2026/README.md
+.cursor/docs/Desktop_Archive_PreReconfig_2026/SHARE CHAT cursor_macbook_air_hank_mcp.md
+.cursor/docs/Desktop_Archive_PreReconfig_2026/SUPER_AGENT_HANK_COMPASS_CHAT_HISTORY.txt.md
+.cursor/docs/Desktop_Archive_PreReconfig_2026/cursor_1st_scalpel.md
+.cursor/docs/Desktop_Archive_PreReconfig_2026/cursor_advanced_writing_system.md
+.cursor/docs/Desktop_Archive_PreReconfig_2026/cursor_advanced_writing_system_01_13_2026.md
+.cursor/docs/Desktop_Archive_PreReconfig_2026/cursor_jazz_compass.md
+.cursor/docs/Desktop_Archive_PreReconfig_2026/cursor_list_top_level_folders_in_origin.md
+.cursor/docs/Desktop_Archive_PreReconfig_2026/cursor_localhost_chats_api.md
+.cursor/docs/Desktop_Archive_PreReconfig_2026/cursor_novel_compass_and_mcp_library.md
+.cursor/docs/Desktop_Archive_PreReconfig_2026/cursor_scalpel_hose.md
+.cursor/docs/Desktop_Archive_PreReconfig_2026/cursor_walk_this_way_early_chapters.md
+.cursor/docs/EXTRACT_CHAT_FROM_DATABASE.md
+.cursor/docs/FICTION_WRITING_AGENTS_WITH_MODE_SYSTEMS.md
+.cursor/docs/FILE_EXPLORER_CHEAT_SHEET.md
+.cursor/docs/FINAL_WARNINGS_FIXED.md
+.cursor/docs/FIX_GK_COMMAND_NOT_FOUND.md
+.cursor/docs/FIX_LAUNCHCTL_NIGHTLY_CHAT_EXPORT.md
+.cursor/docs/FIX_TERMINAL_STUCK.md
+.cursor/docs/FOLDERS_TO_CLEANUP.md
+.cursor/docs/GITHUB_AUTHENTICATION_FIX.md
+.cursor/docs/GITHUB_TOKEN_SETUP.md
+.cursor/docs/GITHUB_TOKEN_TROUBLESHOOTING.md
+.cursor/docs/GITKRAKEN_CLI_DIRECT_INSTALL.md
+.cursor/docs/GITKRAKEN_CLI_INSTALLED.md
+.cursor/docs/GITKRAKEN_CLI_SETUP_GUIDE.md
+.cursor/docs/GITKRAKEN_CLI_TROUBLESHOOTING.md
+.cursor/docs/GITKRAKEN_CURSOR_CONNECTION.md
+.cursor/docs/GITKRAKEN_MCP_SETUP_COMPLETE.md
+.cursor/docs/GITKRAKEN_MCP_SETUP_STEPS.md
+.cursor/docs/GITKRAKEN_PREFERENCES_MENU.md
+.cursor/docs/GITKRAKEN_PREFERENCES_QUICK.md
+.cursor/docs/GITKRAKEN_PRO_VS_WEB.md
+.cursor/docs/GITKRAKEN_SETUP_FINAL_STATUS.md
+.cursor/docs/GITKRAKEN_TOKEN_SETUP.md
+.cursor/docs/GITKRAKEN_VERIFICATION_COMPLETE.md
+.cursor/docs/GITLENS_CLARIFICATION.md
+.cursor/docs/GIT_COMMIT_MESSAGE_SUGGESTIONS.md
+.cursor/docs/GIT_ECOSYSTEM_GUIDE.md
+.cursor/docs/GIT_VS_GITHUB_CLARIFICATION.md
+.cursor/docs/GIT_VS_GITHUB_SIMPLE.md
+.cursor/docs/HANK_SUGGESTIONS_FOR_REVIEW.md
+.cursor/docs/HOW_TO_SAVE_CHAT_HISTORY.md
+.cursor/docs/JANUARY_10_2026_FILES_REVIEW.md
+.cursor/docs/MAC_STUDIO_RECONFIG_STEPS_PRINT_THIS.md
+.cursor/docs/MCP_CONFIGURATION.md
+.cursor/docs/MCP_CONFIGURATION_REVIEW.md
+.cursor/docs/MCP_DASHBOARD_COMPLETE.md
+.cursor/docs/MCP_DASHBOARD_COPY_TO_PROJECT.md
+.cursor/docs/MCP_DASHBOARD_LAUNCH_INSTRUCTIONS.md
+.cursor/docs/MCP_DASHBOARD_ONE_COMMAND_START.md
+.cursor/docs/MCP_DASHBOARD_PLAN.md
+.cursor/docs/MCP_DASHBOARD_QUICK_START.md
+.cursor/docs/MCP_DASHBOARD_READY.md
+.cursor/docs/MCP_DASHBOARD_START_INSTRUCTIONS.md
+.cursor/docs/MCP_ENCYCLOPEDIA.md
+.cursor/docs/MCP_SETUP_INSTRUCTIONS.md
+.cursor/docs/NEXT_STEPS_JANUARY_1_2026.md
+.cursor/docs/ORPHANS_EXPLANATION.md
+.cursor/docs/ORPHANS_PLACEHOLDERS_STATUS.md
+.cursor/docs/ORPHANS_WARNINGS_PLACEHOLDERS_SUMMARY.md
+.cursor/docs/References/STORY_BIBLE_INVENTORY.md
+.cursor/docs/References/character-voices.md
+.cursor/docs/SEQUENTIAL_THINKING_MCP_CLARIFICATION.md
+.cursor/docs/SMARTWRITE_CLARIFICATION.md
+.cursor/docs/SMARTWRITE_NAMING_CLARIFICATION.md
+.cursor/docs/SMARTWRITE_RESPONSE_TEMPLATE.md
+.cursor/docs/SMARTWRITE_TEST_STATUS.md
+.cursor/docs/SMARTWRITE_USER_GUIDE.md
+.cursor/docs/SWITCH_TO_NEW_TOKEN.md
+.cursor/docs/SYSTEM_FILES_CLARIFICATION.md
+.cursor/docs/TAG_EXPLORER_EXPLANATION.md
+.cursor/docs/TEMPERATURE_AND_CONTROL_LEVERS_GUIDE.md
+.cursor/docs/TIMOTHY_BREAKTHROUGH_MOMENT.md
+.cursor/docs/TODAYS_FILES_REVIEW_FEEDBACK.md
+.cursor/docs/TOKEN_EXPIRATION_EXPLAINED.md
+.cursor/docs/TOMORROW_TODO_LIST.md
+.cursor/docs/URGENT_GITHUB_ACCOUNT_FIX.md
+.cursor/docs/VSCODE_SETTINGS_EXPLANATION.md
+.cursor/docs/WARNINGS_FIXED_SUMMARY.md
+.cursor/docs/WHEN_YOU_GET_BACK.md
+.cursor/docs/WORKSPACE_ARCHITECTURE_IDEA.md
+.cursor/docs/WORKSPACE_REORGANIZATION_OUTLINE.md
+.cursor/examples/README.md
+.cursor/meta-instructions.md
+.cursor/notepads/cursor-discoveries.md
+.cursor/notepads/terminal-automation-cheatsheet.md
+.cursor/rules/QUICK_WINS_MASTER_REFERENCE.md
+.cursor/rules/ace-continuous-search.md
+.cursor/rules/ace-domain-search.md
+.cursor/rules/chain-of-thought-guide.md
+.cursor/rules/context-pinning-guide.md
+.cursor/rules/few-shot-examples-guide.md
+.cursor/rules/quick-wins-templates.md
+.cursor/rules/role-prompting-library.md
+.cursor/rules/walk-this-way-writing-directives.md
+.cursor/rules/xml-tags-guide.md
+.cursor/templates/chapter-analysis-extraction.md
+.cursor/templates/first-draft-generation.md
+Active_Draft_2/DRAFT_2_FILE_STATUS.md
+Active_Draft_2/DRAFT_2_MASTER_BLUEPRINT_V2.md
+Active_Draft_2/DRAFT_2_STYLE_GUIDE.md
+Active_Draft_2/README.md
+Agent_Work/CAROLINA/CAROLINA.md
+Agent_Work/CAROLINA/README.md
+Agent_Work/CHARACTER_DEPTH_COACH/CHARACTER_DEPTH_COACH.md
+Agent_Work/CHARACTER_DEPTH_COACH/README.md
+Agent_Work/Creative_Collaborator/CHAPTER_25_ELEVATION_PLAN.md
+Agent_Work/Creative_Collaborator/CHAPTER_25_OUTLINE.md
+Agent_Work/Creative_Collaborator/CHAPTER_26_OUTLINE.md
+Agent_Work/Creative_Collaborator/Chapter_01_Enhancement_Oct_20_2025.md
+Agent_Work/Creative_Collaborator/Chapter_Analysis_10_25_25.md
+Agent_Work/Creative_Collaborator/Creative_Collaborator.md
+Agent_Work/Creative_Collaborator/PROSE_DNA.md
+Agent_Work/Creative_Collaborator/QUICK_START_GUIDE.md
+Agent_Work/Creative_Collaborator/README.md
+Agent_Work/Creative_Collaborator/SCALPEL_HOSE_APPLIED_TO_WALK_THIS_WAY.md
+Agent_Work/Creative_Collaborator/SCALPEL_HOSE_PHILOSOPHY.md
+Agent_Work/Creative_Collaborator/Session_10_19_25.md
+Agent_Work/Creative_Collaborator/Session_10_21_25.md
+Agent_Work/Cross_Agent/PROSE_DNA.md
+Agent_Work/Cross_Agent/SCALPEL_HOSE_APPLIED_TO_WALK_THIS_WAY.md
+Agent_Work/Cross_Agent/SCALPEL_HOSE_PHILOSOPHY.md
+Agent_Work/HANK/HANK.md
+Agent_Work/HANK/README.md
+Agent_Work/JAZZ/JAZZ.md
+Agent_Work/JAZZ/README.md
+Agent_Work/PROSE_POLISH_EXPERT/PROSE_POLISH_EXPERT.md
+Agent_Work/PROSE_POLISH_EXPERT/README.md
+Agent_Work/README.md
+Agent_Work/STRATEGIC_WRITING_COORDINATOR/Chapter_01_Strategic_Analysis_Oct_19_2025.md
+Agent_Work/STRATEGIC_WRITING_COORDINATOR/README.md
+Agent_Work/STRATEGIC_WRITING_COORDINATOR/STRATEGIC_WRITING_COORDINATOR.md
+Agent_Work/STRATEGIC_WRITING_COORDINATOR/Strategic_Analysis_January_27_2025.md
+Agent_Work/STRUCTURAL_PERFECTION_SPECIALIST/README.md
+Agent_Work/STRUCTURAL_PERFECTION_SPECIALIST/STRUCTURAL_PERFECTION_SPECIALIST.md
+COMPASS_MCP_MANIFEST.md
+Completed/README.md
+DASHBOARD.md
+DNA/HANK_DNA.md
+DNA/TIMOTHY_WORKING_STYLE_DNA.md
+In_Review/README.md
+Novel_Docs/CHAPTER_CRITIQUE_GUIDE.md
+Novel_Docs/CHAPTER_CRITIQUE_RESULTS.md
+Novel_Docs/CHARACTER_CONSISTENCY_CHECKING_GUIDE.md
+Novel_Docs/CURRENT_DOCUMENTS_OUTLINE.md
+Novel_Docs/DRAFT_2_FILE_STATUS.md
+Novel_Docs/DRAFT_2_MASTER_BLUEPRINT_V2.md
+Novel_Docs/DRAFT_2_PROGRESS.md
+Novel_Docs/PROJECT_NOTES.md
+Novel_Docs/STORY_BIBLE_SYNC_README.md
+Novel_Docs/STRUCTURAL_ANALYSIS_FOUR_QUADRANTS.md
+Questions/2026-01-17_Example_Question.md
+README.md
+Scene_Workshop/Chapter_Camp_Winnipesaukee_1975_2026-01-24.md
+Scene_Workshop/Chapter_Camp_Winnipesaukee_1975_LEHANE_2026-01-24.md
+Scene_Workshop/README.md
+Session_Summaries/2025-11-29_Reorganization_Session.md
+Session_Summaries/2026-01-13_2130_PST_Draft_2_Planning_Marathon.md
+Session_Summaries/2026-01-13_Evening_Draft_2_Planning_Marathon.md
+Session_Summaries/2026-01-15_0930_PST_File_Organization_Cleanup.md
+Session_Summaries/2026-01-15_Morning_File_Organization_Cleanup.md
+Session_Summaries/2026-01-17_2230_PST_MCP_Setup_And_Dennis_Lehane_MCP_Foundation.md
+Session_Summaries/2026-01-21_Morning_MCP_Dashboard_DISCO_DAY.md
+Session_Summaries/2026-02-08_2000_PST_Great_Workspace_Reorganization.md
+Session_Summaries/README.md
+Story_Bible/Research_Michelle_Edwards_Basketball.md
+Story_Bible/author-style-library.md
+Story_Bible/character-bible.md
+Story_Bible/music-references.md
+Story_Bible/timeline.md
+TODO.md
+yy_Archive/ARCHIVE_CATALOG.md
+yy_Archive/Extra_Files_Archive/10. 08.27.25 8PPM Walk this Way CH24.25.26 rewrite TXT copy 3.md
+yy_Archive/Extra_Files_Archive/11. 08:21:25 Walk This Way 12 Noon UPDATES TXT copy 3.md
+yy_Archive/Extra_Files_Archive/12. 08:24:25 Walk This Way CHAT Noes before Chat Froze TXT copy 3.md
+yy_Archive/Extra_Files_Archive/14. 08:30:25 Walk This Way notes from top work with Claude TXT copy 3.md
+yy_Archive/Extra_Files_Archive/15. 08:30:25 Walk This Way Revisions 10PM TXT copy 3.md
+yy_Archive/Extra_Files_Archive/16. 08:31:25 Walk Collab Notes 2nd Claude 1-9 TXT copy 3.md
+yy_Archive/Extra_Files_Archive/17. 08:31:25 Walk Collab Notes 2nd Claude 10-18 TXT copy 3.md
+yy_Archive/Extra_Files_Archive/18. 08:31:25 Walk this Way Act 1 TXT copy 3.md
+yy_Archive/Extra_Files_Archive/19. 08:31:25 Walk This Way Act II TXT copy 3.md
+yy_Archive/Extra_Files_Archive/20. 08:31:25 Walk This Way ACT II New TXT copy 3.md
+yy_Archive/Extra_Files_Archive/21. 08:31:25 Walk This Way ACT III TXT copy 3.md
+yy_Archive/Extra_Files_Archive/22. 08:31:25 Walk This Way Act III NEW TXT copy 3.md
+yy_Archive/Extra_Files_Archive/23. 08:31:25 Walk This Way Belt Buckle and other scenes that might have been lost TXT copy 3.md
+yy_Archive/Extra_Files_Archive/24. 08:31:25 Walk This Way Belt Buckle Chapter ONLY TXT copy 3.md
+yy_Archive/Extra_Files_Archive/25. 08:31:25 Walk This Way CHAT with Claude during the editing process Chat 4 TXT copy 3.md
+yy_Archive/Extra_Files_Archive/26. 08:31:25 Walk This Way Collaborative Notes from 2nd Claude Source TXT copy 3.md
+yy_Archive/Extra_Files_Archive/27. 08:31:25 Walk This Way Collaborative Notes from 2nd Claude Source 2 TXT copy 3.md
+yy_Archive/Extra_Files_Archive/27. 08:31:25 Walk This Way Comprehensice Transition Docunent for 3rd Claude Collaborator TXT copy 3.md
+yy_Archive/Extra_Files_Archive/28. 08:31:25 Wallk This Way: Act I TXT copy 3.md
+yy_Archive/Extra_Files_Archive/3. 08.25.25 Walk This Way A Novel Act 1 TXT copy 3.md
+yy_Archive/Extra_Files_Archive/30. 09:01:25 Walk This Way Act I and Outline TXT copy 3.md
+yy_Archive/Extra_Files_Archive/31. 09:01:25 Walk This Way Act II TXT copy 3.md
+yy_Archive/Extra_Files_Archive/34. 09:01:25 Walk This Way Act III TXT copy 3.md
+yy_Archive/Extra_Files_Archive/35. 09:01:25 Walk This Way Novel DRAFT and Project Notes TXT copy 3.md
+yy_Archive/Extra_Files_Archive/36. 09:01:25 Walk This Way Novel DRAFT and Project Notes copy TXT copy 3.md
+yy_Archive/Extra_Files_Archive/37. 9:1:25 Walk This Way: Project with Claude TXT copy 3.md
+yy_Archive/Extra_Files_Archive/38. 09:2:25 Walk This Way Editiorial Notes CH 1-3 TXT copy 3.md
+yy_Archive/Extra_Files_Archive/4. 08.25.25 Walk This Way Novel to create Working Novel TXT copy 3.md
+yy_Archive/Extra_Files_Archive/40. 09:03:25 Walk This Way Claude Chat and Timeline and Universal Change Plan TXT copy 3.md
+yy_Archive/Extra_Files_Archive/41. 09:03:25 Walk This Way: Tim's Chapters to Print and Read TXT copy 3.md
+yy_Archive/Extra_Files_Archive/42. 09:06:2025Walk This Way & Claude TXT copy 3.md
+yy_Archive/Extra_Files_Archive/43. 09:29. 1:25 Walk this Way 10AM Assessment TXT copy 3.md
+yy_Archive/Extra_Files_Archive/44. Walk This Way Acts & Chapters Names TXT copy 3.md
+yy_Archive/Extra_Files_Archive/45. Walk this Way Collab 4 TXT copy 3.md
+yy_Archive/Extra_Files_Archive/46. 09:2025 alk This Way Claude Notes TXT copy 3.md
+yy_Archive/Extra_Files_Archive/47. 09:2025 Original Walk This Way NOVEL writing TXT copy 3.md
+yy_Archive/Extra_Files_Archive/48. 09:2025 Sudbury Hisory Claude TXT copy 3.md
+yy_Archive/Extra_Files_Archive/49. 09:2025 Walk This Way Claude 2 TXT copy 3.md
+yy_Archive/Extra_Files_Archive/51. 09:2025 Walk This Way Claude Notes TXT copy 3.md
+yy_Archive/Extra_Files_Archive/52. Crash The Silence Assembly Working Document TXT copy 2.md
+yy_Archive/Extra_Files_Archive/53. Crash The Silence: Full Novel TXT copy 2.md
+yy_Archive/Extra_Files_Archive/54. Walk This Way: Important Claude Chat TXT copy 3.md
+yy_Archive/Extra_Files_Archive/6. 08.26.25 2PM Claude Novel Dialogue with best Editor and Advice TXT copy 3.md
+yy_Archive/Extra_Files_Archive/7. 08.26.25 4.43PM Walk This Way. A Novel TXT copy 3.md
+yy_Archive/Extra_Files_Archive/8. 08.26.25 202PM Claude Novel Dialogue with best Editor and Advice TXT copy 3.md
+yy_Archive/Extra_Files_Archive/9. 08.27.25 7AM Walk This Way History TXT copy 3.md
+yy_Archive/Extra_Files_Archive/Walk This Way - Claude Feedback TXT copy 3.md
+yy_Archive/Old_Chapters/Ch_01/Archive/Ch_01_Prose_Vault.md
+yy_Archive/Old_Chapters/Ch_01/Archive/Ch_01_alternate.md
+yy_Archive/Old_Chapters/Ch_01/Ch_01_Working.md
+yy_Archive/Old_Chapters/Ch_02/Archive/Ch_02_Prose_Vault.md
+yy_Archive/Old_Chapters/Ch_02/Ch_02_Working.md
+yy_Archive/Old_Chapters/Ch_03/Archive/Ch_03_Prose_Vault.md
+yy_Archive/Old_Chapters/Ch_03/Ch_03_Working.md
+yy_Archive/Old_Chapters/Ch_04/Ch_04_Working.md
+yy_Archive/Old_Chapters/Ch_05/Archive/Ch_05_Prose_Vault.md
+yy_Archive/Old_Chapters/Ch_05/Ch_05_Working.md
+yy_Archive/Old_Chapters/Ch_06/Ch_06_Working.md
+yy_Archive/Old_Documentation/ARTIFACT-1-Complete-Cursor-Removal-Guide.md
+yy_Archive/Old_Documentation/ARTIFACT-2-Universal-Tools-Migration-Guide.md
+yy_Archive/Old_Documentation/ARTIFACT-3-Non-Transferable-Concepts.md
+yy_Archive/Old_Documentation/Agent_Work/Creative_Collaborator/CHAPTER_25_ELEVATION_PLAN.md
+yy_Archive/Old_Documentation/Agent_Work/Creative_Collaborator/CHAPTER_25_OUTLINE.md
+yy_Archive/Old_Documentation/Agent_Work/Creative_Collaborator/CHAPTER_26_OUTLINE.md
+yy_Archive/Old_Documentation/Agent_Work/Creative_Collaborator/Chapter_01_Enhancement_Oct_20_2025.md
+yy_Archive/Old_Documentation/Agent_Work/Creative_Collaborator/Chapter_Analysis_10_25_25.md
+yy_Archive/Old_Documentation/Agent_Work/Creative_Collaborator/PROSE_DNA.md
+yy_Archive/Old_Documentation/Agent_Work/Creative_Collaborator/QUICK_START_GUIDE.md
+yy_Archive/Old_Documentation/Agent_Work/Creative_Collaborator/SCALPEL_HOSE_APPLIED_TO_WALK_THIS_WAY.md
+yy_Archive/Old_Documentation/Agent_Work/Creative_Collaborator/SCALPEL_HOSE_PHILOSOPHY.md
+yy_Archive/Old_Documentation/Agent_Work/Creative_Collaborator/Session_10_19_25.md
+yy_Archive/Old_Documentation/Agent_Work/Creative_Collaborator/Session_10_21_25.md
+yy_Archive/Old_Documentation/Agent_Work/Strategic_Coordinator/Chapter_01_Strategic_Analysis_Oct_19_2025.md
+yy_Archive/Old_Documentation/Agent_Work/Strategic_Coordinator/Strategic_Analysis_January_27_2025.md
+yy_Archive/Old_Documentation/Archive_Pre_Reorg/ARTIFACT-1-Complete-Cursor-Removal-Guide.md
+yy_Archive/Old_Documentation/Archive_Pre_Reorg/ARTIFACT-2-Universal-Tools-Migration-Guide.md
+yy_Archive/Old_Documentation/Archive_Pre_Reorg/ARTIFACT-3-Non-Transferable-Concepts.md
+yy_Archive/Old_Documentation/Archive_Pre_Reorg/Cursor-Fiction-Writing-Encyclopedia-Volume-I.md
+yy_Archive/Old_Documentation/Archive_Pre_Reorg/Cursor-Fiction-Writing-Encyclopedia-Volume-II.md
+yy_Archive/Old_Documentation/Archive_Pre_Reorg/Cursor-Fiction-Writing-Encyclopedia.md
+yy_Archive/Old_Documentation/Critical .md and PDF Writing Share/CURSOR_COMPLETE_FEATURES_SUMMARY 2.md
+yy_Archive/Old_Documentation/Critical .md and PDF Writing Share/Cursor_AI_Writing_System_Complete_Guide.md
+yy_Archive/Old_Documentation/Critical .md and PDF Writing Share/EMERGENCY_TRANSITION_DOCUMENT_Nov2_2025.md
+yy_Archive/Old_Documentation/Critical .md and PDF Writing Share/FINAL_SESSION_ARCHIVE_Nov2_2025.md
+yy_Archive/Old_Documentation/Critical .md and PDF Writing Share/HOW_CODE_AGENTS_WORK_VS_FICTION_AGENTS.md
+yy_Archive/Old_Documentation/Critical .md and PDF Writing Share/QUICK_REFERENCE.md
+yy_Archive/Old_Documentation/Critical .md and PDF Writing Share/SPELLING_HELP_GUIDE.md
+"yy_Archive/Old_Documentation/Critical .md and PDF Writing Share/\360\237\223\212 COMPLETE PARAMETER MATRIX TXT.md"
+yy_Archive/Old_Documentation/Cursor-Fiction-Writing-Encyclopedia-Volume-I.md
+yy_Archive/Old_Documentation/Cursor-Fiction-Writing-Encyclopedia-Volume-II.md
+yy_Archive/Old_Documentation/Cursor-Fiction-Writing-Encyclopedia.md
+yy_Archive/Old_Documentation/Docs_Files/AGENT_STRUCTURE_COMPLETE.md
+yy_Archive/Old_Documentation/Docs_Files/ARCHIVING_PROGRESS.md
+yy_Archive/Old_Documentation/Docs_Files/ASK_TIMOTHY_QUESTIONNAIRE.md
+yy_Archive/Old_Documentation/Docs_Files/BEDTIME_READING_RECOMMENDATIONS.md
+yy_Archive/Old_Documentation/Docs_Files/CLEANUP_COMPLETE.md
+yy_Archive/Old_Documentation/Docs_Files/CLEANUP_REMAINING_FILES.md
+yy_Archive/Old_Documentation/Docs_Files/COMPASS_FOLDER_OPTIONS.md
+yy_Archive/Old_Documentation/Docs_Files/COMPREHENSIVE_DOCUMENTATION_REVIEW_COMPLETE.md
+yy_Archive/Old_Documentation/Docs_Files/COMPREHENSIVE_DOCUMENTATION_REVIEW_STATUS.md
+yy_Archive/Old_Documentation/Docs_Files/CURSOR_MEMORY_VS_GIT_CLARIFICATION.md
+yy_Archive/Old_Documentation/Docs_Files/CURSOR_STRUCTURE_CLARIFICATION.md
+yy_Archive/Old_Documentation/Docs_Files/CURSOR_STRUCTURE_SUMMARY.md
+yy_Archive/Old_Documentation/Docs_Files/DEEP_CLEANUP_COMPLETE.md
+yy_Archive/Old_Documentation/Docs_Files/DOCUMENTATION_REVIEW_PLAN.md
+yy_Archive/Old_Documentation/Docs_Files/DOCUMENTATION_REVIEW_SYSTEM.md
+yy_Archive/Old_Documentation/Docs_Files/EXECUTION_PLAN_NOW.md
+yy_Archive/Old_Documentation/Docs_Files/FINAL_CLEANUP_STATUS.md
+yy_Archive/Old_Documentation/Docs_Files/FINAL_CLEAN_ROOT_STATUS.md
+yy_Archive/Old_Documentation/Docs_Files/FINAL_ORGANIZATION_COMPLETE.md
+yy_Archive/Old_Documentation/Docs_Files/FOLDER_STRUCTURE_VISUAL_HIERARCHY.md
+yy_Archive/Old_Documentation/Docs_Files/GIT_ECOSYSTEM_TOOLS_ANALYSIS.md
+yy_Archive/Old_Documentation/Docs_Files/MD_FILES_INVENTORY.md
+yy_Archive/Old_Documentation/Docs_Files/MOMENTUM_PLAN_EXECUTE_NOW.md
+yy_Archive/Old_Documentation/Docs_Files/MOMENTUM_RECOVERY_PLAN.md
+yy_Archive/Old_Documentation/Docs_Files/PHASE_1_VERIFICATION_REPORT.md
+yy_Archive/Old_Documentation/Docs_Files/QUESTIONNAIRE_SUMMARY.md
+yy_Archive/Old_Documentation/Docs_Files/REMAINING_10_PERCENT.md
+yy_Archive/Old_Documentation/Docs_Files/REORGANIZATION_PLAN_FOR_REVIEW.md
+yy_Archive/Old_Documentation/Docs_Files/ROOT_CLEANUP_SUMMARY.md
+yy_Archive/Old_Documentation/Docs_Files/SPECIAL_AGENTS_SETUP_COMPLETE.md
+yy_Archive/Old_Documentation/Docs_Files/STATUS_UPDATE.md
+yy_Archive/Old_Documentation/Docs_Files/STORY_BIBLE_CONSOLIDATION_COMPLETE.md
+yy_Archive/Old_Documentation/Docs_Files/STORY_BIBLE_ERRORS_TO_FIX.md
+yy_Archive/Old_Documentation/Docs_Files/TOMORROWS_REVIEW_CHECKLIST.md
+yy_Archive/Old_Documentation/Docs_Files/VISUAL_HIERARCHY_COMPLETE.md
+yy_Archive/Old_Documentation/Documentation_Files/AI_INSTRUCTIONS_MASTER.md
+yy_Archive/Old_Documentation/Documentation_Files/CHAPTER_1_AI_PROMPT.md
+yy_Archive/Old_Documentation/Documentation_Files/ECOSYSTEM_SUMMARY.md
+yy_Archive/Old_Documentation/Documentation_Files/FINAL_CHAPTER_SEQUENCE_FOR_APPROVAL.md
+yy_Archive/Old_Documentation/Documentation_Files/INITIAL_ASSESSMENT.md
+yy_Archive/Old_Documentation/Documentation_Files/Memory_SmartWrite_Chapter11_Test_Plan.md
+yy_Archive/Old_Documentation/Documentation_Files/NEW_CHAPTER_OUTLINE.md
+yy_Archive/Old_Documentation/Documentation_Files/NEXT_SESSION_ROADMAP.md
+yy_Archive/Old_Documentation/Documentation_Files/PROGRESS_REPORT_TODAY.md
+yy_Archive/Old_Documentation/Documentation_Files/PROJECT_STATUS_DECEMBER_10_2025.md
+yy_Archive/Old_Documentation/Documentation_Files/PROJECT_STATUS_SUMMARY.md
+yy_Archive/Old_Documentation/Documentation_Files/REVISION_ROADMAP.md
+yy_Archive/Old_Documentation/Documentation_Files/SIMPLE_CHAPTER_OUTLINE_FOR_APPROVAL.md
+yy_Archive/Old_Documentation/Documentation_Files/Scalpel_and_Hose_Work.md
+yy_Archive/Old_Documentation/Documentation_Files/TIMOTHY_FEEDBACK_FORM.md
+yy_Archive/Old_Documentation/Documentation_Files/WALK_THIS_WAY_STRATEGY.md
+yy_Archive/Old_Documentation/Drafts/Complete_Draft_v1.md
+yy_Archive/Old_Documentation/Extra_Files/Notes & Evaluations/Walk This Way - Claude Feedback TXT.md
+yy_Archive/Old_Documentation/Extra_Files/Synopsis/Extra_Sections/Novel Synopsis-Walk This Way TXT.md
+yy_Archive/Old_Documentation/Extracted_Scenes/Chapter_01_Last_Voice_Boston_Rock.md
+yy_Archive/Old_Documentation/Extracted_Scenes/Chapter_02_Geography_Division.md
+yy_Archive/Old_Documentation/Extracted_Scenes/Chapter_03_Nicks_World_Garage.md
+yy_Archive/Old_Documentation/Extracted_Scenes/Chapter_04_Belt_Buckles_Started_Everything.md
+yy_Archive/Old_Documentation/Extracted_Scenes/Chapter_05_Best_Friends_Middle_School.md
+yy_Archive/Old_Documentation/Extracted_Scenes/Chapter_06_Jacks_World_Gilded_Cage.md
+yy_Archive/Old_Documentation/Extracted_Scenes/Chapter_07_Middle_School_Talent_Show.md
+yy_Archive/Old_Documentation/Extracted_Scenes/Chapter_08_Summer_Camp_1975.md
+yy_Archive/Old_Documentation/Extracted_Scenes/Chapter_09_First_Fracture.md
+yy_Archive/Old_Documentation/Extracted_Scenes/Chapter_10_Dans_Death_Spring_1976.md
+yy_Archive/Old_Documentation/Extracted_Scenes/Chapter_11_Bridge_Where_Friendship_Died.md
+yy_Archive/Old_Documentation/Extracted_Scenes/Chapter_12_Senior_Year_Nicks_World.md
+yy_Archive/Old_Documentation/Extracted_Scenes/Chapter_13_Senior_Year_Jacks_World.md
+yy_Archive/Old_Documentation/Extracted_Scenes/Chapter_14_Grace_Loses_Her_Grace.md
+yy_Archive/Old_Documentation/Extracted_Scenes/Chapter_15_The_Poster.md
+yy_Archive/Old_Documentation/Extracted_Scenes/Chapter_16_Teachers_Fan_Flames.md
+yy_Archive/Old_Documentation/Extracted_Scenes/Chapter_17_Town_Investment.md
+yy_Archive/Old_Documentation/Extracted_Scenes/Chapter_18_Nicks_Rehearsals.md
+yy_Archive/Old_Documentation/Extracted_Scenes/Chapter_19_Jacks_Rehearsals.md
+yy_Archive/Old_Documentation/Extracted_Scenes/Chapter_20_Patty_Returns.md
+yy_Archive/Old_Documentation/Extracted_Scenes/Chapter_21_Eve_of_Battle.md
+yy_Archive/Old_Documentation/Extracted_Scenes/Chapter_22_Battle_Begins.md
+yy_Archive/Old_Documentation/Extracted_Scenes/Chapter_23_Jacks_Performance.md
+yy_Archive/Old_Documentation/Extracted_Scenes/Chapter_24_Patty_Performance.md
+yy_Archive/Old_Documentation/Extracted_Scenes/Chapter_25_Nicks_Performance.md
+yy_Archive/Old_Documentation/Extracted_Scenes/Chapter_26_Announcement_Aftermath.md
+yy_Archive/Old_Documentation/Extracted_Scenes/Chapter_27_Recording_Session.md
+yy_Archive/Old_Documentation/Extracted_Scenes/Chapter_28_Separation.md
+yy_Archive/Old_Documentation/Extracted_Scenes/Chapter_29_Maxanne_Final_Story.md
+yy_Archive/Old_Documentation/Extracted_Scenes/Chapter_30_Demo_Tape_Plays.md
+yy_Archive/Old_Documentation/First Draft Trial/Act_I/Chapter_01_The_Last_Voice_of_Boston_Rock.md
+yy_Archive/Old_Documentation/First Draft Trial/Act_I/Chapter_02_Nicks_World_The_Garage.md
+yy_Archive/Old_Documentation/First Draft Trial/Act_I/Chapter_03_Jackies_World_The_Gilded_Cage.md
+yy_Archive/Old_Documentation/First Draft Trial/Act_I/Chapter_04_The_Geography_of_Sudbury.md
+yy_Archive/Old_Documentation/First Draft Trial/Act_I/Chapter_05_The_Belt_Buckles_That_Started_Everything.md
+yy_Archive/Old_Documentation/First Draft Trial/Act_I/Chapter_06_Best_Friends_Middle_School.md
+yy_Archive/Old_Documentation/First Draft Trial/Act_I/Chapter_07_Jacks_World.md
+yy_Archive/Old_Documentation/First Draft Trial/Act_I/Chapter_08_Nicks_World_The_Garage_and_The_Dream.md
+yy_Archive/Old_Documentation/First Draft Trial/Act_I/Chapter_09_Maxanne_Before_Talent_Show.md
+yy_Archive/Old_Documentation/First Draft Trial/Act_I/Chapter_10_The_Talent_Show.md
+yy_Archive/Old_Documentation/First Draft Trial/Act_I/Chapter_11_Summer_Camp.md
+yy_Archive/Old_Documentation/First Draft Trial/Act_I/Chapter_12_The_First_Fracture.md
+yy_Archive/Old_Documentation/First Draft Trial/Act_I/Chapter_13_Dans_Death.md
+yy_Archive/Old_Documentation/First Draft Trial/Act_II/Chapter_14_Maxanne_Act2_Setup.md
+yy_Archive/Old_Documentation/First Draft Trial/Act_II/Chapter_15_The_Bridge_Where_Friendship_Died.md
+yy_Archive/Old_Documentation/First Draft Trial/Act_II/Chapter_16_The_Poster.md
+yy_Archive/Old_Documentation/First Draft Trial/Act_II/Chapter_17_Senior_Year_Nicks_World.md
+yy_Archive/Old_Documentation/First Draft Trial/Act_II/Chapter_18_Senior_Year_Jacks_World.md
+yy_Archive/Old_Documentation/First Draft Trial/Act_II/Chapter_19_Town_Investment.md
+yy_Archive/Old_Documentation/First Draft Trial/Act_II/Chapter_20_Grace_Loses_Her_Grace.md
+yy_Archive/Old_Documentation/First Draft Trial/Act_II/Chapter_21_Teachers_Who_Fanned_the_Flames.md
+yy_Archive/Old_Documentation/First Draft Trial/Act_II/Chapter_22_Nicks_Rehearsal.md
+yy_Archive/Old_Documentation/First Draft Trial/Act_II/Chapter_23_Jacks_Rehearsal.md
+yy_Archive/Old_Documentation/First Draft Trial/Act_II/Chapter_24_Patty_Returns.md
+yy_Archive/Old_Documentation/First Draft Trial/Act_II/Chapter_25_Maxanne_Battle_Setup.md
+yy_Archive/Old_Documentation/First Draft Trial/Act_II/Chapter_26_Eve_of_the_Battle.md
+yy_Archive/Old_Documentation/First Draft Trial/Act_II/Chapter_27_The_Battle_of_the_Bands.md
+yy_Archive/Old_Documentation/First Draft Trial/Act_III/Chapter_27_The_Battle_Begins.md
+yy_Archive/Old_Documentation/First Draft Trial/Act_III/Chapter_28_Jacks_Performance.md
+yy_Archive/Old_Documentation/First Draft Trial/Act_III/Chapter_28_The_Recording_Session.md
+yy_Archive/Old_Documentation/First Draft Trial/Act_III/Chapter_29_Pattys_Performance.md
+yy_Archive/Old_Documentation/First Draft Trial/Act_III/Chapter_30_Nicks_Performance.md
+yy_Archive/Old_Documentation/First Draft Trial/Act_III/Chapter_31_The_Announcement_Aftermath.md
+yy_Archive/Old_Documentation/First Draft Trial/Act_III/Chapter_32_The_Recording_Session.md
+yy_Archive/Old_Documentation/First Draft Trial/Act_III/Chapter_33_The_Final_Separation.md
+yy_Archive/Old_Documentation/First Draft Trial/Act_III/Chapter_34_The_Last_Voice_of_Boston_Rock_Part_2.md
+yy_Archive/Old_Documentation/Old_Root_Files/BREAKTHROUGH_SESSION_OCTOBER_19_2025.md
+yy_Archive/Old_Documentation/Old_Root_Files/COPY_CHAPTERS_COMMAND.md
+yy_Archive/Old_Documentation/Old_Root_Files/CURSOR LATEST FEATURES & CAPABILITIES TXT.md
+yy_Archive/Old_Documentation/Old_Root_Files/CURSORIGNORE_GUIDE.md
+yy_Archive/Old_Documentation/Old_Root_Files/CURSOR_COMMANDS_QUICK_REFERENCE.md
+yy_Archive/Old_Documentation/Old_Root_Files/CURSOR_COMPLETE_FEATURES_FORMATTED.md
+yy_Archive/Old_Documentation/Old_Root_Files/CURSOR_COMPLETE_FEATURES_SUMMARY.md
+yy_Archive/Old_Documentation/Old_Root_Files/CURSOR_FEATURES_FORMATTED.md
+yy_Archive/Old_Documentation/Old_Root_Files/CURSOR_FEATURES_SUMMARY.md
+yy_Archive/Old_Documentation/Old_Root_Files/CURSOR_WRITING_SETUP_GUIDE.md
+yy_Archive/Old_Documentation/Old_Root_Files/EXPERIMENTAL_WORKSPACE_SETUP.md
+yy_Archive/Old_Documentation/Old_Root_Files/FROM_CONCEPT_TO_FIRST_DRAFT.md
+yy_Archive/Old_Documentation/Old_Root_Files/Fiction Writing Agents with Mode Systems TXT.md
+yy_Archive/Old_Documentation/Old_Root_Files/NOVEL_WRITING_WORKSPACE_SUMMARY.md
+yy_Archive/Old_Documentation/Old_Root_Files/OPTIMAL_WRITING_SETUP.md
+yy_Archive/Old_Documentation/Old_Root_Files/PROJECT_STATUS_HANDOFF_DECEMBER_10_2025.md
+yy_Archive/Old_Documentation/Old_Root_Files/SPECIAL_AGENT_SETUP_GUIDE.md
+yy_Archive/Old_Documentation/Old_Root_Files/SPLIT_SCREEN_GUIDE.md
+yy_Archive/Old_Documentation/Old_Root_Files/STRATEGIC ANALYSIS 10:18:25 TXT.md
+yy_Archive/Old_Documentation/Old_Root_Files/Strategic_Writing_Coordinator 10.18.25 TXT.md
+yy_Archive/Old_Documentation/Old_Root_Files/TEMPERATURE & ALL CONTROL LEVERS: THE COMPLETE GUIDE TXT.md
+yy_Archive/Old_Documentation/Old_Root_Files/Tim's_Walk_This_Way_FILE_FINDER.md
+"yy_Archive/Old_Documentation/Old_Root_Files/\360\237\223\212 COMPLETE PARAMETER MATRIX TXT.md"
+yy_Archive/Old_Documentation/Rough_Draft_Assembly/ACT_I_ORIGINAL_NOVEL_FINDINGS.md
+yy_Archive/Old_Documentation/Rough_Draft_Assembly/ASSEMBLY_STATUS.md
+yy_Archive/Old_Documentation/Rough_Draft_Assembly/Act_III_Chapters_22-30_ASSEMBLY_NOTES.md
+yy_Archive/Old_Documentation/Rough_Draft_Assembly/Act_II_Chapter_11_Bridge.md
+yy_Archive/Old_Documentation/Rough_Draft_Assembly/Act_II_Chapter_12_Senior_Year_Nicks_World.md
+yy_Archive/Old_Documentation/Rough_Draft_Assembly/Act_II_Chapter_13_Senior_Year_Jacks_World.md
+yy_Archive/Old_Documentation/Rough_Draft_Assembly/Act_II_Chapter_15_The_Poster.md
+yy_Archive/Old_Documentation/Rough_Draft_Assembly/Act_II_Chapter_17_Town_Investment.md
+yy_Archive/Old_Documentation/Rough_Draft_Assembly/Act_II_Chapter_18_Nicks_Rehearsals.md
+yy_Archive/Old_Documentation/Rough_Draft_Assembly/Act_II_Chapter_19_Jacks_Rehearsals.md
+yy_Archive/Old_Documentation/Rough_Draft_Assembly/Act_II_Chapter_21_Eve_of_Battle.md
+yy_Archive/Old_Documentation/Rough_Draft_Assembly/Act_II_Chapters_13-21_ASSEMBLY_NOTES.md
+yy_Archive/Old_Documentation/Rough_Draft_Assembly/Act_I_Chapter_01_Last_Voice_Boston_Rock.md
+yy_Archive/Old_Documentation/Rough_Draft_Assembly/Act_I_Chapter_01_Last_Voice_Boston_Rock_AI_GENERATED.md
+yy_Archive/Old_Documentation/Rough_Draft_Assembly/Act_I_Chapter_01_OPTION_D_FINAL_V2.md
+yy_Archive/Old_Documentation/Rough_Draft_Assembly/Act_I_Chapter_01_OPTION_D_NEW_VOICE.md
+yy_Archive/Old_Documentation/Rough_Draft_Assembly/Act_I_Chapter_01_OPTION_E_HYBRID.md
+yy_Archive/Old_Documentation/Rough_Draft_Assembly/Act_I_Chapter_02_Nicks_World_Garage.md
+yy_Archive/Old_Documentation/Rough_Draft_Assembly/Act_I_Chapter_02_THIRD_PERSON.md
+yy_Archive/Old_Documentation/Rough_Draft_Assembly/Act_I_Chapter_03_Jackies_World_Gilded_Cage.md
+yy_Archive/Old_Documentation/Rough_Draft_Assembly/Act_I_Chapter_04_Geography_of_Sudbury.md
+yy_Archive/Old_Documentation/Rough_Draft_Assembly/Act_I_Chapter_04_THIRD_PERSON.md
+yy_Archive/Old_Documentation/Rough_Draft_Assembly/Act_I_Chapter_05_Belt_Buckles.md
+yy_Archive/Old_Documentation/Rough_Draft_Assembly/Act_I_Chapter_05_Best_Friends.md
+yy_Archive/Old_Documentation/Rough_Draft_Assembly/Act_I_Chapter_06_Best_Friends.md
+yy_Archive/Old_Documentation/Rough_Draft_Assembly/Act_I_Chapter_06_Best_Friends_3rd_Person.md
+yy_Archive/Old_Documentation/Rough_Draft_Assembly/Act_I_Chapter_06_Jacks_World.md
+yy_Archive/Old_Documentation/Rough_Draft_Assembly/Act_I_Chapter_07_Jacks_World_3rd_Person.md
+yy_Archive/Old_Documentation/Rough_Draft_Assembly/Act_I_Chapter_07_Maxanne_The_Divide.md
+yy_Archive/Old_Documentation/Rough_Draft_Assembly/Act_I_Chapter_08_Nicks_World_3rd_Person.md
+yy_Archive/Old_Documentation/Rough_Draft_Assembly/Act_I_Chapter_08_Talent_Show.md
+yy_Archive/Old_Documentation/Rough_Draft_Assembly/Act_I_Chapter_09_First_Fracture.md
+yy_Archive/Old_Documentation/Rough_Draft_Assembly/Act_I_Chapter_09_Summer_Camp.md
+yy_Archive/Old_Documentation/Rough_Draft_Assembly/Act_I_Chapter_10_Dans_Death.md
+yy_Archive/Old_Documentation/Rough_Draft_Assembly/BATTLE_CHAPTERS_TREASURE_MAP.md
+yy_Archive/Old_Documentation/Rough_Draft_Assembly/BATTLE_TREASURE_COMPLETE_FINDINGS.md
+yy_Archive/Old_Documentation/Rough_Draft_Assembly/COMPLETE_ASSEMBLY_MAP.md
+yy_Archive/Old_Documentation/Rough_Draft_Assembly/COMPLETE_BATTLE_FINDINGS_MASTER.md
+yy_Archive/Old_Documentation/Rough_Draft_Assembly/CORRECTED_CHAPTER_ORGANIZATION.md
+yy_Archive/Old_Documentation/Rough_Draft_Assembly/MISSING_CHAPTERS_FOUND.md
+yy_Archive/Old_Documentation/STORY_BIBLE.md
+yy_Archive/Old_Documentation/Writing_Notes/1979 BATTLE OF THE BANDS DETAILS.md
+yy_Archive/Old_Documentation/Writing_Notes/Prose_Comparison_Analysis.md
+yy_Archive/Old_Documentation/Writing_Notes/Walk This Way Older Notes for Reference.md
+yy_Archive/Old_Documentation/Writing_Notes/Walk This Way: Systematic Shopping List TXT.md
+yy_Archive/Old_Documentation/Writing_Notes/daily-log.md
+yy_Archive/Old_Documentation/Writing_Notes/outline.md
+yy_Archive/Old_Documentation/Writing_Notes/questions-to-resolve.md
+yy_Archive/Old_Documentation/Writing_Notes/revision-notes.md
+yy_Archive/Old_Documentation/agents_archive/AGENT_ACCESS_QUICK_REFERENCE.md
+yy_Archive/Old_Documentation/agents_archive/AGENT_TESTING_GUIDE.md
+yy_Archive/Old_Documentation/agents_archive/Agent.md
+yy_Archive/Old_Documentation/agents_archive/CHARACTER_DEPTH_COACH.md
+yy_Archive/Old_Documentation/agents_archive/CREATIVE_COLLABORATOR.md
+yy_Archive/Old_Documentation/agents_archive/CUSTOM_AGENT_LIMIT_STRATEGY.md
+yy_Archive/Old_Documentation/agents_archive/CUSTOM_AGENT_SETTINGS_EXPLAINED.md
+yy_Archive/Old_Documentation/agents_archive/HOW_JSON_PROMPTS_WORK.md
+yy_Archive/Old_Documentation/agents_archive/HOW_TO_SUMMON_AGENTS.md
+yy_Archive/Old_Documentation/agents_archive/JAZZ.md
+yy_Archive/Old_Documentation/agents_archive/OUR_APPROACH_VS_DOCUMENT.md
+yy_Archive/Old_Documentation/agents_archive/PROSE_POLISH_EXPERT.md
+yy_Archive/Old_Documentation/agents_archive/PYTHON_VS_JSON_ENFORCEMENT.md
+yy_Archive/Old_Documentation/agents_archive/QUICK_AGENT_TEST.md
+yy_Archive/Old_Documentation/agents_archive/STRATEGIC_WRITING_COORDINATOR.md
+yy_Archive/Old_Documentation/agents_archive/STRUCTURAL_PERFECTION_SPECIALIST.md
+yy_Archive/Old_Documentation/agents_archive/UNIFIED_AGENT_STRUCTURE.md
+yy_Archive/Reference_Materials/Blue Print/Notes & Evaluations/Walk This Way - Claude Feedback TXT.md
+yy_Archive/Reference_Materials/Blue Print/Synopsis/Novel Synopsis-Walk This Way TXT.md
+yy_Archive/Reference_Materials/EXPERIMENTAL/README.md
+yy_Archive/Reference_Materials/Luna Alpha/Luna_Alpha_Development/LUNA_ALPHA_FEEDBACK_FORM.md
+yy_Archive/Reference_Materials/Outlines/chapter-outline.md
+yy_Archive/Reference_Materials/Planning/Artifact_1_POV_Approach.md
+yy_Archive/Reference_Materials/Planning/Artifact_2_Revision_Strategy.md
+yy_Archive/Reference_Materials/Planning/Blue_Print/Notes & Evaluations/Walk This Way - Claude Feedback TXT.md
+yy_Archive/Reference_Materials/Planning/Blue_Print/Synopsis/Novel Synopsis-Walk This Way TXT.md
+yy_Archive/Reference_Materials/Planning/Character_Development/Chapter_01_Robinson_Style.md
+yy_Archive/Reference_Materials/Planning/Character_Development/Chapter_02_Robinson_Style.md
+yy_Archive/Reference_Materials/Planning/Character_Development/Chapter_03_Robinson_Style.md
+yy_Archive/Reference_Materials/Planning/Character_Development/Maxanne_Voice_Profile.md
+yy_Archive/Reference_Materials/Planning/Comprehensive_Revision_Guide.md
+yy_Archive/Reference_Materials/Planning/Word_Replacement_Strategy.md
+yy_Archive/Reference_Materials/Research/COMPREHENSIVE_NOVEL_ANALYSIS_AND_WRITING_COACH_GUIDE.md
+yy_Archive/Reference_Materials/Story_Bible_Notes/10:20:25 Notes from Walk this Way chat TXT 3.md
+yy_Archive/Reference_Materials/Story_Bible_Notes/1979 BATTLE OF THE BANDS TXT.md
+yy_Archive/Reference_Materials/Timothy_Novels/Helix_Book1_Father of Mine/08.29.25 6.45AM HELIX: BOOK 1: FATHER OF MINE: Rough Draft Version 1 not very good TXT.md
+yy_Archive/Reference_Materials/Timothy_Novels/Island_Spring/ISLAND FEVER TXT.md
+yy_Archive/Reference_Materials/Timothy_Novels/Island_Spring/Island Fever Original with notes TXT.md
+yy_Archive/Reference_Materials/Timothy_Novels/Last_Champion_Standing/08.20.25 9PM Last Champion Standing NOTES & PROSE CHAPTERS.md
+yy_Archive/Reference_Materials/Timothy_Novels/Last_Champion_Standing/08.20.25 Last Champion Standing Shortened Notes outline TXT.md
+yy_Archive/Reference_Materials/Timothy_Novels/Phantom_Cowboy/08.23.25 Phantom Cowboy PRINTING COPY TXT.md
+yy_Archive/Reference_Materials/Timothy_Novels/Scrambled_Eggs/08.18.25 Scrambled Eggs TXT.md
+yy_Archive/Reference_Materials/Timothy_Novels/Scrambled_Eggs/Scrambled Eggs Short Story Idea TXT.md
+yy_Archive/Reference_Materials/Timothy_Novels/Streets of Dreams/Streets of Dreams TXT.md
+yy_Archive/Reference_Materials/Timothy_Novels/When_The_River_Cries/08.12.25 When The River Cries Outline:Notes TXT.md
+yy_Archive/Reference_Materials/Timothy_Novels/When_The_River_Cries/When The River Cries 7-29-25 10PM TXT.md
+yy_Archive/Reference_Materials/Writing_Notes/Prose_Comparison_Analysis.md
+yy_Archive/Reference_Materials/Writing_Notes/Walk This Way: Systematic Shopping List TXT.md
+yy_Archive/Reference_Materials/Writing_Notes/daily-log.md
+yy_Archive/Reference_Materials/Writing_Notes/outline.md
+yy_Archive/Reference_Materials/Writing_Notes/questions-to-resolve.md
+yy_Archive/Reference_Materials/Writing_Notes/revision-notes.md
+yy_Archive/Screenplay/2. 08.25.25 original WALK THIS WAY Screenplay needs changes TXT copy 3.md
+yy_Archive/Screenplay/39. 09:03:25 Walk This Way CH2X updated Belt Buckle Chapter (inspiration from screenplay) TXT copy 3.md
+yy_Archive/Screenplay/5. 08.26.25 1:00PM Walk this Way: Screenplay Revisions TXT copy 3.md
+yy_Archive/Synopsis/13. 08:30:25 Walk This Way Draft 1 and Synopsis TXT copy 3.md
+yy_Archive/Synopsis/Novel Synopsis-Walk This Way TXT copy 3.md
+zz_COMPASS/Agents/Core_5/CHARACTER_DEPTH_COACH.md
+zz_COMPASS/Agents/Core_5/CREATIVE_COLLABORATOR.md
+zz_COMPASS/Agents/Core_5/PROSE_POLISH_EXPERT.md
+zz_COMPASS/Agents/Core_5/STRATEGIC_WRITING_COORDINATOR.md
+zz_COMPASS/Agents/Core_5/STRUCTURAL_PERFECTION_SPECIALIST.md
+zz_COMPASS/Archive/2026-01-26_COMPASS_Enhancement_Research_Synthesis.md
+zz_COMPASS/Archive/COMPASS_ENHANCEMENT_RESEARCH_GUIDE.md
+zz_COMPASS/Archive/README.md
+zz_COMPASS/COMPASS_AUDIT_REPORT.md
+zz_COMPASS/COMPASS_ENCYCLOPEDIA_ANALYSIS.md
+zz_COMPASS/COMPASS_GIT_VISUAL_ARCHITECTURE.md
+zz_COMPASS/CURSOR_COMMANDS_QUICK_REFERENCE.md
+zz_COMPASS/Commands/action.md
+zz_COMPASS/Commands/argument.md
+zz_COMPASS/Commands/atmosphere.md
+zz_COMPASS/Commands/chbosky.md
+zz_COMPASS/Commands/coach.md
+zz_COMPASS/Commands/dark.md
+zz_COMPASS/Commands/detail.md
+zz_COMPASS/Commands/dialogue.md
+zz_COMPASS/Commands/dickey.md
+zz_COMPASS/Commands/emotion.md
+zz_COMPASS/Commands/goldman.md
+zz_COMPASS/Commands/harris.md
+zz_COMPASS/Commands/intuition.md
+zz_COMPASS/Commands/king.md
+zz_COMPASS/Commands/love.md
+zz_COMPASS/Commands/ondaatje.md
+zz_COMPASS/Commands/pacing.md
+zz_COMPASS/Commands/poetic.md
+zz_COMPASS/Commands/pov.md
+zz_COMPASS/Commands/prose.md
+zz_COMPASS/Commands/robinson.md
+zz_COMPASS/Commands/romantic.md
+zz_COMPASS/Commands/tense.md
+zz_COMPASS/Commands/tension.md
+zz_COMPASS/Commands/thoughts.md
+zz_COMPASS/Commands/voice.md
+zz_COMPASS/Core/ADVANCED_CURSOR_NOVEL_WRITING_TOOLS.md
+zz_COMPASS/Core/Agent.md
+zz_COMPASS/Core/Universal-Fiction-Templates.md
+zz_COMPASS/Core/WRITING_DNA_MEMORY_SYSTEM.md
+zz_COMPASS/FICTION_WRITING_AGENTS_WITH_MODE_SYSTEMS.md
+zz_COMPASS/HANK_CONVERSATION_CONTEXT_JAN_2026.md
+zz_COMPASS/HANK_DEEP_ASSESSMENT_JANUARY_2026.md
+zz_COMPASS/Helpful_Hints.md
+zz_COMPASS/MCP_INTEGRATION.md
+zz_COMPASS/MCP_Implementations/COMPASS_Character_MCP_Template/README.md
+zz_COMPASS/MCP_Implementations/COMPASS_Writing_Guides_MCP/DISCO_NIGHT_SUMMARY.md
+zz_COMPASS/MCP_Implementations/COMPASS_Writing_Guides_MCP/FINAL_SESSION_SUMMARY.md
+zz_COMPASS/MCP_Implementations/COMPASS_Writing_Guides_MCP/README.md
+zz_COMPASS/MCP_Implementations/COMPASS_Writing_Guides_MCP/SETUP_COMPLETE.md
+zz_COMPASS/MCP_Implementations/COMPASS_Writing_Guides_MCP/TEST_QUESTIONS.md
+zz_COMPASS/MCP_Implementations/COMPASS_Writing_Guides_MCP/venv/lib/python3.9/site-packages/pip-25.3.dist-info/licenses/src/pip/_vendor/idna/LICENSE.md
+zz_COMPASS/MCP_Implementations/COMPASS_Writing_Guides_MCP/venv/lib/python3.9/site-packages/pip/_vendor/idna/LICENSE.md
+zz_COMPASS/MCP_Implementations/CURSOR_WORKFLOW_ORCHESTRATOR_MCP/README.md
+zz_COMPASS/MCP_Implementations/CURSOR_WORKFLOW_ORCHESTRATOR_MCP/venv/lib/python3.10/site-packages/httpcore-1.0.9.dist-info/licenses/LICENSE.md
+zz_COMPASS/MCP_Implementations/CURSOR_WORKFLOW_ORCHESTRATOR_MCP/venv/lib/python3.10/site-packages/httpx-0.28.1.dist-info/licenses/LICENSE.md
+zz_COMPASS/MCP_Implementations/CURSOR_WORKFLOW_ORCHESTRATOR_MCP/venv/lib/python3.10/site-packages/idna-3.11.dist-info/licenses/LICENSE.md
+zz_COMPASS/MCP_Implementations/CURSOR_WORKFLOW_ORCHESTRATOR_MCP/venv/lib/python3.10/site-packages/pip-25.3.dist-info/licenses/src/pip/_vendor/idna/LICENSE.md
+zz_COMPASS/MCP_Implementations/CURSOR_WORKFLOW_ORCHESTRATOR_MCP/venv/lib/python3.10/site-packages/pip/_vendor/idna/LICENSE.md
+zz_COMPASS/MCP_Implementations/CURSOR_WORKFLOW_ORCHESTRATOR_MCP/venv/lib/python3.10/site-packages/starlette-0.52.1.dist-info/licenses/LICENSE.md
+zz_COMPASS/MCP_Implementations/CURSOR_WORKFLOW_ORCHESTRATOR_MCP/venv/lib/python3.10/site-packages/uvicorn-0.40.0.dist-info/licenses/LICENSE.md
+zz_COMPASS/MCP_Implementations/DENNIS_LEHANE_MCP/DENNIS_LEHANE_MCP_FOUNDATION.md
+zz_COMPASS/MCP_Implementations/DENNIS_LEHANE_MCP/LEHANE_ANALYSIS_SUMMARY.md
+zz_COMPASS/MCP_Implementations/DENNIS_LEHANE_MCP/README.md
+zz_COMPASS/MCP_Implementations/DENNIS_LEHANE_MCP/REVIEW_READY.md
+zz_COMPASS/MCP_Implementations/EXECUTIVE_SUMMARY.md
+zz_COMPASS/MCP_Implementations/FICTION_REVERSE_ENGINEERING_MCP/README.md
+zz_COMPASS/MCP_Implementations/FICTION_REVERSE_ENGINEERING_MCP/USAGE_GUIDELINES.md
+zz_COMPASS/MCP_Implementations/FICTION_REVERSE_ENGINEERING_MCP/venv/lib/python3.10/site-packages/httpcore-1.0.9.dist-info/licenses/LICENSE.md
+zz_COMPASS/MCP_Implementations/FICTION_REVERSE_ENGINEERING_MCP/venv/lib/python3.10/site-packages/httpx-0.28.1.dist-info/licenses/LICENSE.md
+zz_COMPASS/MCP_Implementations/FICTION_REVERSE_ENGINEERING_MCP/venv/lib/python3.10/site-packages/idna-3.11.dist-info/licenses/LICENSE.md
+zz_COMPASS/MCP_Implementations/FICTION_REVERSE_ENGINEERING_MCP/venv/lib/python3.10/site-packages/pip-25.3.dist-info/licenses/src/pip/_vendor/idna/LICENSE.md
+zz_COMPASS/MCP_Implementations/FICTION_REVERSE_ENGINEERING_MCP/venv/lib/python3.10/site-packages/pip/_vendor/idna/LICENSE.md
+zz_COMPASS/MCP_Implementations/FICTION_REVERSE_ENGINEERING_MCP/venv/lib/python3.10/site-packages/starlette-0.52.1.dist-info/licenses/LICENSE.md
+zz_COMPASS/MCP_Implementations/FICTION_REVERSE_ENGINEERING_MCP/venv/lib/python3.10/site-packages/uvicorn-0.40.0.dist-info/licenses/LICENSE.md
+zz_COMPASS/MCP_Implementations/MCP_IMPLEMENTATION_GUIDE.md
+zz_COMPASS/MCP_Implementations/PROFESSIONAL_EDITOR_MCP/README.md
+zz_COMPASS/MCP_Implementations/QUICK_REFERENCE.md
+zz_COMPASS/MCP_Implementations/README.md
+zz_COMPASS/MCP_Implementations/STEPHEN_KING_MCP/STEPHEN_KING_MCP_DESIGN.md
+zz_COMPASS/MCP_Implementations/TIMOTHY_CLAUDE_PARTNERSHIP_GUIDE.md
+zz_COMPASS/MCP_Implementations/WalkThisWay_Character_MCP/README.md
+zz_COMPASS/README.md
+zz_COMPASS/SmartWrite/README.md
+zz_COMPASS/SmartWrite/Requests/REQUEST_TEMPLATE.md
+zz_COMPASS/SmartWrite/Results/2025-11-29_Chapter_06_Jackies_World/Enhancement_Report.md
+zz_COMPASS/SmartWrite/Results/2025-11-29_Chapter_06_Jackies_World/Selected_Options.md
+zz_COMPASS/TEMPERATURE_AND_CONTROL_LEVERS_GUIDE.md
