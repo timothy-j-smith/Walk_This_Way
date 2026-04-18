@@ -1,0 +1,107 @@
+{
+  "meta": {
+    "title": "James Dickey / Deliverance — craft knowledge base",
+    "primary_corpus": "Deliverance (novel)",
+    "disclaimer": "Educational craft analysis only. Do not reproduce copyrighted passages at length. Paraphrase principles; quote minimally with attribution.",
+    "version": "1.0"
+  },
+  "writers_toolbox": {
+    "metaphor": "River-body-image: prose as current — pressure, depth, snag, release.",
+    "shelves": [
+      {
+        "name": "Bottom Shelf (Foundation)",
+        "points": [
+          "Kinetic verbs; concrete nouns that survive stress.",
+          "Syntax that carries motion: clause rhythm mimics water, portage, exhaustion.",
+          "Avoid decorative latinate pile-up when plain muscle reads truer."
+        ]
+      },
+      {
+        "name": "Second Shelf (Style)",
+        "points": [
+          "Compression: one image that does two jobs (place + dread).",
+          "Metaphor earned by physical context, not imported 'literary' gloss.",
+          "First-person filtration: what Ed notices, avoids, misreads — voice is cognition under strain."
+        ]
+      },
+      {
+        "name": "Third Shelf (Scene Craft)",
+        "points": [
+          "Situation-born dread: wilderness and social order exert force before 'horror' is named.",
+          "Group dynamics: competence, shame, pecking order — who leads, who lies, who pays.",
+          "Violence as sequence: impact, disorientation, then consequence (legal, moral, somatic)."
+        ]
+      },
+      {
+        "name": "Top Shelf (Theme & Resonance)",
+        "points": [
+          "Class and masculinity surface through gear, language, body, risk — not thesis.",
+          "Civilization vs. wild: let the river and forest **argue** in sensory detail.",
+          "Complicity and survival guilt: the story continues in the body after the event."
+        ]
+      }
+    ]
+  },
+  "core_philosophy": [
+    "Story lives in **embodied situation**: what the river does to time, sound, and judgment.",
+    "Dread is often **delay + wrong confidence**: craft tests what characters assume is still true.",
+    "The moral question is staged as **choice under pressure**, not as a speech.",
+    "Aftermath is not epilogue — it is **identity maintenance** under new facts.",
+    "Landscape is psychology: weather, sound, fatigue rewrite what characters can afford to feel."
+  ],
+  "deliverance_focus": {
+    "narrator_consciousness": [
+      "Track what the narrator sees first vs. what he narrates later — gaps are dramatic.",
+      "Understatement after intensity: the voice tightens when memory protects itself."
+    ],
+    "structure_pressure": [
+      "Journey + ordeal: each leg of the trip should change what 'home' means.",
+      "The hunt as moral machine: pursuit reframes who is predator, who is prey, who is witness."
+    ],
+    "sensory_channels": [
+      "Sound: echo, snap, rush — acoustic space defines panic and control.",
+      "River as timekeeper: current speeds or stalls scenes more reliably than clock time.",
+      "Touch and weight: boats, rope, skin, mud — material truth grounds lyric flights."
+    ],
+    "aftermath_craft": [
+      "Shame and cover-up scenes need **specific behaviors** (what hands do, what eyes avoid).",
+      "Survival's cost: relationships re-sort; humor dies where trust used to live."
+    ]
+  },
+  "telepathy": {
+    "signal": [
+      "Concrete river-body-world detail",
+      "Action that reveals character",
+      "Earned fragmentation in dialogue under stress",
+      "Clear spatial staging — reader always knows where hurt can happen"
+    ],
+    "noise": [
+      "Abstract dread labels ('a sense of foreboding') without image",
+      "Moralizing narrator commentary that replaces sensation",
+      "Stacked adjectives and purple overload",
+      "Thematic throat-clearing ('this represents…')"
+    ]
+  },
+  "hard_rules": [
+    "Record sensation before interpretation in high-tension beats.",
+    "One dominant image per sentence in crisis; let the next sentence advance, not decorate.",
+    "Dialogue under pressure: interrupt, miss, deflect — avoid courtroom clarity.",
+    "Class: show through objects, jobs, bodies — not authorial judgment.",
+    "Violence: chronological clarity + bodily specificity; avoid slo-mo fetish and aestheticizing harm without cost.",
+    "Aftermath: track guilt as behavior (sleep, appetite, silence, avoidance).",
+    "Revision pass: cut any sentence that explains fear the image already shows.",
+    "Read aloud: where breath breaks, consider a cut or a period."
+  ],
+  "quotes": [],
+  "quotes_note": "Add 3–8 short verified quotations from your own copies (interviews, essays, editions). Keep each under 25 words with precise attribution. Omit this array's emptiness in user-facing output unless asked.",
+  "mode_hints": {
+    "create": "Expand seeds into predicament: stakes, geography, group roles, what could go wrong first.",
+    "transform": "Target one passage: improve image flow, cut abstraction, sharpen dialogue rhythm.",
+    "edit": "Full pass: pacing of dread, aftermath integrity, narrator consistency, thematic emergence vs. sermon."
+  },
+  "liberty_hints": {
+    "nice": "Honest but protective delivery; lead with what works; end with 2–3 concrete upgrades.",
+    "neutral": "Balanced diagnosis; equal weight to what works and what fails; direct fixes.",
+    "professional": "Numerical honesty if requested; failure taxonomy; ordered revision plan; no comfort padding."
+  }
+}
