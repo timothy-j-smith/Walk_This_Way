@@ -56,7 +56,7 @@ Work these into Act II organically. Not all in one chapter — spread across the
 
 - Nick knows Dan had a secret guitar in the toolbox. He hasn't opened it yet. The sheet music is there. (Plant pressure, don't reveal until Act III.)
 - Grace grew up wealthy — the Johnson house is her childhood home. Her father committed suicide. She doesn't talk about it. Hints allowed in Ch 19 especially.
-- Dr. Marsh gave up guitar for career. He will not name this. But his hands know. He sometimes looks at Jackie's hands like they are the ghost of his own.
+- Dr. Marsh gave up piano for career (per Draft 3.2 addendum — he is a former concert-track pianist, not a guitarist). He will not name this. But his hands know the reach of an octave in his sleep. Dan and Dr. Marsh are mirrors at the level of parental sacrifice, not instrument: Dan hid his guitar in the garage; Dr. Marsh closed the piano lid. Same regret, different class expression.
 - Patty Lally is from Sudbury Southeast (pig farm / Cavicchio area). Third quadrant. The boys didn't see her as a girl until Elbanobscot.
 
 ---
