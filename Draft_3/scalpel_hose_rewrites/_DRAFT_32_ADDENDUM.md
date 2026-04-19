@@ -55,22 +55,27 @@ New backstory (subtle, not heavy-handed — the author's directive holds):
 Rendering rules:
 
 - **No flashback scene** to 1953. Not a single sentence of direct dramatization.
-- **Subtle surface hints only.** The chrome-handle flash in Ch 19 (existing) is perfect. The library-varnish-she-knew-as-a-girl in Ch 18 (existing) is perfect. The banister worn thin *under her father's hand and her own* in Ch 18 (existing) is perfect. Wave 2 may deepen these by exactly ONE concrete image — a framed family photograph that isn't on a wall anymore, a particular recipe card from her mother in a kitchen drawer, a specific wedding-china plate. One image. No paragraph. No exposition.
-- Grace does **not** speak about her father. Not to Nick, not to Mary Murphy, not to anyone. His name may appear once in the full novel, or not at all.
+- **Subtle surface hints only.** The chrome-handle flash in Ch 19 (existing) is perfect. The library-varnish-she-knew-as-a-girl in Ch 18 (existing) is perfect. The Maxwell House jar in Ch 19 ("a jar a man had once kept on the sideboard of a study in a big house on the other side of Hop Brook a long time ago") is exactly the register. No paragraph. No exposition.
+- Grace does **not** speak about her father. Not to Nick, not to Mary Murphy, not to anyone. His name does not appear in the text.
 - Dan knew the story but didn't press. He married her after, not before, knowing.
 - One consequence the text can show: Grace's wariness around wealth. She never covets it. She's been on both sides.
 
-### Fix required in Ch 21 rewrite
+### **CORRECTION — Dutton Road is the JOHNSON family home, not Grace's childhood home**
 
-The Ch 21 rewrite currently contains the line:
+(Author correction applied in Wave 4, supersedes earlier drafts of this section.)
 
-> "the same chrome storm-door handle of the same house she had grown up in at twelve, in a different life, on a step she had been standing on when the first policeman came up the walk in October of '41 to tell her mother about her father."
+The Dutton Road house where Dan, Grace, and Nick live is **Dan's family home** — the working-class house Dan's father bought in the 1940s, where Dan grew up, where Dan's mother cooked in the kitchen for forty years before Grace ever stood at that counter. Grace moved into this house **as a bride in 1956**, having married Dan the spring after she graduated L-S. Three generations of Johnson hands have worn the banister; Grace's hand is the fourth.
 
-This is wrong. Grace was four in October 1941 and her father's death was in 1953. **Fix to:**
+The **lost house of Grace's childhood** — the big house somewhere on the north side of Hop Brook where her father's study had a sideboard and a Maxwell-House-shaped jar — is **never specifically located or named** in the text. What happened to it after the 1953 scandal is left unspecified. Per the author: *"What happens to Grace's old house in Sudbury I see as being insignificant."*
 
-> "the same chrome storm-door handle of the same house she had grown up in, the same step she had been standing on when the two men from the District Attorney's office came up the walk in the late fall of '53 to ask her mother if she knew where her father kept his papers."
+**The emotional weight of Grace's widowhood is that she is alone in Dan's ghost house, surrounded by the objects of his family** — not her own childhood home. The house holds Dan. That makes her grief heavier, not lighter.
 
-(Or similar — keep the rhythm but correct the date and the specific authority. "Policeman" becomes "men from the DA's office" because it's financial crime, not ordinary crime. If the author prefers "policeman," use one patrol officer accompanying the DA men.)
+Applied corrections across the manuscript:
+
+- **Ch 12** "this had been her parents' house" → "**Dan's mother had made it for Dan's father in this same kitchen for forty years before Grace ever stood at this counter**." The lineage of the tuna sandwich now flows through Dan's family, not Grace's.
+- **Ch 18** banister "under her father's hand and her own" → "**under three generations of Johnson hands and her own**."
+- **Ch 19** Maxwell-House jar moved from "a sideboard in a study on Dutton Road" → "**a sideboard of a study in a big house on the other side of Hop Brook**." The study that held the jar was her father's study in the lost house, not in her current house.
+- **Ch 21** "the same chrome storm-door handle of the same house she had grown up in" → "**the chrome storm-door handle of the house Dan had grown up in — the house she had walked into as a bride twenty-three years ago carrying a casserole and a suitcase, and had never walked out of since**." The 1953 DA's-office-at-the-walk beat is removed from this passage; that memory belongs to the lost house, not the current one.
 
 ---
 
