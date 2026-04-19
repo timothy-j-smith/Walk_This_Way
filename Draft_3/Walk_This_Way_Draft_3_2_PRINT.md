@@ -3587,7 +3587,7 @@ She hummed "Go Your Own Way" all the way to the bus stop. Not as a statement. Ju
 
 ## CHAPTER 29
 
-### DREAMS
+### ROCK AND ROLL ALL NITE
 
 
 ---
@@ -3956,7 +3956,7 @@ The Lincoln-Sudbury parking lot lay empty under its one sodium lamp, the stage d
 
 ## CHAPTER 32
 
-### WE WILL ROCK YOU
+### BARRACUDA
 
 
 May 15, 1979. Seven o'clock on a Tuesday night. The Lincoln-Sudbury Regional High School auditorium had been built in 1960 and smelled like it still — wood floor wax, the slow mineral breath of cast iron, four hundred and forty-three folding seats bolted into a concrete rake that groaned as kids sat down and groaned again when kids stood back up to wave at other kids. The fluorescent cove lights above the proscenium threw the whole room into the color of a grocery store. Behind the stage hung the painted backdrop every school play had used for a decade: a Concord Road maple tree in October, the red gone brown at the edges where the scrim had rolled. In the lobby the JV booster club had set up a popcorn machine and the smell of commercial butter and Aqua Velva and girls' perfume had come in with the crowd and was now layered, impossibly, on top of the baseline adolescent sweat of an April-warm room in May. The balcony was already full. Seniors.
@@ -5144,7 +5144,7 @@ I wait.
 
 ## CHAPTER 41
 
-### SHINE ON YOU CRAZY DIAMOND
+### THE WEIGHT
 
 
 Eleven-thirty. Half an hour left.
