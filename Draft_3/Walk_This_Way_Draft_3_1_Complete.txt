@@ -2256,7 +2256,7 @@ The words came out faster than he'd meant them. The word *real* sat in the air w
 
 Jackie watched his father's hand go to the wine glass.
 
-Dr. Marsh's fingers closed around the stem. On the word he had not yet spoken but was about to, his first three fingertips curled in against the crystal in a shape the stem did not require — the shape of a hand laid across three keys and pressed. It lasted the breath before the word and was gone when the word came.
+Dr. Marsh's fingers closed around the stem. On the word he had not yet spoken but was about to, his first three fingertips curled in against the crystal in a shape the stem did not require — the shape of a hand laid across three strings and pressed. It lasted the breath before the word and was gone when the word came.
 
 "Jackson. This is a high school competition. Sponsored by a rock station. It is beneath your level."
 
@@ -2363,6 +2363,30 @@ The house was quiet. The piano was not playing itself.
 Jackie crossed to the Steinway and sat and set the Henle edition square on the stand and put his hands on the keys. The fingers found the E-flat chord at the top of the page without being asked, the left hand low and open, the right lifting for the andante. His throat, on its own, remembered the Queen chorus and did not sing it.
 
 He began to play the Chopin.
+
+---
+
+Downstairs, Eileen Marsh went into the small back bedroom she had not invited anyone into since 1966 and closed the door behind her.
+
+The room had a single north window and a floor lamp with a cracked ceramic base she had meant to replace for eleven years. Along the far wall, a deep utility shelf held nine canvases turned to the wall, the backs of their stretcher bars the only thing a visitor could have seen if there had been visitors. The topmost canvas was dated in pencil on its stretcher, *9/23/65*, and she had carried it up from the basement the year she married Richard because she had not yet decided what to do with it and had never since decided. Beside the shelf stood her old easel, the oil stains on the bar the color of winter sunset under forty years of skin cells and dust. Her palette knife lay where she had put it down on the kitchen of a third-floor Huntington Avenue walk-up in the fall of 1959, a week before the acceptance letter from Richard's department chair changed her address for good.
+
+She did not open a canvas. She did not touch the knife. She stood in the middle of the room with her arms loose at her sides and she looked at all of it the way a widow looks at her dead husband's coat closet — an inventory of a life she had agreed to put down, conducted in private so the agreement would hold.
+
+Through the door and up the stairs, the Chopin came to her in fragments. The E-flat opening. The lift into the andante. A measure Jackson played twice. Then a third time. Then the return. The boy was good and the boy had been good for a long time now and she had taught him nothing — she had *given* him nothing she had kept for herself — and still when he played the first phrase of anything lyrical her right hand lifted involuntarily to her sternum as if to press a brush back against a canvas that was not there.
+
+She was forty-six. She had been forty-six for four months. She had stopped painting at twenty-eight, formally — *set it down*, in her own phrasing, a phrase she had used with her mother and once with a professor and never since with anyone — and at twenty-nine she had given birth to Jackson. At thirty-nine to Elizabeth. Between those two children and the years around them she had run Richard's household the way another woman might have run a small institution: billing, scheduling, laundry, his summer research trips, his departmental wives' luncheons, the endless small repairs of a man who could publish on trauma but could not put a button back on a shirt without cutting himself. Richard was a loved man by his children and by his students, and he was a man who required, in the private way that did not appear in papers or in recommendations, almost constant tending. Medication schedules he would not set for himself. Appointment reminders. The two glasses of water before bed she set on his nightstand because if she did not he did not drink them and woke at three in the morning disoriented. The specific plate he preferred on Sundays. The way the pillow had to be on the bed. Eileen ran this small invisible country the way she had once painted — steadily, without fuss, with the same focus she had brought at twenty-one to a window in February with northern light. She had transferred the focus. She had kept the focus. She had only stopped producing the painting.
+
+Upstairs the Chopin broke off on a phrase and resumed.
+
+She crossed to the easel and stood in front of it. She laid her right hand flat on the wood of the bar where the oil stains were, and the hand remembered. It did the small unconscious thing a hand does when it has held a brush for five hundred hours — the thumb lifted, the first two fingertips curled, the pinky steadied against the heel of the palm — and for half a breath she was twenty-two, standing in a narrow Cambridge kitchen with a canvas on the sink counter and the afternoon light coming sideways across a still life she would never finish. The hand stayed there. It did not move.
+
+From the study across the downstairs hall she heard the particular sound Richard made when he was trying to get up from his chair and the chair was not cooperating — the soft grunt, the scrape of the leg against the floorboard, the pause, the second attempt. He would call her in a moment. He did not like being heard calling her; the call would be quiet.
+
+"Eileen?"
+
+She did not answer immediately. The hand was still on the bar. She looked at the nine canvases turned to the wall and she looked at the palette knife and she looked at the easel her hand was flat against, and then she lifted the hand away with the small care a person uses laying down something that did not belong to her in the first place. She turned off the floor lamp. She left the room and closed the door behind her, and her footsteps across the hall were even and unhurried, the footsteps of a woman on her way to the study.
+
+"I'm here," she said. "I'm coming."
 
 **END CHAPTER 17**
 
@@ -4745,7 +4769,7 @@ The $250 had gone to Grace. She'd protested — "That's your money, your prize" 
 
 Nick lay in his bunk. Fort Benning breathed around him — thirty-eight men, red clay, wax and Pine-Sol, the distant sound of someone's radio playing country through a single earphone. He was trading his body for education. The American working-class bargain: three years of service for tuition, room, board, and the chance to become something his father never had the chance to become.
 
-Dan would have understood. Dan had made his own bargain — his body for a paycheck, construction sites for a mortgage, physical labor for a house on Dutton Road where his son could play guitar in a garage that smelled like sawdust.
+Dan would have understood. Dan had made his own bargain — his body for a paycheck, construction sites for a mortgage, physical labor for a house on Maple Street where his son could play guitar in a garage that smelled like sawdust.
 
 The bargain killed him.
 
@@ -4769,7 +4793,7 @@ His roommate, Paul Nakamura from Portland, Oregon, played cello and listened to 
 
 "Classical," Jackie said.
 
-He didn't mention Queen. He didn't mention the Crown Jewels, or the Battle of the Bands, or the Wurlitzer with the cracked middle C, or the garage on Dutton Road, or the studio at 3 AM. He said "classical" the way you close a door — firmly, with your back against it.
+He didn't mention Queen. He didn't mention the Crown Jewels, or the Battle of the Bands, or the Casio with the cracked middle C, or the garage on Maple Street, or the studio at 3 AM. He said "classical" the way you close a door — firmly, with your back against it.
 
 October. His first recital. Chopin's Ballade No. 1 in G minor. He'd been playing it since he was fifteen, and by now his fingers held every phrase with the certainty of long acquaintance. The auditorium in the Juilliard building was small — a hundred and twenty seats — but it resonated like a space designed by people who understood that sound was architecture.
 
@@ -4816,68 +4840,6 @@ His eyes moved past her to the wall behind the console, to the metal shelving wh
 "I've got a train to catch," he said.
 
 He took the train back to New York. He practiced Debussy. He did not play "Bohemian Rhapsody." He did not play anything in D minor. He slept in a room that was nine by eleven and dreamed in dimensions he couldn't measure.
-
----
-
-February 1980. A Wednesday afternoon. The practice room was on the fourth floor, one window, and the window looked onto West 66th Street. The glass was cold and the sky behind it was the color of unwashed tin. It was not snowing and it was not not snowing — some gray suspended thing was moving past the window without committing.
-
-The Steinway was the one he had loved in September. He had played it enough by now that his hands knew the key-dip was two millimeters deeper than the upright at home, and his wrist set itself for the depth before his fingers thought about it. The lid was open on the full stick. The sheet music was open on the rack — Debussy, *Préludes* Book I, No. 6, *Des pas sur la neige* — in the edition with his own pencil markings from December in the margins.
-
-He was supposed to be practicing Debussy. He had been supposed to be practicing Debussy for the last fifty-three minutes. He had played nothing for the last thirty-one.
-
-He sat on the bench. His hands rested on his thighs. His back was straight. His feet were flat under the pedals. He was not slouched and he was not rigid. He was the shape a man makes when the body remembers a posture the mind has stopped supervising.
-
-The radiator clicked — small metal argument with itself, cough and settle. In the hallway a cellist ran a passage, Schumann, the same four bars, then the same four bars slower, then the same four bars again. Somebody laughed in the stairwell, a young woman's laugh, unembarrassed, and then the stairwell door closed. The practice rooms were soundproofed. Every sound arrived to him the way sound arrives to a swimmer under the surface of a pool.
-
-His hands did not move. He had slept the night before. He was not tired in any way he could have named. The bench was narrow and his weight was distributed evenly on the wood and the wood did not complain.
-
-The clock above the door read 2:47. When he had come in, it had read 1:54. He did not remember stopping. He remembered finishing a phrase and lifting his hands from the keyboard to rest them on his thighs, the way he had been taught to rest them between sections, and he remembered beginning to count the beat, and he remembered losing the count somewhere after three.
-
-Down on West 66th a taxi horn sounded once. A woman in the street was calling a dog. The radiator clicked. The cellist in the hall began the Schumann again. The Steinway's lid reflected the ceiling light in a long black smear.
-
-After a while — he could not have said how long — his right hand lifted from his thigh. It did not lift because he lifted it. It lifted the way a hand lifts from a table when someone calls you from the next room and you are already rising before you have decided. It moved across the air over the keys and came down on middle C without pressing. The pad of the finger rested on the ivory. The key did not move. The string did not sound.
-
-The hand rested there. Half a beat. Two beats. The radiator clicked.
-
-Then the weight came down and the C sounded, clean and warm, the exact C of a Steinway Model B on a fourth-floor afternoon in mid-February, and his left hand came up to meet it, and *Des pas sur la neige* began the way it always began — slow, the tread of a figure over snow. He played it through. He played it perfectly. He played it with care and precision and no visible effort. The last pianissimo settled into the pedal and he held it the length Debussy asked for and he lifted his foot.
-
-He closed the lid. He gathered the sheet music. He walked out. In the hallway the cellist had moved on to a different passage. Somebody at the far end was laughing again.
-
----
-
-III.
-MAXANNE
-1982 and after
-
-The Elektra office on Columbus Avenue had a window that looked at another window. Brick across an airshaft. Pigeons on the sill of the building opposite. A view that taught you to keep your eyes on your desk.
-
-Fall of '82. Five years out of WBCN. Three years out from the Battle. She'd stopped counting months by then and started counting in albums — the ones she'd signed, the ones she'd lost, the ones she'd fought for in budget meetings and watched get killed by men in better suits than hers. The refusal to compromise that had made her Maxanne at the station was, at Elektra, slower to kill her but just as thorough.
-
-She'd kept the office sparse. A promo poster for the first album she'd championed, already curling at the corner. A Sony dictation machine. A Rolodex thick with phone numbers of people who owed her favors, and a smaller one with the numbers of people she owed. The locked drawer was bottom right.
-
-Combination lock, the same combination she'd used since college. Inside: a seven-inch tape reel in a cardboard sleeve. On the sleeve, in Mike's handwriting: *Nick/Jackie — un-Authorized — May 1979.*
-
-She checked it once a month. Not listened to — checked. Made sure it was there. Made sure the tape hadn't warped, the oxide hadn't flaked, the reel wasn't cracked. She held it up to the light and looked through the tape for signs of deterioration. She put it back. She locked the drawer. The first of every month. Twelve times a year. Every year that followed.
-
-She lasted four years at Elektra before the refusal to compromise became the problem. She moved to a management firm. Then to an independent label. Then to another management firm. Each move was lateral or slightly downward, each one accompanied by the same internal narrative: this time I'll do it right.
-
-In 1985 she signed a band from Providence. Two guitars, bass, drums, keyboards. They had something — a tension between the lead guitarist and the keyboardist, a push and pull that created friction in their sound, an argument that made the music better. She championed them through development, fought for their first single, secured a tour slot opening for a mid-level act.
-
-They sounded almost like what Nick and Jackie could have been. Almost. The guitarist was technically superior to Nick but played with less hunger. The keyboardist had Jackie's precision but not his capacity for surprise. The band made one album that sold modestly and broke up over money and a girl and the usual accelerants.
-
-The reel stayed in the drawer.
-
-In 1995 the internet arrived — not all at once, but in stages, like water rising. Maxanne watched it from behind her desk. She was in management now, guiding careers, negotiating contracts, doing the work that kept musicians fed and insured and professionally alive. The internet meant distribution without gatekeepers. It meant anyone could upload anything and the audience would find it or it wouldn't.
-
-She thought about the reel. She thought about transferring it to digital, putting it on one of the new file-sharing platforms, letting it exist in the world without her name or Nick's or Jackie's attached to it. Just the music. Anonymous. Free.
-
-She decided not to. The tape wasn't hers to share. It belonged to two boys who'd made a choice, and the choice had been private, and making it public would turn their private grief into content.
-
-By 2000, WBCN was still broadcasting. But the station she'd known — the station that played what it wanted because the only metric that mattered was whether the music was good — had been replaced by a version of itself that checked demographics and ran focus groups and played songs because an algorithm said they'd retain listeners through the commercial break. She watched from the corporate side, the management side, the side she'd sworn she'd never be on. Lennon had been right about Springsteen: *God help Bruce when they decide he's no longer God.* They'd decided about a lot of people by then. They were still deciding.
-
-She checked the reel on the first of every month. Twelve times a year. More than twenty years of that by now. She never played it. She knew what was on it. She could hear it without the tape, the way an amputee feels the limb that's gone — four minutes and forty-three seconds of phantom music, perfect in memory, untouchable, preserved not on magnetic oxide but in the space behind her sternum where she kept the things she couldn't afford to say out loud.
-
-It waited. It had time.
 
 **END CHAPTER 33**
 
