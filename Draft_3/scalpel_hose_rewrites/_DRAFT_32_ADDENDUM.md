@@ -155,4 +155,26 @@ Unchanged from prior briefs:
 
 Honor Nick. Reach Jackie. If both, it stays. If no to either, rewrite.
 
+---
+
+## Forbidden list (things removed from prior drafts — DO NOT resurrect)
+
+Any future agent must NOT reintroduce any of the following under any circumstances:
+
+- **Original songs written by Nick, Jackie, or Patty.** They are high-school kids in a cover band only. No teen-written lyrics. No "Hop Brook Blues" (a previously cut original with rhyming teen-poetry lyrics). No original Nick compositions on stage at the Battle. No original Jackie-and-Nick song written together in the garage. The Studio C mashup in Ch 32 is the novel's one original moment and it is INSTRUMENTAL — Aerosmith riffs (Sweet Emotion, Walk This Way) folded with Queen harmony (Bohemian Rhapsody). No words written by the boys.
+- **A Prologue.** The opening chapter is **Chapter 1: THE LAST VOICE OF BOSTON ROCK, AUGUST 2009** (Maxanne in Studio B). It is not labeled "Prologue" anywhere in this draft.
+- **Feb 1980 Juilliard practice-room scene.** Cut per the 1979→2009 window rule. Jackie's final 1979 appearance is the November 1979 WBCN visit to Maxanne.
+- **Ch 33 Section III (Maxanne 1982–2009).** Cut per the same window rule.
+- **"Comfortably Numb"** as WBCN's corporate-approved final song. It's "Shine On You Crazy Diamond."
+- **"Prudential Tower"** as Dan's worksite (the Prudential was completed 1964). Dan dies at 60 State Street.
+- **Dr. Marsh as a guitarist.** He is a pianist.
+- **"Casio"** as any 1970s-era keyboard. Anachronism (Casio consumer keyboards shipped 1980). Jackie's basement keyboard is a Wurlitzer 200A. Mark Pianka's grandmother's keyboard is a Magnus chord organ.
+- **"Lansdowne Street"** as the location of The Rat. The Rat was at 528 Commonwealth in Kenmore Square.
+- **"The labyrinth wins / three casualties of the same war / Nick stayed real, Jackie compromised, I fled"** sermon triad. Cut everywhere it tried to appear.
+- **"Walk this way, I think. Yeah. Walk this way."** as a title-drop final sentence.
+- **"THE END"** at the close of Ch 34 (or wherever the final chapter lands). The novel closes on an image, not a stamp.
+- **Any character activity between September 1979 and August 2009.** Maxanne's 1980s–2000s trajectory, Jackie's Juilliard years after his September 1979 arrival, Nick's Army years after his September 1979 ship-out. All cut. If it happens between those dates, it doesn't appear in the novel.
+
+---
+
 *Draft 3.2 addendum compiled: April 2026.*
