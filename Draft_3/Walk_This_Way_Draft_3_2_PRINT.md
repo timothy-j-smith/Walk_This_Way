@@ -20,7 +20,7 @@
 
 ## CHAPTER 1
 
-### THE LAST VOICE OF BOSTON ROCK, AUGUST 2009
+### WISH YOU WERE HERE
 
 
 Four hours. That's what I've got left.
@@ -84,7 +84,7 @@ I close my eyes and let the memory take me back. May 1979. Warm enough that the 
 
 ## CHAPTER 2
 
-### NICK'S WORLD — THE GARAGE
+### TOYS IN THE ATTIC
 
 
 Maxanne Sartori drove up to the Johnson house in her powder-blue Karmann Ghia, the car bottoming out twice on potholes the town never fixed on the working-class side of Hop Brook. Sparks kicked off the undercarriage. She didn't care. She'd heard rumors about a kid on Dutton Road — a kid with a voice that could stop you mid-dial-turn, playing in a garage where the sound punched you in the chest before you opened the door.
@@ -158,7 +158,7 @@ Maxanne didn't know it yet, but she was about to meet the other half of the equa
 
 ## CHAPTER 3
 
-### JACKIE'S WORLD — THE GILDED CAGE
+### KILLER QUEEN
 
 
 Jackie Marsh woke at 6:47 AM — three minutes before his alarm, the way he always did. The walls were painted a color his mother called Dove Gray. The bookshelves held alphabetized volumes he'd actually read. His piano sat in the corner like a judge waiting to render verdict.
@@ -240,7 +240,7 @@ Maxanne walked to her car thinking she'd found two boys worth saving. She didn't
 
 ## CHAPTER 4
 
-### THE GEOGRAPHY OF SUDBURY
+### MORE THAN A FEELING
 
 
 Two lines divided the town. One ran with water, the other with waste.
@@ -296,7 +296,7 @@ And through all of it, Hop Brook kept running. Under the stone walls, past the l
 
 ## CHAPTER 5
 
-### THE BELT BUCKLES THAT STARTED EVERYTHING
+### SCHOOL'S OUT
 
 
 September 1974. The Ephraim Curtis Middle School cafeteria smelled like steam-table Salisbury steak and floor wax. Metal lunch trays clattered against the long folding tables, and someone had propped a transistor radio on the windowsill by the milk cooler. The radio was playing "Rock the Boat" by the Hues Corporation, and half the sixth graders were bobbing their heads like pigeons.
@@ -432,7 +432,7 @@ He could. He would.
 
 ## CHAPTER 6
 
-### BEST FRIENDS (MIDDLE SCHOOL)
+### WITH A LITTLE HELP FROM MY FRIENDS
 
 
 It started with cassette tapes.
@@ -580,7 +580,7 @@ Outside, the October wind pushed dead leaves across the driveway. Inside, the wr
 
 ## CHAPTER 7
 
-### JACKIE'S WORLD
+### BOHEMIAN RHAPSODY
 
 
 The thermostat in the Marsh dining room was set to sixty-eight degrees. Always sixty-eight degrees. Jackie had checked once with a thermometer from his chemistry set, expecting a degree or two of drift, some small proof that nature still had a say in things. Sixty-eight point zero. His father's house did not permit variation.
@@ -736,7 +736,7 @@ Five-thirty, he thought. We stop at five-thirty. And the part of him that was al
 
 ## CHAPTER 8
 
-### NICK'S WORLD
+### MAMA KIN
 
 
 The Johnson house on Dutton Road had crown molding in the dining room. Not the cheap pressed-foam kind you bought at the lumber yard — real plaster, hand-carved, with acanthus leaves that curled at the corners where the ceiling met the walls. Grace ran her fingers along the baseboard every time she vacuumed, the way you'd touch a scar without meaning to. Most of the molding was painted over now, three or four coats of landlord white, but if you looked where the living room met the front hall you could still see the original detail underneath — vines and small flowers cut into plaster by someone who'd been paid to make a house beautiful, back when this house was the kind of place where people got paid to do that.
@@ -876,7 +876,7 @@ Nick closed his eyes. The riff from "Walk This Way" moved through his fingers ag
 
 ## CHAPTER 9
 
-### BEFORE THE TALENT SHOW
+### JUST WHAT I NEEDED
 
 
 Three hours and forty-seven minutes left.
@@ -960,7 +960,7 @@ But we're not done. We haven't gotten to what happened after — the way the los
 
 ## CHAPTER 10
 
-### THE TALENT SHOW
+### DREAM ON
 
 
 May 15, 1975. Ephraim Curtis Middle School gymnasium. Seven-thirty PM.
@@ -1070,7 +1070,7 @@ May 15, 1975. A Thursday.
 
 ## CHAPTER 11
 
-### MAXANNE'S DISCOVERY
+### RADIO, RADIO
 
 
 Three hours and nineteen minutes.
@@ -1224,7 +1224,7 @@ I close my eyes and let the music say what I can't.
 
 ## CHAPTER 12
 
-### CAMP ELBANOBSCOT
+### SUMMER BREEZE
 
 
 The bus smelled like diesel and bug spray and the vinyl seats were hot enough to brand the backs of your legs if you sat down wrong. Nick had the window. Jackie had the aisle. Their guitars rode between them, necks pointed toward the ceiling like they knew where they were going even if the boys didn't.
@@ -1378,7 +1378,7 @@ He climbed on the bus. Jackie climbed on behind him. They sat in the same seats 
 
 ## CHAPTER 13
 
-### THE FIRST FRACTURE
+### BREAKDOWN
 
 
 Lincoln-Sudbury Regional High School. September 1976.
@@ -1458,7 +1458,7 @@ Outside, September cooled toward October. The leaves on Dutton Road were just st
 
 ## CHAPTER 14
 
-### THE FOUR QUADRANTS
+### BABA O'RILEY
 
 
 April in Sudbury was all mud. Hop Brook ran brown under the Route 117 bridge, loud enough to hear from the Lincoln-Sudbury front walk, and the lawn in front of the school had gone to the color of a boot print that had filled with water and frozen and thawed a dozen times since March. The parking lot was a lattice of tire ruts. A kid came up the walk, stepped wrong, went in past the ankle of his sneaker, said a word his mother wouldn't like, pulled his foot out with a sucking sound, and kept walking. Nobody looked. April.
@@ -1664,7 +1664,7 @@ Through the plate-glass window, across the lot, a station wagon pulled into a sp
 
 ## CHAPTER 15
 
-### NOVEMBER 14
+### LANDSLIDE
 
 
 Grace was up at five-thirty. She filled the coffee pot, set it on the burner, and stood at the counter in the kitchen light while the house was still dark around her. November dark. The kind that pressed against the windows like it wanted in.
@@ -1828,7 +1828,7 @@ Music. The one thing Dan Johnson had that was entirely his own. And now it was N
 
 ## CHAPTER 16
 
-### MAXANNE — WHEN FRIENDSHIP STARTED DYING
+### RUNNING ON EMPTY
 
 
 Three hours left.
@@ -1956,7 +1956,7 @@ Stay with me.
 
 ## CHAPTER 17
 
-### THE BRIDGE WHERE FRIENDSHIP DIED
+### BRIDGE OVER TROUBLED WATER
 
 
 The second Saturday in October, 1978. Eleven months since the trailer on Sixty State, near enough to a year that Nick had stopped counting and started rounding. The woods between Dutton Road and Cavicchio's back field were conservation land now, and the old stone walls ran through them waist-high, moss-headed, the farmers who'd stacked them a century gone and the sheep gone longer than that.
@@ -2062,7 +2062,7 @@ In his jacket pocket, three Fender mediums — tortoiseshell, worn smooth at the
 
 ## CHAPTER 18
 
-### THE POSTER
+### ROCK 'N' ROLL FANTASY
 
 
 Monday morning, seven-thirty, and the music room at Lincoln-Sudbury still smelled of Friday's varnish — the janitor had refinished the risers over the weekend and the air hung sharp with turpentine. Cinder block walls the color of canned peas. Fluorescents with one tube stuttering. A faded Boston Symphony poster curling off its thumbtacks near the door. And beside it, something brand new.
@@ -2176,7 +2176,7 @@ In the music room at L-S, at five-past-six that same evening, Jackie Marsh held 
 
 ## CHAPTER 19
 
-### SENIOR YEAR — NICK'S WORLD
+### BORN TO RUN
 
 
 The L-S cafeteria smelled like fish sticks and canned tomato sauce and the plastic tang of trays still hot from the dishwasher. Friday menu. Above the steam tables a fluorescent ballast hummed at a frequency Nick's ear sorted, against his will, into a flat B-natural — the note it had hummed at every lunch for four years, the school's own pedal tone. He had his back to the cinder block wall and a tuna sandwich in wax paper Grace had made at five-forty that morning before the pickup left for Friendly's.
@@ -2298,7 +2298,7 @@ He played until his left hand ached, and then he played another hour after that.
 
 ## CHAPTER 20
 
-### JACKIE'S WORLD
+### HOTEL CALIFORNIA
 
 
 The Howard Miller grandfather clock in the hall struck six-thirty and the Marshes sat. That was how it worked on Maple Street — the clock began to strike, and by the fourth tone the four of them were at the table with napkins across their laps. The tick kept going after the chime. Seventy-two to the minute. Andante.
@@ -2474,7 +2474,7 @@ She did not answer immediately. The hand was still on the bar. She looked at the
 
 ## CHAPTER 21
 
-### THE TOWN WEIGHS IN
+### ANOTHER BRICK IN THE WALL
 
 
 By the last week of April the town had made up its mind without anyone calling a vote.
@@ -2650,7 +2650,7 @@ Grace set the receiver back in the cradle of the rotary phone on the kitchen wal
 
 ## CHAPTER 22
 
-### THE STATION MEETING
+### WON'T GET FOOLED AGAIN
 
 
 Two hours and forty-one minutes.
@@ -2826,7 +2826,7 @@ The music climbs.
 
 ## CHAPTER 23
 
-### GRACE LOSES HER GRACE
+### WORKING CLASS HERO
 
 
 Grace Johnson carried the two pots the way she had carried them for twenty-three years: regular in her right hand, orange collar on the glass; decaf in her left, brown collar. Dr. Taub drank decaf. Had drunk decaf since 1956, the year she started and he was still new to his practice, thirty-two and just back from Korea with his wire-framed glasses and a cardigan his wife had knit him and a bedside manner he had not yet grown into. Grace went to his table with the brown-collared pot already tilted, because at Friendly's on Route 20 you did not ask Dr. Taub which coffee he wanted. You poured the decaf and you said good morning, Dr. Taub, and you did not stand any longer at his booth than the pour required.
@@ -2948,7 +2948,7 @@ She started the engine. She drove home.
 
 ## CHAPTER 24
 
-### TEACHERS WHO FANNED THE FLAMES
+### LIGHT MY FIRE
 
 
 Tuesday afternoon, May 1979, ten days before the Battle. Bob Wentworth had the jazz band in a horseshoe — seventeen kids on folding chairs in the cinder-block room off the east wing, ballast buzz in the fluorescents, dust motes turning in the late light that came slantwise through the one high window. The posters on the wall were a small argument he had been having with himself since 1962. Ellington at the Blue Note. Miles in shadow, the Harmon mute at his lips. Bernstein with his baton down. A tasteful cross-section, or that was what he had told his wife when he tacked them up. A man's divided loyalties in frames.
@@ -3062,7 +3062,7 @@ He sat down on the piano bench Jackie had left.
 
 ## CHAPTER 25
 
-### NICK'S REHEARSAL
+### NIGHT MOVES
 
 
 The garage bay door stood up to the chest-high stop, lifted halfway for the air — the fourteenth of May in Sudbury, sixty-five degrees if it was a degree, the kind of spring night that felt warm only because April had set the bar so low. Crickets had started in the grass by the oil stain. Behind the Cavicchio fence a spring peeper was going in the wet low place, one note at a time, not fast. A Chevy with a bad belt whined down Dutton Road and faded toward the Horse Pond light.
@@ -3152,7 +3152,7 @@ On his way to the side door he did not look at the toolbox.
 
 ## CHAPTER 26
 
-### JACKIE'S REHEARSAL
+### FATHER AND SON
 
 
 May 14, 1979. Early evening. Eighteen hours to the Battle and Jackie Marsh was alone in the basement on Maple Street, running the intro of "Bohemian Rhapsody" in B-flat because his left hand had asked for it the second he sat down.
@@ -3256,7 +3256,7 @@ He took off his shoes, set them at the foot of the bed, and got under the covers
 
 ## CHAPTER 27
 
-### MAXANNE — THE EVE OF BATTLE
+### TURN THE PAGE
 
 
 Three hours into the broadcast. One hour left.
@@ -3366,7 +3366,7 @@ Stay with me.
 
 ## CHAPTER 28
 
-### PATTY'S DECISION
+### RHIANNON
 
 
 ---
@@ -3587,7 +3587,7 @@ She hummed "Go Your Own Way" all the way to the bus stop. Not as a statement. Ju
 
 ## CHAPTER 29
 
-### PATTY'S PREPARATION
+### DREAMS
 
 
 ---
@@ -3808,7 +3808,7 @@ She hummed "Go Your Own Way" all the way to her mother's car.
 
 ## CHAPTER 30
 
-### PATTY RETURNS
+### SILVER SPRINGS
 
 
 May 14th, 1979. St. Michael's, Sudbury, a little after nine. The last car door in the parking lot had been Steve's Chevette — the driver-side hinge whining past halfway — and Patty had counted it the way she counted beats, and then she'd been alone.
@@ -3868,7 +3868,7 @@ She let the door close on its own soft seal.
 
 ## CHAPTER 31
 
-### EVE OF THE BATTLE
+### THUNDER ROAD
 
 
 ---
@@ -3956,7 +3956,7 @@ The Lincoln-Sudbury parking lot lay empty under its one sodium lamp, the stage d
 
 ## CHAPTER 32
 
-### THE BATTLE BEGINS
+### WE WILL ROCK YOU
 
 
 May 15, 1979. Seven o'clock on a Tuesday night. The Lincoln-Sudbury Regional High School auditorium had been built in 1960 and smelled like it still — wood floor wax, the slow mineral breath of cast iron, four hundred and forty-three folding seats bolted into a concrete rake that groaned as kids sat down and groaned again when kids stood back up to wave at other kids. The fluorescent cove lights above the proscenium threw the whole room into the color of a grocery store. Behind the stage hung the painted backdrop every school play had used for a decade: a Concord Road maple tree in October, the red gone brown at the edges where the scrim had rolled. In the lobby the JV booster club had set up a popcorn machine and the smell of commercial butter and Aqua Velva and girls' perfume had come in with the crowd and was now layered, impossibly, on top of the baseline adolescent sweat of an April-warm room in May. The balcony was already full. Seniors.
@@ -4040,7 +4040,7 @@ Backstage, Nick looked once at Stephen and Mark and David, and then he walked th
 
 ## CHAPTER 33
 
-### JACKIE'S PERFORMANCE
+### SOMEBODY TO LOVE
 
 
 Backstage at 8:15, Jackie Marsh sat on a metal folding chair with the Martin D-28 across his thighs and tuned the low E by ear.
@@ -4120,7 +4120,7 @@ He stood. Elizabeth was already walking off stage-right. Ace had lifted the snar
 
 ## CHAPTER 34
 
-### NICK'S PERFORMANCE
+### TRAIN KEPT A-ROLLIN'
 
 
 He was in the wings when Jackie's voice cracked.
@@ -4230,7 +4230,7 @@ Nick walked past him. His left hand was shaking a small shake and he put both ha
 
 ## CHAPTER 35
 
-### PATTY'S PERFORMANCE
+### GO YOUR OWN WAY
 
 
 Patty kicked her boots off stage-right and stepped onto the riser barefoot. The stage wood was warm where the lights had been cooking it for two hours. Nick's band had left a smell behind — sweat and amp dust and the faint burnt-resistor tang of a Marshall that had been run hard — and under that, because she carried it with her, there was the faint sour-sweet smell of pig on her flannel, which she knew, and was not going to apologize for to a room of four hundred and forty-three people.
@@ -4294,7 +4294,7 @@ She stood for a minute in the wing with her boots in her hand and listened to th
 
 ## CHAPTER 36
 
-### THE ANNOUNCEMENT
+### STAIRWAY TO HEAVEN
 
 
 The judges' room smelled like burned coffee and indecision.
@@ -4450,7 +4450,7 @@ On Route 20 a quarter mile east, Patty Lally was already walking, barefoot boots
 
 ## CHAPTER 37
 
-### THE GARAGE, MIDNIGHT
+### THE BOYS ARE BACK IN TOWN
 
 
 Stephen Murphy's truck smelled like wet retriever and gear oil. Nick sat in the passenger seat with his window cracked two inches. May air, fifty-something, damp — the kind of late-spring New England night that put fog on the inside of the glass. Sodium lights made the wet asphalt of the Lincoln-Sudbury lot look like a record under a needle.
@@ -4698,7 +4698,7 @@ They came into Boston at twelve fifty-eight AM, the skyline low and lit, the dow
 
 ## CHAPTER 38
 
-### STUDIO C
+### SWEET EMOTION
 
 
 The hallway smelled like tape oxide and old cigarettes. Maxanne walked ahead of them, boot heels cracking on linoleum, not looking back. She'd been in the lobby when Grace's wagon turned off Boylston — standing under the WBCN sign with her arms crossed and her leather jacket zipped to her throat, looking less like a radio legend than a woman who had just bet something she couldn't afford to lose.
@@ -4872,7 +4872,7 @@ She slid the reel into a cardboard sleeve and tucked it under her arm. She turne
 
 ## CHAPTER 39
 
-### THE SEPARATIONS
+### FREE BIRD
 
 
 I.
@@ -4996,7 +4996,7 @@ He took the train back to New York. He practiced Debussy. He did not play "Bohem
 
 ## CHAPTER 40
 
-### THE STATION'S FINAL COMPROMISE
+### COMFORTABLY NUMB
 
 
 August 11, 2009. Seven-fourteen PM. I pull into the WBCN parking lot and kill the engine and sit.
@@ -5144,7 +5144,7 @@ I wait.
 
 ## CHAPTER 41
 
-### THE LAST VOICE OF BOSTON ROCK — PART 2
+### SHINE ON YOU CRAZY DIAMOND
 
 
 Eleven-thirty. Half an hour left.
