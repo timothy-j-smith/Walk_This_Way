@@ -7,8 +7,8 @@
 
 **Genre:** Literary Fiction / Music Fiction
 **Setting:** Boston/Sudbury, Massachusetts (1975-1979) with 2009 frame story
-**Word Count Target:** ~90,000 words
-**Status:** Draft 3.1 — Structural rewrite complete, ready for Scalpel & Hose pass
+**Word Count:** ~84,500 words
+**Status:** Draft 3.2 — Master Polish complete. Chapter titles and numbering to be finalized.
 
 ---
 
@@ -32,7 +32,7 @@ Make them count.
 
 Make them count. As if four hours could contain what WBCN meant to a city that lived and breathed rock and roll. As if I could summarize forty-one years of rock radio in some tidy narrative arc with a beginning, middle, and end. As if the story I'm about to tell could be wrapped up with a happy ending and a lesson learned. It just doesn't work that way I'm afraid. 
 
-But here's the thing about endings—they make liars of us all. You promise to go out with dignity, say something profound, make those final moments matter. And then you find yourself sitting in a radio booth with a bottle of Pappy Van Winkle that Steven Tyler himself sent when he heard about the station closing. 'For the first lady who ever gave a damn,' the note said. Even after all these years, even after becoming one of the biggest rock stars in the world, he still remembers.
+But here's the thing about endings—they make liars of us all. You promise to go out with dignity, say something profound, make those final moments matter. And then you find yourself sitting in a radio booth with a paper cup of Heaven Hill and a note Steven Tyler had sent around the time he heard the station was closing. *For the first lady who ever gave a damn*, the note said. Even after all these years, even after becoming one of the biggest rock stars in the world, he still remembers.
 
 I adjust the headphones—the same Sony MDR-7506s I've worn since 1971, held together now with electrical tape and pure stubbornness. The console lights pulse expectantly. Outside the booth windows, Boston glitters in the October darkness—all glass towers and gentrification where dive bars used to breed bands, where the Rat used to host shows that would make your grandmother blush, where kids with nothing but dreams could still believe they had a shot at changing the world.
 
@@ -1392,7 +1392,7 @@ Outside, September cooled toward October. The leaves on Dutton Road were just st
 ---
 
 
-CHAPTER 11A
+CHAPTER 11A: THE FOUR QUADRANTS
 
 April in Sudbury was all mud. Hop Brook ran brown under the Route 117 bridge, loud enough to hear from the Lincoln-Sudbury front walk, and the lawn in front of the school had gone to the color of a boot print that had filled with water and frozen and thawed a dozen times since March. The parking lot was a lattice of tire ruts. A kid came up the walk, stepped wrong, went in past the ankle of his sneaker, said a word his mother wouldn't like, pulled his foot out with a sucking sound, and kept walking. Nobody looked. April.
 
@@ -3824,7 +3824,7 @@ The Lincoln-Sudbury parking lot lay empty under its one sodium lamp, the stage d
 
 CHAPTER 26: THE BATTLE BEGINS
 
-May 15, 1979. Seven o'clock on a Tuesday night. The Lincoln-Sudbury Regional High School auditorium had been built in 1958 and smelled like it still — wood floor wax, the slow mineral breath of cast iron, four hundred and forty-three folding seats bolted into a concrete rake that groaned as kids sat down and groaned again when kids stood back up to wave at other kids. The fluorescent cove lights above the proscenium threw the whole room into the color of a grocery store. Behind the stage hung the painted backdrop every school play had used for a decade: a Concord Road maple tree in October, the red gone brown at the edges where the scrim had rolled. In the lobby the JV booster club had set up a popcorn machine and the smell of commercial butter and Aqua Velva and girls' perfume had come in with the crowd and was now layered, impossibly, on top of the baseline adolescent sweat of an April-warm room in May. The balcony was already full. Seniors.
+May 15, 1979. Seven o'clock on a Tuesday night. The Lincoln-Sudbury Regional High School auditorium had been built in 1960 and smelled like it still — wood floor wax, the slow mineral breath of cast iron, four hundred and forty-three folding seats bolted into a concrete rake that groaned as kids sat down and groaned again when kids stood back up to wave at other kids. The fluorescent cove lights above the proscenium threw the whole room into the color of a grocery store. Behind the stage hung the painted backdrop every school play had used for a decade: a Concord Road maple tree in October, the red gone brown at the edges where the scrim had rolled. In the lobby the JV booster club had set up a popcorn machine and the smell of commercial butter and Aqua Velva and girls' perfume had come in with the crowd and was now layered, impossibly, on top of the baseline adolescent sweat of an April-warm room in May. The balcony was already full. Seniors.
 
 Grace Johnson took a seat in the third row on the left. She had left Friendly's at four, changed at home into the good dress — the navy one with the buttons, the dress she'd worn to Dan's funeral and would not wear again after tonight — and brought her winter coat folded over one arm because she had nothing else to carry. The programs she'd picked up at the door were folded once in her lap. Her purse sat on top. She put her hands on top of the purse and then on top of the programs and then back on top of the purse.
 
@@ -5158,7 +5158,7 @@ I close the laptop. The car goes black. I sit there in the Volvo in the empty lo
 
 Somewhere in a practice room on Mass Ave, on a Wednesday afternoon a month from now, a man in his late forties will be sitting at a Steinway Model B. Not his own Steinway. His office feels wrong today and he has been drifting through practice rooms since noon, the way he has been drifting through them more and more often this year without quite admitting to himself that he is. The teaching day is mostly over. His last two students canceled — one by email, one by not showing up. The room is provisionally his, the way an academic room is provisionally anyone's: forty minutes, then somebody else's. The lid is open on the full stick. He is not playing. He has not played seriously for himself in years. He plays *for* students now — demonstrates voice leading at the keyboard, voices a chord to make a point, closes the lid at the hour.
 
-He is sitting with his hands resting on his thighs. His back is straight. His feet are flat under the pedals. It is the shape his body settled into one February afternoon in a practice room on West 66th Street thirty years ago, and it is a shape his body has been returning to more and more these last years, Wednesdays like this one, hands quiet on the wool of his slacks, the piano warm and unplayed in front of him. He has not yet noticed. He will notice, someday.
+He is sitting with his hands resting on his thighs. His back is straight. His feet are flat under the pedals. It is the shape his body settled into one November afternoon in a radio studio on Boylston Street thirty years ago, when he had stood in a doorway and looked at a wall of seven-inch reels and said he had a train to catch — and it is a shape his body has been returning to more and more these last years, Wednesdays like this one, hands quiet on the wool of his slacks, the piano warm and unplayed in front of him. He has not yet noticed. He will notice, someday.
 
 Someone will come to the door with a laptop. A colleague, maybe, or a kid from the theory class — somebody young enough to have found it first. They will say, you have to hear this. He will not move at first. He will listen all the way through, four minutes and forty-three seconds, with his hands in his lap and his eyes closed. And when it ends his right hand will lift from his thigh. It will not lift because he lifts it. It will lift the way a hand lifts from a table when someone calls you from the next room and you are already rising before you have decided. It will move across the air over the keys and come down on the D above middle C without pressing — the pad of the finger resting on the ivory, the key not moving, the string not sounding. A beat. Two beats. Then his left hand will come up to meet it. The weight will come down. The D minor chord will sound, just the chord, just once — and he will nod, very slightly, the way people nod when they finally hear somebody say out loud the thing they had decided they were alone with.
 
