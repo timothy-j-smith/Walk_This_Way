@@ -1,5 +1,24 @@
 # NOVEL MEMORY CONFIG — WALK THIS WAY
 
+> **⚠️ ARCHIVED / STALE — DO NOT USE AS CANON**
+>
+> This file dates from November 2025 and contains timeline beats that have
+> since been overridden by later canon decisions. Notably it says "April 13,
+> 1976 — Dan Johnson dies" and references "Camp Winnipesaukee" — both
+> incorrect per current canon (Dan dies November 14, 1977; Camp Elbanobscot).
+>
+> **For authoritative canon, read in this order:**
+>
+> 1. `/workspace/Draft_3/DECISIONS_LOCKED.md`
+> 2. `/workspace/Draft_3/RESEARCH_INSIGHTS.md`
+> 3. `/workspace/Draft_3/scalpel_hose_rewrites/_DRAFT_32_ADDENDUM.md`
+> 4. `/workspace/Draft_3/scalpel_hose_rewrites/_SUBAGENT_BRIEF.md`
+> 5. `/workspace/Draft_3/scalpel_hose_rewrites/_ACT3_BRIEF.md`
+>
+> The contents below are preserved for historical reference only.
+
+---
+
 **Project:** Walk This Way  
 **Version:** 0.1 (First activation)  
 **Compiled:** November 9, 2025  

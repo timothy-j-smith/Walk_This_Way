@@ -1,0 +1,46 @@
+{
+  "mcpServers": {
+    "walk_this_way_files": {
+      "type": "stdio",
+      "command": "npx",
+      "args": [
+        "-y",
+        "@modelcontextprotocol/server-filesystem",
+        "./Draft_3",
+        "./zz_COMPASS"
+      ]
+    },
+
+    "stephen_king": {
+      "type": "stdio",
+      "command": "zz_COMPASS/MCP_Implementations/STEPHEN_KING_MCP/venv/bin/python",
+      "args": [
+        "zz_COMPASS/MCP_Implementations/STEPHEN_KING_MCP/server.py"
+      ]
+    },
+
+    "dennis_lehane": {
+      "type": "stdio",
+      "command": "zz_COMPASS/MCP_Implementations/DENNIS_LEHANE_MCP/venv/bin/python",
+      "args": [
+        "zz_COMPASS/MCP_Implementations/DENNIS_LEHANE_MCP/server.py"
+      ]
+    },
+
+    "james_dickey": {
+      "type": "stdio",
+      "command": "python3",
+      "args": [
+        "zz_COMPASS/MCP_Implementations/JAMES_DICKEY_MCP/server.py"
+      ]
+    },
+
+    "walk_this_way_character": {
+      "type": "stdio",
+      "command": "zz_COMPASS/MCP_Implementations/WalkThisWay_Character_MCP/venv/bin/python",
+      "args": [
+        "zz_COMPASS/MCP_Implementations/WalkThisWay_Character_MCP/server.py"
+      ]
+    }
+  }
+}
