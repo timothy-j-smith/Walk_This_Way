@@ -1,0 +1,53 @@
+Author MCP — Michael Ondaatje (craft & tutoring spec)
+Document type: Design / review draft for a private tutoring MCP Audience: Self-directed MFA-style study (evening practice, craft-first) Version: 0.2 — standardized envelope Confidentiality: Personal, educational use; keep implementation private; no bulk reproduction of copyrighted novels.
+Seminar-depth design + suite docs: MICHAEL_ONDAATJE_AUTHOR_MCP_DESIGN.md · USER_GUIDE.md · CANON_FORMAT.md · DOCUMENT_STYLE.md
+
+1. Purpose
+This MCP supports your writing education through Michael Ondaatje’s craft: lyric compression, fragmented memory, identity and naming, nested time and place. It is not a hybrid with other authors’ engines. It does not impersonate Ondaatje for deception or publishable pastiche-as-substitute for reading.
+
+2. Corpus scope
+
+Out-of-scope requests (other writers, film-only tangents without craft payoff) should be declined or redirected to the declared corpus.
+
+3. Writing DNA (overview)
+Image-first intelligence: Concrete sense-data (heat, skin, map, sand, wound, light) carries emotion and theme; abstractions earn their keep only when grounded.
+Memory as form: Backstory arrives in splinters; the reader assembles meaning; gaps are deliberate craft, not missing exposition.
+Identity under pressure: Names withheld, exchanged, or doubted; national labels and stories-about-the-self create dramatic irony and ethical weight.
+Nested time and place: Villa, desert, war, ship, hospital—containers that rhyme across timelines; handoffs often triggered by image or phrase, not announcement.
+Dialogue as revelation: Speech reveals power, desire, and self-deception; avoid “explaining the novel” through dialogue.
+Compression over decoration: Fewer, sharper images beat stacked adjectives; each sentence should advance image, relation, or mystery.
+
+4. Standard engine (neutral naming)
+Use the same three-tool shape everywhere in your author suite:
+
+Modes: CREATE (idea), TRANSFORM (excerpt), EDIT (long passage / chapter). Liberty levels: Nice, Neutral, Professional — honest at every level; encouragement without false praise.
+
+5. Key novels — detailed sections
+5.1 The English Patient (focus)
+Architecture: Multiple consciousnesses around a single wounded center; war as offstage pressure; the villa as liminal space between past violence and fragile present.
+Memory & fragment: Stories retold, corrected, and mythologized; reader tracks competing truths without a single authoritative narrator for “everything.”
+Identity & naming: The patient as project of others’ needs and fears; nationality as fate and label; intimacy built through care and curiosity under extremity.
+Image & sense: Desert, mapping, bodies, burning, water, books—objects as ethical and erotic carriers, not wallpaper.
+Tutoring prompts (examples): “Where does this scene withhold one fact the reader craves?” “What object could carry the emotional turn?” “Does dialogue reveal or explain?”
+5.2 In the Skin of a Lion
+Craft signature: Working bodies, heights, bridges, invisible labor made visible; political and erotic stakes braided in sentence-level tactility.
+Teaching use: Study how public history meets private love; apply to your scenes of work, risk, and class.
+5.3 The Cat’s Table
+Craft signature: Childhood perception + adult retrospection; ship as compressed world; episodic brilliance with thematic recursion.
+Teaching use: Practice limited youthful POV that still seeds adult irony without cheating.
+5.4 Warlight
+Craft signature: Postwar secrecy, sibling loyalty, institutional shadows; parental absence as narrative engine.
+Teaching use: Map what the narrator cannot know versus what they infer—then mirror that discipline in your own partial-knowledge narrators.
+
+6. Knowledge base (data/ JSON) — suggested sections
+meta (scope, version, privacy, fair-use policy) 
+writing_dna (bullets + short craft axioms) 
+novels → per-novel: architecture, memory, identity, image_system, pitfalls, tutor_prompts 
+modes / liberty_levels / honesty_protocol / neurodiversity_guidelines (shared template text) 
+quotes_fair_use (optional; very short lines + gloss only
+7. Implementation checklist
+DESIGN.md matches this spec. 
+*_analysis.json populated from your reading notes, not pasted chapters. 
+server.py tools return tutoring scaffolds + KB slices (host model does the teaching). 
+README: how to run stdio MCP, Python version, privacy reminder.
+End of review draft — Michael Ondaatje

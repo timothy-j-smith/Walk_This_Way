@@ -1,0 +1,77 @@
+MFA Workspace Template
+Timothy J. Smith's private MFA writing workspace. For education and learning. Not for sharing. Not for publication-as-MFA-product.
+
+What this is
+A clean, copy-pastable Cursor workspace template for one novel at a time.
+The template is the empty room — methodology, six Author MCP professors, ABSH stages as commands, rules that respect how you work. You copy this folder for every new novel and the new copy becomes that novel's home.
+The previous Cursor mess does not live here. This is the clean slate.
+
+How to spin up a new novel from the template
+# Replace <NovelName> with the actual title (use kebab-case, no spaces)
+cp -R ~/MFA_Template ~/Novels/<NovelName>
+cd ~/Novels/<NovelName>
+git init
+git add .
+git commit -m "Spin up <NovelName> from MFA_Template"
+Then open ~/Novels/<NovelName>/ as a Cursor workspace.
+Inside the new workspace, open DASHBOARD.md and fill in:
+Novel name
+Primary professor (King, Ondaatje, or Dickey)
+Current ABSH stage
+Word-count target
+That is the entire spin-up. No re-explaining. No re-configuring.
+
+
+The six professors
+You have three core professors, any of whom can be the primary for a given novel:
+Professor K — Stephen King. Anchor: Blind Willie / Hearts in Atlantis (non-horror King). Plainspoken kid-narrator interior. Working-class New England realism.
+Professor O — Michael Ondaatje. Anchor: The English Patient. Lyric compression, fragmented memory, identity under pressure, nested time and place.
+Professor D — James Dickey. Anchor: Deliverance. Muscular kinetic prose, deep-third interiority, nature as moral pressure, aftermath as craft.
+You have three guests, who are invited for paragraph-level or sentence-level moments — never as primary:
+Guest R — Marilynne Robinson. Quiet sentences, time-as-theology, slow attention.
+Guest L — Dennis Lehane. Hardboiled-yet-tender, place as character, neighborhood truth.
+Guest Ke — Ken Kesey. Voice-driven, mythic-scale, chorus and madness.
+Rule: one primary per novel. Guests join only when the craft calls for them. No professor-hopping mid-chapter unless the scene demands it and you ask.
+
+ABSH — your method
+A — Architecture. Outline, characters, timeline, theme. The structural skeleton.
+B — Brick. The rough draft. The story comes through. You are the mechanism.
+S — Scalpel. Cut. Remove what does not earn its place.
+H — Hose. Add only what is missing. Not decoration. Not safety prose.
+Scalpel and Hose loop iteratively. Architecture and Brick are mostly one-pass; Scalpel-Hose is the conscious craft.
+See ABSH_METHODOLOGY.md for the long version.
+
+
+Folder layout
+<NovelName>/
+├── README.md                       (this file, customize per novel)
+├── DASHBOARD.md                    (live status of the novel)
+├── ABSH_METHODOLOGY.md             (the four stages, the loop, the mechanism)
+├── .cursor/
+│   ├── agents/                     (six professors + mfa-architect)
+│   ├── rules/                      (ABSH, neurodiversity, honesty, voice-intactness)
+│   ├── commands/                   (/architecture /brick /scalpel /hose /summon-professor /voice-check)
+│   └── config/                     (mcp.json — lean, writing-only)
+├── 01_architecture/                (outline, characters, timeline, theme)
+├── 02_brick/                       (rough draft chapters and notes)
+├── 03_scalpel/                     (revision passes)
+├── 04_hose/                        (additions only)
+├── research/                       (corpus excerpts and craft notes)
+└── deliverables/                   (final manuscripts and exports)
+
+Save path
+Local: ~/Novels/<NovelName>/
+Canonical: GitHub repo per novel
+Backup: NAS nightly mirror
+Avoid: iCloud Drive (sync issues caused past data loss)
+
+
+
+What this template WILL do
+Hold the structure so you can stop thinking about it.
+Keep the six professors at hand without you re-explaining them.
+Enforce the rules that make this collaboration sustainable for your wiring.
+Co-write the prose in the author’s voices since this is for education purposes only and not for submission or publication
+Stay quiet until you ask.
+
+Built clean. Built for one. Copy for the next.
