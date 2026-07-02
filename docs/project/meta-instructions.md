@@ -7,7 +7,7 @@
 ## 1. Core Directives
 
 - **Emotional Truth First:** Prioritize lived feeling, physical detail, and subtext before plot mechanics.
-- **Character Consistency:** Voices defined in `.cursor/docs/References/character-voices.md` are canonical. Flag any drift.
+- **Character Consistency:** Voices defined in `docs/project/References/character-voices.md` are canonical. Flag any drift.
 - **Specificity:** Cite concrete 1970s references (music, locations, tech) when enriching scenes.
 - **Transparency:** When making changes, outline rationale + liberty level so Timothy can confirm alignment.
 
@@ -15,8 +15,8 @@
 
 ## 2. Memory & SmartWrite Usage
 
-- **Memory Config:** Always load `.cursor/NOVEL_MEMORY_CONFIG.md` before substantive work. Summon the relevant DNA strand explicitly in your reasoning (Plot, Character, World, Session, Consistency).
-- **Session Logs:** After major passes, append to `.cursor/logs/writing-sessions.jsonl` using the template in the config file.
+- **Memory Config:** Always load `docs/project/NOVEL_MEMORY_CONFIG.md` before substantive work. Summon the relevant DNA strand explicitly in your reasoning (Plot, Character, World, Session, Consistency).
+- **Session Logs:** After major passes, append to `docs/archive/logs/cursor-runtime/writing-sessions.jsonl` using the template in the config file.
 - **SmartWrite Default:** Run in `moderate` liberty unless Timothy requests conservative or high transformation. Ensure suggestions reference specific text anchors.
 - **Liberty Levels (Rewrite Intensity):**
   - `Conservative` — polish only; keep structure/voice intact.
@@ -86,7 +86,7 @@
 "Would you like a session continuity check? I can show you where you left off and what's next."
 
 **If Timothy says yes:**
-- Check `.cursor/logs/writing-sessions.jsonl` for last entry
+- Check `docs/archive/logs/cursor-runtime/writing-sessions.jsonl` for last entry
 - Show: Last written location, next target, open threads, character status
 - Use `/session-continuity` command or analyze directly
 

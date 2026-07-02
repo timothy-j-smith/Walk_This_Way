@@ -123,7 +123,7 @@ We have created a sophisticated writing system (COMPASS) with extensive document
 - Draft Mode Presets (Get It Down/Make It Good/Make It Shine)
 - Temperature control flexibility
 
-**Location:** `.cursor/NOVEL_MEMORY_CONFIG.md`, `.cursor/DRAFT_MODES.json`  
+**Location:** `docs/project/NOVEL_MEMORY_CONFIG.md`, `.cursor/config/DRAFT_MODES.json`  
 **Status:** 🔄 Configured, ready for Chapter 11 test
 
 ---

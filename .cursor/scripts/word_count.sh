@@ -4,7 +4,7 @@
 
 TOTAL=$(find Draft_1 -name "*.txt" -exec cat {} + 2>/dev/null | wc -w)
 TODAY=$(date +"%Y-%m-%d")
-LOG_FILE=".cursor/logs/word_count.log"
+LOG_FILE="docs/archive/logs/cursor-runtime/word_count.log"
 
 # Create log directory if it doesn't exist
 mkdir -p "$(dirname "$LOG_FILE")"

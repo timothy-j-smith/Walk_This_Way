@@ -2,7 +2,7 @@
 # Session Continuity Check
 # Shows where you left off and what's next
 
-LOG_FILE=".cursor/logs/writing-sessions.jsonl"
+LOG_FILE="docs/archive/logs/cursor-runtime/writing-sessions.jsonl"
 
 echo ""
 echo "📖 SESSION CONTINUITY CHECK"
