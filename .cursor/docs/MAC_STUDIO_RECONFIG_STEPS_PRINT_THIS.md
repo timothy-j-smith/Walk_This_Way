@@ -29,11 +29,9 @@
   then  
   `git pull origin main`  
   (Use personal GitHub account and token if prompted.)
-- [ ] **10.** ACE: if ACE doesn’t work, press **Cmd+Shift+P** → type **ACE: Configure Connection** or **ACE: Login** → sign in.  
-  *If you hit “2 of 2 devices”: go to ACE website → Devices → remove the old Mac Studio device, then log in again from this Mac.*
-- [ ] **11.** Nightly chat export (optional): run the two commands from **`.cursor/docs/CHAT_EXPORT_NIGHTLY_1AM.md`** (Command 1 = copy plist, Command 2 = launchctl load).  
+- [ ] **10.** Nightly chat export (optional): run the two commands from **`.cursor/docs/CHAT_EXPORT_NIGHTLY_1AM.md`** (Command 1 = copy plist, Command 2 = launchctl load).  
   *If you get “Load failed: 5”, use **`.cursor/docs/FIX_LAUNCHCTL_NIGHTLY_CHAT_EXPORT.md`** and run the exact copy-paste commands there.*
-- [ ] **12.** Test COMPASS (optional): in Cursor Chat run **`/compass-status`**, then open a chat with **HANK** and use **`zz_COMPASS/MCP_Implementations/COMPASS_Writing_Guides_MCP/TEST_QUESTIONS.md`** to run tests.
+- [ ] **11.** Test COMPASS (optional): in Cursor Chat run **`/compass-status`**, then open a chat with **HANK** and use **`zz_COMPASS/MCP_Implementations/COMPASS_Writing_Guides_MCP/TEST_QUESTIONS.md`** to run tests.
 
 ---
 
@@ -43,7 +41,6 @@
 |------|--------|
 | Open project | File → Open Folder → iCloud … Walk This Way |
 | Git pull | `cd "...Walk This Way"` then `git pull origin main` |
-| ACE login | Cmd+Shift+P → ACE: Configure / Login |
 | Nightly export fix | See FIX_LAUNCHCTL_NIGHTLY_CHAT_EXPORT.md |
 | Full “after” guide | AFTER_RECONFIG_RESURRECTION.md |
 

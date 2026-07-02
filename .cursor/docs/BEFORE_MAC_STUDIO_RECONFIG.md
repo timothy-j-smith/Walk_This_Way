@@ -63,7 +63,7 @@ If you want a reminder of how things were laid out:
 - **Session_Summaries** — Session summary markdown  
 - **Story_Bible** — Character bible, timeline, etc.  
 - **zz_COMPASS** — COMPASS system and MCPs  
-- **.cursor** — Cursor config, rules, commands, ACE, Chat_History  
+- **.cursor** — Cursor config, rules, commands, Chat_History  
 
 You can reorganize later; this is just for your memory.
 
@@ -74,19 +74,6 @@ You can reorganize later; this is just for your memory.
 - **Cursor app data** (e.g. `~/Library/Application Support/Cursor/`) does **not** sync.  
   After reconfig you’ll have a fresh Cursor; your **project files** are in iCloud + Git.
 - **cursor-view** runs from `/tmp/cursor-view`; the export script can re-clone it when needed.
-
----
-
-## ACE and “ace_learn”
-
-- **ACE** is already part of this project:
-  - `.cursor/commands/` — `ace-learn.md`, `ace-help.md`, etc.
-  - `.cursor/rules/` — `ace-patterns.mdc`, `ace-domain-search.md`, etc.
-  - `.cursor/scripts/` — `ace_track_*.sh`
-  - `.cursor/ace/` — settings and trajectory logs
-
-- **ace_learn** is for **capturing what was learned** after a task (so future AI can use it).  
-  You don’t have to “grant” anything special; once you open this folder in Cursor after reconfig, ACE is part of the workspace. You may need to **re-authenticate ACE** in Cursor (e.g. Command Palette → “ACE: Configure Connection” or “ACE: Login”) after the reconfig.
 
 ---
 
