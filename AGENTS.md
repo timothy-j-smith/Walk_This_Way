@@ -4,7 +4,7 @@
 
 ### Project Overview
 
-This is a creative writing workspace for a novel called "Walk This Way" using Cursor IDE with custom MCP (Model Context Protocol) servers. There is no traditional web application, build system, or test framework. The "services" are Python-based MCP servers that provide writing tools to the Cursor AI assistant.
+This is a creative writing workspace for the novel "Walk This Way" by Timothy J. Smith, using Cursor IDE with custom MCP (Model Context Protocol) servers. There is no traditional web application, build system, or test framework. The "services" are Python-based MCP servers that provide writing tools to the Cursor AI assistant.
 
 ### Custom MCP Servers
 
@@ -14,15 +14,16 @@ All custom MCP servers live under `zz_COMPASS/MCP_Implementations/`. Each has it
 
 - `COMPASS_Writing_Guides_MCP` — 12 tools for writing craft guidance (Stephen King, Anne Lamott, etc.)
 - `WalkThisWay_Character_MCP` — 10 tools for novel character database (9 characters)
+- `COMPASS_Character_MCP_Template` — reusable character MCP template
 - `COMPASS_INTELLIGENCE_MCP` — 8 tools for prompt patterns and knowledge graph transforms
+- `STEPHEN_KING_MCP` — "The Writer's Toolbox" craft education engine (3 tools: king_imagine, king_craft, king_revise)
+- `JAMES_DICKEY_MCP` — Deliverance craft engine (stdlib JSON-RPC)
+- `PROFESSIONAL_EDITOR_MCP` — professional editing evaluation tools
+- `FICTION_REVERSE_ENGINEERING_MCP` — fiction pattern analysis tools
+- `DENNIS_LEHANE_MCP` — Dennis Lehane style guidance
+- `CURSOR_WORKFLOW_ORCHESTRATOR_MCP` — MCP workflow orchestration (disabled in config by default)
 
-**Known broken servers** (pre-existing entry point bugs, not environment issues):
-
-- `PROFESSIONAL_EDITOR_MCP` — calls `mcp.server.stdio.stdio_server(app)` directly (wrong API)
-- `FICTION_REVERSE_ENGINEERING_MCP` — calls `mcp.server.stdio.run_server(app)` (nonexistent method)
-- `DENNIS_LEHANE_MCP` — calls `mcp.server.stdio.stdio_server(app)` directly (wrong API)
-
-These 3 servers need their `__main__` blocks updated to use the async context manager pattern. See `COMPASS_Writing_Guides_MCP/server.py` for the correct pattern.
+All servers use the async context manager pattern. See `COMPASS_Writing_Guides_MCP/server.py` for the canonical entry point.
 
 ### Running MCP Servers
 
@@ -33,6 +34,18 @@ Each server runs via its venv Python interpreter:
 ```
 
 Servers communicate over stdio using the MCP JSON-RPC protocol. They do not expose HTTP endpoints.
+
+For functional testing without the MCP protocol, import directly:
+
+```python
+cd zz_COMPASS/MCP_Implementations/COMPASS_Writing_Guides_MCP
+venv/bin/python -c "
+import asyncio, json
+from server import call_tool
+result = asyncio.run(call_tool('list_authors', {}))
+print(json.loads(result[0].text))
+"
+```
 
 ### Recreating Virtual Environments
 
@@ -50,7 +63,9 @@ The `python3.12-venv` system package must be installed (`sudo apt-get install py
 
 ### Lint / Test / Build
 
-- **No linter** is configured for this codebase (content is primarily Markdown + Python MCP servers).
+- **Markdown lint**: `markdownlint '**/*.md' --ignore '**/venv/**' --ignore '.cursor/**'` (config in `.markdownlint.json`)
+- **Spell check**: `cspell '**/*.md'` (config in `.cspell.json`)
+- **Python syntax**: `venv/bin/python -m py_compile server.py` (run from each MCP server directory)
 - **No automated test suite** exists. Verify MCP servers by connecting a stdio client and calling tools.
 - **No build step** is needed. Servers run directly from source.
 
@@ -61,6 +76,8 @@ The `python3.12-venv` system package must be installed (`sudo apt-get install py
 ### Key Directories
 
 - `Chapters/` — Novel chapter drafts
+- `Draft_3/` — Draft 3 manuscript and supporting documents
 - `Story_Bible/` — Character bible, timeline, music references
 - `zz_COMPASS/` — COMPASS writing ecosystem (agents, commands, MCP implementations)
 - `.cursor/` — Cursor IDE configuration (MCP config, rules, templates, scripts)
+- `docs/` — Project documentation and inventories
