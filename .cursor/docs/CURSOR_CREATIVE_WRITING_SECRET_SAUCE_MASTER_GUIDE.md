@@ -237,16 +237,9 @@ Add to `.cursor/config/prompts.json`:
 
 ---
 
-## PART VIII: .cursor/ace AND EXTENSIONS
+## PART VIII: EXTENSIONS AND MCP TOOLS
 
-### 17. ACE: secret sauce and power
-
-1. **Concept:** ACE (Apply, Capture, Evolve) learns patterns from your sessions.
-2. **Power:** `ace_search` retrieves 5–10 relevant patterns for a task before the model implements.
-3. **Flow:** Call `ace_search` at session start; call `ace_learn` at session end.
-4. **Fiction use:** Search for "character voice consistency," "pacing," "dialogue" — patterns from past sessions inform the model.
-
-### 18. How to find more extensions/tools like ACE
+### 17. How to find extensions and MCP tools
 
 1. **Cursor marketplace** — Extensions built for Cursor.
 2. **MCP servers** — npm, GitHub, mcprepository.com.
@@ -257,7 +250,7 @@ Add to `.cursor/config/prompts.json`:
 
 ## PART IX: FICTION-REVERSE-ENGINEERING MCP — NEXT LEVEL
 
-### 19. Why Fiction Reverse Engineering is mind-bending
+### 18. Why Fiction Reverse Engineering is mind-bending
 
 1. **Inverts the usual flow** — Instead of "write → hope it works," it's "analyze bestsellers → extract patterns → apply."
 2. **Mathematical pacing** — Sentence length, dialogue ratio, tension curves become measurable.
@@ -394,7 +387,7 @@ Update examples by editing the command file when your taste evolves.
 1. **Pre-save hook** — Run word count, continuity check, or "lint" (filter words, passive voice) before saving.
 2. **Post-chapter hook** — After completing a chapter: generate summary, update Knowledge Graph, create linear issue.
 3. **Pre-commit hook** — Verify no placeholder text (e.g. "[TK]"), run quick consistency check.
-4. **Session-end hook** — Call `ace_learn`, save session summary, update Story Bible if needed.
+4. **Session-end hook** — Save session summary, update Story Bible if needed.
 
 ### 32. Most powerful hooks for creation
 
@@ -449,7 +442,6 @@ Update examples by editing the command file when your taste evolves.
 | Context Pinning  | `.cursor/rules/context-pinning-guide.md` |
 | Few-Shot         | `.cursor/rules/few-shot-examples-guide.md` |
 | Role Prompting   | `.cursor/rules/role-prompting-library.md` |
-| ACE              | `.cursor/rules/ace-patterns.mdc` |
 | Commands         | `.cursor/commands/`             |
 | Prompts          | `.cursor/config/prompts.json`   |
 | Hooks            | `.cursor/hooks.json`            |

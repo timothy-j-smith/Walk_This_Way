@@ -1,1 +1,0 @@
-{"trigger": "auto", "context_usage_percent": 100.399, "context_tokens": 200798, "message_count": 245, "messages_to_compact": 243, "trajectory": {"mcp": 21, "shell": 11, "edits": 13, "responses": 21}, "timestamp": "2026-02-16T19:35:44-08:00"}

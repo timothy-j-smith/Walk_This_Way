@@ -384,7 +384,7 @@ Each command is a short markdown file (8-14 lines) containing a prompt template.
 
 ### MCP Issues
 
-1. **None of these MCPs are currently active** in the user's Cursor MCP settings. The active MCPs visible in the workspace are different (ACE Pattern Learning is the only one showing).
+1. **None of these MCPs are currently active** in the user's Cursor MCP settings. The active MCPs visible in the workspace may differ from what COMPASS documents here.
 2. **6 of 8 MCPs have never been tested.** Only the WalkThisWay Character MCP and Writing Guides MCP appear to have been set up at some point.
 3. **Massive documentation for untested tools.** The MCP_Implementations folder has 43 files (42% of all COMPASS files), most of which document MCPs that have never been used in actual writing.
 4. **COMPASS Intelligence MCP has no README** — only server.py and a data file. It's the most sophisticated MCP (knowledge graph transformations, entity extraction) but completely undocumented.

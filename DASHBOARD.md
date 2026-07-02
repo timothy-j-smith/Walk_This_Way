@@ -121,7 +121,6 @@ These files are currently at the workspace root but are part of the COMPASS doma
 | PostHog | Analytics | Active |
 | Vale | Prose Linting | Active |
 | mcp-open-library | Reference | Active |
-| ACE Pattern Learning | Learning | **Errored — needs restart** |
 
 ### API Keys Status
 
@@ -317,7 +316,6 @@ graph LR
 | MCP | Status | Fix |
 |-----|--------|-----|
 | Sequential Thinking | Errored | Cursor Settings > MCP > Restart |
-| ACE Pattern Learning | Errored | Cursor Settings > MCP > Restart |
 
 ---
 

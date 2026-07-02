@@ -29,13 +29,7 @@ Timothy asked about **GoCodeo** -- a visual dashboard tool he liked the look of.
 - Glossary of terms (MCP, API, API Key, Enabled/Disabled)
 - Change log for tracking updates
 
-### 3. ACE Pattern Learning
-- Configured and activated ACE Pattern Learning extension
-- Added 1-hour throttle to session summary messages (was firing every response)
-- Explained multi-device sync (server-side playbook, login on each machine)
-- Captured multiple learning traces throughout the session
-
-### 4. Workspace Architecture Planning
+### 3. Workspace Architecture Planning
 - Read Timothy's original "Three Workspaces as ONE POWERHOUSE" vision from January 21
 - Researched how Cursor Multi-Root Workspaces actually work
 - Discovered: MCP sharing uses user-level config, NOT workspace folders
@@ -132,7 +126,6 @@ Discovered 9 of Timothy's other novels buried in Walk This Way's archive. Extrac
 - [ ] Phase 2: Mac Studio backup to external hard drive, then full reboot
 - [ ] Phase 3: After Mac Studio reboot, clone repos to local storage
 - [ ] Reconnect Synology NAS for Time Machine backups
-- [ ] Set up ACE Pattern Learning on Mac Studio
 
 ### PLANNED (Sub-Agent Work)
 - [ ] COMPASS Auditor follow-up: implement top 6 priority actions from audit report
