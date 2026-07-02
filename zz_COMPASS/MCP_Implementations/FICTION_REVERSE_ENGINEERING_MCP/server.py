@@ -22,7 +22,7 @@ app = Server("fiction-reverse-engineering")
 
 # Configuration paths
 SERVER_DIR = Path(__file__).parent
-PROJECT_ROOT = SERVER_DIR.parent.parent.parent.parent
+PROJECT_ROOT = SERVER_DIR.parent.parent.parent
 DATA_DIR = SERVER_DIR / "data"
 FORMULAS_DIR = DATA_DIR / "formulas"
 PATTERNS_DIR = DATA_DIR / "patterns"
@@ -593,7 +593,15 @@ async def call_tool(name: str, arguments: dict) -> list[TextContent]:
     else:
         return [TextContent(type="text", text=f"Unknown tool: {name}")]
 
-# Run server
+async def main():
+    """Run the MCP server."""
+    async with mcp.server.stdio.stdio_server() as (read_stream, write_stream):
+        await app.run(
+            read_stream,
+            write_stream,
+            app.create_initialization_options(),
+        )
+
 if __name__ == "__main__":
-    print(USAGE_WARNING)
-    mcp.server.stdio.run_server(app)
+    import asyncio
+    asyncio.run(main())

@@ -7,6 +7,7 @@ Intelligent MCP management and workflow orchestration with interactive checklist
 import json
 import os
 import subprocess
+from datetime import datetime, timezone
 from pathlib import Path
 from typing import Any, Dict, List, Optional
 from mcp.server import Server
@@ -18,7 +19,7 @@ app = Server("cursor-workflow-orchestrator")
 
 # Configuration paths - Use relative path from server location
 SERVER_DIR = Path(__file__).parent
-PROJECT_ROOT = SERVER_DIR.parent.parent.parent.parent  # Go up to project root
+PROJECT_ROOT = SERVER_DIR.parent.parent.parent  # Go up to project root
 MCP_CONFIG_PATH = PROJECT_ROOT / ".cursor" / "config" / "mcp.json"
 USAGE_LOG_PATH = PROJECT_ROOT / ".cursor" / "logs" / "orchestrator-usage.jsonl"
 
@@ -45,7 +46,7 @@ def save_mcp_config(config: dict) -> bool:
 def log_usage(action: str, details: dict):
     """Log orchestrator usage for learning"""
     log_entry = {
-        "timestamp": str(Path().cwd()),
+        "timestamp": datetime.now(timezone.utc).isoformat(),
         "action": action,
         "details": details
     }
@@ -417,6 +418,15 @@ async def call_tool(name: str, arguments: dict) -> list[TextContent]:
     else:
         return [TextContent(type="text", text=f"Unknown tool: {name}")]
 
-# Run server
+async def main():
+    """Run the MCP server."""
+    async with mcp.server.stdio.stdio_server() as (read_stream, write_stream):
+        await app.run(
+            read_stream,
+            write_stream,
+            app.create_initialization_options(),
+        )
+
 if __name__ == "__main__":
-    mcp.server.stdio.run_server(app)
+    import asyncio
+    asyncio.run(main())
