@@ -19,7 +19,7 @@
   ```
 - Or in Finder: **iCloud Drive → Cursor → 03_Novels → Walk This Way**.
 
-Everything (manuscript, Story Bible, COMPASS, agents, .cursor, ACE, Chat_History) is in that folder. Opening it **is** resurrecting the workspace.
+Everything (manuscript, Story Bible, COMPASS, agents, .cursor, Chat_History) is in that folder. Opening it **is** resurrecting the workspace.
 
 ---
 
@@ -44,21 +44,14 @@ Everything (manuscript, Story Bible, COMPASS, agents, .cursor, ACE, Chat_History
 
 ---
 
-## 5. ACE (optional)
-
-- ACE is already in the project (`.cursor/commands/`, `.cursor/rules/`, `.cursor/ace/`).
-- If ACE features don’t work: **Cmd+Shift+P** → “ACE: Configure Connection” or “ACE: Login” and sign in again.
-
----
-
-## 6. Fix what you don’t like
+## 5. Fix what you don’t like
 
 - Any folder or file layout you didn’t like from the last reorganization can be changed **now**, a bit at a time.
 - You’re not locked in. Move folders, rename, or add new READMEs as you go.
 
 ---
 
-## 7. Evaluate & test COMPASS (sophisticated MCPs)
+## 6. Evaluate & test COMPASS (sophisticated MCPs)
 
 After the Mac Studio is back and the project is open:
 
@@ -78,7 +71,6 @@ No special sub-agent required — use HANK + `/compass-status` + TEST_QUESTIONS.
 | Open project      | File → Open Folder → iCloud … Walk This Way |
 | Sync from GitHub  | `git pull origin main` (or GitKraken) |
 | Export chats      | Run `EXPORT_ALL_CHATS.sh` from Chat_History |
-| ACE login         | Cmd+Shift+P → ACE: Configure / Login |
 | Test COMPASS      | `/compass-status` + HANK + TEST_QUESTIONS.md |
 
 You’re not starting over — you’re opening the same workspace from iCloud and (optionally) GitHub.
