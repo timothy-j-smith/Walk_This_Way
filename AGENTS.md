@@ -1,4 +1,4 @@
-# AGENTS
+# AGENTS.md
 
 ## Walk This Way — orientation for any agent opening this repo
 
@@ -87,23 +87,24 @@ zz_COMPASS/MCP_Implementations/STEPHEN_KING_MCP/venv/bin/python -c "import serve
 python3 zz_COMPASS/MCP_Implementations/JAMES_DICKEY_MCP/server.py < /dev/null
 ```
 
-### MCPs NOT registered (broken or not needed for the current work)
+### MCPs NOT registered (available in repo but not in `.cursor/mcp.json`)
 
-These live in the repo for historical reasons but are NOT in `.cursor/mcp.json`:
+These live under `zz_COMPASS/MCP_Implementations/` for historical or optional
+use. Entry points were fixed (async stdio pattern); they are simply not wired
+into the default Cloud Agent config:
 
-- `PROFESSIONAL_EDITOR_MCP` — deprecated MCP API, won't load.
-- `FICTION_REVERSE_ENGINEERING_MCP` — deprecated MCP API, won't load.
-- `CURSOR_WORKFLOW_ORCHESTRATOR_MCP` — tries to mkdir `/.cursor/logs` at
-  root (permission denied).
-- `COMPASS_INTELLIGENCE_MCP` — works, but not needed for novel-editing work.
-- `COMPASS_Writing_Guides_MCP` — works; not registered by default. Activate
-  in `.cursor/mcp.json` if you want craft-reference lookups.
-- `COMPASS_Character_MCP_Template` — template for building character MCPs
-  for future novels. Not a runtime server.
+- `PROFESSIONAL_EDITOR_MCP` — professional editing evaluation tools.
+- `FICTION_REVERSE_ENGINEERING_MCP` — fiction pattern analysis tools.
+- `CURSOR_WORKFLOW_ORCHESTRATOR_MCP` — MCP workflow orchestration (disabled
+  by default).
+- `COMPASS_INTELLIGENCE_MCP` — knowledge graph transforms and prompt patterns.
+- `COMPASS_Writing_Guides_MCP` — craft-reference lookups (Stephen King, Anne
+  Lamott, etc.). Activate in `.cursor/mcp.json` if needed.
+- `COMPASS_Character_MCP_Template` — template for building character MCPs for
+  future novels. Not a runtime server.
 
-If you need one of these fixed, check git history — the author has been
-iterating. Don't assume the server file is authoritative; consult AGENTS.md
-and the canon docs before any code change.
+Canonical entry point pattern: see
+`COMPASS_Writing_Guides_MCP/server.py`.
 
 ---
 
@@ -120,6 +121,20 @@ The script installs `mcp` into each MCP's `venv/` from its `requirements.txt`
 (or falls back to `pip install mcp` if no requirements file exists). It
 smoke-tests each `server.py` with `py_compile`. If a smoke test fails, the
 script exits non-zero and prints the offending directory.
+
+If venvs are missing or broken (e.g., symlinks pointing to macOS paths),
+recreate them per server:
+
+```bash
+cd zz_COMPASS/MCP_Implementations/<SERVER_NAME>
+rm -rf venv
+python3 -m venv venv
+./venv/bin/pip install --upgrade pip
+./venv/bin/pip install mcp   # or: pip install -r requirements.txt
+```
+
+The `python3.12-venv` system package must be installed on Linux VMs
+(`sudo apt-get install python3.12-venv`).
 
 ---
 
@@ -158,8 +173,7 @@ polish pass.
 
 ## Git
 
-- **Active branch:** `draft-3.1-scalpel-hose`.
-- **PR:** `#10` on `timothy-j-smith/Walk_This_Way`.
+- **Primary branch:** `main`.
 - **Commit pattern:** one logical change per commit. Always push after commit.
 - **Never force-push or amend.** Author's standing rule.
 - **Session summaries:** per `.cursor/rules/after_each_chat.mdc`, write a
