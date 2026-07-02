@@ -1,0 +1,16 @@
+---
+description: Keep .cursor for live agent config only
+alwaysApply: true
+---
+
+# Workspace hygiene
+
+Do not create documentation, archives, chat exports, or novel content inside `.cursor/`.
+
+Use these locations instead:
+
+- `docs/project/` — active project reference docs
+- `docs/archive/` — historical notes and setup guide copies
+- `Session_Summaries/` — session summaries
+- `yy_Archive/` — cold storage and old desktop dumps
+- `Story_Bible/`, `Draft_1/`, `Active_Draft_2/` — novel content

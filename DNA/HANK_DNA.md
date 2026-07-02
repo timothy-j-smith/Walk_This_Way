@@ -344,7 +344,7 @@ COMPASS v2.0: A unified intelligent agent system that:
 
 ### **System Documentation**
 - `.cursor/config/` - Configuration files
-- `.cursor/docs/` - Documentation
+- `docs/project/` - Active project documentation
 - `zz_COMPASS/` - COMPASS system files
 - Agent definitions - Our specialized agents
 

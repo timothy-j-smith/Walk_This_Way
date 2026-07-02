@@ -155,7 +155,7 @@ The Creative Collaborator is the "Swiss Army Knife" agent who knows and deploys:
 - ❌ ((Create `/russo` command (Priority #1 - Richard Russo style)))
 - ❌ ((Create `/lehane` command (Priority #2 - Dennis Lehane style)))
 
-**Reference:** See `COMPLETE_COMMAND_INVENTORY.md` in `.cursor/docs/` for detailed descriptions
+**Reference:** See `docs/project/COMPLETE_COMMAND_INVENTORY.md` for detailed descriptions
 
 ### **Advanced Features Status:**
 
