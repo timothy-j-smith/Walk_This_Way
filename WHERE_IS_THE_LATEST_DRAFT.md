@@ -31,3 +31,18 @@ https://github.com/timothy-j-smith/Walk_This_Way/blob/main/Draft_3/Walk_This_Way
 3. In the file tree, expand **`Draft_3`** → open **`Walk_This_Way_Draft_3_2_PRINT.md`**
 
 No branch switching required when `main` is up to date.
+
+---
+
+## Project status (July 2026)
+
+**Complete on `main`.** All approved merges are done:
+
+- Draft 3.2 master manuscript merged
+- Act III continuity fixes applied (Battle date, tie clause)
+- MCP server fixes and `.cursor` cleanup merged
+- ACE pattern-learning removed from workspace
+
+**Ignore stale draft PRs** (#1, #2, #3, #12) — old agent experiments, not needed.
+
+**Your only file to read or edit:** `Draft_3/Walk_This_Way_Draft_3_2_PRINT.md`
