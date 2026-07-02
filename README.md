@@ -78,21 +78,13 @@ Nick Johnson (working-class) and Jackie Marsh (upper-class) meet in middle schoo
 
 ## Current Status
 
-### Completed/Revised Chapters
-- ✅ Chapter 1: The Last Voice of Boston Rock
-- ✅ Chapter 2: The Garage That Held More Than Cars  
-- ✅ Chapter 3: The Gilded Cage
-- ✅ Chapter 6: The Talent Show
+**Latest manuscript:** Draft 3.2 — ~84,500 words, 41 chapters (April 19, 2026)
 
-### In Progress
-- Chapters 4-5: Need extraction from complete draft
-- Chapters 7-25: Need development/revision
+→ **`Draft_3/Walk_This_Way_Draft_3_2_PRINT.md`** on **`main`**
 
-### Key Decisions Needed
-- Camp Winnipesaukee details (Ch 7-8)
-- Dan Johnson's death scene placement
-- Battle of the Bands specifics (Ch 18-20?)
-- Ending resolution (Ch 25)
+See **`WHERE_IS_THE_LATEST_DRAFT.md`** for the direct link and folder guide.
+
+Older working files remain in `Draft_1/` and `Active_Draft_2/` for reference.
 
 ---
 
