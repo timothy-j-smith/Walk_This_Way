@@ -23,14 +23,14 @@
 
 | Layer | Content |
 | ----- | ------- |
-| **Surface** | Working-class Dutton Road; Aerosmith belt buckle; pawn-shop guitar; "that guitar guy"; auto-shop gravity; man of house after 15. |
+| **Surface** | Working-class Dutton Road; Aerosmith belt buckle; pawn-shop guitar; "that guitar guy"; garage / Rollers world; man of house after Dan's death. |
 | **Want** | Music loud enough to matter; friendship with Jackie; not to become his father. |
 | **Wound** | Dan's death (Nov 1977); toolbox inheritance; mortgage lateness; Hop Brook invisible until it isn't. |
 | **Withheld** | How much he blames Jackie vs himself vs town — shown in silence, not monologue. |
 | **Lie he tells** | Toughness = not needing anyone (Army/GI Bill later = care renamed as duty). |
 | **Brick map** | Ch 2 garage; Ch 5 meet; Ch 6 jam; Ch 8 hear-through-wall; Ch 13 fracture; Ch 15 toolbox; Ch 17 bridge; Ch 25 night-before; Ch 34 set; Ch 37–38 sessions. |
 | **Hand** | Callus — **budget 1 of 2** when spent. |
-| **Arc** | Innocence → fracture → competition → one true jam → separate paths. Post: Army → Johnson & Sons Construction. |
+| **Arc** | Innocence → fracture → competition → one true jam → separate paths. Post: **Army** (career path; guitar in footlocker — Ch 39). **Not** Johnson & Sons construction (cut from ending). |
 | **Never** | Speech that solves class war; viral redemption; winning Patty as prize. |
 
 ### Jackie Marsh
@@ -57,19 +57,21 @@
 
 ### Maxanne Sartori
 
-**Age 2009:** 73. WBCN DJ 1970–1979. Narrator.
+**Age 2009:** **59** (29 in 1979). **WBCN 1970–1980** (fiction lock — continuous through Battle and aftermath). Narrator.
 
 | Layer | Content |
 | ----- | ------- |
-| **Surface** | Bourbon, MDR-7506s with tape, blazer vs leather past, booth as confessional. |
+| **Surface** | Bourbon, MDR-7506s with tape, booth as confessional. WBCN discovery voice — Battle seed + judge. |
 | **Want** | Last honest broadcast; absolution she doesn't deserve; boys heard before sold. |
-| **Wound** | Tie-clause / rigged rubric; traded ear for career; carried cassette 30 years. |
+| **Wound** | Tie-clause / rigged rubric; carried cassette 30 years unplayed; Battle became war she didn't design for two names. |
 | **Withheld** | Full Kowalski scene guilt — facts yes, four verdicts no. |
 | **Lie she tells** | "I didn't kill their friendship" (technically true, morally insufficient). |
 | **Brick map** | Ch 1 frame; Ch 2 garage visit; Ch 9–11 frame; Ch 16, 22, 27, 40 frame; Ch 41 play tape. |
 | **Object** | Cassette = Dan's toolbox mirror (private repository, sealed by guilt). |
-| **Arc** | 1973 share instinct → 1979 use instinct → 2009 witness without gloss. |
-| **Never** | Pre-chew brick meaning; omniscient access without license; viral ending voice. |
+| **Arc** | 1973 share instinct → 1979 Battle complicity → **cassette dub** sealed 30 years → 2009 plays jam ON AIR → sign-off → silence → **imagined Jackie coda** (licensed invention; *I'm making him up*). |
+| **Never** | Pre-chew brick meaning; omniscient brick without license — **except** Ch 41 coda (explicit invention); viral ending voice; Elektra/label biography in frame; Battle designed for Nick/Jackie. |
+
+**WBCN rule (author lock — 6/13):** **1970–1980** continuous. Battle = discovery, not Nick/Jackie trap. **Store 24 kid** (Gordon, L-S) = one backdrop beat max — **never** Gord, Tombstone Blues, or Phish in May '79 prose.
 
 **Narration rule:** She may **tell story**; she may not **tell what story means** after reader watched.
 
@@ -79,17 +81,17 @@
 
 ### Patty Lally (surname per manuscript)
 
-**Geography:** Southeast quarter; pig farm; **not** Hop Brook poster child — margin dweller who sees whole board.
+**Geography:** SE margin (Lally area; dump/farm smell nearby — **not** the pig-farm kid stereotype). **Pass 2:** Ch 12/14 **flute → singer + guitar**.
 
 | Layer | Content |
 | ----- | ------- |
-| **Surface** | Flute; pig-farm 5 AM; practical mother; smell planted once; kindergarten-unseen until Ch 12. |
+| **Surface** | Singer + guitar; practical family; smell planted once; kindergarten-unseen until Ch 12; long-way bike routes (map in head). |
 | **Want** | Music that isn't a weapon; to be seen without being claimed. |
 | **Wound** | Boys erase each other; she remembers harmony at camp. |
 | **Withheld** | Romantic charge — encrypted if present; never triangle prize. |
 | **Wisdom type** | **Bottom-up** — sees because she belongs to no clique. Contrast Grace: top-down fall. |
 | **POV chapters** | ~4 hinges: **Ch 12** (meet), **Ch 28** (Rhiannon — decision), **Ch 30** (Silver Springs — letters), plus one Battle-adjacent (29 or 31 — pass 2 consolidate). |
-| **Brick map** | Ch 4 seed; Ch 12 camp triad; Ch 14 flute pass-by; Ch 28–30; Ch 35 set. |
+| **Brick map** | Ch 4 seed; Ch 12 camp triad; Ch 14 cafeteria witness; Ch 28–30 (**Memorial Congregational**, Sudbury Center — **not St. Michael's**); Ch 35 set. |
 | **Arc** | Seen → Forgotten (middle school absent by design) → Returned → plays third truth. |
 | **Never** | Prize for boys; speech fixing them; repeated smell gag. |
 
@@ -103,8 +105,8 @@
 
 | Layer | Content |
 | ----- | ------- |
-| **Surface** | Friendly's Route 20; GRACE name tag; polyester; fryer oil; plate manners; crown molding memory. |
-| **Withheld fact** | Father's Wellesley fall — corruption/suicide **never summarized**; encrypted beats only. |
+| **Surface** | Friendly's Route 20; GRACE name tag; polyester; fryer oil; plate manners; crown molding memory. **Home:** drip-pot coffee (Maxwell House / store brand), bills in a row — **never** specialty coffee. |
+| **Withheld fact** | Father's **Sudbury NW** fall — corruption/suicide **never summarized**; encrypted beats only. **Pass 2:** cut Wellesley line (Ch 6). |
 | **Origin** | High school: she Ramper, Dan Roller — clique-cross romance. Married into **Dan's** Dutton house after scandal. |
 | **Object chain** | Crown molding (Ch 6–8); storm door hand (Ch 25); oak chair PTA (Ch 21); decaf/Taub (Ch 23). |
 | **Voice** | Top-down view of class — fell through floor; *"don't fill his head with dreams we can't afford."* |
@@ -124,18 +126,20 @@
 
 | Layer | Content |
 | ----- | ------- |
-| **Surface** | Psychiatrist BU; 68°; ruler breakfast; social climber; counts notes. |
+| **Surface** | Psychiatrist BU; 68°; ruler breakfast; **social climber** (lives **SW**, wants **NW** old money); counts notes. |
 | **Withheld fact** | Practice-room Steinway closed 1960 — his own renunciation. |
-| **Object** | Octave-reaching pinky; thumb on middle C unsounded (Ch 7, 10, 26). |
+| **Object** | Octave-reaching pinky; thumb on middle C unsounded. |
+| **Hand budget** | **4 beats max:** Ch 3 birth → Ch 7 plant (*I had chances* = only speech) → Ch 10 talent show → Ch 26 thumb on C. Pass 2: trim Ch 7 duplicate pinky/attic. |
+| **Naming** | **Dr. Marsh** default; **Dr. Richard Marsh** formal once per chapter; **Richard** only outside house (Ch 17). Never **Professor Marsh**. |
 | **Brick map** | Ch 3 hand; Ch 7 house; Ch 10 talent show hand open/close; Ch 17 bridge X-ray read; Ch 26 "civilized." |
-| **Never** | Redemption speech; mustache-twirling class villain. |
+| **Never** | Redemption speech; mustache-twirling class villain; fifth piano-backstory beat; "living through Jackie" thesis after Ch 7. |
 
 ### Eileen Marsh
 
 | Layer | Content |
 | ----- | ------- |
 | **Surface** | Pearls; triangles toast; orange juice focus; "not at breakfast"; social compliance. |
-| **Withheld fact** | Painter — nine canvases to wall; palette knife down fall 1959. |
+| **Withheld fact** | Painter — **3–5 canvases** to wall; palette knife down fall 1959. |
 | **Object** | Brush hand; easel bar; widow-looking-at-coat-closet (Ch 20). |
 | **Brick map** | Ch 7 understudy beats; Ch 20 painting room (POV fix later). |
 | **Never** | Full backstory paragraph; explaining Richard for her. |
@@ -176,6 +180,7 @@
 | Character | One-line job | Object/voice |
 | --------- | ------------ | ------------ |
 | **Carl** (shop) | Auto-shop father-figure; Nick's competence mirror | Grease, hands, permission |
+| **Mr. Joseph (Joe) Pacenka** | **L-S High** shop teacher; salt-of-earth; replaces Harrington | Shop wing; school commons |
 | **Lenny Henderson** | Glass Corridor guide; hides Goodman Hill from Rats | Platform geography |
 | **Stephen Murphy** | Nick's bassist; loyalty without speechifying | "You're the reason we started" |
 | **Elizabeth Marsh** | Truth-teller child; "he counts notes" | Violin ease vs Jackie's labor |
@@ -183,9 +188,24 @@
 | **Principal Sargent** | Institutional neutral | KEEFE TECH mug |
 | **Donnie / Kathy** | Cafeteria texture; Grace thread | Mother's shift lines |
 
-**Store 24 clerk seed (Ch 2):** One beat — encrypted future musician; no focus pull.
+**Store 24 kid seed (Ch 2 or Battle):** Mike Gordon, L-S — parents own Store 24 on **Route 217**. **One beat.** Knows music / knows the Battle / recognizes Nick. **Never** Gord, Tombstone Blues, Phish on page. Backdrop only.
 
 **Freshman bassist seed (Battle):** One Maxanne hindsight line; not in Studio C.
+
+---
+
+## Sudbury geography (see `05_Sudbury_Geography_Brief.md`)
+
+| Anchor | Quarter / location |
+| ------ | ------------------ |
+| Nick | **NE** — Dutton garage; L-S (Pacenka) |
+| Jackie | **SW** — Concord / Marsh house |
+| Patty | **SE** — Lally margin; dump/farm belt; long-way rider |
+| Grace | Born **NW**, lives **NE** — Friendly's Route 20 / Boston Post Road |
+| Marsh | **SW** → aspires **NW** |
+| Pacenka | **L-S High** (not a neighborhood) |
+
+**Nick ↔ Jackie:** diagonal opposites; meet through **conservation** middle (Ch 6). Hop Brook + middle strip = pressure geometry.
 
 ---
 
@@ -202,7 +222,7 @@
                   (town / class)
 ```
 
-**Hop Brook:** Not a character — **geometry**. Water, smell, which door you use, who refills without asking.
+**Hop Brook:** Not a character — **geometry**. Water, smell, which door you use, who refills without asking. **Middle strip:** conservation west / dump+pig east. **Routes:** 20 (north) · 117 (south).
 
 ---
 

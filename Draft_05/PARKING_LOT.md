@@ -2,6 +2,92 @@
 
 A holding pen for ideas, seeds, themes, and good lines we cut but don't want to lose. Nothing here is committed to the manuscript. We pull from it deliberately, when and if a piece earns its place.
 
+**Draft status (June 14, 2026):** **41/41 chapters** in `Draft_05/`. **Pass 2 master checklist:** `Story_Bible/Draft_05/07_Pass_2_Focus.md` (prioritized fixes — start there).
+
+## Author markup canon (6/13/2026)
+
+- **Grace fall:** DROP Wellesley in prose/bible. Grace = **Sudbury NW wealthy family**, scandal, fell, married Dan on **Dutton (NE)**. Ramper at L-S. Pass 2: cut Ch 6 Wellesley line; encrypted beats stay Sudbury-local.
+- **Mr. Joseph (Joe) Pacenka:** auto-shop teacher, father figure to Nick — salt of earth, anti-pretentious, heart of gold. Replaces **Harrington** in Draft_05 going forward.
+- **Patty:** singer + **guitar** (Tracy Chapman lane, not stereotype). **Not flute.** Pass Ch 12/14 + bible.
+- **Ending:** **cassette dub only** (~11 min jam) ON AIR, full volume, sign-off *WBCN. The Rock of Boston. Goodnight.*, dead air, then Christian radio at 12:01. Maxanne's talisman = **cassette** (30 years in purse); Studio C **reel** = station master (Ch 38 filed), not carried 30 years. **No reel in Ch 41.** Title *Walk This Way* = novel epitaph; booth does **not** play Aerosmith track as sign-off. Jackie coda = imagined; no virality.
+- **Dan toolbox:** hides **writer** (songs/notebook), not guitar. Heard through floor at night; coaches Nick by day (Ch 8).
+
+## Sudbury geography (author lock — 6/2026)
+
+**Full reference:** `Story_Bible/Draft_05/05_Sudbury_Geography_Brief.md` (+ illustration prompt at bottom for external maps).
+
+**How to read the town (literary, not a zoning plat):**
+
+| Element | Role |
+| ------- | ---- |
+| **Hop Brook** | **Hard divide** — north–south; west (NW + SW) vs east (NE + SE). Real water; primary class metaphor. |
+| **Middle strip** | Colonial **conservation land** (~250+ years). Runs east–west, perpendicular to Hop Brook. **West half:** pine, stone walls, trails, camp edge. **East half:** town **dump** + **Cavicchio pig farm** side by side — working-class margin, not a ribbon across whole town. |
+| **Route 20 / Boston Post Road** | Northern connector **NW ↔ NE**; commercial spine toward Boston. **Friendly's** near Hop Brook — town commons on paper; Grace knows the name is a lie at work. |
+| **Route 117** | Southern connector **SW ↔ SE**, parallel to Route 20. **L-S High** ties here (four doors; shop wing). |
+| **Four quarters** | Adult **reading** of class — fixed by geography in the mind, not perfect survey lines. |
+| **Nick (NE) ↔ Jackie (SW)** | **Diagonal opposites** — separated by Hop Brook **and** conservation; friendship = trespass through middle woods (Ch 6). |
+| **Dr. Marsh** | Lives **SW** (professional rise); **social climber** — wants **NW** old money (Grace's origin before fall). |
+| **Mr. Pacenka** | **L-S High shop teacher** (SE / school commons) — **not** a NE neighborhood pin. |
+| **Patty** | SE margin near dump/farm smell; dad services **all four quarters**; short commute to L-S possible — her **long way** (brook, dump road, perimeter) is character, map-in-head (Ch 4). |
+
+**Greek tragedy / geography:** Town geometry **presses**; boys **choose** at the end. Geography is fate's scenery, not the verdict.
+
+## Pass 2 — geography (optional prose nudges; Ch 1–14 mostly hold)
+
+Do **not** rewrite backward for map clarity. Ch 4 already carries the soul. Touch only if a line **contradicts** this lock:
+
+- [ ] **Pacenka:** any map/bible pin at NE → **L-S shop wing only**.
+- [ ] **Dump:** no prose implying a **full-town east–west equator** — dump/farm = **east half of middle strip** (NE|SE margin).
+- [ ] **Route 20:** may add **Boston Post Road** once where Route 20 first matters (Ch 8 Friendly's or Ch 12 camp) — not a lecture.
+- [ ] **Route 117:** keep/strengthen L-S edge (Ch 4, 14) — parallel southern connector, not a stub.
+- [ ] **Marsh → NW aspiration:** optional single encrypted beat (open house flyer, newspaper real-estate section folded away) — **never** exposition; author to rule if/when.
+- [ ] **Friendly's irony:** name vs Grace's shift — encrypted until Ch 23 mosaic (already parked).
+- [ ] **Camp acres:** align **40 acres, Route 20 + reservoir** (Ch 12) — do not reintroduce conflicting 30-acre / Route 117 camp line from Draft_04.
+
+## Frame guardrails — bourbon & cassette (author lock — 6/2026)
+
+**Author note:** Dates + geography need a close eye every chapter. Bourbon and cassette are **motifs with budgets**, not crutches.
+
+| Motif | Budget | Arc |
+| ----- | ------ | --- |
+| **Bourbon** | **2–3 meaningful beats** in the whole 2009 frame; varied register; **no** per-chapter finger-pour | Bottle runs **dry** before/during final tape; empty cup earns silence |
+| **Cassette (sacred tape)** | **Full sensory** (weight, smell, look — **not taste**) in **~3–4 key frame chapters** only; elsewhere glance / label / not tonight | Ch 1 establish → complicity (~27–30) → play (~38–40) |
+| **Timeline** | Brick month/year vs outline; frame must not contradict | See `04_Prose_DNA.md` anchor table; Ch 1 pass 2 fixes |
+| **Geography** | Every scene vs geography brief | Hop Brook, quarters, routes, dump east-half only |
+
+**Draft_05 audit (Ch 1–16):** Bourbon only in Ch 1 (×3 — trim pass 2) + Ch 16 (×1). Cassette full pass Ch 1 + Ch 16 open; light Ch 9, 11. **On track** if we hold the line going forward.
+
+## Pass 2 — saved prose (Ch 1–14; forward draft only)
+
+**Rule:** Draft_05 files **1–14 stay as saved** unless read-aloud flags a section. Fix list below — **second pass**, not before Ch 15.
+
+| Item | Where | Fix |
+| ---- | ----- | --- |
+| Maxanne age | Ch 1 frame | 63 → **59** (2009) |
+| Wellesley | Ch 6 | Cut line; Grace = **Sudbury NW** fall only |
+| Ch 9 frame | Ch 9 | Trim spoilers of Ch 10 talent show |
+| Patty instrument | Ch 12, 14, bible | **Flute → singer + guitar** (Tracy Chapman lane) |
+| Harrington | Ch 13–14+ if present | → **Mr. Joseph (Joe) Pacenka** |
+| Ch 1 stray note | Ch 1 line 1 | Remove author note *"Draw the line, Professor Rowe…"* if still present |
+| Dan toolbox hose | Ch 15 (when drafted) | Must not say Dan never played where family could hear — contradicts Ch 8 |
+| Callus audit | Novel-wide | Cap **2** uses; replace Draft_04 excess |
+| Ch 26 duplicate | Ch 26 | Cut repeat of Ch 7 *Classical earned approval / Rock earned breath* |
+| Eileen canvases | Ch 20+ | **Nine → 3–5** when that chapter is pass-2'd |
+| Rhythm spot-check | Ch 9–11 frame | Telegram prose guardrail (Ch 13 lesson) |
+
+## Dramatic engine — Greek tragedy (author lock — 6/2026)
+
+**Keep the engine; drop Blueprint's viral resurrection.**
+
+| Still true | Changed from old Blueprint |
+| ---------- | --------------------------- |
+| **Hamartia:** Maxanne's clause/complicity; Marsh summons WBCN then forbids dream | ~~Viral 2009 comeback~~ → **no virality** |
+| **Virtue → choice:** boys choose *people who already chose us* — tragic because loyalty, not weakness | ~~Mashup as triumph~~ → **~11 min imperfect jam** |
+| **Generational renunciation:** toolbox, closed lid, Grace's fall — chain of buried gifts | ~~Enemies arc~~ → friendship **unsustainable**, parallel hallways |
+| **Catharsis:** tape on air, meters die, silence — reader sits with loss | ~~Walk This Way on air as sign-off~~ → title = **epitaph only** |
+
+**Story Bible:** `01_Synopsis_and_Acts.md` (spine + acts). **Do not** restore Blueprint "Greek Tragedy Ending: viral resurrection."
+
 ## Ch 14 — Baba O'Riley + Grace diner (decided 6/10, Professor O)
 
 **Chapter job:** Freshman-year **school social map** (April 1976) — mud, parallel doors, shop/Carl/Ant, Glass Corridor rats, Rampers platform, Patty flute pass-by. Teenage wasteland; Nick/Jackie fracture **deepening**, not explained. **Not** a Grace chapter.
@@ -25,6 +111,12 @@ When cutting thesis/metaphor, **do not cut sinew**. Telegram prose = stacked sub
 
 **Process:** Press on; no full Ch 1–12 rewrite unless read-aloud flags a section. **Pass 2 rhythm spot-check:** Ch 9–11 frame trims. Lesson: `tmp/ch13-rhythm-lesson.md`.
 
+## Maxanne age (locked 6/10 — author)
+
+- **1979:** 29 (Battle, WBCN DJ, sponsors Battle)
+- **2009:** 59 (Aug 11–12 final broadcast — thirty years later)
+- **Blueprint aligns;** Ch 1 Draft_05 says sixty-three (error). **Pass 2:** fix Ch 1 frame. **Synopsis updated 6/10:** `Story_Bible/Draft_05/01_Synopsis_and_Acts.md` (59/29, 11 min tape, downbeat ending). Re-export PRINT.txt when author reprints.
+
 ## How to use this
 
 - When we cut a line we actually like, it lands here under "Homeless gems."
@@ -34,11 +126,29 @@ When cutting thesis/metaphor, **do not cut sinew**. Telegram prose = stacked sub
 
 ## Seeds to plant (not yet in the text)
 
-1. Store 24 string-clerk seed — Chapter 2 (Nick already buys strings "from Store 24"). The kid working the register recognizes Nick from Lincoln-Sudbury, mentions he plays too, or "You're in the Battle, right?" An encrypted future-famous musician, planted as a wink. Keep it to one short beat so it doesn't pull focus from Nick. See Source Layer for the real-life basis and the name decision.
+1. **Store 24 kid** seed — **Mike Gordon**, L-S classmate (author canon); parents owned **Store 24** on Route 217. **Never in prose:** "Gord," **Tombstone Blues**, or **Phish**. **Backdrop only** — must not pull focus from Nick/Jackie.
 
-2. Battle freshman-bassist seed — Act III, the Battle chapter. A skinny freshman in a barely-noticed early band. Best delivered through 2009 Maxanne's hindsight, e.g. "The kid on bass that night, the one nobody clapped for? You'd know his name now." Lands "the best band that never was" by contrast. One or two lines maximum. Do NOT bring this kid into the 2 AM studio scene — that ground is sacred to Nick and Jackie. (Real-world face: the "Tombstone Blues" bassist in the author's yearbook.)
+   **Placement (pick one beat per book, not both unless pass-2 approves):**
+   - **Ch 2 (preferred):** Nick buys strings at Store 24; **Store 24 kid** at register — L-S, knows rock and roll, maybe knows Jackie and Nick by reputation — *I play too* / *You're in the Battle, right?* — nods at the war without stealing it.
+   - **Act III Battle (optional):** **freshmen** went on first (Ch 27 frame already has this); on the brick, **unnamed band**, first slot, room not watching — bass or guitar kid who *could* be the same Store 24 kid. **No band name on page.**
+
+   **Private source only:** Mike Gordon, L-S high school; yearbook may list *Tombstone Blues* — author memory, **never in prose**. Phish formed at **UVM ~1983** — optional **one** Maxanne hindsight line in 2009 (Act III or Ch 40), not in May '79 brick.
+
+2. ~~Battle Tombstone Blues / Phish seed~~ — **superseded by Store 24 kid rule above (author lock 6/13).**
+
+**Store 24 / Gordon rule (author lock — 6/13):**
+- **Prose:** **Store 24 kid** only — clerk, register, Route 217, L-S kid who knows music. **No** "Gord." **No** "Tombstone Blues." **No** Phish at L-S.
+- **Private source:** Mike **Gordon**, L-S high school; family Store 24; yearbook *Tombstone Blues* = author memory, not on-page band name.
+- **Phish:** UVM formation years later — **hindsight wink optional**, one line max, never May '79 poster.
+- **Spine protection:** Nick/Jackie own the Battle. Store 24 kid = **grace note**, not second plot.
 
 3. WYAJ school-radio seed — the real Lincoln-Sudbury student station (WYAJ, FM 88.1, ten watts, transmitter atop Goodman's Hill). The boys had their own little station before any of them ever sat in WBCN's Studio B. A possible quiet counterpoint to the big corporate WBCN — the kids' homemade signal vs. the dying commercial one. Could deepen the "frequency" motif. Hold until we find the chapter that earns it; do not force.
+
+**Patty rehearsal church (author lock — 6/14):**
+- **Prose:** **Memorial Congregational Church of Sudbury**, **Sudbury Center** (town center — geography matters). **Reverend Goff** — Congregational churches use *Reverend* or *Pastor*, not *Priest* (Catholic). Key under mat; hymnals, lemon-oil pews, honor-roll stained glass (Sudbury names in gold leaf — fits the church's *Memorial* name).
+- **Cut:** St. Michael's (Concord / neighboring-town carryover), Father DiNardo, St. Michael sword window, Landham Road church.
+- **Future Act III chapters (29–30, 35, quarry Silver Springs night):** use Memorial Congregational only.
+- **Alternate (author choice):** **St. Anselm Parish** (Roman Catholic, Sudbury) if Patty's "plays for church services" thread from early drafts returns — basement/hall acoustics; different visual language. Default = Memorial Congregational.
 
 ## Parent-generation architecture (decided 6/10 — Professor O)
 
@@ -56,6 +166,51 @@ Three layers, not three equal page counts:
 
 **Pass-2 cut:** Ch 26 repeats "Classical earned his father's approval. Rock earned his breath. He couldn't have both." — DELETE duplicate at Ch 26; ring once here (Ch 7).
 
+## Dr. Richard Marsh — naming + hand budget (decided 6/13 — author + Professor O)
+
+**Naming (locked):**
+- Default: **Dr. Marsh** (narration, school, PTA, kids' dialogue).
+- Formal first beat per chapter or frame: **Dr. Richard Marsh** (once).
+- **Richard** alone: third-person brick **outside** Marsh-house hierarchy only (e.g. Ch 17 conservation loop — he is a man on a trail, not "father").
+- **Never "Professor Marsh"** in prose — he is a **psychiatrist (MD)**, not faculty title on page. **Professor Aldridge** (Ch 7 mock audition) is a different person.
+- Draft_05 audit: **zero** "Professor Marsh" hits — keep it that way.
+
+**Former-pianist / octave hand / renunciation — hard cap: 4 earned beats novel-wide**
+
+| # | Chapter | Beat | Status |
+| - | ------- | ---- | ------ |
+| 1 | **Ch 3** | Pinky reach in lap; *Baldwin lid closed for good* (one line max) | ✅ birth |
+| 2 | **Ch 7** | House plant: table octave OR pinky describe (not both); attic carton via Eileen **once**; *"I had chances"* = **only explicit renunciation speech** | ⚠️ **over-stacked** — pass 2 trim |
+| 3 | **Ch 10** | Talent show: thumb/pinky octave opens in lap, closes | ✅ public |
+| 4 | **Ch 26** | Thumb on middle C — touch, no sound | ✅ climax |
+
+**Does NOT spend a beat** (variants OK — no new backstory sentence):
+- Ch 17 Richard reads Nick's hand (*conservatory practice rooms* — one line, serves bridge not Richard sermon)
+- Ch 20 wine-glass stem curl (finger shape, no attic)
+- Ch 21 empty breast pocket
+- Ch 26 shoulder / *civilized* / Elizabeth *counts notes*
+
+**Pass-2 trims (Ch 7 duplicate well):** ✅ **Done 6/13** — cut opening pinky re-describe (Ch 3 stands); cut Jackie almost-tell Elizabeth + closing attic/spanning thought; kept table octave, Eileen carton, *I had chances*, Classical/Rock hose (once).
+
+- **No new** "living through Jackie" / "gave up piano" lines after Ch 7 *I had chances*. Behavior only (Juilliard push, civilized, mock audition, counts notes).
+
+**Act III:** Richard in Battle audience (Ch outline) — **behavior + one body beat max**; do **not** add a fifth octave flashback.
+
+## Maxanne / WBCN tenure + Battle purpose (decided 6/13 — author lock)
+
+**Real life:** Maxanne to Elektra ~1977 (author notes — kept in Source Layer only).
+
+**Fiction lock (this novel):**
+- **WBCN 1970–1980** — continuous employment for story purposes. She does **not** leave before or right after the Battle.
+- **Roles:** DJ/discovery voice; **Battle seed + judge** (Ch 22, 27); garage visit March '79 (Ch 2).
+- **Battle purpose:** **Uncover young talent** — WBCN discovery brand, sponsor math, repeatable spring franchise. **Not** designed for Nick/Jackie; they are what Sudbury **produced**, not what the packet targeted.
+- **Sudbury bench:** **Store 24 kid** (Mike Gordon, L-S — private source) = backdrop only. Freshman band **may** open Battle — **no band name on page**. Nick/Jackie = **band that never was**.
+- **Elektra:** **Out of novel prose** unless one post-1980 offhand in frame pass 2. No label A&R blocks. Buried-artist rhyme for Maxanne = **carried the tape, never played it** — not blazer résumé.
+
+**Ch 27:** ✅ **Updated 6/13** — freshman band unnamed; no Tombstone Blues / Store 24 in frame; discovery not trap; WBCN through 1980.
+
+**Synopsis line *trades ear for blazer*:** defer to post-novel career or pass-2 single frame line — **not** May 1979 wardrobe or mid-book biography.
+
 ## Callus / calloused budget (decided 6/10 — author pet peeve)
 
 Draft_04 full manuscript: **~13 uses** of callus/calloused/callused (Ch 1, 8×3, grief, Richard hand, Jackie hand, Elizabeth×2, Patty×3, Battle). Became guitar-player cliché in earlier drafts. **Novel-wide cap: 2 uses maximum** — earn them (e.g. one Richard-reading-Nick's-hand scene; one Grace PTA if kept). Elsewhere: **hand motif without the word** — fret-dented, pads worn flat, glassy fingertips, skin split at the wire, dime-thick pads, knuckle scar, fingertips dented/sore, dry skin on wound strings. Ch 8 Draft_05: **zero** callus words. Pass 2: audit and replace remaining Draft_04 hits.
@@ -67,10 +222,15 @@ Draft_04 full manuscript: **~13 uses** of callus/calloused/callused (Ch 1, 8×3,
 **Fix (canon — revised 6/10 author):**
 - **NO 1976 meeting.** Inaugural Battle = **spring 1979** (May 16). Whipped together **late 1978 or winter 1978–79**: "What are we doing this spring?" — revenue, listeners, ads; WBCN discovery reputation is real; parallels real Rat-era sponsor battles (fiction layer OK).
 - **Program director** (Kowalski name TBD — author may rename): corporate pitch, not three-year conspiracy. Tie clause = **one boring line** in sponsor packet if needed — not a chapter of trap theology.
+- **Author lock (6/2026 — Ch 22 intent):** Maxanne did **not** write the tie rule **knowing** Nick and Jackie would tie — she hadn't met them until **March 1979**. The old "three years ahead" beat is **dead**. Guilt is **two-layer, subtle:**
+  1. **Winter 1978–79 packet:** She goes along with sponsor boilerplate (ties permitted / split prize / no single-winner liability — **one boring line**). She knows **class is in the closet** — the machinery that turns kids into content — but the rule is **not aimed at two boys who don't exist yet for her.**
+  2. **May 16 judges' room:** Tie **lands in-scene** — she sees the clause, sees the room, **doesn't recuse**, may **use** the out (wants them both in Studio C / can't crown one side of Hop Brook / hamartia: believes she can game the system). **Orchestration at the Battle, not premeditation at the meeting.**
+- **Not for the boys on paper:** The rubric serves WBCN/sponsor math. Her complicity is **human** — she helps the tie happen **when they're in front of her**, not because she drafted a trap in 1976.
 - **L-S only Battle:** NOT a stretch — hyper-local inaugural, one auditorium, WBCN judges; mirrors station-as-discoverer without turning novel into battle-of-the-bands tour. (Already narrowed from neighboring-town groups.)
 - **March 1979:** Maxanne meets Nick (Ch 2). Judges Battle as WBCN face.
 - **May 1979 Battle:** Tie (if used) lands **in the judges' room** — in-scene. Maxanne guilt = didn't recuse, wanted them in a room — not pre-written trap for kids she'd never met.
-- **Studio C recording (pass 2 — logistics TBD):** Right after Battle; **same night vs next day** fine-tune later. Simplify Draft_04 melodrama: parked at brook → Store 24 call → 1 AM drive — **optional cut**. Alternatives: Maxanne invites at Battle ("come tomorrow"); boys call her; garage reunion → phone → station. Must feel **earned, not spy thriller**.
+- **Studio C recording (author lock 6/14):** **Not Battle night. Not 2 AM. Not Grace driving to Boston.** Boys **call WBCN** post-garage (Ch 2 card + contract number); Maxanne schedules **Saturday May 19, 1979, 4 PM** — three days after Wed May 16 Battle (Thu–Fri school = dread, not reconciliation montage). **Seniors drive themselves** to Boylston; meet at Studio C together or forfeit. **Life decision** (*I can't* / *Me either*) lands **end of Ch 38** after **~11 min** tape — not at garage, not deferred to Ch 39. Ch 39 = aftermath weather only.
+- **Cut permanently:** parked at brook eavesdrop → Store 24 call → midnight Grace drive → *Bring whatever you just played* → 2:14 AM fetish time.
 - **Tape length (CANON CHANGE — author 6/10):** **~11 minutes** garage-style jam — one take, they don't want to stop, floor people. NOT 4:43 polished mashup. Middle school talent show = ~4 min structured set; Studio tape = **17-year-old selves let loose** (high-school/college version of 14-year-old garage). Bigger impact when Maxanne plays it in 2009. Draft_04 already has **11 min garage jam** pre-Studio — align tape to that energy/length; Mike keeps reels rolling.
 - **2 AM:** Not sacred number — **late night after Battle** OK if logistics earn it; afternoon session also OK. Prefer **human schedule** over noir clock.
 - **Guilt delivery:** facts once, not thesis ×3. Ch 11 = corporate fall foreshadow only (Draft_05).
@@ -108,19 +268,22 @@ Garage = **private proof** (struggle → breakthrough). Studio = **public docume
 | **Studio C tape** | **~11 min** | Free jam; Yamaha; one take; THE reel |
 | 2009 booth play | full reel | Downbeat; no virality; signal dies |
 
-**Studio C logistics — three clean options (pick one at pass 2):**
+**Studio C logistics — LOCKED (author 6/14 — Option A):**
 
-1. **Battle night, late:** Maxanne pulls them aside after auditorium empties → "Come tomorrow afternoon." Human; no stakeout.
-2. **Garage night, de-noir'd (current spine):** Post-Battle reunion jam → phone from kitchen (Maxanne already has contact from Battle, or Grace knows the station). Session **next day or that evening** — when Mike and the room are free, not because it's witching hour.
-3. **They call her:** Post-Battle renunciation — one of them dials; she says yes before management says no.
+1. ~~Battle night, late: Maxanne pulls them aside~~ — skipped; Ch 36 they exit separate overhangs.  
+2. ~~Garage night midnight run~~ — **cut.**  
+3. **Boys call (LOCKED):** Post-garage Wed May 16 ~11 PM — Nick dials WBCN (Ch 2 card + contract). Maxanne: *Both of you. Saturday four o'clock. Drive yourselves. Forfeit if one doesn't show.*  
+4. **Thu–Fri May 17–18:** School dread — hallways, near-forfeit tension; **no** warm reconciliation week, **no** second garage love-in required.  
+5. **Sat May 19, 4 PM:** Studio C — Nick and Jackie arrive separately, **seniors drive themselves** (Nick wagon; Jackie Stephen or Marsh car). **~11 min** jam = THE tape. **End Ch 38:** music worked; *I can't* / *Me either* (Grace / Juilliard obligations) — handshake, separate exits.  
+6. **Ch 39:** Aftermath only — town, Army, graduation — do not re-litigate the studio decision.
 
-**Cut or trim (Draft_04 melodrama — optional):** parked at brook → Store 24 call → 1 AM Grace drive → "2:14 AM" as fetish time. Entry to building: one line (Maxanne has keys / Mike owes her / unauthorized session everyone pretends didn't happen).
+**Cut permanently:** brook stakeout, eavesdrop, *Bring whatever you just played*, Grace chauffeur to Boston at midnight.
 
 **Pass 2 — Act III checklist (when we reach those chapters):**
 
 - [ ] Kowalski chapter (~Ch 22): move to **late 1978 / winter 1978–79**; rename PD if author decides; tie clause = one boring sponsor line.
 - [ ] Battle chapter: judges' room guilt in-scene; no 1976 foreshadow.
-- [ ] Garage reunion + Studio C: pick logistics option above; earn entry without spy-thriller.
+- [ ] Garage reunion + Studio C: ~~pick logistics~~ **LOCKED 6/14** — boys call; Sat May 19 4 PM; drive selves; decision end Ch 38.
 - [ ] **Global replace:** every **4:43 / four minutes and forty-three** → **~eleven minutes** (tape + ending frame + Maxanne monologue).
 - [ ] Ending: play full jam tape; ON AIR dies; no virality.
 
@@ -134,14 +297,11 @@ Garage = **private proof** (struggle → breakthrough). Studio = **public docume
 
 1. Dr. Marsh's phone call to WBCN — REVIEWED, reads as a plant, not a cheat (already mirrored against Grace's "don't fill his head with dreams we can't afford"). Optional later sharpen: one beat of dramatic irony — the father who summons the DJ is the one who will forbid the dream.
 
-2. Chapter 4, "More Than a Feeling" — ARCHITECTURE decision, not a scalpel pass. Execute when fresh.
-   - Give the setting chapter a BODY: Patty walks us through the four quarters, introduced early (fixes her late arrival). She is the only character who can cross all four quarters because she belongs fully to none — the natural eyes of the town, which also seeds her thematic role.
-   - Keep the best prose (the brook's full register; the hand-laid stone walls; "nobody's garbage was better than anyone else's"). Lean lightly on NE (Nick) and SW (Jackie) since Ch2/Ch3 already showed them; let Patty own SE (farm/dump) and NW.
-   - The school is NOT a fifth quarter and does NOT move geographically. It stays the town's COMMONS (the chapter already calls it that). Build the mirror: four TOWN quarters (adult, class, fixed) reflected by four SCHOOL cliques (teen, interest, porous) — Rampers / Rats / Regs / Rollers. Four and four.
-   - Theme (from the author's Draft 2 blueprint): teens sort by interest; adults enforce by geography. The school is where the quarters dissolve and re-sort, until graduation throws everyone back into the geography.
-   - Clique glossary (locked, from lived memory): Rampers — sat on the ramp; Rats — glass corridor and the woods, leather jackets, smoking and beer, named for the scurrying; Regs — regulars, heads down, fitting in, unseen, no trouble; Rollers — auto-shop kids, good with their hands, always fixing cars. Render each by BEHAVIOR, not label — show the thing, let the name click after.
+2. Chapter 4, "More Than a Feeling" — **DONE in Draft_05** (architecture executed). Geography canon refined 6/2026 → see **Sudbury geography** section + `05_Sudbury_Geography_Brief.md`. Pass 2: optional light echoes only (see **Pass 2 — geography**).
+   - Patty = town eyes; four quarters; school = commons; cliques ≠ quarters — all on page.
+   - Clique glossary (locked): Rampers — ramp; Rats — glass corridor; Regs — regulars; Rollers — auto shop. Render by **behavior**, not label.
 
-3. Reconcile the Story Bible to Draft_05 — character-bible.md and author-style-library.md are rich and worth keeping as living reference, but they drift from the current draft (e.g., Maxanne's age listed as 73 in the bible vs 63 in Ch1; Nick's birth year vs his 1979 age). As we edit each chapter, update the bible to match Draft_05 so it serves the book instead of contradicting it.
+3. Story Bible — **updated June 2026** in `Story_Bible/Draft_05/*.md`. Re-export `Walk_This_Way_Story_Bible_Draft_05_PRINT.txt` when author reprints. Legacy `Story_Bible/character-bible.md` still drifts — ignore for Draft_05.
    - Harvest the best of the author-style-library and the earlier reverse-engineering / style-emulation studies into our Professor passes. Let the MCP server scaffolding (FICTION_REVERSE_ENGINEERING_MCP, Style Emulation) rest unless quantitative metrics are ever wanted; we now do RE and emulation in conversation.
    - Source/tribute layer (private, do not surface in prose): some of Nick's bandmate names echo real classmates, including names from the class "In Memory" page. Honor; never instrumentalize.
 
@@ -246,13 +406,15 @@ Last morning: torn phone number, **separate cars pulling away** — not one bus 
 
 ## Homeless gems (cut lines we may reuse elsewhere)
 
-- (none yet)
+- **Ch 23 Monday Store 24 coda (cut 6/14):** Grace milk run, windbreaker gossip echo, Sudbury Weekly van on Store 24 stoop, Bustelo — quarry bloat; chapter ends on Saturday parking lot. Salvage if ever needed: *"Well, good for her"* (windbreaker line). **Grace rule:** budget-conscious — drip/Maxwell House at home, not specialty coffee.
 
 ## Source layer — PRIVATE, do not surface in the prose
 
 - Author saw **The Who** in concert, Buffalo NY, **1982** — billed as "Final Tour"; still playing decades later. Favorite tracks include *Baba O'Riley* and *Eminence Front*. Chapter title tribute only; no concert in prose unless earned later.
 
-- The real basis for the seed musician: a Lincoln-Sudbury student of that era (per the author's yearbook) whose family founded the Store 24 chain, later nationally known; the "Tombstone Blues" band is the real-world reference. Kept here as private source material only.
-- Real names confirmed in the author's 1981 yearbook and carried into the novel: Nick Johnson, Jackie Marsh, Patricia (Patty) Lally, and teacher Robert G. Wentworth. The author is keeping the real names of Nick and Jackie deliberately, as tribute. Honor this; do not suggest changing them.
+- The real basis for the seed: **Mike Gordon**, L-S high school (author memory); family **Store 24** on Route 217. Yearbook band *Tombstone Blues* = **private only — never in prose**. Phish = UVM ~1983, hindsight optional. **Never** "Gord" on page. Prose = **Store 24 kid** backdrop; Nick/Jackie keep the spine.
+- Real names confirmed in the author's 1981 yearbook and carried into the novel: Nick Johnson, Jackie Marsh, Patricia (Patty) Lally, and teacher **Robert G. Wentworth**. The author is keeping the real names of Nick and Jackie deliberately, as tribute. Honor this; do not suggest changing them.
+- **Author photo pending (6/2026):** Real L-S Battle of the Bands poster + Wentworth photo — when shared, pass-2 tune Ch 18 poster layout/crest if needed. **Poster copy locked from novel:** BATTLE OF THE BANDS / May 16, 1979 / L-S / Grand Prize $500 — Professional Recording Session / Sponsored by WBCN — The Rock of Boston (Draft_04 Ch 18; date corrected 15→16 in Draft_05).
+- **WYAJ vs WBCN (author lock — 6/2026):** **WYAJ** = real Lincoln-Sudbury **student** station (FM 88.1, ten watts) — seed only, not Battle sponsor. **WBCN** = real Boston commercial station; **actually sponsored** the real Battle of the Bands. Poster WBCN block is **historical fact**, not fiction layer. Author fatigue can confuse the two — always WBCN on poster and in Sargent/Wentworth beats.
 - Quiet real detail worth a possible beat: in the WYAJ group photo, the real Nick and Jackie are standing next to each other — two boys side by side before life divided them. Potential image, used sparingly, never explained.
 - Name decision: because this draft is private (family and friends), naming him is the author's prerogative and low-risk. Craft recommendation is still to wink rather than name — a wink is more powerful (the knowing reader's floor drops; everyone else still gets the grace note), it ages better if the work is ever shared more widely, and the real name is trivial to add later but impossible to un-ring. Author's call; default is encrypt.

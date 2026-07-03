@@ -1,0 +1,46 @@
+---
+description: Walk This Way Draft_05 project context — Pass 2, Story Bible authority, MFA workshop application
+alwaysApply: true
+---
+
+# Walk This Way — Draft_05 Project
+
+**Novel:** Walk This Way by Timothy J. Smith  
+**Phase:** Pass 2 — Scalpel/Hose (41/41 chapters complete)  
+**MFA:** Private MFA Workshop skill auto-invokes from `~/.cursor/skills/private-mfa-workshop/`
+
+## Authority order
+
+1. `Draft_05/` chapter prose + `Draft_05/PARKING_LOT.md`
+2. `Story_Bible/Draft_05/` — especially `07_Pass_2_Focus.md` locks
+3. Private MFA Workshop skills — craft methodology
+4. `Novel_Docs/Walk_This_Way_Blueprint_v2.0_PRINT.txt` — **shelf reference only** (Draft 2; superseded)
+
+When Blueprint and Draft_05 disagree: **Draft_05 + PARKING_LOT win.**
+
+## Pass 2 workflow
+
+1. Read `Story_Bible/Draft_05/07_Pass_2_Focus.md` for P1/P2/P3 priorities
+2. Confirm Liberty Level (Neutral default; Professional for frame spine)
+3. Apply lens by scene type:
+   - Maxanne frame → Ondaatje (cut gloss, trust object)
+   - Class/diner/PTA → Lehane lens
+   - Dialogue → King non-horror
+   - Physical pivots → Dickey
+   - Patty chapters → O + Robinson guest
+4. End scalpel passes with read-aloud; watch for telegram prose
+5. Use `<<agent notes>>` / `((author notes))` on substantive edits
+
+## Locked — do not pass-2 away
+
+No virality. Cassette not reel for 30-year talisman. Nick Army not construction. Maxanne 59 in 2009. ~11 min tape not 4:43. See `07_Pass_2_Focus.md` full lock table.
+
+## Case study
+
+Skill file: `~/.cursor/skills/private-mfa-workshop/case-study-walk-this-way.md`
+
+## Legacy folders (reference only)
+
+- `MFA_System/` — absorbed into skills v2.0
+- `zz_COMPASS/` — MCP reference; not primary workflow
+- `Novel_Docs/` — Draft 2 planning; superseded

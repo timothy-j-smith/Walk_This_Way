@@ -1,0 +1,59 @@
+---
+description: Auto-invoke fiction MCPs when writing, editing, reviewing, or comparing Draft 05 prose
+globs: Draft_05/**/*,Story_Bible/**/*
+alwaysApply: false
+---
+
+# Fiction MCP Workflow — Walk This Way
+
+**Note (2026-06-20):** All workspace MCPs in `mcp.json` are currently **disabled**. This rule applies when MCPs are re-enabled. Until then, use built-in tools + Story Bible files for Pass 2.
+
+When working on chapters, Story Bible, or Pass 2 edits, **call MCP tools** (not only built-in Read/Grep) for canon, craft, and review tasks.
+
+## Authority order
+
+1. `Draft_05/` prose + `PARKING_LOT.md`
+2. `Story_Bible/Draft_05/` + `07_Pass_2_Focus.md` locks
+3. MCP lookups — never override locked canon
+
+## When to call which MCP
+
+| Task | MCP | Action |
+| --- | --- | --- |
+| Character facts | `walkthisway-characters` | Query before editing dialogue or backstory |
+| Craft / scalpel-hose | `compass-writing-guides` | `get_methodology`, `get_topic_guidance`, author advice |
+| Canon / plot logic | `user-sequential-thinking` | Step through ambiguous continuity decisions |
+| Line edit / review | `professional-editor` | Structure, prose, dialogue, pacing scores |
+| Style comparison | `dennis-lehane-style`, `style-emulation` | Compare passage against target voice |
+| Bestseller craft | `fiction-reverse-engineering` | Scene-level reverse-engineering when restructuring |
+| Continuity memory | `user-memory` (knowledge graph) | Store or query entities after canon fixes |
+| Period / place research | `user-firecrawl` or `user-duckduckgo-search` | 1974–1979 Boston, Sudbury, WBCN facts |
+| Prose lint | `user-Vale` | Line-level diction and repetition |
+| Compare two passages | `professional-editor` + `compass-writing-guides` | Review both; cite Prose DNA |
+| Timelines / structure | `user-mcp-mermaid` | Diagram when comparing act or chapter flow |
+
+## Required workflow
+
+### Before editing a chapter
+
+1. Read the chapter file (built-in Read is fine).
+2. Call `walkthisway-characters` for every named character in the scene.
+3. Skim `Story_Bible/Draft_05/07_Pass_2_Focus.md` for applicable P1/P2 items.
+
+### During edit or rewrite
+
+- Use `compass-writing-guides` when applying scalpel, hose, or voice rules.
+- Use `user-sequential-thinking` when a canon choice could violate a lock.
+
+### After substantive edits
+
+- Run `professional-editor` on changed passages when user asks for review.
+- Optionally update knowledge graph with new canon facts.
+
+## Filesystem MCP note
+
+`walk-this-way-files` exposes the project via MCP tools (`read_file`, `write_file`, `list_directory`). Cursor's built-in Read/Write/Grep already access the same files. Prefer **built-in tools for file I/O**; use **custom MCPs above for fiction intelligence**.
+
+## Explicit prompts (if MCPs are skipped)
+
+User may say: "Use walkthisway-characters and professional-editor on Chapter 26."
