@@ -8,7 +8,7 @@
 ## Act I — *Toys in the Attic*
 
 **Chapter 1 — "Wish You Were Here"**  
-Maxanne Sartori opens WBCN's final four-hour broadcast in Studio B (August 2009): bourbon, taped Sony headphones, the ON AIR sign, and the unauthorized cassette she has carried since 1979. She promises the story of two Sudbury boys who should have changed everything and didn't — without yet playing the tape. **Pass 2:** fix age (59 not 63), remove line-1 stray note, fix Studio-date spoiler in cassette paragraph.
+Maxanne Sartori opens WBCN's final four-hour broadcast in Studio B (August 2009): bourbon, taped Sony headphones, the ON AIR sign, and the unauthorized cassette she has carried since 1979. She promises the story of two Sudbury boys who should have changed everything and didn't — without yet playing the tape. **Pass 2 (Professor O, 7/11/2026):** P1 canon fixed; scalpel/hose — cut thesis gloss, bourbon toast, Kid triple-look, orphan quote; trust cassette + pegboard.
 
 **Chapter 2 — "Draw the Line"**  
 Maxanne drives to Dutton Road and hears Nick's guitar through the garage before she sees him; Jackie is there too, instruments held like wreckage. The red toolbox sits unopened; Dan's empty socket slot on the Maxwell House lid. First brick of the boys' sound and the Johnson grief the town doesn't name.
