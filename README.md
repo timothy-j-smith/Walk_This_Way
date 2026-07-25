@@ -8,7 +8,7 @@
 **Genre:** Literary Fiction / Music Fiction  
 **Setting:** Boston/Sudbury, Massachusetts (1975-1979) with 2024 frame story  
 **Word Count Target:** ~75,000-90,000 words  
-**Status:** In revision
+**Status:** Complete on `main` — author read-through pending
 
 ### Logline
 
@@ -153,6 +153,6 @@ This novel is part of a 10-novel contract. The organizational system and templat
 
 ---
 
-**Last Updated:** November 29, 2025
-**System Status:** ✅ COMPLETE - Ready for serious writing!
+**Last Updated:** July 25, 2026
+**System Status:** Draft 3.2 on `main` — see `WHERE_IS_THE_LATEST_DRAFT.md`
 
