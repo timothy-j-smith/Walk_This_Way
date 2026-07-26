@@ -56,5 +56,6 @@ bin/
 **/obj/
 **/bin/
 
+# ACE / Cursor hook artifacts (removed from workspace)
 .cursor/hooks.json
-.cursor/hooks/after-agent-response.js
+.cursor/hooks/
