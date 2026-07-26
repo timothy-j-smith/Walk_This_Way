@@ -2,19 +2,27 @@
 
 **Read this file first.** It points to the current master manuscript.
 
-## Latest novel (Draft 3.2)
+## Latest novel (Final Review — Draft 3.2)
 
 | | |
 | --- | --- |
-| **File** | `Draft_3/Walk_This_Way_Draft_3_2_PRINT.md` |
+| **Primary file** | `Draft_3/Walk_This_Way_FINAL_REVIEW.md` |
+| **Plain text** | `Draft_3/Walk_This_Way_Draft_3_2_PRINT.md` (same prose; print layout) |
 | **Print HTML** | `Draft_3/Walk_This_Way_Draft_3_2_PRINT.html` |
 | **Branch** | `main` |
-| **Compiled** | April 19, 2026 |
-| **Length** | ~84,500 words, 41 chapters |
+| **Compiled** | July 26, 2026 (final review edition) |
+| **Length** | ~84,200 words, 41 chapters |
 
 Open in GitHub:
 
-https://github.com/timothy-j-smith/Walk_This_Way/blob/main/Draft_3/Walk_This_Way_Draft_3_2_PRINT.md
+https://github.com/timothy-j-smith/Walk_This_Way/blob/main/Draft_3/Walk_This_Way_FINAL_REVIEW.md
+
+## Alternate formats
+
+| File | Purpose |
+| --- | --- |
+| `Draft_3/Walk_This_Way_FINAL_REVIEW.txt` | Plain-text prose (no markdown) |
+| `Draft_3/Walk_This_Way_Draft_3_2_PRINT.md` | Original print compilation (April 19, 2026) |
 
 ## Older drafts (reference only)
 
