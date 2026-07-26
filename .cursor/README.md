@@ -8,9 +8,8 @@ This folder holds **live agent configuration only**. Do not store archives, chat
 |------|---------|
 | `rules/` | AI behavior rules (`.mdc`) |
 | `commands/` | Slash commands |
-| `scripts/` | Automation scripts (non-ACE) |
+| `scripts/` | Automation scripts |
 | `config/` | `mcp.json`, settings, prompts |
-| `hooks.json` | Event hooks (empty unless configured) |
 | `notepads/` | Cursor notepads |
 | `templates/` | Writing templates |
 
