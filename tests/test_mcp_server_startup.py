@@ -148,8 +148,9 @@ class McpServerStartupTests(unittest.TestCase):
 
         with TemporaryDirectory() as temporary_directory:
             log_path = Path(temporary_directory) / "usage.jsonl"
-            module_globals["USAGE_LOG_PATH"] = log_path
-            module_globals["log_usage"]("analyze_context", {"task": "test"})
+            log_usage = module_globals["log_usage"]
+            log_usage.__globals__["USAGE_LOG_PATH"] = log_path
+            log_usage("analyze_context", {"task": "test"})
 
             log_entry = json.loads(log_path.read_text(encoding="utf-8"))
 
