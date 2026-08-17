@@ -1,21 +1,90 @@
+import contextlib
 import importlib.util
+import io
 import json
-import subprocess
+import runpy
 import sys
 import tempfile
+import types
 import unittest
 from datetime import datetime, timedelta
 from pathlib import Path
+from unittest.mock import patch
 
 
 REPOSITORY_ROOT = Path(__file__).resolve().parents[1]
 MCP_ROOT = REPOSITORY_ROOT / "zz_COMPASS" / "MCP_Implementations"
-SERVER_NAMES = {
-    "PROFESSIONAL_EDITOR_MCP": "professional-editor",
-    "DENNIS_LEHANE_MCP": "dennis-lehane-style",
-    "FICTION_REVERSE_ENGINEERING_MCP": "fiction-reverse-engineering",
-    "CURSOR_WORKFLOW_ORCHESTRATOR_MCP": "cursor-workflow-orchestrator",
-}
+SERVER_NAMES = (
+    "PROFESSIONAL_EDITOR_MCP",
+    "DENNIS_LEHANE_MCP",
+    "FICTION_REVERSE_ENGINEERING_MCP",
+    "CURSOR_WORKFLOW_ORCHESTRATOR_MCP",
+)
+
+
+def build_fake_mcp_modules():
+    state = types.SimpleNamespace(contexts=[], servers=[])
+
+    class FakeStdioContext:
+        def __init__(self):
+            self.entered = False
+            self.exited = False
+
+        async def __aenter__(self):
+            self.entered = True
+            return "read-stream", "write-stream"
+
+        async def __aexit__(self, exc_type, exc_value, traceback):
+            self.exited = True
+
+    class FakeServer:
+        def __init__(self, name):
+            self.name = name
+            self.run_calls = []
+            state.servers.append(self)
+
+        def list_tools(self):
+            return lambda function: function
+
+        def call_tool(self):
+            return lambda function: function
+
+        def create_initialization_options(self):
+            return "initialization-options"
+
+        async def run(self, read_stream, write_stream, initialization_options):
+            self.run_calls.append(
+                (read_stream, write_stream, initialization_options)
+            )
+
+    class FakeMcpType:
+        def __init__(self, **values):
+            self.__dict__.update(values)
+
+    def stdio_server():
+        context = FakeStdioContext()
+        state.contexts.append(context)
+        return context
+
+    mcp_module = types.ModuleType("mcp")
+    server_module = types.ModuleType("mcp.server")
+    stdio_module = types.ModuleType("mcp.server.stdio")
+    types_module = types.ModuleType("mcp.types")
+
+    server_module.Server = FakeServer
+    server_module.stdio = stdio_module
+    stdio_module.stdio_server = stdio_server
+    types_module.TextContent = FakeMcpType
+    types_module.Tool = FakeMcpType
+    mcp_module.server = server_module
+
+    modules = {
+        "mcp": mcp_module,
+        "mcp.server": server_module,
+        "mcp.server.stdio": stdio_module,
+        "mcp.types": types_module,
+    }
+    return modules, state
 
 
 def load_server_module(server_directory: str):
@@ -25,75 +94,42 @@ def load_server_module(server_directory: str):
     if spec is None or spec.loader is None:
         raise ImportError(f"Unable to load {server_path}")
     module = importlib.util.module_from_spec(spec)
-    spec.loader.exec_module(module)
+    fake_modules, _ = build_fake_mcp_modules()
+    with patch.dict(sys.modules, fake_modules):
+        spec.loader.exec_module(module)
     return module
 
 
 class McpServerStartupTests(unittest.TestCase):
-    def test_fixed_servers_complete_initialize_handshake(self):
-        initialize_request = json.dumps(
-            {
-                "jsonrpc": "2.0",
-                "id": 1,
-                "method": "initialize",
-                "params": {
-                    "protocolVersion": "2024-11-05",
-                    "capabilities": {},
-                    "clientInfo": {
-                        "name": "regression-test",
-                        "version": "1.0",
-                    },
-                },
-            }
-        )
-
-        for server_directory, expected_name in SERVER_NAMES.items():
+    def test_fixed_servers_use_async_stdio_entrypoint_without_stdout_noise(self):
+        for server_directory in SERVER_NAMES:
             with self.subTest(server=server_directory):
                 server_path = MCP_ROOT / server_directory / "server.py"
-                completed = subprocess.run(
-                    [sys.executable, str(server_path)],
-                    input=f"{initialize_request}\n",
-                    capture_output=True,
-                    check=False,
-                    cwd=REPOSITORY_ROOT,
-                    text=True,
-                    timeout=10,
-                )
+                fake_modules, state = build_fake_mcp_modules()
+                stdout = io.StringIO()
+
+                with patch.dict(sys.modules, fake_modules):
+                    with contextlib.redirect_stdout(stdout):
+                        runpy.run_path(str(server_path), run_name="__main__")
 
                 self.assertEqual(
-                    completed.returncode,
-                    0,
-                    msg=f"{server_directory} failed to start:\n{completed.stderr}",
+                    stdout.getvalue(),
+                    "",
+                    msg=f"{server_directory} wrote non-protocol text to stdout",
                 )
-                output_lines = [
-                    line for line in completed.stdout.splitlines() if line.strip()
-                ]
-                self.assertTrue(
-                    output_lines,
-                    msg=f"{server_directory} returned no initialize response",
-                )
-
-                responses = []
-                for line in output_lines:
-                    try:
-                        responses.append(json.loads(line))
-                    except json.JSONDecodeError as error:
-                        self.fail(
-                            f"{server_directory} corrupted stdout with "
-                            f"non-JSON protocol output: {line!r} ({error})"
+                self.assertEqual(len(state.contexts), 1)
+                self.assertTrue(state.contexts[0].entered)
+                self.assertTrue(state.contexts[0].exited)
+                self.assertEqual(len(state.servers), 1)
+                self.assertEqual(
+                    state.servers[0].run_calls,
+                    [
+                        (
+                            "read-stream",
+                            "write-stream",
+                            "initialization-options",
                         )
-
-                initialize_response = next(
-                    (response for response in responses if response.get("id") == 1),
-                    None,
-                )
-                self.assertIsNotNone(
-                    initialize_response,
-                    msg=f"{server_directory} did not answer initialize",
-                )
-                self.assertEqual(
-                    initialize_response["result"]["serverInfo"]["name"],
-                    expected_name,
+                    ],
                 )
 
 
