@@ -66,4 +66,4 @@ Wait on Timothy after the Ondaatje pass. Do not overwrite WORKING.
 
 ## Session end
 
-Write [chat-summaries/](chat-summaries/README.md) if a working session happens.
+Write a file in [session-summaries/](session-summaries/README.md) only if Timothy ends the sitting.

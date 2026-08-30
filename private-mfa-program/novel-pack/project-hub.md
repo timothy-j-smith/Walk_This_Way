@@ -21,7 +21,7 @@
 - [vault.md](vault.md)
 - [working-manuscript.md](working-manuscript.md)
 - [chapters/](chapters/README.md)
-- [chat-summaries/](chat-summaries/README.md)
+- [session-summaries/](session-summaries/README.md)
 - [series/](series/README.md)
 
 ---
@@ -43,7 +43,7 @@
 - [ ] Chapter file updated if we drafted
 - [ ] Vault received cuts
 - [ ] Hub last-session line updated
-- [ ] `chat-summaries/YYYY-MM-DD.md` written
+- [ ] `session-summaries/YYYY-MM-DD.md` written (only if Timothy ended the sitting)
 - [ ] Git commit offered if the chunk was real
 
 Open this file first every session.

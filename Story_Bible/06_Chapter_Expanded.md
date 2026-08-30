@@ -50,7 +50,7 @@ Freshman fall 1975 fracture brick: cafeteria geography, Jackie on the platform, 
 April 1976, Nick's consciousness end to end (re-bricked, King lens). Parallel doors; Corridor as pass-through weather; shop with Joe Pacenka/Carl/Ant — Carl asks what happened with the Marsh kid, Nick: *"Nothing happened,"* and that's the wound. Lunch: Jackie's real laugh crosses forty feet; Patty guitar pass-by — both boys track her, neither registered; scorekeeping seed (freshman-fracture braid). Same lot close. Grace thread only. Lenny/platform ensemble parked in PARKING_LOT.
 
 **Chapter 15 — "Landslide"**  
-November 1977: Dan's ordinary morning, crane cable, Globe paragraph with misspelled name, funeral, toolbox opens. Grace: "He gave it to you instead." Act I curtain; Nick becomes man of the house. End at closed lid.
+November 1977: ordinary Tuesday (tuna, *Home by six*), crane cable, Friendly's call, principal's couch, closed casket, mug in the sink. Toolbox opens — picks, *Landslide* chart, pawn ticket, notebook verse. Grace: *He played after I went to sleep* / *He gave it to you instead.* Latch. Empty 9/16 slot. **Draft_06 Session 15:** Robinson — cut later-tells, insurance/Globe (Ch 16 owns misspelling), Grace sermon after the line. End on lid + slot.
 
 ---
 

@@ -1,7 +1,15 @@
 # Session Summaries
 
-**Purpose**: Daily session summaries and work documentation  
-**Naming Convention**: `YYYY-MM-DD_Time_Session_Title.md`
+One folder for this novel. Write a file here only when Timothy says the sitting is over (going to bed, leaving for work, “create a session summary”). Not after every chat turn.
+
+**Naming:** `YYYY-MM-DD_HHMM_PDT_Short_Title.md` (use `PST` in winter)
+
+**Examples:**
+
+- `2026-01-13_2130_PST_Draft_2_Planning_Marathon.md`
+- `2026-01-15_0930_PST_File_Organization_Cleanup.md`
+
+Retired after-each-turn JSON crumbs (formerly `Chat_Summaries/` and `tmp/summary-*.json`) live in one archive: `2026-02-08_Turn_Recaps_Combined.md`. Do not add to that file. Do not recreate `Chat_Summaries/`.
 
 ---
 
@@ -10,6 +18,7 @@
 **Format**: `YYYY-MM-DD_HHMM_PST_Session_Title.md` or `YYYY-MM-DD_HHMM_PDT_Session_Title.md`
 
 **Examples**:
+
 - `2026-01-13_2130_PST_Draft_2_Planning_Marathon.md`
 - `2026-01-15_0930_PST_File_Organization_Cleanup.md`
 - `2026-01-17_1430_PST_Chapter_00_Rewrite.md`
@@ -87,10 +96,11 @@ Session_Summaries/
 
 ## 🚀 USAGE
 
-**At End of Each Session**:
-1. Create session summary with proper naming
-2. Save to `Session_Summaries/`
-3. Reference next day for continuity
+**At the end of a sitting, when Timothy asks:**
+
+1. Create one session summary with the naming above
+2. Save it in this folder
+3. Reference it next day for continuity
 
 **Benefits**:
 - Continuity across sessions
@@ -117,4 +127,4 @@ Session_Summaries/
 
 **This system ensures our work is documented and easily referenced!**
 
-**Last Updated**: January 15, 2026
+**Last Updated**: 26 August 2026

@@ -9,7 +9,7 @@ The primary chat. Chair of Creative Writing. Not a literary master. Continuous r
 
 ## What the Dean does
 
-- Remembers via the novel's `project-hub.md` and `chat-summaries/`
+- Remembers via the novel's `project-hub.md` and `Session_Summaries/` (or that novel's `session-summaries/`)
 - Names where the book is, proposes today's job, waits
 - Summons faculty from prose-dna; Timothy confirms
 - Calls lab MCPs so Timothy does not remember sixty tool names

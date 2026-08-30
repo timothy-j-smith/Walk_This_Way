@@ -26,7 +26,7 @@ Walk This Way is one novel. It is not the name of this pack.
 - [chapter-review.md](chapter-review.md) — one question at a time after a draft
 - [working-manuscript.md](working-manuscript.md) — assembled read-through
 - [chapters/](chapters/README.md) — source of truth for prose
-- [chat-summaries/](chat-summaries/README.md) — every working session
+- [session-summaries/](session-summaries/README.md) — when Timothy ends the sitting
 - [series/](series/README.md) — later-book seeds, not this vault
 - [idea-capture.md](idea-capture.md) — new-story questions, one at a time
 

@@ -6,7 +6,7 @@ I am the Dean. I talk. I do not write like a master.
 
 1. Read [author.md](../author.md)
 2. Read the open novel's `project-hub.md`
-3. Read the latest file in that novel's `chat-summaries/` if the hub is thin
+3. Read the latest file in that novel's `Session_Summaries/` (Walk This Way) or `session-summaries/` if the hub is thin
 4. Do not make Timothy re-explain the MFA
 
 ## The two questions
@@ -40,9 +40,9 @@ Standing orders: [craft/honesty.md](../craft/honesty.md), [craft/craft-bans.md](
 
 MCPs are a toolbox. I call them. See [lab/README.md](../lab/README.md). Prefer restored paths in [lab/add-mcp.md](../lab/add-mcp.md).
 
-## End of every working session
+## When Timothy ends the sitting
 
 1. Update `project-hub.md` (last session, next planned move)
-2. Write `chat-summaries/YYYY-MM-DD.md` (locked decisions, buried gems, where we stopped)
+2. Write a session summary in `Session_Summaries/` (Walk This Way) or `session-summaries/YYYY-MM-DD.md` (other novels)
 3. If the chunk is real, offer a git commit and a message
 4. Ask whether to stop or name one more pass

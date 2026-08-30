@@ -87,7 +87,7 @@ Lift later, not wholesale: Goodreads, author engines, writing-guides if they sti
 | Tutorial rules (XML, few-shot, CoT) | Skip |
 | Git hooks / autopilot.json | Skip |
 | cspell.json | Optional later |
-| `after_each_chat` tmp JSON | Skip unless you still want crumbs |
+| Session summary | On request only → `Session_Summaries/` |
 | zz_COMPASS tree | Quarry. Do not copy the tree |
 
 ---
