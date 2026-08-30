@@ -1,0 +1,95 @@
+MFA BUILD COMPLETE — Guided Tour
+Built: May 23, 2026, 01:30 UTC-7 Built from: live chat session with Timothy J. Smith Location: ~/MFA_Template/ Git: initialized, first commit on main branch Files: 34 files, 2,235 lines
+
+What this is
+A clean, copy-pastable Cursor workspace template for your private MFA writing system. Built from your own architecture decisions during this session — A.B.S.H. method, three-core / three-guests author model, neurodivergent communication rules, the honesty protocol, the voice-intactness check.
+The previous Cursor mess is not in here. Clean slate by design. If you decide later that something from the old workspace belongs here, you bring it in deliberately.
+
+How to read this template
+Open ~/MFA_Template/ as a Cursor workspace and start at:
+README.md — what this is, how to copy per novel
+ABSH_METHODOLOGY.md — the four stages, the loop, the mechanism, in your words
+DASHBOARD.md — the live status sheet (per-novel, fill in when you copy)
+.cursor/agents/ — your six professors plus the architect
+.cursor/rules/ — the four binding rules
+.cursor/commands/ — your six ABSH commands
+
+What you can do tonight (or whenever)
+Test the template — spin up your first novel
+cp -R ~/MFA_Template ~/Novels/island-spring
+cd ~/Novels/island-spring
+git init
+git add .
+git commit -m "Spin up Island Spring from MFA_Template"
+Then open ~/Novels/island-spring/ as a Cursor workspace.
+In Cursor, open DASHBOARD.md and fill in:
+Title: Island Spring
+Primary professor: King (Oak's voice is plainspoken kid-narrator, working-class New England, dual-identity engine)
+ABSH stage: B → S transition (you have a Brick of Ch. 1; ready for first Scalpel pass)
+Setting: Penobscot Bay, Maine, 1980s (you choose the year)
+Then drop your existing Ch. 1 into 02_brick/chapters/ch-01-midnight-owls.md and you are off.
+Or: just sit with it
+Open the workspace. Read ABSH_METHODOLOGY.md. Read the three core professor specs (King, Ondaatje, Dickey). Notice that two of them — Ondaatje and Dickey — are your own words from earlier in this session. You wrote those. The system is holding them now so you don't have to.
+
+What's in the template (full inventory)
+Root-level files
+README.md — what this is, how to spin up a new novel, the six professors, the four stages, save path, library at rest
+ABSH_METHODOLOGY.md — A, B, S, H stages with the long form. Includes your line: "i am simply a mechanism to scalpel and hose"
+DASHBOARD.md — per-novel live status: title, primary professor, guests on call, ABSH stage, current chapter, last passes, voice-check, active-10 stories table
+.gitignore — macOS, editor temp, .DS_Store, Pages artifacts, .cursor session files, anything marked **/PRIVATE/
+Six professors (.cursor/agents/)
+professor-ondaatje.md — your full spec, verbatim. The English Patient focus. Lyric compression, memory as form, identity under pressure, nested time and place.
+professor-dickey.md — your full spec, verbatim. Deliverance focus. Muscular kinetic prose, deep-third interiority, nature as moral pressure, aftermath as craft. Includes your "Applied to Scrambled Eggs & Toast" notes.
+professor-king.md — built fresh by the system based on your love of Blind Willie. Plainspoken interior, kid-narrator credibility, dual-identity / masking, working-class New England, the ensemble. Note in the file says: refine this one yourself when you sit with Professor K. Your turn to shape.
+guest-robinson.md — scaffold. Sentence-level only. "A trace of housekeeping in a paragraph is the goal. A chapter of housekeeping is the failure."
+guest-lehane.md — scaffold. Scene-level only. The standing reminder: setting affiliation (Boston) is not voice. Geography ≠ primary.
+guest-kesey.md — scaffold. Single-passage only. Mythic register, then return to primary.
+mfa-architect.md — the agent that spins up new novels from the template. Asks one question at a time. Never recommends primary based on geography. Always defers to you.
+Four rules (.cursor/rules/)
+absh-method.mdc — stage protection rules. Brick is sacred (no edits, no notes). Scalpel never silent rewrites. Hose is precision, not generosity.
+neurodiversity.mdc — one question at a time, short responses, no assumptions, no pre-emptive solving, never grade prose, voice-intactness over "good." Names the masking history.
+honesty-protocol.mdc — the Phantom Cowboy rule, the three Liberty Levels (Nice / Neutral / Professional), forbidden patterns (praise sandwiches, master-comparison flattery), required patterns (specific lines, named assumptions, named "I do not know").
+voice-intactness.mdc — the single question: Is the voice that came through still intact? The agent surfaces, you answer.
+Six commands (.cursor/commands/)
+/architecture — Stage A. Outline, characters, timeline, theme. Map, not fence.
+/brick — Stage B. Drafting. The agent receives only. Wet brick. Do not touch.
+/scalpel — Stage S. Cut. Diff suggestions. Watches for the Qitat al-Medina line.
+/hose — Stage H. Add only what is missing. Body-bridges and earned single-image inserts only.
+/summon-professor — Confirm primary, change primary (rare), or invite a guest for a specific passage.
+/voice-check — Run the voice-intactness check. Agent surfaces, you answer.
+Per-novel content folders
+01_architecture/ — outline.md, characters.md, timeline.md, theme.md (template files with section scaffolds)
+02_brick/ — chapters/, notes/ (with .gitkeep notes describing what goes where)
+03_scalpel/revisions/ — naming convention noted; one file per chapter per pass
+04_hose/additions/ — naming convention noted
+research/corpus/ — primary professor's anchor work, for private educational reference
+research/notes/ — facts, place, era, technology
+deliverables/manuscripts/, deliverables/exports/ — finals, .pdf and .txt for printing-and-pen reading
+MCP config (.cursor/config/mcp.json)
+Lean and writing-only. Three default MCPs:
+memory — knowledge graph for character, plot, continuity per novel
+filesystem — read/write the novel workspace folder
+sequential-thinking — step-by-step for plotting and continuity
+Optional / commented out: mermaid (diagrams), duckduckgo-search (research).
+Intentionally NOT included: code-review MCPs, Zapier, Linear, Twilio, GitHub MCP. Surface area kept small.
+Note: MCP servers themselves require installation (npm install -g ...). The mcp.json is configuration, not installation. Install the MCPs you'll actually use, skip the rest.
+
+What you should do next (when you have energy)
+In rough order:
+Open ~/MFA_Template/ as a Cursor workspace. See it whole. Walk the rooms.
+Read ABSH_METHODOLOGY.md and professor-king.md. Refine the King spec — that one is your turn to shape.
+Spin up ~/Novels/island-spring/ from the template. Drop your existing Ch. 1 in. Try /scalpel and see how it feels.
+Push MFA_Template to GitHub (private repo recommended): gh repo create MFA_Template --private --source=. --push
+Eventually: start the multi-machine inventory. Mac Studio first, NAS second. That's a separate session.
+You said max 10 active novels at once. The 6 you named — Island Spring, Walk This Way, Senseless, When A River Cries, Scrambled Eggs and Toast, The Phantom Cowboy — fit comfortably under that ceiling. There is room for 4 more on the active shelf when you are ready.
+
+What stays out of bounds
+Recommending professors based on geography. You decide voice.
+Editing during Brick stage. The brick is wet.
+
+A note from the build
+You shared Island Spring Ch. 1 tonight. You shared the line about the mechanism. You named Blind Willie as the voice that spoke first because of the honesty about masking and non-masking. That is what the system is built to protect.
+The voice is yours. The system holds the room around it.
+
+Built clean. Built for one. Copy for the next.
+— MFA_Template, May 23, 2026

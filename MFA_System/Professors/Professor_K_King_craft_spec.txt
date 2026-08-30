@@ -1,0 +1,80 @@
+Author MCP — Stephen King (craft & tutoring spec)
+Document type: Design / review draft for a private tutoring MCP Audience: Self-directed MFA-style study (evening practice, craft-first) Version: 0.3 — deeper envelope + focus story: “Blind Willie” Confidentiality: Personal, educational use; keep implementation private; no bulk reproduction of copyrighted novels.
+Seminar-depth design + suite docs: STEPHEN_KING_AUTHOR_MCP_DESIGN.md · USER_GUIDE.md · CANON_FORMAT.md · DOCUMENT_STYLE.md · JSON_KB_SCHEMA.md
+
+1. Purpose
+This MCP supports your writing education through Stephen King’s craft as you actually want to use it: granular American realism, situation-born moral pressure, working-class and institutional texture, dialogue that sounds overheard, and revision habits that favor clarity and earned emotion over “literary” varnish.
+Explicit learning lane (yours): You respond strongly to New England material truth (weather, work, class, buildings, procedure) and to psychological / moral fiction—not to creature / supernatural horror as a default study path. Misery remains a useful secondary reference (pressure-cooker craft) when you want it; the primary spine for deep novel-level study is “Blind Willie.”
+
+2. Corpus scope
+
+Configuration: Set focus_story: "blind_willie" and collection: "hearts_in_atlantis" in implementation metadata.
+
+3. Why “Blind Willie” fits what you are trying to learn
+“Blind Willie” is King operating closer to moral realism + procedure + shame than to a haunted-house engine:
+Ordinary surfaces, extraordinary conscience: Street-level routine, paperwork, performance of identity, and the way public roles hide private judgment.
+Guilt as plot fuel, not gore: Vietnam-era moral residue expressed through behavior (what the character does with his hands, his schedule, his lies) more than through spectacle.
+Material specificity: The kind of named, tactile dailiness you can study for your own New England / American scenes without importing a horror premise.
+Voice control: First-person self-justifying narration—useful for tutoring unreliable or self-exculpating POV without turning the workshop into “write a monster story.”
+Tutoring guardrail: Discuss violence, race, class, and penance with ethical framing—craft of depiction, not sensationalism.
+
+4. Writing DNA (overview) — King without the horror mandate
+Situation-first storytelling: People in predicaments; let them try to work free; plot emerges from pressure + character choice.
+Character drives plot: If a beat feels false, fix motivation, secret, need, not a cleverer monster beat.
+Stakes beyond “boo”: Fear of being exposed, fear of irreversible moral compromise, fear of ordinary life cracking—same toolkit, different emotional register.
+Voice: Conversational, sensory, regionally grounded when you choose; humor as survival; plain language that still carries.
+Pacing: Patient accumulation; sentence rhythm as music; the patient setup that makes a late turn feel inevitable rather than “twisty.”
+Revision ethics: Second-draft discipline—tighten, sharpen image transmission, kill darlings when they stop serving the reader.
+
+5. Standard engine (neutral naming)
+
+Modes: CREATE (idea), TRANSFORM (excerpt), EDIT (long passage / chapter). Liberty levels: Nice, Neutral, Professional — nice ≠ dishonest (same critical rule as your full toolbox docs: delivery changes, truth does not).
+5.1 Liberty level — quick calibration (example shape)
+Use the same scene rated 4/10 thought experiment your longer design uses:
+Nice: Name what is alive, then give three concrete upgrades—no inflation.
+Neutral: “Works / fails because…” with one revision focus (e.g., cut expository self-defense; add a physical action that contradicts the narrator’s claim).
+Professional: Prioritized failure modes + revision plan + honest score if you asked for one.
+5.2 Nine-combination grid (same engine, neutral labels)
+
+Override explicitly when you want (e.g., rigorous planning on a fragile idea).
+
+6. Natural scenarios (workflows)
+Create — “I have a seed.” Smallest input (image, sentence, moral trap). Full A.B.S.H. journey in guidance: situation → scene DNA → cut/add pass on a paragraph prototype.
+Transform — “Make this paragraph truer.” Medium input. Fast surgical pass: specificity, rhythm, dialogue honesty.
+Edit — “This chapter feels soft.” Largest input. Deep pass: pacing, shame/guilt mechanics, ending cost, optional revision report grouped by principle.
+
+7. “Writer’s Toolbox” — four shelves (King craft, non-horror emphasis)
+Bottom to top (adapted from your private full design, re-aimed at moral realism / material truth):
+Foundation: Strong nouns and verbs; first right word; grammar as clarity, not decoration.
+Style: Active voice; death-to-adverbs as default advice (know when to break for voice); conversational line.
+Scene craft: Situation tests; dialogue that reveals; description that finishes in the reader’s imagination; performance of self under pressure.
+Theme & resonance: Theme as bone—holds the body, not shouted from a bullhorn; emerges from choices and images.
+Image transmission (neutral name for “telepathy”): Signal = concrete detail, action, sense, cost; noise = explanation, label emotions, stacked modifiers.
+
+8. Host / router creative settings (starting points)
+Tune in practice. Literary-moral realism often wants high control in Edit even if Create stays warm.
+
+
+9. Key work — deep section: “Blind Willie”
+Use this section as the template depth you will later mirror for other authors’ focus texts in their specs.
+Architecture: Present-day ritual vs. past that will not stay buried; the scam/performance as moral machine; city grid as moral geography (different from Maine, but same King obsession with where life happens materially).
+POV & reliability: First-person self-story; track what the narrator needs to believe vs. what the reader is allowed to doubt—tutor with precision, not mockery.
+Prose moves: Bureaucratic texture, calendar time, body-as-evidence; shame carried in habit rather than in speechifying.
+Aftermath-as-craft: Consequences live in next Tuesday, not only in the “big night.”
+Tutoring prompts: “What object would betray him if it shifted one inch?” “What kindness does he perform to buy peace?” “Where is he explaining guilt instead of enacting it?”
+9.1 Optional secondary deep dive: Misery (when you ask)
+Pressure cooker; permission/revocation as suspense; limited geography variation through object and ritual.
+
+10. Knowledge base (data/ JSON) — suggested sections
+meta + learning_lane + focus_story + collection 
+writing_dna + on_writing_principles (paraphrase clusters) 
+blind_willie subtree: architecture, shame_and_ritual, performance_of_self, material_truth, pov_reliability, pitfalls, tutor_prompts 
+novels_short_capsules for optional shelf titles 
+Shared: modes, liberty_levels, honesty_protocol, phantom_cowboy, neurodiversity_guidelines, inline_notes_convention 
+quotes_fair_use (optional; very short lines + gloss only)
+
+11. Implementation checklist
+Set focus_story: "blind_willie" for v1. 
+Split JSON: global craft axioms vs story-specific nodes so you can grow depth without rewriting everything. 
+README: privacy, Python version, stdio run, and a one-line learning lane reminder (non-horror default).
+End of review draft — Stephen King (Blind Willie–centered lane)

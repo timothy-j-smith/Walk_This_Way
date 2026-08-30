@@ -1,0 +1,47 @@
+Author MCP — James Dickey (Deliverance center of gravity)
+Document type: Design / review draft for a private tutoring MCP Audience: Self-directed MFA-style study (evening practice, craft-first) Version: 0.2 — standardized envelope Confidentiality: Personal, educational use; keep implementation private; no bulk reproduction of copyrighted novels.
+Seminar-depth design + suite docs: JAMES_DICKEY_AUTHOR_MCP_DESIGN.md · identical copy in JAMES_DICKEY_MCP/JAMES_DICKEY_MCP_DESIGN.md · USER_GUIDE.md · DOCUMENT_STYLE.md
+
+1. Purpose
+This MCP supports your writing education through James Dickey’s craft as most readers encounter it in fiction: muscular, sensory prose, deep third-person consciousness, nature as moral pressure, violence as irreversible knowledge, and moral ambiguity without easy absolution. No hybrid authors—Dickey’s DNA stays in its own corpus lane.
+Scope choice (recommended): Primary novel: Deliverance. Dickey’s poetry can be a secondary appendix in JSON only if you explicitly want dual corpus; default keeps the MCP legible for night-study sessions.
+
+2. Corpus scope
+
+
+3. Writing DNA (overview)
+Dense, kinetic prose: Strong verbs, active voice, long sentences that accumulate force rather than wander.
+Nature as antagonist and mirror: Rivers, forest, weather—setting does work on character psychology.
+Deep third + interiority: Stream-of-consciousness bursts tied to bodily fear; external action stays grounded.
+Dialogue economy: Speech is pressure valve, not explanation; much of the story lives in sensation and thought.
+Moral fog: Characters rationalize; the reader feels complicity without being lectured.
+Southern cadence (careful tutoring): Dialect and idiom as character truth, not cartoon; discuss when it serves and when it stereotypes.
+
+4. Standard engine (neutral naming)
+
+Modes: CREATE, TRANSFORM, EDIT. Liberty levels: Nice, Neutral, Professional.
+
+5. Key work — detailed section
+5.1 Deliverance (focus)
+Architecture: Leisure → trespass → survival; the river as one-way moral journey; urban professional masculinity tested by force and fear.
+Scene craft: Set pieces that teach escalation: stillness → wrong sound → wrong body → chase → aftermath silence.
+Interiority: Panic thinking that stays embodied (not essayistic) until the character has room to integrate horror later.
+Theme without thesis: Civilization vs. wilderness as felt problem, not a speech.
+Tutoring prompts: “Where is the body in this sentence?” “What sense is missing from this fear?” “After violence, what small perception proves the world changed?”
+5.2 Optional: poetry craft appendix (if enabled)
+Image systems that recur and mutate 
+Violence and awe braided (tutor carefully; avoid glorifying real harm) 
+Sound and muscle of line—useful for sentence music in your prose
+
+6. Knowledge base (data/ JSON) — suggested sections
+meta + corpus + focus_novel: "deliverance" 
+writing_dna 
+deliverance → architecture, sensory_escalation, interiority, dialogue_budget, aftermath, pitfalls, tutor_prompts 
+Optional: poetry_appendix (off by default) 
+Shared: modes, liberty_levels, honesty_protocol, neurodiversity_guidelines
+
+7. Implementation checklist
+Single-focus default: Deliverance only. 
+Explicit toggle if poetry corpus is added later. 
+README: privacy, Python version, stdio run.
+End of review draft — James Dickey (novel-centered spec)

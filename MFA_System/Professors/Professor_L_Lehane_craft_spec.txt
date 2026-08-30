@@ -1,0 +1,54 @@
+Author MCP — Dennis Lehane (craft & tutoring spec)
+Document type: Design / review draft for a private tutoring MCP Audience: Self-directed MFA-style study (evening practice, craft-first) Version: 0.2 — standardized envelope Confidentiality: Personal, educational use; keep implementation private; no bulk reproduction of copyrighted novels.
+Seminar-depth design + suite docs: DENNIS_LEHANE_AUTHOR_MCP_DESIGN.md · USER_GUIDE.md · CANON_FORMAT.md · DOCUMENT_STYLE.md
+
+1. Purpose
+This MCP supports your writing education through Dennis Lehane’s craft: working-class Boston moral geography, noir plot engines, psychological pressure, and literary technique as a learnable lens (“how does this effect get built?”). It is not a hybrid author system. It does not encourage plagiarism or impersonation for submission.
+
+2. Corpus scope
+
+Configuration note: Set focus_novel in metadata when you implement so tools default examples without ambiguity.
+
+3. Writing DNA (overview)
+Moral thriller architecture: Crime is often the situation that forces ethical choices; the climax is frequently what kind of person the protagonist becomes.
+Place as conscience: Streets, triple-deckers, institutions (schools, churches, police) are active moral fields, not backdrop.
+Class and power: Money, race, gender, and authority shape who gets believed, who gets saved, and who pays the cost when “justice” wins.
+Voice: Blue-collar vernacular without caricature; humor as armor; rage as signal of love or grief misrouted.
+Revelation discipline: Twists and reveals must be fair (seeded) and thematic (not only surprising). Tutoring should flag cheap surprise vs. earned inversion.
+Literary reference mode (optional tool or JSON section): Slow reads that name technique—how a chapter raises stakes, how POV limits knowledge, how a scene pivots on a single moral line.
+
+4. Standard engine (neutral naming)
+
+Modes: CREATE, TRANSFORM, EDIT. Liberty levels: Nice, Neutral, Professional — honest at every level.
+
+5. Key novels — detailed sections (templates you can deepen)
+5.1 Mystic River
+Architecture: Past trauma haunts present crime; three lives linked by a single geography of guilt.
+Craft moves: Time jumps that emotionally justify themselves; communal knowledge vs. private shame.
+Tutoring prompts: “What is the public story vs. the private truth?” “Where does loyalty become complicity?”
+5.2 Gone, Baby, Gone
+Architecture: Investigation collides with parenthood and protection; the “right” ending may be morally unbearable.
+Craft moves: Question framing; ethical cross-examination in dialogue; reader judgment engineered without authorial sermon.
+5.3 Shutter Island
+Architecture: Unreliable perception as form, not gimmick; institution as labyrinth of mind and state power.
+Craft moves: Control of information diet; sensory disorientation in service of theme.
+5.4 The Given Day (epic scope)
+Architecture: Historical canvas with intimate focal characters; turbulence of 1919 Boston as pressure cooker.
+Craft moves: Managing scale without losing scene clarity; political speech as character revelation.
+5.5 Small Mercies (late-career tightrope)
+Architecture: Neighborhood siege mentality; rage and grief as social weather.
+Craft moves: Contemporary diction + mythic escalation; how a small place becomes an arena.
+(Add shorter capsules for Sacred, Prayers for Rain, Since We Fell as your reading progresses.)
+
+6. Knowledge base (data/ JSON) — suggested sections
+meta + corpus + focus_novel 
+writing_dna 
+novels → per title: moral_engine, place_conscience, voice, twist_fairness, pitfalls, tutor_prompts 
+Optional: technique_reference (slow “how the effect is built” entries) 
+Shared: modes, liberty_levels, honesty_protocol, neurodiversity_guidelines
+
+7. Implementation checklist
+Choose one focus_novel for v1 deepest JSON. 
+Align tool docstrings with neutral engine names (no cross-author product references). 
+README: privacy, Python version, stdio run.
+End of review draft — Dennis Lehane
