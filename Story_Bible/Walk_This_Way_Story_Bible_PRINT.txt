@@ -1,0 +1,1557 @@
+Walk This Way — Story Bible
+Consolidated export — July 3, 2026
+Active manuscript: Draft_06/
+========================================
+
+======== 00_README ========
+
+# Walk This Way — Story Bible
+
+**Author:** Timothy J. Smith  
+**Active manuscript:** `Draft_06/` (one file per chapter)  
+**Frozen draft:** `Draft_05/` — first complete arc; **do not edit**  
+**Quarry:** `Draft_04/WALK_THIS_WAY_A_NOVEL_06_06_2026.txt`  
+**Working notes:** `PARKING_LOT.md` (project root)  
+**Edit checklist:** `07_Pass_2_Focus.md`  
+**Workflow:** `09_Workflow.md`  
+**Status:** Draft_06 edit pass started **July 3, 2026** (sequential Ch 1→41, review + line edit)
+
+## What this folder is
+
+Living **architecture and craft** reference — not prose. Updated after each edit session. When `Draft_06/` and this bible disagree, **`Draft_06/` + `PARKING_LOT.md` win** (unless a lock in `07` says otherwise).
+
+Story Bible is **draft-version neutral** — it stays here while `Draft_06/`, `Draft_07/`, etc. hold manuscript snapshots.
+
+## Files (print order)
+
+1. `01_Synopsis_and_Acts.md` — story spine + three acts + Greek tragedy engine  
+2. `02_Chapter_Outline.md` — all 41 chapters: title + chapter job  
+3. `06_Chapter_Expanded.md` — one paragraph per chapter  
+4. `03_Character_Depth_Hierarchy.md` — depth tiers, voice, never rules  
+5. `04_Prose_DNA.md` — POV, voice, motif budgets, ending DNA  
+6. `05_Sudbury_Geography_Brief.md` — town map canon  
+7. `07_Pass_2_Focus.md` — edit-pass checklist, chapter map, session order  
+8. `08_Phrase_Ledger.md` — locked phrases, refrain budgets  
+9. `09_Workflow.md` — structure → review → line edit loop (plain language)
+
+**Print export:** `Walk_This_Way_Story_Bible_PRINT.txt` — regenerate after bible edits.
+
+**Shelf reference:** `Novel_Docs/Walk_This_Way_Blueprint_v2.0_PRINT.txt` (Draft 2; superseded)
+
+**Legacy in this folder:** `character-bible.md`, `timeline.md`, etc. — pre–Draft_05 notes; use numbered files above for canon.
+
+## Terminology
+
+We use **common terms** when editing (see `09_Workflow.md`). Workshop terms remain in docs for reference:
+
+| Term | Common term |
+| ---- | ----------- |
+| Architecture | Structure / outline |
+| Brick | Scene draft |
+| Diagnose | Review / read-aloud |
+| Scalpel + Hose | Line edit |
+
+## Locked canon (quick reference)
+
+- Nick & Jackie: **Aug 1961**; class of **1979**; **17** at Battle  
+- Maxanne: **29** (1979), **59** (2009, Aug 11–12)  
+- Dan dies: **November 1977**  
+- Battle: **May 16, 1979** (Wed)  
+- Studio C: **Sat May 19, 1979**, 4 PM; **~11 min**; **cassette dub** = talisman  
+- Ending: cassette ON AIR → *WBCN. The Rock of Boston. Goodnight.* → silence → **12:01 JOY FM**; no virality; Jackie coda imagined; Nick **Army**  
+- Patty: singer + **guitar**; not the prize  
+- Greek tragedy: virtue → choice → loss; **no viral resurrection**
+
+Full locks: `07_Pass_2_Focus.md`
+
+======== 01_Synopsis_and_Acts ========
+
+# Synopsis and Acts — Walk This Way
+
+**Updated:** June 14, 2026 (Professor O + author — Draft_05 first full draft complete)  
+**Supersedes:** Blueprint two-paragraph synopsis (Jan 14, 2026); keep Blueprint on shelf for reference only.
+
+## Logline
+
+On the last night of Boston rock radio, a veteran DJ tells the story of two boys who could have been the best band their town ever heard — and weren't — because every adult around them had already buried the thing they loved most, and called that burial *care*.
+
+## Two-paragraph synopsis (Draft_05)
+
+In the spring of 1979, two seventeen-year-olds from opposite sides of Sudbury, Massachusetts prepare for Lincoln-Sudbury Regional High's inaugural Battle of the Bands — a competition that becomes a proxy war for class, authenticity, and whatever rock and roll still means in a town divided by Hop Brook. Nick Johnson, working-class Aerosmith from his dead father's garage on Dutton Road, and Jackie Marsh, classically trained Queen from his psychiatrist father's house on Concord Road, were once best friends who made magic together: middle school belt buckles, shared headphones, a talent show mashup, a summer at music camp where the only currency was whether you could play. Dan Johnson's death in November 1977 changed everything. By senior year the friendship has thinned to forty feet of cafeteria linoleum and doors hinged at different walls. The buckles that started an argument now mark battle lines. WBCN sponsors the Battle; Maxanne Sartori, twenty-nine, judges what she helped sell. Music stops being a language and becomes a weapon — until, after the tie, they record one eleven-minute jam in Studio C (Saturday, May 19) that proves harmony was never fiction. They do not become a band again. Each chooses the people who already chose him. *The best band that never was* stays literally true.
+
+Thirty years later, on August 11, 2009, Maxanne Sartori — now fifty-nine, carrying three decades of guilt and an unauthorized **cassette dub** she has kept in her purse since May 1979 — sits in WBCN's Studio B for the station's final broadcast before the frequency becomes Christian contemporary. She drew the short straw among reluctant returning DJs: the shift no one wanted, four hours until the dial goes dark. She tells the story of Nick and Jackie — how she witnessed what they were, how she helped turn their friendship into a product, and how she has carried the only portable copy of them playing together: eleven minutes, unheard on air until tonight. Near the end she plays the tape — loud, without permission. Then: *WBCN. The Rock of Boston. Goodnight.* The ON AIR light dies. Silence. At 12:01 AM the frequency becomes Christian contemporary. No viral rescue. No second act for the boys. She drives west with the radio off, imagining — or needing to imagine — Jackie at a piano somewhere, playing D minor once, never having heard the broadcast. The book does not argue its answer; it lets you hear the tape and sit in the silence after.
+
+## The spine (not the plot)
+
+**Surface plot:** Two gifted boys — working-class Nick Johnson and professional-class Jackie Marsh — meet through music, fracture through class and high school, compete in a Battle of the Bands, and fail to become the band they should have been.
+
+**True subject:** *Inheritance is renunciation, not gift.* Dan seals his guitar in a toolbox. Dr. Marsh closes a practice-room Steinway. Eileen turns nine canvases to the wall. Bob Wentworth folds a Jordan Hall program into a drawer. Maxanne trades her ear for a blazer. The boys are not the first to give up what they loved; they are the latest in a chain of frightened people who decided music was a luxury they could not afford — and then handed that decision down as love.
+
+**Thematic hinge (Nick, senior year):** *"It's not giving up. It's choosing the people who already chose us."* That sentence is the book.
+
+**Promise to keep:** *The best band that never was* — must stay **literally true**. The ending earns elegy, not vindication. No viral resurrection.
+
+## Dramatic engine — Greek tragedy (Draft_05)
+
+The book uses **Greek tragedy structure** without the old Blueprint's viral coda.
+
+- **Hamartia:** Maxanne believes she can game the system (Battle, tie clause). Marsh summons discovery then forbids the dream.  
+- **Fate vs. choice:** Class, Hop Brook, and institutions **press**; Nick and Jackie **choose** loyalty — *the people who already chose us* — not hatred.  
+- **Generational chain:** Inheritance is **renunciation** (toolbox, closed lid, Grace's fall). Boys are latest link, not first.  
+- **Catharsis:** 2009 frame plays the tape; meters drop; **silence**. Reader renders verdict — Maxanne does not gloss the brick chapters.
+
+**Not writing:** viral 2009 rediscovery; mashup-as-triumph; enemies-to-end arc; Aerosmith *Walk This Way* on air as sign-off (title = epitaph only).
+
+## Frame
+
+**August 11–12, 2009.** WBCN's final broadcast. Maxanne Sartori, **59**, four hours left. She holds a cassette labeled in two hands — the only complete recording of Nick and Jackie playing together (~11 min). She tells the story backward into 1974–1979 Sudbury. The booth is present tense, first person. The past is third person, **witness chapters**.
+
+## Three acts (album titles)
+
+Each act is named for a classic rock album. The subtitle is the book's **frequency metaphor** — signal, static, last transmission.
+
+---
+
+### Act I — *Toys in the Attic* (The Frequency)
+
+**Chapters 1–15**
+
+**What this act represents:** The moment before the crack becomes a canyon. Act I is **discovery and frequency** — two boys finding each other through Queen and Aerosmith, a town rendered as geography and smell, music as the one language that crosses Hop Brook before anyone admits Hop Brook exists. Adults bury their gifts in toolboxes, attics, and closed fallboards; the boys don't know that yet. They think the war is belt buckles and cafeteria doors.
+
+The act ends when inheritance becomes physical: **Dan dies** (November 1977), the toolbox opens, and Nick becomes the man of the house while Jackie walks parallel hallways. Innocence doesn't explode here — it **thins**, like forty feet of linoleum you step over without looking down until years later it's a canyon. Act I's last note is landslide: what was buried surfaces, and the boys are still in the same town but no longer in the same world.
+
+**Emotional register:** Wonder, comedy, first jam, first fracture. Load-bearing shown scenes. Maxanne's frame sets the clock but must not pre-chew the witness chapters.
+
+---
+
+### Act II — *A Night at the Opera* (The Static)
+
+**Chapters 16–27**
+
+**What this act represents:** **Static** — interference between signal and meaning. The town, the school, the parents, and WBCN all begin to **use** the boys' gift instead of nurturing it. The Battle of the Bands is conceived not as discovery but as **content**: revenue, rivalry, spectacle. Class stops being geography and becomes **machinery** — PTA chairs, diner booths, rubrics, tie-clauses, the machinery that lifts some kids and grinds others down.
+
+Act II is the opera in the title: everyone performing their role — Grace gripping an oak chair in a fryer-smelling uniform, Dr. Marsh counting notes instead of hearing music, Maxanne writing the clause that makes a tie possible, Wentworth blowing one sagging F into an empty room. The boys still play; they play **at** each other. The bridge chapter (Ch 17) is the act's false hope — bodies almost remember friendship before institutions pull them back to their corners.
+
+**Emotional register:** Pressure, comedy turning sharp, institutional guilt. Frame chapters confess; witness chapters show. Ends on the eve of battle — page turned, complicity acknowledged, no innocence left to protect.
+
+---
+
+### Act III — *In Through the Out Door* (The Signal)
+
+**Chapters 28–41**
+
+**What this act represents:** **Last signal** — what gets through when everything else is dying. Patty enters not as prize but as **conscience**: music that isn't a weapon. The Battle plays out hyper-local (Lincoln-Sudbury inaugural) while the larger world (WBCN, rock radio, the discovery era) ends in the 2009 booth above our heads.
+
+Act III moves **in through the out door**: the famous exit is the secret entrance. The garage struggle session (Wed May 16 night) and the Studio C jam (**Sat May 19**, 4 PM) are not triumph — they are **the one unauthorized recording** Maxanne kept on cassette when she sold everything else. The boys don't reform the band. They play once in Studio C, truthfully, for eleven minutes — then choose their people. Nick: Army. Jackie: Juilliard path. Graduation, silence.
+
+The frame closes: **cassette** on air (not the Aerosmith single); meters red then dead; midnight silence; **12:01 JOY FM**; Neighborhoods voicemail as early outside verdict; Jackie coda (**imagined**, does not hear broadcast); Volvo west, **radio off**. Walk This Way the **title** is epitaph, not encore.
+
+**Emotional register:** Grief, restraint, physical detail under stress. Rhythmic hose allowed; thesis sentences forbidden. Ends quiet.
+
+---
+
+## Loss of innocence — four layers
+
+| Layer | What it is | Strongest in |
+| ----- | ---------- | ------------ |
+| Personal | Nick ↔ Jackie friendship | Ch 5–7, 12–13, 17, Battle |
+| Class / town | Hop Brook, four quarters, labor | Ch 4, 14, 21, 23 |
+| Institutional | WBCN, Battle as product, Maxanne's clause | Ch 22, 27, frame |
+| Cultural | Rock vs. disco, radio dying, "authenticity" | Frame (light touch); let objects carry |
+
+**Fragile layer:** Institutional/cultural — survives when shown (Kowalski's soda-machine line, Globe obituary) and dies when Maxanne glosses meaning.
+
+## What we are not writing
+
+- Clean Battle winner or talent-show triumph lap as soul of book  
+- 1976 conspiracy Battle; Kowalski tie-clause as main engine (if used: one boring sponsor line)  
+- Viral 2009 rediscovery  
+- Patty as romantic prize or deus ex machina  
+- Parent biography chapters — parents live in **objects and one withheld fact each**
+
+======== 02_Chapter_Outline ========
+
+# Chapter Outline — Walk This Way (41 Chapters)
+
+**Format:** Title → **Chapter job** (what we must achieve — not plot summary).  
+**Status:** ✅ = Draft_05 file saved as of **June 14, 2026** (41/41 complete).
+
+---
+
+## Act I — *Toys in the Attic* (The Frequency)
+
+### Chapter 1 — "Wish You Were Here" ✅
+
+**Job:** Seat the reader in the **2009 booth** — four-hour clock, last broadcast, cassette as loaded gun. Establish Maxanne's voice through **objects** (headphones, bourbon, Tyler note), not thesis. Promise the story; **do not** pre-spoil the boys' arc with interpretive sentences. Overture only.
+
+### Chapter 2 — "Draw the Line" ✅
+
+**Job:** First **brick** — Maxanne to the garage; music felt through boots before heard. Plant **toolbox empty slot** and Johnson grief without opening it. Boys holding instruments "like drowning people hold wreckage." End on image, not moral.
+
+### Chapter 3 — "Killer Queen" ✅
+
+**Job:** Jackie's **gilded cage** — recital room, father's curling pinky (hand motif born). Queen detonation as identity, not rebellion speech. Class through comedy ("pearls clutching themselves"). Father's hand says everything; narrator must not.
+
+### Chapter 4 — "More Than a Feeling" ✅
+
+**Job:** **Town as character** — Hop Brook, four quarters, middle conservation strip (west trails / east dump+pig), stone walls. Geography *is* class; zero lecture. Patty = town eyes; school = commons. **Canon detail:** `05_Sudbury_Geography_Brief.md`. Load-bearing wall for whole novel. End on human (Patty seed) where possible; accept length if every sentence earns.
+
+### Chapter 5 — "School's Out" ✅
+
+**Job:** **Origin of friendship** — Sept 1974 cafeteria, belt buckles, argument-as-courtship. Pure dialogue brick. Two boys discover they need each other to argue. Patty absent (by design). Stop before "He could. He would." if scalpel pass allows.
+
+### Chapter 6 — "With a Little Help From My Friends" ✅
+
+**Job:** Deepen friendship — cassettes, conservation land, **first locked jam** (engine/wingspan: use once). Grace meets Jackie's manners; Dan hears through wall. Doug Malone = friendship has cost. Crown-molding seed (Grace's father's house, not Dan's).
+
+### Chapter 7 — "Bohemian Rhapsody" ✅
+
+**Job:** **Marsh house excavation** — 68°, ruler breakfast, attic sheet music, Elizabeth. "Practice Queen like you're hiding a body." Hose line **once**: classical vs rock breath. Father's hand on cloth. No second thesis ring later in book.
+
+### Chapter 8 — "Mama Kin" ✅
+
+**Job:** **Johnson house mirror** — Dan's guitar through floor; crown molding under landlord white. Grace's buried gentility rhymes Marsh sealed piano **without connecting aloud**. Music through wall = prayer. **Withhold toolbox contents** for Ch 15.
+
+### Chapter 9 — "Just What I Needed" ✅
+
+**Job:** Frame — Maxanne decides **1975 talent show** entry; "nobody knows it except us." **Do not** narrate the show's outcome (that's Ch 10). Compress to decision + hinge; protect brick suspense.
+
+### Chapter 10 — "Dream On" ✅
+
+**Job:** **Talent show set piece** — mashup bar-by-bar, three-second silence, Dr. Marsh's hand opens once. Show parents' bodies (woman with program), not "everyone knew." Peak Act I spectacle; friendship still alive on stage.
+
+### Chapter 11 — "Radio, Radio" ✅
+
+**Job:** Maxanne's **own** origin — Brickyard, Aerosmith, Springsteen "HI MOM." Frame authorized because she lived it. Plant frequency motif. Compress self-indictment (1973 share vs 1979 use) to sharpest two sentences.
+
+### Chapter 12 — "Summer Breeze" ✅
+
+**Job:** **Camp Elbanobscot** — Sudbury sleepaway, sacred barn vs wilderness, Patty **first meeting**, shared 14th birthday, a cappella triad click. Bunk confession (toolbox / attic) without sap on instruments. Patty smell: plant once, hard.
+
+### Chapter 13 — "Breakdown" ✅
+
+**Job:** **Friendship fracture brick** — freshman fall 1975, forty feet linoleum, parallel doors, scratch-on-record image. Canyon metaphor earned; cut gloss on leaves. Most important architecture in Act I; rhythm guardrail born here.
+
+### Chapter 14 — "Baba O'Riley" ✅
+
+**Job:** **School social map** — April 1976 mud, shop/Carl/Ant, Glass Corridor rats, Rampers platform, Patty **guitar** pass-by. Teenage wasteland; fracture **deepening**, not explained. Grace = **thread only** (~10 lines max); full Friendly's → Ch 23.
+
+### Chapter 15 — "Landslide" ✅
+
+**Job:** **Dan's death** (Nov 1977) + **toolbox opens** — ordinary morning, Globe obituary class detail, inheritance physical. Grace: "He gave it to you instead." **End at closed lid** — cut explanatory paragraphs after. Act I curtain; Nick man-of-house.
+
+---
+
+## Act II — *A Night at the Opera* (The Static)
+
+### Chapter 16 — "Running on Empty" ✅
+
+**Job:** Frame — timeline anchor post-Dan; **"I don't need your pity"** — four words, friendship ends. Globe paragraph/misspelled name = class rage. Withhold Battle; Lennon prophecy **once** in book (here OR Ch 40, not both).
+
+### Chapter 17 — "Bridge Over Troubled Water" ✅
+
+**Job:** **Bridge pivot** — diamond-plate, Dr. Marsh reads Nick's hand like X-ray, almost-smile muscle gives up. Bodies remember before minds refuse. One of novel's best bricks; protect from explanatory "book of measurements."
+
+### Chapter 18 — "Rock 'n' Roll Fantasy" ✅
+
+**Job:** Battle poster up; **Wentworth mirror** — drawer, Jordan Hall program, dead metronome. Third buried artist. Poster detail: two beats max (toner, pin), not inventory.
+
+### Chapter 19 — "Born to Run" ✅
+
+**Job:** Cafeteria **singing duel** → principal's office. Competition-as-courtship turns institutional. Sargent's mug, frozen lunch lady tongs > crowd summary.
+
+### Chapter 20 — "Hotel California" ✅
+
+**Job:** Marsh dinner + **Eileen painting room** — **3–5 canvases** to wall, palette knife 1959. Fourth buried artist; Robinson chapter. Fix POV license at frame level later; keep scene. Richard catalog: trust one object.
+
+### Chapter 21 — "Another Brick in the Wall" ✅
+
+**Job:** **Grace PTA** — "Fall is when Jackie goes to conservatory. Fall is when my son is fixing cars." Class war in one woman, oak chair, fryer uniform. Star Market betting pool. Almost perfect — don't over-speech.
+
+### Chapter 22 — "Won't Get Fooled Again" ✅
+
+**Job:** Kowalski meeting / sponsor packet — **late 1978 or winter 1978–79** (NOT 1976). **Show meeting, half length.** Kowalski soda-machine line does indictment. Maxanne adds **one boring tie line** in near-silence — **not** pre-targeting Nick/Jackie; class machinery in the closet, not a trap for boys she hasn't met. Pass 2: no conspiracy theology; institutional guilt only.
+
+### Chapter 23 — "Working Class Hero" ✅
+
+**Job:** **Full Grace Friendly's mosaic** — PTA payoff, Taub decaf, booths, class geography, Nick pickup, encrypted NW fall beat (Maxwell House jar — half-breath only). Lehane diner chapter. Maxwell House jar rhymes Marsh study — half-breath only.
+
+### Chapter 24 — "Light My Fire" ✅
+
+**Job:** Wentworth **Take Five** killed by metaphor; Nick explosion — **body over speech** (set-down pick). Wentworth's sagging F closes his arc. Institutional cruelty as flesh.
+
+### Chapter 25 — "Night Moves" ✅
+
+**Job:** Nick's band night-before — gear love, Stephen loyalty, Grace hand on **storm door** she can't open. Unopened toolbox held. Fear shown in gesture OR sentence, not both.
+
+### Chapter 26 — "Father and Son" ✅
+
+**Job:** Jackie's band night-before — "civilized" as cruelest praise; Elizabeth "he counts notes." Father thumb on middle C. **Cut** repeated Ch 7 hose line; let Elizabeth carry truth.
+
+### Chapter 27 — "Turn the Page" ✅
+
+**Job:** Frame — Maxanne **confesses rigged rubric** in facts, not four verdicts. "I gave class warfare a microphone" = keeper; cut paraphrases. Eve of Battle; innocence officially dead.
+
+---
+
+## Act III — *In Through the Out Door* (The Signal)
+
+### Chapter 28 — "Rhiannon" ✅
+
+**Job:** **Patty POV** — pig farm 5:15, mortgage truth, compress Elbanobscot flashback to sense-memory. Witness boys erasing each other. Decision: music that isn't a weapon. Moral center of Act III.
+
+### Chapter 29 — "Rock and Roll All Nite" ✅
+
+**Job:** Battle **eve** energy — school voltage, band prep, hype. Tighten in pass 2 if redundant with 30/31; keep one pre-Battle breath, not three identical Patty-alone beats.
+
+### Chapter 30 — "Silver Springs" ✅
+
+**Job:** Patty **letters / interior** — preparation, not-fixing-them. Emotional hinge before storm. Consolidation candidate with 29/31 in pass 2; this chapter's letters scene is keeper.
+
+### Chapter 31 — "Thunder Road" ✅
+
+**Job:** Last road into Battle — Nick/Jackie separate paths, town gathering. Thunder as pressure, not hope speech. Arrive at auditorium doors. **Draft_05:** May 16 morning; Grace navy dress / WBCN button; separate parking-lot paths; wings before Chuck Morrison hot mic.
+
+### Chapter 32 — "Barracuda" ✅
+
+**Job:** Battle **opening acts** — optional **unnamed freshman band**, first slot, room not watching yet (**no band name on page**). Store 24 kid may be same kid from Ch 2 or bass/guitar in that slot — **one beat max**, backdrop only. Hyper-local L-S inaugural; establish room, judges, tie-clause boring if present. **Draft_05:** May 16, 7 PM; slots 1–4 (freshmen, Detroit Rock City, Dead Heads, Talking Heads Talking); intermission; Crown Jewels on deck for Ch 33.
+
+### Chapter 33 — "Somebody to Love" ✅
+
+**Job:** **Jackie's set** — Queen precision as armor; Dr. Marsh in audience; class performance. Show hands and breath, not "he won the crowd." **Draft_05:** Crown Jewels slot 5 post-intermission; Martin stays backstage; Yamaha *Killer Queen* → *Somebody to Love*; voice crack on high note; Richard *Play it the way you hear it* + hand opens once in lap; closes Walking the Line on deck.
+
+### Chapter 34 — "Train Kept A-Rollin'" ✅
+
+**Job:** **Nick's set** — Aerosmith raw; Dan's ghost in groove; working-class roar. Mirror Ch 33 structure; competition peak. **Draft_05:** Wings crack beat; Wentworth Tele; four-song set (*Walk This Way* → *Sweet Emotion* → *Train Kept A-Rollin'* → *Dream On* instrumental); Grace purse release; Dan solo ghost; *kept* not *keep*; closes Rumours on deck, Jackie in opposite wing.
+
+### Chapter 35 — "Go Your Own Way" ✅
+
+**Job:** **Patty's set** — neither camp; voice + guitar as third truth. Audience hush then wave; boys watch from wings. She is not prize — she is witness who plays. **Draft_05:** Rumours slot 7; Martin D-28 barefoot; *Dreams* → *Silver Springs* (Memorial Congregational inheritance) → title song; Nick/Jackie one beat each; closes judges' room still closed (Ch 36).
+
+### Chapter 36 — "Stairway to Heaven" ✅
+
+**Job:** **Finale / tie** — rubric, clause, decision. No clean winner or triumph-lap finale — ambiguous, rigged, costly. Setup for aftermath, not catharsis speech. **Draft_05:** Judges' room (Carter/Bob/Maxanne; Article 7 §3 page 3, January not '76); auditorium tie announcement; sign without looking; Grace/Richard/Patty witness beats; rain exit; Ch 37 garage hook.
+
+### Chapter 37 — "The Boys Are Back in Town" ✅
+
+**Job:** **Garage struggle session** — breakthrough ~6–8 min, Wurlitzer, fight into music. Not the perfect tape yet; raw merge. **Draft_05:** Jackie at Stephen's truck post-Battle; Dutton garage; failed sets then D-minor mashup ~6 min; *We could still do it*; boys call WBCN (Ch 2 card + contract); **Sat May 19, 4 PM** scheduled — no midnight, no Grace to Boston.
+
+### Chapter 38 — "Sweet Emotion" ✅
+
+**Job:** **Studio C jam** — ~11 min, Jackie Yamaha upright, Nick DI, THE tape. Lobby tension Thu–Fri dread pays off; seniors **drive themselves** Sat May 19 4 PM. Epic merge on tape. **End chapter:** *We could still be this* → *I can't* / *Me either* (obligations, not musical failure); handshake, separate exits. Maxanne labels reel; no brook eavesdrop; no Grace chauffeur.
+
+### Chapter 39 — "Free Bird" ✅
+
+**Job:** **Aftermath** — who won, who left, silence between boys. Graduation June 1979 in view. Separation choices stated as care, not villainy. **Draft_05:** Town reads tie as nobody won; no Studio C gossip; graduation forty feet; Nick cashes $250 → wagon; Army August/September (pawn-shop guitar footlocker); Jackie Juilliard 9×11; November WBCN goodbye to Maxanne; no re-litigation of Ch 38 split.
+
+### Chapter 40 — "Comfortably Numb" ✅
+
+**Job:** Frame — bridge to final hour; guilt facts without re-glossing Ch 27. Cassette bird-bones weight (one line). **Draft_05:** ~51 min left; walk building (wrong hum, EMF agreement); **cassette on console** vs Pink Floyd cart; one Heaven Hill pour; *I'm not numb. I'm electric.* **Pass 2:** trim archives-reel beat (cassette-only canon); cut construction fate line.
+
+### Chapter 41 — "Walk This Way" ✅
+
+**Job:** **Ending** — cassette jam ON AIR full volume (~11 min); reject Pink Floyd cart; Neighborhoods voicemail seed (not viral). Sign-off: *WBCN. The Rock of Boston. Goodnight.* Midnight silence → 12:01 JOY FM. Cassette back in purse; Kevin silent; Volvo Pike west, **radio off**. Jackie coda (imagined practice room, D minor once, no broadcast heard); Nick deferral one line; *I'm making him up.* No construction fate; no YouTube. Title = novel epitaph, not Aerosmith single on dial.
+
+---
+
+## Act balance (sanity check)
+
+| Act | Chapters | Pages (approx Draft_04) | Engine |
+| --- | -------- | ----------------------- | ------ |
+| I | 1–15 | ~25% | Friendship → fracture → death |
+| II | 16–27 | ~35% | Static, institutions, eve |
+| III | 28–41 | ~40% | Battle → tape → silence |
+
+**Pass 2 note:** Act III pre-Battle (28–31) may consolidate; Battle-to-tape (32–38) is load-bearing; frame close (40–41) must stay lean.
+
+======== 06_Chapter_Expanded ========
+
+# Chapter Expanded — Walk This Way (Draft_0P5)
+
+**Format:** One paragraph per chapter — **what happens on the page** + load-bearing image (not a replacement for reading the chapter).  
+**Status:** All 41 chapters drafted in `Draft_05/` as of June 14, 2026.
+
+---
+
+## Act I — *Toys in the Attic*
+
+**Chapter 1 — "Wish You Were Here"**  
+Maxanne Sartori opens WBCN's final four-hour broadcast in Studio B (August 2009): bourbon, taped Sony headphones, the ON AIR sign, and the unauthorized cassette she has carried since 1979. She promises the story of two Sudbury boys who should have changed everything and didn't — without yet playing the tape. **Pass 2:** fix age (59 not 63), remove line-1 stray note, fix Studio-date spoiler in cassette paragraph.
+
+**Chapter 2 — "Draw the Line"**  
+Maxanne drives to Dutton Road and hears Nick's guitar through the garage before she sees him; Jackie is there too, instruments held like wreckage. The red toolbox sits unopened; Dan's empty socket slot on the Maxwell House lid. First brick of the boys' sound and the Johnson grief the town doesn't name.
+
+**Chapter 3 — "Killer Queen"**  
+Jackie's recital-room world: father's hand on the piano, pearls and 68° discipline, Queen as precision identity. Dr. Marsh calls WBCN about the upcoming recital. The octave-reaching pinky plants the Marsh hand motif without explanation.
+
+**Chapter 4 — "More Than a Feeling"**  
+Patty Lally rides Sudbury's hidden geography — Hop Brook, four quarters, conservation trails, dump-and-pig east half — and reads the town as class without lecture. First Patty POV; the blue reclaimed bike and the Schwinn at L-S. Load-bearing map chapter for the whole novel.
+
+**Chapter 5 — "School's Out"**  
+September 1974 cafeteria: Nick's Aerosmith buckle meets Jackie's Queen buckle; argument becomes courtship. Disco contempt as shared language. Two boys discover they need each other to disagree.
+
+**Chapter 6 — "With a Little Help From My Friends"**  
+Friendship deepens through TDK bootlegs, conservation-land walks, and the first locked jam in Dan's garage (engine/wingspan image — use once). Grace meets Jackie's manners; Dan hears through the wall at night. Doug Malone warns friendship has a cost.
+
+**Chapter 7 — "Bohemian Rhapsody"**  
+Inside the Marsh house: ruler breakfast, attic sheet music, Elizabeth's ease, "practice Queen like you're hiding a body." Father's hand on cloth. One hose line on classical breath vs rock breath — do not repeat elsewhere.
+
+**Chapter 8 — "Mama Kin"**  
+Mirror chapter at the Johnson house: Dan coaches Nick's *Walk This Way* riff by day; original songs through the floor at night. Crown molding under landlord white; Grace's buried gentility rhymes the sealed piano without connecting aloud. Toolbox withheld for Ch 15.
+
+**Chapter 9 — "Just What I Needed"**  
+Frame: Maxanne rewinds to the **decision** to enter the 1975 talent show — "nobody knows it except us." Does **not** narrate the outcome (Ch 10 owns the gymnasium). Folding chairs tease at chapter end.
+
+**Chapter 10 — "Dream On"**  
+Ephraim Curtis talent show set piece: *Walk This Way* into *Bohemian Rhapsody* mashup bar-by-bar; three-second silence; Dr. Marsh's hand opens once in his lap. Dan on his feet in work boots. Friendship still alive on stage at peak Act I spectacle.
+
+**Chapter 11 — "Radio, Radio"**  
+Maxanne's authorized origin — Brickyard, Panasonic recorder, Aerosmith discovery, Springsteen "HI MOM." Frequency motif and the difference between sharing conviction and selling a room.
+
+**Chapter 12 — "Summer Breeze"**  
+Camp Elbanobscot: sacred barn vs wilderness, Patty's first meeting with both boys, shared fourteenth birthday, a cappella triad click. Bunk confessions (toolbox / attic) without instrument sap. Patty smell planted once.
+
+**Chapter 13 — "Breakdown"**  
+Freshman fall 1975 fracture brick: forty feet of linoleum, parallel doors, scratch-on-record image. The canyon metaphor earned. Most important architecture in Act I; rhythm guardrail born here.
+
+**Chapter 14 — "Baba O'Riley"**  
+April 1976 school social map — mud, shop/Carl, Glass Corridor rats, Rampers platform; Patty guitar pass-by. Grace thread only (~10 lines); full Friendly's deferred to Ch 23. Teenage wasteland; fracture deepening without explanation.
+
+**Chapter 15 — "Landslide"**  
+November 1977: Dan's ordinary morning, crane cable, Globe paragraph with misspelled name, funeral, toolbox opens. Grace: "He gave it to you instead." Act I curtain; Nick becomes man of the house. End at closed lid.
+
+---
+
+## Act II — *A Night at the Opera*
+
+**Chapter 16 — "Running on Empty"**  
+Frame post-Dan: Globe obituary class rage; Nick's "I don't need your pity" — four words that end the friendship without a fight. Cassette warm in palm; Pink Floyd corporate ending cued but not played. Lennon prophecy once.
+
+**Chapter 17 — "Bridge Over Troubled Water"**  
+October 1978 Hop Brook bridge: diamond-plate, Dr. Marsh reads Nick's hand like an X-ray, almost-smile that gives up. Bodies remember before minds refuse. Act II false-hope pivot.
+
+**Chapter 18 — "Rock 'n' Roll Fantasy"**  
+Battle poster on Wentworth's board; drawer Jordan Hall program, dead metronome — third buried artist. WBCN sponsorship line; Maxanne played the Neighborhoods out of Upton (seed for Ch 41).
+
+**Chapter 19 — "Born to Run"**  
+Cafeteria singing duel escalates to principal's office — competition-as-courtship turns institutional. Sargent's mug, frozen lunch lady tongs over crowd summary.
+
+**Chapter 20 — "Hotel California"**  
+Marsh dinner table + Eileen's painting room: 3–5 canvases to the wall, palette knife 1959. Fourth buried artist. Jordan Hall / Battle calendar pressure on Jackie. Curtis talent-show photograph on the piano.
+
+**Chapter 21 — "Another Brick in the Wall"**  
+Grace PTA speech — oak chair, fryer uniform, "Fall is when Jackie goes to conservatory. Fall is when my son is fixing cars." Star Market betting pool. Class war in one woman standing.
+
+**Chapter 22 — "Won't Get Fooled Again"**  
+Late 1978 / winter 78–79 Kowalski meeting: Battle as WBCN discovery franchise, not conspiracy. Article 7 §3 tie language added January — one boring sponsor line. Maxanne complicity planted without pre-targeting the boys.
+
+**Chapter 23 — "Working Class Hero"**  
+Full Grace Friendly's mosaic — PTA payoff, Taub decaf, booth geography, Nick pickup, Tom Andrews/Dan roof tar history. Lehane diner chapter. Maxwell House jar rhymes Marsh study — half-breath only.
+
+**Chapter 24 — "Light My Fire"**  
+Wentworth Take Five killed by Don Gould's metaphor; Nick's body explosion (set-down pick). Wentworth's sagging F — institution kills improvisation. Patty pauses at the door.
+
+**Chapter 25 — "Night Moves"**  
+Nick's band night-before Battle: gear love, Stephen loyalty, Grace's hand on the storm door she can't open. Unopened toolbox held. Fear in gesture, not speech.
+
+**Chapter 26 — "Father and Son"**  
+Jackie's night-before: "civilized" as cruelest praise; Elizabeth counts notes; Dr. Marsh's thumb on middle C unsounded. Cut Ch 7 hose duplicate if still present.
+
+**Chapter 27 — "Turn the Page"**  
+Frame confession: Maxanne rigged the rubric, didn't recuse, "I gave class warfare a microphone." Facts only — reader renders verdict. Eve of Battle; Pink Floyd waiting; cassette still unplayed on air.
+
+---
+
+## Act III — *In Through the Out Door*
+
+**Chapter 28 — "Rhiannon"**  
+Patty POV: pig farm 5 AM, mortgage truth, boys erasing each other in hallways, decision to enter Battle with music that isn't a weapon. Wentworth conversation; moral center of Act III.
+
+**Chapter 29 — "Rock and Roll All Nite"**  
+Battle eve voltage — school map, band prep, separate tables, graffiti wars. Optional pass-2 consolidation with 30/31.
+
+**Chapter 30 — "Silver Springs"**  
+Patty letters and interior preparation — not fixing the boys, reminding them. Emotional hinge before the storm.
+
+**Chapter 31 — "Thunder Road"**  
+May 16 morning: separate paths into Lincoln-Sudbury, Grace in navy Friendly's dress, thunder as pressure not hope. Arrive at auditorium doors; wings before Chuck Morrison's hot mic.
+
+**Chapter 32 — "Barracuda"**  
+Battle opening acts (slots 1–4), room warming, judges and tie-clause on page three, Grace/Richard/Patty in house. Intermission; Crown Jewels on deck. May 16, 7 PM.
+
+**Chapter 33 — "Somebody to Love"**  
+Jackie / Crown Jewels set: Queen armor, voice crack, Richard's hand opens once — *Play it the way you hear it.* Slot 5 post-intermission.
+
+**Chapter 34 — "Train Kept A-Rollin'"**  
+Nick / Walking the Line set: Wentworth Tele, four songs, Dan solo ghost in *Dream On* instrumental, Grace's purse release. Slot 6; competition peak.
+
+**Chapter 35 — "Go Your Own Way"**  
+Patty / Rumours set: Martin D-28 barefoot, Memorial Congregational inheritance, third truth — not a weapon, not a prize. Slot 7; Nick and Jackie watch from wings.
+
+**Chapter 36 — "Stairway to Heaven"**  
+Judges' room tie; Article 7 §3 January kitchen table; auditorium announcement; boys sign without looking. Grace, Richard, Patty witness beats; rain exit; garage hook.
+
+**Chapter 37 — "The Boys Are Back in Town"**  
+Post-Battle garage on Dutton: Wurlitzer struggle, ~6 min D-minor merge, *We could still do it?* Boys call WBCN; **Sat May 19, 4 PM** scheduled. No midnight, no Grace to Boston.
+
+**Chapter 38 — "Sweet Emotion"**  
+Studio C Sat May 19: Yamaha upright, Nick DI, ~11 min one-take jam. *We could still be this* → *I can't* / *Me either*; handshake, separate exits. Maxanne files reel at station; cassette dub is her purse talisman (canon).
+
+**Chapter 39 — "Free Bird"**  
+Aftermath only: town reads tie as nobody won; graduation forty feet; Nick cashes $250, enlists, Fort Benning footlocker guitar; Jackie Juilliard 9×11; November WBCN goodbye. No re-litigation of Ch 38.
+
+**Chapter 40 — "Comfortably Numb"**  
+Frame final hour: walk dying WBCN (wrong hum, EMF agreement), cassette bird-bones weight, Pink Floyd cart rejected on console. *I'm not numb. I'm electric.* **Pass 2:** trim archives reel beat — cassette only for Ch 41; cut construction fate line.
+
+**Chapter 41 — "Walk This Way"**  
+Cassette jam ON AIR full volume; Neighborhoods voicemail seed; sign-off *WBCN. The Rock of Boston. Goodnight.* Midnight silence → 12:01 JOY FM; cassette in purse; Kevin silent; Volvo Pike west, radio off; Jackie imagined coda (D minor once, no broadcast heard); *I'm making him up.* — END.
+======== 03_Character_Depth_Hierarchy ========
+
+# Character Depth Hierarchy — Walk This Way
+
+**Purpose:** Who gets how much interiority, what we withhold, and how each person carries the theme *inheritance is renunciation.*
+
+**Depth tiers:**
+
+| Tier | Access | Rule |
+| ---- | ------ | ---- |
+| **1 — Spine** | Full scenes, dialogue, arc | Nick, Jackie |
+| **2 — Bridge** | First-person frame + selective past | Maxanne |
+| **3 — Witness** | ~4 hinge chapters interiority | Patty |
+| **4 — Parents** | Bricks only: object + one withheld fact | Grace, Dan, Richard, Eileen |
+| **5 — Mirrors** | One revelation scene + object arc | Wentworth, (Tom Andrews) |
+| **6 — Orbit** | Voice, one object, no backstory dump | Bandmates, Carl, Lenny, Kowalski |
+
+---
+
+## Tier 1 — Spine
+
+### Nick Johnson
+
+**Born:** August 1961 (Sudbury). **Class of 1979.** **17** at Battle/graduation.
+
+| Layer | Content |
+| ----- | ------- |
+| **Surface** | Working-class Dutton Road; Aerosmith belt buckle; pawn-shop guitar; "that guitar guy"; garage / Rollers world; man of house after Dan's death. |
+| **Want** | Music loud enough to matter; friendship with Jackie; not to become his father. |
+| **Wound** | Dan's death (Nov 1977); toolbox inheritance; mortgage lateness; Hop Brook invisible until it isn't. |
+| **Withheld** | How much he blames Jackie vs himself vs town — shown in silence, not monologue. |
+| **Lie he tells** | Toughness = not needing anyone (Army/GI Bill later = care renamed as duty). |
+| **Brick map** | Ch 2 garage; Ch 5 meet; Ch 6 jam; Ch 8 hear-through-wall; Ch 13 fracture; Ch 15 toolbox; Ch 17 bridge; Ch 25 night-before; Ch 34 set; Ch 37–38 sessions. |
+| **Hand** | Callus — **budget 1 of 2** when spent. |
+| **Arc** | Innocence → fracture → competition → one true jam → separate paths. Post: **Army** (career path; guitar in footlocker — Ch 39). **Not** Johnson & Sons construction (cut from ending). |
+| **Never** | Speech that solves class war; viral redemption; winning Patty as prize. |
+
+### Jackie Marsh
+
+**Born:** August 1961 (week after Nick). **Concord Road.** Class of 1979.
+
+| Layer | Content |
+| ----- | ------- |
+| **Surface** | Queen belt buckle; Steinway living room; classical training; Dr. Marsh's project; precision as costume. |
+| **Want** | Father's approval without amputating rock; one friend who argues back; breath on stage. |
+| **Wound** | Every song measured; attic sheet music; Elizabeth's ease; 68° house. |
+| **Withheld** | Whether he loves Nick or needs him — same chord, different key. |
+| **Lie he tells** | "It's choosing the people who already chose us" (Nick's line shared) — civility as survival. |
+| **Brick map** | Ch 3 recital; Ch 5 meet; Ch 7 house; Ch 10 talent show; Ch 12 camp; Ch 13 doors; Ch 20 dinner/Eileen echo; Ch 26 night-before; Ch 33 set; Ch 37–38 sessions. |
+| **Hand** | Piano hands — clean vs Nick's callus (class without naming). |
+| **Arc** | Cage → duet → parallel hallways → Battle armor → jam truth → conservatory path (not villain exit). |
+| **Never** | Villain speech; sudden father reconciliation; out-Queen-ing Nick as moral victory. |
+
+**Nick ↔ Jackie triangle:** Friendship shown only in **shared music and argument** — milk cartons, headphones, fifth bar lock, talent show silence. Erosion = **geometry** (forty feet, doors on different walls), not exposition.
+
+---
+
+## Tier 2 — Bridge
+
+### Maxanne Sartori
+
+**Age 2009:** **59** (29 in 1979). **WBCN 1970–1980** (fiction lock — continuous through Battle and aftermath). Narrator.
+
+| Layer | Content |
+| ----- | ------- |
+| **Surface** | Bourbon, MDR-7506s with tape, booth as confessional. WBCN discovery voice — Battle seed + judge. |
+| **Want** | Last honest broadcast; absolution she doesn't deserve; boys heard before sold. |
+| **Wound** | Tie-clause / rigged rubric; carried cassette 30 years unplayed; Battle became war she didn't design for two names. |
+| **Withheld** | Full Kowalski scene guilt — facts yes, four verdicts no. |
+| **Lie she tells** | "I didn't kill their friendship" (technically true, morally insufficient). |
+| **Brick map** | Ch 1 frame; Ch 2 garage visit; Ch 9–11 frame; Ch 16, 22, 27, 40 frame; Ch 41 play tape. |
+| **Object** | Cassette = Dan's toolbox mirror (private repository, sealed by guilt). |
+| **Arc** | 1973 share instinct → 1979 Battle complicity → **cassette dub** sealed 30 years → 2009 plays jam ON AIR → sign-off → silence → **imagined Jackie coda** (licensed invention; *I'm making him up*). |
+| **Never** | Pre-chew brick meaning; omniscient brick without license — **except** Ch 41 coda (explicit invention); viral ending voice; Elektra/label biography in frame; Battle designed for Nick/Jackie. |
+
+**WBCN rule (author lock — 6/13):** **1970–1980** continuous. Battle = discovery, not Nick/Jackie trap. **Store 24 kid** (Gordon, L-S) = one backdrop beat max — **never** Gord, Tombstone Blues, or Phish in May '79 prose.
+
+**Narration rule:** She may **tell story**; she may not **tell what story means** after reader watched.
+
+---
+
+## Tier 3 — Witness
+
+### Patty Lally (surname per manuscript)
+
+**Geography:** SE margin (Lally area; dump/farm smell nearby — **not** the pig-farm kid stereotype). **Pass 2:** Ch 12/14 **flute → singer + guitar**.
+
+| Layer | Content |
+| ----- | ------- |
+| **Surface** | Singer + guitar; practical family; smell planted once; kindergarten-unseen until Ch 12; long-way bike routes (map in head). |
+| **Want** | Music that isn't a weapon; to be seen without being claimed. |
+| **Wound** | Boys erase each other; she remembers harmony at camp. |
+| **Withheld** | Romantic charge — encrypted if present; never triangle prize. |
+| **Wisdom type** | **Bottom-up** — sees because she belongs to no clique. Contrast Grace: top-down fall. |
+| **POV chapters** | ~4 hinges: **Ch 12** (meet), **Ch 28** (Rhiannon — decision), **Ch 30** (Silver Springs — letters), plus one Battle-adjacent (29 or 31 — pass 2 consolidate). |
+| **Brick map** | Ch 4 seed; Ch 12 camp triad; Ch 14 cafeteria witness; Ch 28–30 (**Memorial Congregational**, Sudbury Center — **not St. Michael's**); Ch 35 set. |
+| **Arc** | Seen → Forgotten (middle school absent by design) → Returned → plays third truth. |
+| **Never** | Prize for boys; speech fixing them; repeated smell gag. |
+
+---
+
+## Tier 4 — Parents (brick architecture)
+
+**Rule:** No biography chapters. Each parent = **objects + one withheld fact + one scene that pays off later.**
+
+### Grace Johnson (née — Sudbury native)
+
+| Layer | Content |
+| ----- | ------- |
+| **Surface** | Friendly's Route 20; GRACE name tag; polyester; fryer oil; plate manners; crown molding memory. **Home:** drip-pot coffee (Maxwell House / store brand), bills in a row — **never** specialty coffee. |
+| **Withheld fact** | Father's **Sudbury NW** fall — corruption/suicide **never summarized**; encrypted beats only. **Pass 2:** cut Wellesley line (Ch 6). |
+| **Origin** | High school: she Ramper, Dan Roller — clique-cross romance. Married into **Dan's** Dutton house after scandal. |
+| **Object chain** | Crown molding (Ch 6–8); storm door hand (Ch 25); oak chair PTA (Ch 21); decaf/Taub (Ch 23). |
+| **Voice** | Top-down view of class — fell through floor; *"don't fill his head with dreams we can't afford."* |
+| **Never** | Grace flashback chapter; Nick told the story in dialogue; Friendly's full mosaic before Ch 23. |
+
+### Dan Johnson (d. Nov 1977)
+
+| Layer | Content |
+| ----- | ------- |
+| **Surface** | Construction; sawdust; guitar after Grace sleeps; auto-shop competence. |
+| **Withheld fact** | Full life inside toolbox — poems, pawn ticket, unfinished song. |
+| **Object** | Toolbox / empty pegboard slot / music through wall (Ch 8 hear only; Ch 15 open). |
+| **Brick map** | Ch 6 "kid can play"; Ch 8 through wall; Ch 15 death; Ch 25 unopened echo. |
+| **Never** | Alive after Ch 15; toolbox reveal before death; exposition of his dreams. |
+
+### Dr. Richard Marsh
+
+| Layer | Content |
+| ----- | ------- |
+| **Surface** | Psychiatrist BU; 68°; ruler breakfast; **social climber** (lives **SW**, wants **NW** old money); counts notes. |
+| **Withheld fact** | Practice-room Steinway closed 1960 — his own renunciation. |
+| **Object** | Octave-reaching pinky; thumb on middle C unsounded. |
+| **Hand budget** | **4 beats max:** Ch 3 birth → Ch 7 plant (*I had chances* = only speech) → Ch 10 talent show → Ch 26 thumb on C. Pass 2: trim Ch 7 duplicate pinky/attic. |
+| **Naming** | **Dr. Marsh** default; **Dr. Richard Marsh** formal once per chapter; **Richard** only outside house (Ch 17). Never **Professor Marsh**. |
+| **Brick map** | Ch 3 hand; Ch 7 house; Ch 10 talent show hand open/close; Ch 17 bridge X-ray read; Ch 26 "civilized." |
+| **Never** | Redemption speech; mustache-twirling class villain; fifth piano-backstory beat; "living through Jackie" thesis after Ch 7. |
+
+### Eileen Marsh
+
+| Layer | Content |
+| ----- | ------- |
+| **Surface** | Pearls; triangles toast; orange juice focus; "not at breakfast"; social compliance. |
+| **Withheld fact** | Painter — **3–5 canvases** to wall; palette knife down fall 1959. |
+| **Object** | Brush hand; easel bar; widow-looking-at-coat-closet (Ch 20). |
+| **Brick map** | Ch 7 understudy beats; Ch 20 painting room (POV fix later). |
+| **Never** | Full backstory paragraph; explaining Richard for her. |
+
+**Parent rhyme (unspoken):** Sealed piano / sealed guitar / sealed canvases / sealed reel. Closed lids.
+
+---
+
+## Tier 5 — Mirrors (buried artists)
+
+### Bob Wentworth — music teacher
+
+| Layer | Content |
+| ----- | ------- |
+| **Surface** | Drawer Jordan Hall program; photograph; **metronome that doesn't work**. |
+| **Scene** | Ch 18 reveal; Ch 24 Take Five + sagging F. |
+| **Theme** | Institution kills improvisation; adult who buried gift and still teaches. |
+| **Never** | Full biography; redemption arc speech. |
+
+### Tom Andrews (Friendly's manager)
+
+| Layer | Content |
+| ----- | ------- |
+| **Surface** | Fryer schedule; Grace's work commons; minor kindness. |
+| **Job** | Anchor Grace's labor reality; not theme mouthpiece. |
+
+### Kowalski (name TBD)
+
+| Layer | Content |
+| ----- | ------- |
+| **Surface** | Station money; soda-machine diction. |
+| **Job** | Institutional turn — **show meeting, cut thesis** (Ch 22). Pass 2: may be one boring sponsor line if conspiracy trimmed. |
+
+---
+
+## Tier 6 — Orbit (selective)
+
+| Character | One-line job | Object/voice |
+| --------- | ------------ | ------------ |
+| **Carl** (shop) | Auto-shop father-figure; Nick's competence mirror | Grease, hands, permission |
+| **Mr. Joseph (Joe) Pacenka** | **L-S High** shop teacher; salt-of-earth; replaces Harrington | Shop wing; school commons |
+| **Lenny Henderson** | Glass Corridor guide; hides Goodman Hill from Rats | Platform geography |
+| **Stephen Murphy** | Nick's bassist; loyalty without speechifying | "You're the reason we started" |
+| **Elizabeth Marsh** | Truth-teller child; "he counts notes" | Violin ease vs Jackie's labor |
+| **Doug Malone** | Cost of friendship — town enforcer | Ch 6 beat |
+| **Principal Sargent** | Institutional neutral | KEEFE TECH mug |
+| **Donnie / Kathy** | Cafeteria texture; Grace thread | Mother's shift lines |
+
+**Store 24 kid seed (Ch 2 or Battle):** Mike Gordon, L-S — parents own Store 24 on **Route 217**. **One beat.** Knows music / knows the Battle / recognizes Nick. **Never** Gord, Tombstone Blues, Phish on page. Backdrop only.
+
+**Freshman bassist seed (Battle):** One Maxanne hindsight line; not in Studio C.
+
+---
+
+## Sudbury geography (see `05_Sudbury_Geography_Brief.md`)
+
+| Anchor | Quarter / location |
+| ------ | ------------------ |
+| Nick | **NE** — Dutton garage; L-S (Pacenka) |
+| Jackie | **SW** — Concord / Marsh house |
+| Patty | **SE** — Lally margin; dump/farm belt; long-way rider |
+| Grace | Born **NW**, lives **NE** — Friendly's Route 20 / Boston Post Road |
+| Marsh | **SW** → aspires **NW** |
+| Pacenka | **L-S High** (not a neighborhood) |
+
+**Nick ↔ Jackie:** diagonal opposites; meet through **conservation** middle (Ch 6). Hop Brook + middle strip = pressure geometry.
+
+---
+
+## Relationship map (pressure lines)
+
+```
+                    WBCN / Maxanne (sell vs share)
+                           |
+         Richard ———— Jackie ———— Nick ———— Grace
+              \          |          |          /
+               Eileen    Patty (witness, not apex)
+                    \    |    /
+                     Hop Brook
+                  (town / class)
+```
+
+**Hop Brook:** Not a character — **geometry**. Water, smell, which door you use, who refills without asking. **Middle strip:** conservation west / dump+pig east. **Routes:** 20 (north) · 117 (south).
+
+---
+
+## POV budget (locked)
+
+| Voice | Chapters (approx) |
+| ----- | ----------------- |
+| Maxanne frame | 1, 9, 11, 16, 22, 27, 40 (+ booth tags) |
+| Third brick | Majority |
+| Patty interior | ~12, 28, 30 (+ one of 29/31) |
+
+**Forbidden:** Random head-hop inside brick; Grace interiority paragraph in Ch 14; Nick explaining Grace's father.
+
+---
+
+## Character study prompts (for margin notes)
+
+1. **Nick:** Where does he choose care over music without saying so?  
+2. **Jackie:** Where does precision become armor? One beat only.  
+3. **Grace:** Which object carries her father's fall without naming it?  
+4. **Patty:** Where does she see the board without fixing it?  
+5. **Maxanne:** Which frame lines are facts vs verdicts? Cut verdicts.  
+6. **Richard:** Where does the hand appear without dialogue?
+
+---
+
+## Drift warning
+
+Older `Story_Bible/character-bible.md` has **wrong dates** (1972 birth, Dan 1976). Use **this document + PARKING_LOT** for Draft_05. Reconcile legacy file in pass 2.
+
+======== 04_Prose_DNA ========
+
+# Prose DNA — Walk This Way
+
+Locked craft document for Draft_05. When in doubt: **Architecture → Brick → Scalpel → Hose.**
+
+## Core method (COMPASS)
+
+| Phase | Job |
+| ----- | --- |
+| **Architecture** | What must this chapter *do*? One spine job; split if two rooms fight. |
+| **Brick** | Scene, object, body, dialogue — meaning shown, not argued. |
+| **Scalpel** | Cut thesis, duplicate metaphor, frame spoilers, inventory lists. |
+| **Hose** | Restore rhythm, breath, sinew — pressure on both sides of the cut. |
+
+**Failure mode (Ch 13 lesson):** Scalpel without hose → **telegram prose** (stacked subject-verb beats: *She saw X. He went inside.*). Reads like police report, not King/Lehane/Ondaatje.
+
+**Guardrail:** Every brick/scalpel pass ends with **read-aloud**. If three lines sound like a column, merge before save.
+
+## Narration contract
+
+### Maxanne frame (2009 booth)
+
+- **POV:** First person, present tense.  
+- **Authorized:** Her own WBCN story (Ch 11); objects she holds (cassette, bourbon, headphones); compression, fragment, withholding.  
+- **Forbidden:** Glossing the meaning of brick chapters the reader just saw or is about to see. No pre-game final score (Ch 9 problem).  
+- **Voice:** Radio warmth — specific objects, earned pauses, Boston cadence without dialect zoo. One hose line per scene max; never three sentences that paraphrase the same guilt.
+
+### Brick chapters (1974–1979)
+
+- **POV:** Third person, past tense, **witnessed** — camera in the room, not in everyone's head.  
+- **Exception:** Patty hinge chapters (~4) — interiority earned; still no thesis paragraphs.  
+- **Omniscience problem:** Maxanne cannot know Eileen alone with nine canvases (Ch 20). Fix at frame level in pass 2 — license on last page, or tighten to what could be known. Do not cut the scene; fix the contract.
+
+## Register
+
+**Target:** Flowing third-person with **earned** pauses — not staccato columns, not purple hose.
+
+- **Long sentence** loads image or list.  
+- **Short sentence** fires once per beat (*Forty feet.* / *They sat.*).  
+- **Fragments** OK for **catalog** (cafeteria geography, clique texture). Not for plot recap or emotional summary.
+
+## Not-naming discipline
+
+Theme travels by **recurring objects and motions**, never announced:
+
+| Motif | Instances |
+| ----- | --------- |
+| **Closed lids** | Toolbox, piano fallboard, casket, cassette case |
+| **Hands** | Marsh octave pinky (**4-beat cap:** Ch 3, 7, 10, 26), Eileen's brush hand, Dan/Nick calluses (**2-word cap novel-wide**), Grace on storm door |
+| **Frequency** | WBCN, WYAJ seed, static, last signal |
+| **Mirror pairs** | Dan's toolbox / Maxanne's **cassette**; sealed piano / sealed guitar |
+
+**Callus budget:** **2 max** novel-wide (earned tactile lines). Zero spent in Ch 1–11.
+
+## Professor lenses (principles, not imitation)
+
+| Lens | Use for |
+| ---- | ------- |
+| **Ondaatje** | Gap, image, motion; replace one theme sentence with one object |
+| **Lehane** | Class as physical fact; diner/PTA rooms; wit that carries danger |
+| **Dickey** | Body-first pivot scenes (bridge, shop, stage) |
+| **King** | Working-class dialogue comedy; cut the last explanatory paragraph |
+| **Robinson** | Patience — truth stated once; theology of renunciation without church |
+
+## Show vs tell — highest-leverage rules
+
+1. Trust the object. Cut the sentence after the object that explains the object.  
+2. One crowd body > choral summary (*lunch lady frozen with tongs* > "every parent knew").  
+3. Frame states **facts** of complicity; reader renders verdict (Ch 27).  
+4. Parents: **brick via object**, never biography.summary paragraph.
+
+## Signature phrases — watch list
+
+- **Engine / wingspan** — born Ch 6; vary or cut duplicates (Ch 9, 10).  
+- **Classical earned approval / Rock earned breath** — **once** (Ch 7); cut Ch 26 repeat.  
+- **Pig-farm smell (Patty)** — plant hard Ch 12; don't re-tag every entrance.
+
+## Frame object budgets (author lock — 6/2026)
+
+### Bourbon — not a chapter tic
+
+Maxanne is more than the pour. Bourbon is **complicity fuel**, not booth wallpaper.
+
+| Rule | Detail |
+| ---- | ------ |
+| **Novel budget** | **2–3 meaningful bourbon beats** across the **entire 2009 frame** (41 chapters), each in a **different register** (smell in the cup / thumb-measured pour / empty cup / last swallow / gone). |
+| **Forbidden** | Default transitions: *I take a finger of bourbon*, *warmth spreads through my chest* every frame chapter. |
+| **Arc** | Bottle **diminishes** across the four-hour shift; **runs dry** before or during the final tape play (Act III–V). Empty cup = earned beat. |
+| **Pass 2** | Ch 1 currently stacks **three** bourbon lines in the opening — consolidate to **1–2**. Ch 16 opening pour is fine; **do not repeat** in every Act II frame. Ch 9 model: **cold coffee** as alternate fuel. |
+
+### Cassette — sacred object, scarce full passes
+
+The **May '79 unauthorized tape** is the loaded gun. Treat like **callus budget**: full sensory only when the chapter **job** requires it.
+
+| Sense | Use |
+| ----- | --- |
+| **Weight** | Case in palm; plastic that doesn't get lighter |
+| **Smell** | Magnetic oxide, old plastic, faint smoke — **never taste** |
+| **Look** | Faded ballpoint label; Maxell; latch |
+
+**Full sensory chapters (target ~3–4 novel-wide):** Ch 1 establish; complicity chapter (~Ch 27–30); play-on-air (~Ch 38–40). **Light touch elsewhere:** label legible, pick up / put down, *not tonight* — OK (Ch 9, 16).
+
+**Not the same object:** Ch 6 TDK bootlegs (friendship brick); Ch 11 Panasonic (discovery) — different tapes, different jobs.
+
+### Timeline discipline
+
+Every brick chapter: **month + year** must match outline before save. Frame compression must **not contradict** brick.
+
+| Anchor | Date |
+| ------ | ---- |
+| Nick / Jackie birth | Aug 1961 |
+| Friendship origin | Sept 1974 (Ch 5) |
+| Talent show | May 15, **1975** (Ch 10) |
+| Dan death | **Nov 1977** (Ch 15) — not "two years earlier" from spring '79 |
+| Post-Dan drift | Spring **1978** (Ch 16) |
+| Hop Brook bridge | **Oct 1978** (Ch 17) |
+| Battle of the Bands | **May 16, 1979** (Wed) |
+| Garage reunion | **Wed May 16, 1979** night (~6 min) |
+| Studio C jam | **Sat May 19, 1979**, 4 PM; **~11 min**; reel = station master; **cassette dub** = Maxanne talisman |
+| Frame | **Aug 11–12, 2009**; Maxanne **59** |
+
+**Pass 2 Ch 1:** fix age (63→59), Dan death line, remove post-Battle "harmony in studio" spoiler — contradicts downbeat ending DNA.
+
+### Geography discipline
+
+Cross-check every scene against `05_Sudbury_Geography_Brief.md` before save: Hop Brook **N–S** divide; Nick **NE** ↔ Jackie **SW** diagonal; Route **20** NW–NE / Route **117** SW–SE; dump+pig = **east half of middle strip only**; Pacenka = **L-S shop**, not NE pin.
+
+## Music on the page
+
+- Mashups and performances: **bar-by-bar witness**, not "the crowd went wild."  
+- Song titles = chapter titles; lyrics **epigraph or sting only**, not sung-through fanfic.  
+- Battle: sensory sequence (tuning, feedback, breath) before outcome.
+
+## Ending DNA (locked — June 14, 2026)
+
+- Garage session = struggle/breakthrough (~6 min; Wurlitzer; Wed May 16 night).  
+- Studio C = **~11 min** free jam — **Sat May 19**; Mike's reel filed at station; Maxanne's **unauthorized cassette dub** = purse talisman 30 years.  
+- **Ch 41:** Play **cassette** ON AIR — loud, rebellious; she **stays** for full eleven minutes.  
+- Reject Pink Floyd cart (corporate exit never airs).  
+- Sign-off: ***WBCN. The Rock of Boston. Goodnight.*** — no *the music was real*.  
+- ON AIR dies → **silence** → **12:01 AM** JOY FM / Christian contemporary.  
+- Cassette back in purse; Kevin silent; empty hall; **Volvo Pike west, radio off**.  
+- **Jackie coda:** imagined practice room; D minor once; **does not hear broadcast**; *I'm making him up*.  
+- **Nick deferral:** Ch 39 Army arc sufficient; **no construction / Johnson & Sons**.  
+- **Neighborhoods** voicemail seed early in Ch 41 — not viral, not final beat.  
+- No Aerosmith *Walk This Way* on dial; title = **novel epitaph**.  
+- "Best band that never was" stays **literally true**.  
+- **Greek tragedy:** virtue-driven choice → loss → confession → catharsis **without rescue**. See `01_Synopsis_and_Acts.md`.  
+- **Pass 2:** trim Ch 40 archives-reel beat for cassette-only consistency.
+
+## Town geography
+
+- Full canon: `05_Sudbury_Geography_Brief.md` + `PARKING_LOT.md` → Sudbury geography / Pass 2 — geography.  
+- Ch 4 is the prose anchor; pass 2 = optional echoes only.
+
+## Draft hygiene
+
+- One chapter = one file in **`Draft_06/`** (active). **`Draft_05/`** is frozen — do not edit.  
+- Cut gems → `PARKING_LOT.md` (project root).  
+- Frozen `Draft_04` = quarry only.  
+- Timeline: Aug 1961 births; Dan **Nov 1977**; Battle **May 16, 1979**; frame **Aug 11–12, 2009**.
+
+## Read-aloud checklist (before save)
+
+- [ ] One clear chapter job — could I state it in one sentence?  
+- [ ] Any telegram stacks? Merge.  
+- [ ] Any frame line that spoils the next brick? Cut or move.  
+- [ ] Any theme sentence an object already carried? Cut theme.  
+- [ ] One hammer short sentence per major beat — not five.  
+- [ ] Dialogue sounds speakable — King's bar test.
+
+======== 05_Sudbury_Geography_Brief ========
+
+# Sudbury Geography Brief — Walk This Way (Draft_05)
+
+**Purpose:** Worldbuilding reference for maps, illustrations, Claude/ Hyper Agent prompts, etc. **Fiction only** — not survey-accurate.
+
+**Author geography lock (6/2026):** Four quarters = **literary lens**, not a zoning plat. Hop Brook (hard divide) · middle conservation strip (west trails / east dump+pig) · Route 20 + Route 117 parallel. Synced with `Draft_05/PARKING_LOT.md`.
+
+---
+
+## Draw these first (layer order)
+
+### 1. Hop Brook — the hard divide
+
+- Runs **north–south** through the center of town
+- Divides **west** (NW + SW) from **east** (NE + SE)
+- Real water: brown in April, whisper in July; plank bridge; granite ledges
+- Primary **class** metaphor — the only line that is truly geographic
+
+### 2. Middle strip — colonial conservation (horizontal belt)
+
+- Has been **protected land since colonial settlement** (~250+ years) — older than most roads
+- Runs **east–west** through the center of town, **perpendicular to Hop Brook**
+- **West half of strip (NW | SW):** pristine conservation — pine, scrub oak, colonial **fieldstone walls** (no mortar), deer paths, mini-bike ruts, Camp Elbanobscot on the edge (Route 20 + reservoir)
+- **East half of strip (NE | SE):** same land on the map, different fate — **town dump** and **Cavicchio pig farm side by side** (smell, trench, reclaim corner). Working-class side got what the wealthy side wouldn't accept next to their trails
+- Separates **north from south** within each half of town:
+  - West: conservation belt between **NW and SW**
+  - East: dump/farm margin between **NE and SE**
+
+### 3. Route 20 — Boston Post Road (northern connector)
+
+- Runs **parallel** to the middle strip, **above** it (northern band)
+- Connects **NW ↔ NE** — the northern pair of quarters
+- Main commercial spine; extend east = **Boston hub**
+- **Friendly's** sits on Route 20 near Hop Brook — town commons on paper; Grace knows the name is a lie when you're on the clock (polyester, GRACE tag, fryer oil)
+- Camp Elbanobscot: conservation between Route 20 and reservoir (Ch 12)
+
+### 3b. Route 217 — local strip (author lock)
+
+- **Store 24** (Gordon family — backdrop seed only) sits on Route 217, not Route 20
+- Nick buys strings there; Ch 2 register beat when planted (**not** Grace milk run — cut Ch 23 quarry coda 6/14)
+
+### 4. Route 117 — southern connector
+
+- Runs **parallel to Route 20**, **below** the middle strip (southern band)
+- Connects **SW ↔ SE** — the southern pair of quarters
+- Extend east = **Boston hub** (same logic as 20 — two parallel arteries)
+- **L-S Regional High** ties to Route 117 — brick and glass at the SE edge, between 117 and Hop Brook's last loop; **four doors**; shop wing where **Mr. Joseph (Joe) Pacenka** teaches auto shop (Nick's school father figure — he lives in the building, not a NE neighborhood)
+
+---
+
+## Four quarters (conceptual, clockwise from NW)
+
+### NW — Old money
+
+- Revolutionary-era wealth; colonials; brass knockers; dogs trained quiet
+- Hand-laid stone walls; expensive quiet
+- **Grace's family before the scandal** — she was a Ramper at L-S; she does **not** live here in 1979
+
+### NE — Working hands (Nick's world)
+
+- **Dutton Road** — Johnson house, garage, crown molding under landlord white
+- Dan & Grace now; Nick; Rollers; pawn shop; worn trucks
+- Route 20 / Boston Post Road — Friendly's (Grace works); community center (Ch 13)
+
+### SW — Professional rise (Jackie's world)
+
+- **Concord Road** — Marsh house; Steinway; breakfast at 68°
+- **Dr. Richard Marsh — social climber:** lives SW (professor, cultivated) but **wants NW** (old money where Grace fell from). Ascent, not arrival. House-hunting in NW = optional future beat, not required on page
+- **Jackie** — closed fallboard; volume the house can't tolerate
+
+### SE — Margin (Patty's world)
+
+- **Lally house** — general SE area near dump/farm smell, not "the pig kid"
+- **Cavicchio pig farm** — adjacent to **town dump**; smell in wash and schoolbooks
+- **Town Dump** — acres, not a ribbon; reclaim corner (Patty's blue Schwinn born here); Saturday wagons from all quarters; *"Nobody's garbage was better than anyone else's"*
+- **L-S High** — everyone attends; Patty belongs to no clique
+- **Memorial Congregational Church** — Sudbury Center; Patty/Rumours rehearsal space (Ch 28+). Rev. Goff, key under mat. **Not St. Michael's** (Concord carryover — cut all references)
+
+---
+
+## Nick and Jackie — diagonal opposites
+
+| | Nick | Jackie |
+| --- | --- | --- |
+| Quarter | **NE** | **SW** |
+| Road | Dutton / Route 20 band | Concord / Route 117 band |
+| Separated by | **Hop Brook** + **conservation middle strip** (must trespass through neutral woods to meet — Ch 6) |
+
+Not neighbors across the brook — **opposite corners** of the town square. Maximum distance; friendship = cut-through.
+
+---
+
+## Key characters — anchors (not exact pins)
+
+| Character | Quarter | Anchors |
+| --------- | ------- | ------- |
+| Nick | NE | Dutton garage; L-S (Pacenka's shop class) |
+| Jackie | SW | Marsh house, Concord Rd |
+| Patty | SE | Lally area; dump/farm margin; L-S; **Memorial Congregational** (rehearsals) |
+| Grace | Born NW, lives NE | Dan's Dutton house; Friendly's Route 20 |
+| Dan | NE | Garage; toolbox (writer at night) |
+| Dr. Marsh | SW → wants NW | Social climber; WBCN call; forbids the dream |
+| Mr. Pacenka | **L-S High (SE)** | Shop teacher — not a neighborhood location |
+
+---
+
+## Patty — home, school, and the bike
+
+**Home:** SE general area — dump and pig farm **next to each other** in the east half of the middle strip; smell is the price of the air.
+
+**Dad's work:** Fixes furnaces, mowers, outboards on **every side of Hop Brook** — Patty has stood in all four kitchens. Geography is **knowledge**, not just address.
+
+**School commute (canon-friendly):**
+
+- **Short way:** SE to L-S at the SE edge — stays inside her quarter. Many kids take this. Fine for background.
+- **Patty's way (character):** She **does not always take the short way.** Ch 4 is a **wander**, not a commute — brook trail, landfill road, stone walls, perimeter paths. She rides the **long edge** — along conservation, past reclaim, along Route 117 toward the school — collecting the town the way you know a face you've looked at all your life.
+- **Map in her head vs. map on asphalt:** The four quarters live in how she **reads** Sudbury (trails on no town-hall plat). She *can* cross all four on a bike; she often **chooses** the loop that grazes the other quarters' edges without cutting through their centers — apart by temperament, not rejection.
+
+**Do not** imply she never leaves SE — imply she **knows** the whole town and **routes** through it on her terms.
+
+**Rehearsals:** **Memorial Congregational Church**, Sudbury Center — white clapboard, honor-roll stained glass, Rev. Goff lets Rumours use the sanctuary Tuesday/Thursday evenings (key under mat). **Author lock 6/14:** **Not St. Michael's** (Concord/neighbor-town carryover). Alternate if author prefers Catholic continuity: **St. Anselm Parish** — ask before switching.
+
+---
+
+## High school cliques (not geography)
+
+Rampers · Rats · Regs · Rollers — **interest**, porous. School = commons; geography returns at 3 PM.
+
+---
+
+## Sensory palette
+
+| Zone | Smell / sound / touch |
+| ---- | --------------------- |
+| Hop Brook | March: full register; July: whisper; wet stone, iron tang |
+| Conservation (west strip) | Pine sap, cold dirt in walls, resin on needles, blowdowns left to rot |
+| Dump + farm (east strip) | Glass piles, trench, pig on the wind, two-stroke whine from ruts |
+| Route 20 | Fryer oil (Friendly's), Boston Post Road traffic |
+| Route 217 | Store 24 fluorescents, magazine rack hum, parking-lot Slim Jim |
+| Route 117 | Mud, school lot ruts, brook under bridge (Ch 14) |
+| NW | Pine mulch, expensive quiet |
+| NE | Coffee by six, motor oil by seven, screen doors |
+| SW | 68° dining room, Steinway lid half closed |
+
+---
+
+## ASCII layout (fiction)
+
+```
+                         N  →  Boston
+              NW ═════ Route 20 / Boston Post Road ═════ NE
+                  \      Friendly's @ Brook      /
+                   \  [conservation | dump+pig] /   ← middle strip (colonial)
+                    \   stone walls  |  smell    /
+         Hop Brook   ╳═══════════════════════════   Hop Brook
+                    /                            \
+              SW ═════ Route 117 ═══════════════ SE
+                                              L-S High
+                         S
+
+    Nick (NE) ········· diagonal ········· Jackie (SW)
+              through conservation woods (Ch 6)
+```
+
+---
+
+## Illustration prompt (Claude / external agent)
+
+Copy-paste for a visual map:
+
+> Fictional map of Sudbury, Massachusetts, for a 1979 literary novel. Not Google-accurate. Flat, readable cartography — no fantasy decoration.
+>
+> **Structure:** Town divided vertically by **Hop Brook** (blue, wavy, north–south). Horizontal **middle belt**: left half = green **conservation land** with colonial **stone walls** and pine; right half = **town landfill** and **pig farm** adjacent (label both). **Route 20 / Boston Post Road** = bold horizontal road across the **top**, connecting NW and NE; mark **Friendly's** near where Route 20 crosses Hop Brook. **Route 117** = parallel horizontal road across the **bottom**, connecting SW and SE; mark **L-S High School** on Route 117 in the SE. Label four quarters: NW old money, NE working class (Dutton), SW professional (Concord, Marsh house), SE margin (Patty, dump smell). Small arrow on SW: "Marsh → wants NW." Dashed diagonal from NE to SW through conservation: "boys' friendship route." Compass N. Caption: "Fiction — Walk This Way Draft_05."
+
+---
+
+## Canon locks
+
+- Grace: Sudbury NW fall only — **no Wellesley** in prose
+- Pacenka at **L-S**, not NE
+- Dump = **east half of middle strip only** — not a full-town equator
+- Friendly's on Route 20 — name ironic for Grace
+- Four quarters = **Patty's/adult reading** of town, not perfect grid
+
+---
+
+*Source: Draft_05 Ch 4, 6, 12, 14 · PARKING_LOT · author sessions 6/10–6/13/2026*
+
+======== 07_Pass_2_Focus ========
+
+# Pass 2 Focus — Walk This Way (Edit pass / Draft_06)
+
+**Created:** June 14, 2026  
+**Revised:** July 3, 2026 (reorg: Draft_06 active; Story Bible at `Story_Bible/`)  
+**Active manuscript:** `Draft_06/` (copied from frozen `Draft_05/` July 3, 2026)  
+**Status:** Sequential **review + line edit** Ch 1→41. See `09_Workflow.md`.
+
+**Authority:** `Draft_06/` prose + `PARKING_LOT.md` + this file + `04_Prose_DNA.md` + `08_Phrase_Ledger.md`.
+
+---
+
+## Pass 2 thesis (why we're here)
+
+**The story is built.** The Greek tragedy engine survived Draft_05. We did **not** veer into Blueprint viral resurrection. What failed the audio test is **execution**: repetition, frame chapters that **report history** instead of **host a live broadcast**, and motif inventory where **glance** would carry the thread.
+
+**True subject (unchanged):** *Inheritance is renunciation, not gift.* Loss of innocence in four layers — personal, class/town, institutional, cultural — ending in **virtue-driven choice → loss → confession → catharsis without rescue.**
+
+**Pass 2 job:** Make the prose **cleaner, crisper, poetic under pressure** — co-written with the professor lenses — so the tragedy **lands in the ear**, not only on the page.
+
+---
+
+## Greek tragedy — still the engine (do not pass-2 away)
+
+| Element | Draft_05 status |
+| ------- | ---------------- |
+| **Hamartia** | Maxanne believes she can game the system (tie clause, rubric). Marsh summons discovery then forbids the dream. |
+| **Fate vs. choice** | Hop Brook, class, institutions **press**; Nick & Jackie **choose** *the people who already chose us* — not hatred. |
+| **Generational chain** | Toolbox, sealed piano, canvases to wall, Jordan Hall in drawer — renunciation handed down as love. |
+| **Catharsis** | Ch 41: tape ON AIR → sign-off → silence → 12:01 JOY FM. Reader renders verdict. **No rescue.** |
+| **Cut permanently** | Viral 2009, mashup triumph arc, clean Battle winner as soul, Jackie hears broadcast |
+
+**Audio note:** Tragedy dies when Maxanne **explains** what brick chapters already showed. Frame must **witness and withhold**, not **summarize and interpret**.
+
+---
+
+## How to use this document (MFA classroom)
+
+1. **Sequential order:** Ch 1 → 41. One chapter per session (or two short frame chapters).  
+2. **Each session:** Read aloud → mark → Professor lens note → cut/rewrite → read again → save.  
+3. **Professor O (Ondaatje)** orchestrates; calls specialists by chapter job (table below).  
+4. Check off items; update `08_Phrase_Ledger.md` when a phrase locks or retires.  
+5. **Do not** reopen ending DNA (Ch 41 locks) without author session.
+
+---
+
+## Professor roster — when to summon
+
+| Professor | Lens | Summon for |
+| --------- | ---- | ---------- |
+| **Ondaatje** | Gap, image, motion; object carries meaning | Frame transitions, Ch 4 geography, Ch 40 walk, Ch 41 coda, any scene that explains after the object |
+| **Lehane** | Class as physical fact; wit with danger | Ch 4, 21, 23, Grace/PTA/diner, Hop Brook without lecture |
+| **Dickey** | Body-first pivot; hand reads character | Ch 17 bridge, Ch 14 shop, Battle sets 33–34, garage Ch 37 |
+| **King** | Working-class dialogue; cut last explanatory paragraph | Ch 5 cafeteria, Ch 19 duel, Nick band scenes, frame comedy |
+| **Robinson** | Truth once; renunciation without sermon | Ch 15 lid, Ch 20 Eileen, parent object beats, Ch 39 aftermath |
+| **Goldman** | Structure, pacing, "get in late leave early" | Frame weave, Act III pre-Battle 29–31, any chapter that repeats its own setup |
+
+---
+
+## Maxanne frame — Pass 2 contract (Student T diagnosis: "sounds off")
+
+**Ch 1 has energy.** Later frame chapters often **report Nick and Jackie history** like documentary voiceover. Fix is not less Maxanne — it's **booth-present tense**.
+
+| Do | Don't |
+| -- | ----- |
+| What's in her **hands now** (fader, cup, clock, cart) | Biography paragraphs about boys reader will **enter** in brick |
+| **One** image or **one** fact to launch next brick | Re-funeral Dan, re-inventory pegboard, re-read full cassette label |
+| Confession in **facts** (Ch 27 model) | Four verdicts on guilt reader hasn't earned yet |
+| Radio rhythm — breath, fragment, pause | Essay stacks: *Nick lived… Jackie lived…* |
+| Cold coffee / empty cup / dead air as variety | Bourbon + knuckles + chest-warmth every frame |
+
+**Frame chapters:** 1, 9, 11, 16, 22 (light), 27, 40, 41  
+**Pass 2 priority:** Re-weave 9, 16 first (worst reportage); protect 11, 27, 40, 41 (strongest bones).
+
+---
+
+## P0 — Audio pass (motif & repetition) — **START HERE**
+
+*Recurring by design ≠ same sentence every time. Three tiers:*
+
+| Tier | Rule |
+| ---- | ---- |
+| **Full brick** | One complete sensory pass per object arc |
+| **Glance** | One word or motion — reader already knows |
+| **Echo (cut)** | Same inventory reshuffled — **delete** |
+
+| Motif | Full brick (keep) | Glances allowed | Cut echoes |
+| ----- | ----------------- | --------------- | ---------- |
+| **Pegboard + 9/16 socket** | Ch 2 plant; Ch 15 payoff | **2–3** novel-wide | Phillips-heads inventory in Ch 6, 8, 16, 25, **37** |
+| **Red toolbox** | Ch 15 open/close | *Latch shut* / one glance | "Paint chipped at corners" >2× |
+| **Demo cassette + label** | **Ch 1**, **Ch 41** full | Ch 27 confession | Full label in Ch 9, 16; magnetic oxide stack |
+| **Bourbon / Heaven Hill** | **2–3** frame beats total | Empty cup Ch 40–41 | Pour + warmth per chapter; Ch 11 **Pappy** → Heaven Hill canon |
+| **Callus** (word) | **2** tactile lines total | Fret-worn, pad-hard | Ch 2 "cracked and bled and hardened" paragraph |
+| **Knuckles** | Ch 1 → **vary or cut** | Different gesture | "Crack my knuckles" in every frame |
+| **Chest warmth** | **0** — retired | — | *Warmth spreads through my chest* |
+
+**Worst audio offenders:** Ch **37** (garage reunion), Ch **16** (re-funerals Ch 15), frame **9** (cassette + history), Ch **6/8/25** (duplicate garage geography).
+
+---
+
+## P1 — Canon breaks (fix in Ch 1 session)
+
+| # | Item | Where | Fix |
+| - | ---- | ----- | --- |
+| 1 | Maxanne age | Ch 1 | ✅ 59 in current file — verify audio export |
+| 2 | Stray author note | Ch 1 line 1 | Remove if present in export |
+| 3 | Studio date spoiler | Ch 1 cassette para | No May 16 harmony-in-studio; canon **Sat May 19** |
+| 4 | Dan death timing | Ch 1 | ✅ seventeen months — keep |
+| 5 | Ch 40 reel beat | Ch 40 archives | Trim — **cassette only** for Ch 41 talisman |
+| 6 | Construction fate | Ch 40 | → Army or cut |
+| 7 | 4:43 bleed | Global grep | → ~eleven minutes |
+| 8 | Harrington → Pacenka | Ch 13–14+ | Audit grep |
+
+---
+
+## P2 — Craft & rhythm (during sequential pass)
+
+| # | Item | Where |
+| - | ---- | ----- |
+| 9 | Frame **reportage** → booth present | Ch 9, 16 especially |
+| 10 | Ch 26 duplicate hose | Cut Ch 7 *Classical/Rock breath* repeat |
+| 11 | Ch 9 talent-show spoilers | Ch 10 owns gymnasium |
+| 12 | Telegram prose | Merge subject-verb chains; read-aloud |
+| 13 | Ending read-aloud | Ch 41 — protect Jackie coda + sign-off |
+| 14 | Ch 40 after reel trim | Confirm *electric not numb* |
+| 15 | Act III pre-Battle | Ch 29–31 — Goldman consolidation if redundant |
+
+---
+
+## P3 — When earned (later in sequence)
+
+Store 24 kid (Ch 2); Wellesley cut; weekday alignment; Eileen 3–5 canvases; Dan toolbox Ch 15 vs Ch 8; geography echoes; re-export PRINT.
+
+---
+
+## Locked — do not pass-2 away
+
+| Lock | Source |
+| ---- | ------ |
+| **Best band that never was** — literally true | Synopsis, Ch 41 |
+| **Ending:** cassette ON AIR (~11 min); *WBCN. The Rock of Boston. Goodnight.*; silence → 12:01 JOY FM | Ch 41 |
+| **No** Aerosmith single sign-off; title = epitaph | Prose DNA |
+| **No virality** | Ch 41 |
+| **Cassette** = purse talisman 30 years; reel = station master Ch 38 | Author lock |
+| **Studio C:** Sat **May 19, 1979**, 4 PM; ~11 min | PARKING_LOT |
+| **Jackie coda:** imagined; no broadcast heard | Ch 41 |
+| **Nick:** Army, not construction | Ch 39 |
+| Tie clause **January 1979** | Ch 22, 27, 36 |
+| Patty: guitar, not prize | Bible |
+| Maxanne **59** / **29** | Timeline |
+
+---
+
+## Chapter map — Professor O assessment (July 2026)
+
+**Legend:** 🟢 Ready / load-bearing — light polish | 🟡 Good bones — Pass 2 rewrite focus | 🔴 Off in audio — priority cut
+
+### Act I — *Toys in the Attic*
+
+| Ch | Title | Status | Notes |
+| -- | ----- | ------ | ----- |
+| 1 | Wish You Were Here | 🟡 | Energy yes; Nick/Jackie exposition blocks = reportage; motif trim; pegboard hook **keep** |
+| 2 | Draw the Line | 🟢 | First brick strong; callus paragraph → glance; toolbox plant once |
+| 3 | Killer Queen | 🟢 | Marsh hand motif born; don't over-repeat |
+| 4 | More Than a Feeling | 🟢 | **Excited** — geography = class; Patty; Ondaatje + Lehane |
+| 5 | School's Out | 🟢 | **Excited** — dialogue brick; King |
+| 6 | Friends | 🟡 | Pegboard/socket echoes; jam earns keep |
+| 7 | Bohemian Rhapsody | 🟢 | Hose line **once**; protect |
+| 8 | Mama Kin | 🟡 | Mirror Ch 6/8 — dedupe garage inventory |
+| 9 | Just What I Needed | 🟡 | Meta awareness good; cut cassette label + history middle |
+| 10 | Dream On | 🟢 | **Excited** — talent show set piece |
+| 11 | Radio, Radio | 🟢 | **Excited** — authorized Maxanne; fix Pappy→Heaven Hill if needed |
+| 12 | Summer Breeze | 🟢 | Camp; Patty plant |
+| 13 | Breakdown | 🟢 | **Excited** — fracture architecture; canyon |
+| 14 | Baba O'Riley | 🟢 | School map; shop body |
+| 15 | Landslide | 🟢 | **Excited** — Act I curtain; toolbox **payoff**; Robinson |
+
+### Act II — *A Night at the Opera*
+
+| Ch | Title | Status | Notes |
+| -- | ----- | ------ | ----- |
+| 16 | Running on Empty | 🔴 | Re-funerals Ch 15; pegboard again; frame reportage — **rewrite** |
+| 17 | Bridge Over Troubled Water | 🟢 | **Excited** — false hope; Dickey + Ondaatje |
+| 18 | Rock 'n' Roll Fantasy | 🟡 | Wentworth mirror; functional |
+| 19 | Born to Run | 🟡 | Cafeteria duel; tighten crowd |
+| 20 | Hotel California | 🟢 | Eileen buried artist; Robinson |
+| 21 | Another Brick in the Wall | 🟢 | **Excited** — Grace PTA; Lehane peak |
+| 22 | Won't Get Fooled Again | 🟢 | Institutional guilt; no conspiracy |
+| 23 | Working Class Hero | 🟢 | **Excited** — Friendly's mosaic |
+| 24 | Light My Fire | 🟢 | Wentworth arc close |
+| 25 | Night Moves | 🟡 | Pegboard/toolbox echo; storm door **keep** |
+| 26 | Father and Son | 🟡 | Cut Ch 7 duplicate; Elizabeth carries |
+| 27 | Turn the Page | 🟢 | **Excited** — confession frame; keeper line protected |
+| 28–31 | Rhiannon → Thunder Road | 🟡 | Patty strong (28, 30); 29–31 Goldman trim candidate |
+| 32–36 | Battle sequence | 🟢 | **Excited** — load-bearing; hyper-local |
+| 37 | Boys Are Back in Town | 🔴 | **Toolbox/pegboard overload** — cut 60%+ object echoes |
+| 38 | Sweet Emotion | 🟢 | **Excited** — Studio C; tragedy truth |
+| 39 | Free Bird | 🟢 | Aftermath; Army; no re-litigation |
+| 40 | Comfortably Numb | 🟢 | **Excited** — walk; Ondaatje; reel trim only |
+| 41 | Walk This Way | 🟢 | **Excited** — ending locks; read-aloud guard |
+
+---
+
+## Sequential session order (Student T workflow)
+
+| Session | Chapters | Lead professor | Primary job |
+| ------- | -------- | -------------- | ----------- |
+| **1** | 1 | Ondaatje + King | Frame energy; cut reportage blocks; motif P0; P1 canon |
+| **2** | 2–5 | Dickey + Lehane | Garage plant once; brick rhythm |
+| **3** | 6–8 | Goldman | Dedupe mirror garage chapters |
+| **4** | 9–11 | Ondaatje + King | Fix frame 9; protect 10–11 |
+| **5** | 12–15 | Robinson + Ondaatje | Camp → Landslide; Ch 15 = toolbox **only** full pass |
+| **6** | 16 | Goldman + Ondaatje | **Rewrite** — no re-funeral; trust Ch 15 |
+| **7** | 17–21 | Dickey + Lehane | Bridge + Grace peak |
+| **8** | 22–27 | Lehane + Ondaatje | Institutions; protect Ch 27 |
+| **9** | 28–31 | Goldman + King | Pre-Battle breathe; cut redundancy |
+| **10** | 32–36 | Dickey | Battle — light touch |
+| **11** | 37 | Goldman + Ondaatje | **Major cut** — music not inventory |
+| **12** | 38–41 | Ondaatje + Robinson | Studio → ending; earn cassette returns |
+
+---
+
+## Path to here (brief vault)
+
+| Phase | What we did |
+| ----- | ----------- |
+| Blueprint v2 | Greek tragedy + viral ending ( **cut** in Draft_05 ) |
+| Draft_04 quarry | Frozen reference only |
+| Draft_05 architecture | 41 chapters sealed June 2026 — **frozen**; copied to Draft_06 |
+| July 2026 | Reorg + audio pass → **Draft_06** edit pass; Story Bible at project root |
+
+---
+
+## What pass 2 is not
+
+- Restoring viral resurrection or clean Battle winner  
+- Johnson & Sons / construction Nick  
+- Aerosmith single on air  
+- Jackie hears broadcast  
+- Explaining the tragedy Maxanne already showed
+
+---
+
+## Documentation sync
+
+| Doc | Action after Pass 2 sessions |
+| --- | ---------------------------- |
+| `08_Phrase_Ledger.md` | Update per chapter |
+| `06_Chapter_Expanded.md` | Revise summary if chapter job shifts |
+| `Walk_This_Way_Story_Bible_PRINT.txt` | Re-export when bible stable |
+
+======== 08_Phrase_Ledger ========
+
+# Phrase Ledger — Walk This Way (Pass 2)
+
+**Purpose:** Track signature lines and images so strong phrases stay **once** (or within budget), not accidental repeats.  
+**How to use:** Add a row when a phrase locks in Pass 2. Grep before reusing. Objects (pegboard, cassette) may recur — **phrasing** should vary.
+
+**Authority:** Works with `04_Prose_DNA.md` motif budgets (bourbon, callus, Marsh hand, etc.).
+
+---
+
+## Locked phrases (use once — do not repeat wording)
+
+| Phrase | Chapter | Notes |
+| --- | --- | --- |
+| resurrect the dead | Ch 1 | Nick rumor / Dan echo — **locked** |
+| each one a ghost | Ch 1 | Vinyl spines — **locked** |
+| the sky the color of old steel | Ch 1 | Mud season — **locked**; vary weather elsewhere |
+
+---
+
+## Refrain budget (2 max novel-wide)
+
+| Phrase | Uses | Chapters |
+| --- | --- | --- |
+| nobody knows it except us | 1 (+ dialogue) | Ch 9 hinge — **do not paraphrase** elsewhere unless intentional echo |
+| I don't need your pity | 1 (dialogue) | Ch 16 — **locked**; Nick's four words |
+| I didn't kill their friendship. But I gave class warfare a microphone. | 1 | Ch 27 — **keeper**; do not paraphrase elsewhere |
+| It weighs like bird bones | 1 | Ch 40 — cassette; **locked** |
+| I'm not numb. I'm electric. | 1 | Ch 40 — frame close; **locked** |
+
+---
+
+## Cut / retired (Pass 2)
+
+| Phrase | Was | Action |
+| --- | --- | --- |
+| Lennon / God help Bruce Springsteen | Ch 16 | **Cut** — borrowed prophecy; machinery thesis removed with it |
+| Friendships don't always end in fights… | Ch 16 | **Cut** — cafeteria image already showed it |
+
+---
+
+## Signature metaphor — born once, vary or cut duplicates
+
+| Phrase | Born | Grep / fix in Pass 2 |
+| --- | --- | --- |
+| engine / wingspan | Ch 6 | Cut or vary Ch 9, 10 if repeated |
+| Classical earned approval / Rock earned breath | Ch 7 | **Cut Ch 26 duplicate** |
+| callus (word) | — | **2 max** novel-wide |
+
+---
+
+## Frame tics — vary across 2009 chapters
+
+| Phrase | First use | Rule |
+| --- | --- | --- |
+| Boston glitters in the August darkness | Ch 1 (full) | Ch 9+ **vary** (e.g. "August still burning on the glass") |
+| crack my knuckles | Ch 1 | Vary gesture in other frame chapters |
+| warmth spreads through my chest (bourbon) | — | **No** — bourbon budget 2–3 beats total |
+
+---
+
+## Object motifs (recur by design — vary the sentence)
+
+| Object | Plant | Payoff | Phrase rule |
+| --- | --- | --- | --- |
+| nine-sixteenths empty slot | Ch 1 hook | Ch 2, 15, 16 | Same fact, **different sentence shape** each time |
+| Demo cassette label | Ch 1, 9 | Ch 38–41 | Label text **consistent**; sensory full pass ~3–4 chapters only |
+| Dan's toolbox / pegboard | Ch 2 | Ch 15, 16, 25 | Not-naming discipline — never explain |
+
+---
+
+## Pass 2 grep queue (Session 5 global)
+
+```bash
+# From Draft_06/ — run when doing global pass
+rg -i "resurrect|each one a ghost|old steel|engine.*wingspan|wingspan|Boston glitters|crack my knuckles|callus|four forty-three|4:43|Harrington"
+```
+
+---
+
+## Added
+
+- **June 21, 2026** — Created at start of Pass 2 prose phase; Ch 1 + Ch 9 entries.
+
+======== 09_Workflow ========
+
+# Workflow — Walk This Way
+
+**Updated:** July 3, 2026 (Student T + Professor O)
+
+Living reference for how we work session to session. **Common terms** in the room; workshop terms in parentheses where useful.
+
+---
+
+## Project layout
+
+| Folder / file | Role |
+| ------------- | ---- |
+| **`Draft_06/`** | **Active manuscript** — one `.txt` per chapter; edit here |
+| **`Draft_05/`** | **Frozen** first complete draft — do not edit |
+| **`Draft_04/`** | Quarry only — do not edit |
+| **`Story_Bible/`** | Living architecture + edit checklist — **updated after each session** |
+| **`PARKING_LOT.md`** | Cuts, seeds, author markup — project root (not inside a draft folder) |
+| **`Novel_Docs/`** | Draft 2 blueprint — shelf reference only |
+
+**Authority when in conflict:** `Draft_06/` prose + `PARKING_LOT.md` + `Story_Bible/` locks.
+
+---
+
+## Writing phases
+
+### 1. Structure (Architecture)
+
+What must this chapter **accomplish**? One job. Outline lives in `02_Chapter_Outline.md`.
+
+**Return here rarely** during edit pass — only if a chapter’s job is wrong (e.g. re-funeral when the reader already mourned).
+
+### 2. Scene draft (Brick)
+
+Write so we’re **in the room** — dialogue, objects, bodies. Third-person past for 1974–1979; Maxanne frame = first-person present in the booth.
+
+**Draft_05 → Draft_06:** Scene draft is **done** for all 41 chapters. We are not re-architecting.
+
+### 3. Review (Diagnose)
+
+Read aloud (or listen). Mark what works (`!`), what’s off (`cut`), questions (`?`).
+
+Audio is the best test for repetition and frame voice.
+
+### 4. Line edit (Scalpel + Hose — one motion)
+
+Cut dead prose, explanation, repeated motifs; **replace in the same pass** with cleaner lines. Not two separate steps.
+
+### 5. Review again (Diagnose)
+
+Read aloud until the chapter clears.
+
+### 6. Loop or exit
+
+- Still wrong at **sentence** level → line edit again  
+- Still wrong at **scene** level → back to Structure (rare)  
+- Chapter clears → next chapter  
+- All 41 clear → **Final polish** (consistency, copyedit, grep)
+
+```
+Structure → Scene draft → Review → Line edit → Review → … → Final polish
+                ↑                              |
+                └──────── Structure (rare) ────┘
+```
+
+---
+
+## Edit pass (Draft_06) — session rhythm
+
+1. Open `07_Pass_2_Focus.md` for chapter status and locks  
+2. Open `Draft_06/Chapter_XX_*.txt`  
+3. **Review** — read aloud  
+4. **Line edit** — cut + replace  
+5. **Review** — read aloud again  
+6. Update `08_Phrase_Ledger.md` if a phrase locks or retires  
+7. Update `06_Chapter_Expanded.md` only if the chapter’s on-page summary changed materially  
+
+---
+
+## Terminology (quick map)
+
+| Workshop term | Common term we use when editing |
+| ------------- | ------------------------------- |
+| Architecture | Structure / outline |
+| Brick | Scene draft / shown scene |
+| Diagnose | Review / read-aloud |
+| Scalpel + Hose | Line edit (cut and replace together) |
+| Load-bearing beam | Chapter job / spine beat |
+
+---
+
+## Future drafts
+
+When Draft_06 is sealed: copy to **`Draft_07/`**, freeze **`Draft_06/`**, keep **`Story_Bible/`** at project root (update README status line only). Do not nest Story Bible inside `Draft_XX/`.

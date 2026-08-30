@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <title>If you started over in Cursor tomorrow</title>
+  <style>
+    body { font-family: Georgia, "Times New Roman", serif; font-size: 12pt; line-height: 1.45; color: #111; max-width: 720px; margin: 0 auto; padding: 24px; }
+    h1 { font-size: 20pt; margin: 0 0 12px; }
+    h2 { font-size: 14pt; margin: 22px 0 8px; border-bottom: 2px solid #111; padding-bottom: 3px; }
+    p, li { margin: 0 0 8px; }
+    table { width: 100%; border-collapse: collapse; margin: 10px 0 16px; font-size: 11pt; }
+    th, td { border: 1px solid #111; padding: 6px 8px; text-align: left; vertical-align: top; }
+    th { background: #f3f3f3; }
+    pre { border: 1px solid #111; padding: 10px 12px; font-size: 10.5pt; white-space: pre-wrap; }
+    .lede { color: #444; font-size: 11pt; }
+    @page { size: letter; margin: 0.65in; }
+  </style>
+</head>
+<body>
+  <p class="lede">Timothy J. Smith · 22 August 2026 · Chart only. Nothing was created or deleted.</p>
+  <h1>If you started over in Cursor tomorrow</h1>
+  <p>Old folders stay until the new window writes a chapter without hunting.</p>
+
+  <h2>Verdict</h2>
+  <p>Start fresh. Do not finagle Walk This Way into becoming a clean toolbox. It already mixed the book and the machines.</p>
+  <p>Keep every old repo. Copy what still works. Delete only after you trust the new shape.</p>
+  <p><strong>Repo</strong> = one git folder. <strong>Workspace</strong> = the Cursor window (a .code-workspace can open two folders). <strong>User-level</strong> = this Mac (~/.cursor/skills, plugins, ~/mcp-servers).</p>
+  <p>Do not open all eight novels in one workspace. That is how a ninth draft starts.</p>
+  <p>Do not go through COMPASS as a project. zz_COMPASS and yy_Archive are quarry. Mine working servers later. Do not rebuild the name.</p>
+
+  <h2>Three layers</h2>
+  <ol>
+    <li><strong>Workspace</strong> — one book + Writing Tools, side by side.</li>
+    <li><strong>Repo A — the novel</strong> — pages, story bible, this book’s locks.</li>
+    <li><strong>Repo B — Writing Tools</strong> — new name. Not COMPASS. Not MCP.</li>
+    <li><strong>This Mac</strong> — MFA skill, Google plugins, running servers.</li>
+  </ol>
+  <p>Google / Gmail / Calendar do not need a third git repo.</p>
+
+  <h2>Repo A — novel workspace (only what you need)</h2>
+  <pre>walk-this-way/
+  README.md
+  .gitignore
+  project-hub.md
+  chapters/          (or Draft_06/ while this book still uses that name)
+  story-bible/
+  vault.md
+  Walk-This-Way.code-workspace
+  .cursor/
+    rules/this-book.mdc    ← canon locks only
+    mcp.json               ← short: this book + ~8 daily tools</pre>
+  <p>README says: where the book is, how to open the workspace, do not move folders from here.</p>
+  <p>One project rule: cassette, Nick Army, Maxanne 59, Draft_05 frozen. Not 56 commands. Not XML-tag tutorials.</p>
+  <p>You already have this shape in private-mfa-program/novel-pack/.</p>
+
+  <h2>Repo B — Writing Tools</h2>
+  <p>Working name: <strong>Writing Tools</strong>. One copy. Senseless and the next novel point here. No paste.</p>
+  <pre>writing-tools/
+  README.md
+  servers/           ← only servers that still handshake
+  faculty/           ← author JSON
+  kits/daily.txt     ← the ~10 names
+  kits/research.txt
+  .cursor/mcp.json   ← the long list lives here, not in the novel</pre>
+  <p>Lift later, not wholesale: Goodreads, author engines, writing-guides if they still run, character-MCP template. Leave Core_5 agents, HANK, SmartWrite, and stale READMEs in the quarry.</p>
+
+  <h2>Critical vs skip</h2>
+  <table>
+    <thead><tr><th>Thing</th><th>Fresh start</th></tr></thead>
+    <tbody>
+      <tr><td>Private MFA skill (~/.cursor/skills/)</td><td>Keep</td></tr>
+      <tr><td>User rule fiction-writing-mfa</td><td>Keep</td></tr>
+      <tr><td>One this-book canon rule</td><td>Keep</td></tr>
+      <tr><td>Novel pack / project-hub</td><td>Keep</td></tr>
+      <tr><td>Short mcp.json + Customize toggles</td><td>Keep (~10 on)</td></tr>
+      <tr><td>Git + GitHub (simple, no hooks required)</td><td>Keep</td></tr>
+      <tr><td>56 slash commands</td><td>Skip</td></tr>
+      <tr><td>Tutorial rules (XML, few-shot, CoT)</td><td>Skip</td></tr>
+      <tr><td>Git hooks / autopilot.json</td><td>Skip</td></tr>
+      <tr><td>cspell.json</td><td>Optional later</td></tr>
+      <tr><td>after_each_chat tmp JSON</td><td>Skip unless you still want crumbs</td></tr>
+      <tr><td>zz_COMPASS tree</td><td>Quarry. Do not copy the tree</td></tr>
+    </tbody>
+  </table>
+
+  <h2>Move, then delete</h2>
+  <ol>
+    <li>Agree the names (Writing Tools + one workspace per novel).</li>
+    <li>Create empty writing-tools repo. Do not copy zz_COMPASS yet.</li>
+    <li>New Walk This Way workspace: this book + Writing Tools. Old repo stays.</li>
+    <li>Lift only proven servers. Test a chapter in Draft_06.</li>
+    <li>Point Senseless at the same Writing Tools folder.</li>
+    <li>When you can edit without hunting: hide zz_COMPASS, then later delete quarry.</li>
+  </ol>
+</body>
+</html>

@@ -1,0 +1,369 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Writing system map — print pack — 22 Aug 2026</title>
+  <style>
+    :root {
+      --ink: #111111;
+      --muted: #444444;
+      --rule: #222222;
+      --paper: #ffffff;
+      --tint: #f3f3f3;
+    }
+    * { box-sizing: border-box; }
+    html, body {
+      margin: 0;
+      padding: 0;
+      background: var(--paper);
+      color: var(--ink);
+    }
+    body {
+      font-family: Georgia, "Times New Roman", Times, serif;
+      font-size: 12.5pt;
+      line-height: 1.45;
+    }
+    .page {
+      max-width: 740px;
+      margin: 0 auto;
+      padding: 28px 32px 48px;
+    }
+    h1 {
+      font-size: 22pt;
+      line-height: 1.2;
+      margin: 0 0 8px;
+      font-weight: 700;
+    }
+    h2 {
+      font-size: 15pt;
+      margin: 28px 0 10px;
+      padding-bottom: 4px;
+      border-bottom: 2px solid var(--rule);
+      page-break-after: avoid;
+    }
+    h3 {
+      font-size: 13pt;
+      margin: 18px 0 8px;
+      page-break-after: avoid;
+    }
+    p { margin: 0 0 10px; }
+    .lede {
+      color: var(--muted);
+      font-size: 11pt;
+      margin-bottom: 18px;
+    }
+    .box {
+      border: 2px solid var(--rule);
+      padding: 14px 16px;
+      margin: 16px 0 20px;
+      page-break-inside: avoid;
+    }
+    .box.tint { background: var(--tint); }
+    .box h2 {
+      margin-top: 0;
+      border: 0;
+      padding: 0;
+      font-size: 14pt;
+    }
+    ol, ul { margin: 8px 0 12px 22px; padding: 0; }
+    li { margin-bottom: 8px; }
+    ol.summary > li { margin-bottom: 12px; }
+    .small { font-size: 10.5pt; color: var(--muted); }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      margin: 10px 0 16px;
+      font-size: 11pt;
+      page-break-inside: avoid;
+    }
+    th, td {
+      border: 1px solid var(--rule);
+      padding: 7px 8px;
+      text-align: left;
+      vertical-align: top;
+    }
+    th { background: var(--tint); font-weight: 700; }
+    .waterfall {
+      border: 2px solid var(--rule);
+      margin: 12px 0 18px;
+      page-break-inside: avoid;
+    }
+    .wf-row {
+      border-top: 1px solid var(--rule);
+      padding: 10px 12px;
+    }
+    .wf-row:first-child { border-top: 0; }
+    .wf-row.active { background: var(--tint); font-weight: 700; }
+    .wf-n {
+      display: inline-block;
+      width: 1.6em;
+      font-weight: 700;
+    }
+    .do-not { border-width: 3px; }
+    .break { page-break-before: always; }
+    @media print {
+      body { font-size: 11.5pt; }
+      .page { padding: 0; max-width: none; }
+      a { color: inherit; text-decoration: none; }
+      .box, .waterfall, table { break-inside: avoid; }
+    }
+    @page {
+      size: letter;
+      margin: 0.65in;
+    }
+  </style>
+</head>
+<body>
+  <div class="page">
+
+    <p class="lede">
+      Timothy J. Smith · 22 August 2026 · Read this on paper tomorrow morning.
+      Screen + moving folders at the same time is too much. This is the hard copy.
+    </p>
+
+    <h1>Writing system map</h1>
+    <p>One toolkit. Many novels. Walk This Way is a book, not a toolbox.</p>
+
+    <div class="box tint">
+      <h2>Tomorrow morning — three jobs only</h2>
+      <p>You are not finishing a novel tomorrow. You are parking the toolbox so the drafts can get rewritten.</p>
+      <ol>
+        <li>Read this paper (or this HTML). Do not open fifty MCP toggles first.</li>
+        <li>Confirm the three buckets below still match what you want.</li>
+        <li>When you open Cursor, ask for the daily set: about ten MCPs left on for a Draft_06 day. Everything else stays off.</li>
+      </ol>
+      <p><strong>Do not tomorrow:</strong> move folders, add new MCPs, rebuild the orchestrator, or start a ninth novel.</p>
+    </div>
+
+    <h2>The short version (keep this page on the desk)</h2>
+    <ol class="summary">
+      <li>
+        <strong>Three buckets.</strong>
+        (1) The book — this novel’s pages and Story Bible.
+        (2) The toolkit — one copy of the writing machines (MCP Library + COMPASS).
+        (3) This Mac — servers and keys that have to run here (<span style="font-family: ui-monospace, monospace;">~/mcp-servers</span>).
+        New novels point at the toolkit. They do not get a paste of the tools.
+      </li>
+      <li>
+        <strong>Draft folders stay.</strong>
+        Git is the undo button for today’s work in Draft_06.
+        Folders are the print copies: Draft_1, Active_Draft_2, Draft_04, frozen Draft_05.
+        You keep them so you can open “that garage chapter from four” and print it.
+        Do not flatten those folders into git history.
+      </li>
+      <li>
+        <strong>Most MCPs are writing tools. Do not load them all at once.</strong>
+        About 75% of the 104 names in Walk This Way’s config are writing-related
+        (craft, books, research, git). Use them by stage: daily line edit ~10;
+        research adds a few; print adds Pandoc; Figma and Docker stay off.
+      </li>
+      <li>
+        <strong>The orchestrator is a stale labeler, not the organizer.</strong>
+        Keep the idea. Do not use the current server to flip switches.
+        It writes a flag Cursor often ignores. Rebuild it only after the three buckets exist.
+      </li>
+    </ol>
+
+    <h2>Why this print pack exists</h2>
+    <p>
+      You have several first drafts. Walk This Way and Senseless are two.
+      On disk next to them: Helix, Island Spring, Luna Alpha, Scrambled Eggs,
+      Streets of Dreams, The Last Champion Standing, The Phantom Cowboy,
+      When The River Cries. The drafts got written. The rewrites wait while the
+      tools get rebuilt. That loop will still be here in six months unless the
+      toolbox lives in one place and each novel stays a novel.
+    </p>
+    <p>
+      You already named this job in <strong>03_Novels/_PROCESS_AND_ORG.md</strong>
+      and then deferred it. This is that session, on paper.
+    </p>
+
+    <h2 class="break">1. Three buckets</h2>
+    <p>One Cursor window can open more than one folder (multi-root workspace). Git stays separate for each repo.</p>
+
+    <div class="waterfall">
+      <div class="wf-row">Cursor window — one workspace, two (or three) folders</div>
+      <div class="wf-row active">A. The book — Walk This Way (or Senseless, or the next novel)</div>
+      <div class="wf-row">B. The toolkit — MCP Library + COMPASS (one copy for every book)</div>
+      <div class="wf-row">C. This Mac — ~/mcp-servers, ~/mcp-venvs, ~/.cursor/skills, API keys</div>
+    </div>
+
+    <table>
+      <thead>
+        <tr>
+          <th>Thing</th>
+          <th>Bucket</th>
+          <th>Now</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Draft_06, Story_Bible, PARKING_LOT.md</td>
+          <td>Book</td>
+          <td>Already correct</td>
+        </tr>
+        <tr>
+          <td>Draft_1 through Draft_05 folders</td>
+          <td>Book</td>
+          <td>Keep. Print copies.</td>
+        </tr>
+        <tr>
+          <td>Character facts for this novel</td>
+          <td>Book</td>
+          <td>This novel only</td>
+        </tr>
+        <tr>
+          <td>zz_COMPASS MCP source inside Walk This Way</td>
+          <td>Toolkit</td>
+          <td>Duplicate. Move later, not tomorrow morning.</td>
+        </tr>
+        <tr>
+          <td>104-server mcp.json inside the novel</td>
+          <td>Split later</td>
+          <td>Too big for a book repo</td>
+        </tr>
+        <tr>
+          <td>Google / Gmail / Calendar</td>
+          <td>This Mac + Cursor plugins</td>
+          <td>Life around writing. Not the book.</td>
+        </tr>
+      </tbody>
+    </table>
+
+    <p class="small">You already started the split: Walk_This_Way.code-workspace opens the novel and MCP Library + COMPASS. The mess is extra copies of the toolbox still living inside the novel.</p>
+
+    <h2>2. Draft folders — Walk This Way</h2>
+    <p>Keep the folders. Add git as save-points inside the active draft only. You do not need to become a git expert for this.</p>
+
+    <div class="waterfall">
+      <div class="wf-row"><span class="wf-n">1</span> Draft_1/ — first attempt. Keep. Do not edit.</div>
+      <div class="wf-row"><span class="wf-n">2</span> Active_Draft_2/ — incomplete rewrite era. Keep as quarry. Awkward name; leave it.</div>
+      <div class="wf-row"><span class="wf-n">—</span> No Draft_03 folder. Do not invent one to fill the number.</div>
+      <div class="wf-row"><span class="wf-n">4</span> Draft_04/ — quarry. You will hunt a chapter here. Do not edit.</div>
+      <div class="wf-row"><span class="wf-n">5</span> Draft_05/ — first complete book. Frozen. Keep forever as the readable full draft. Do not edit.</div>
+      <div class="wf-row active"><span class="wf-n">6</span> Draft_06/ — the only folder we edit. Git lives here going forward.</div>
+    </div>
+
+    <table>
+      <thead>
+        <tr>
+          <th>Job</th>
+          <th>Use</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Print yesterday’s book / find a lost chapter</td>
+          <td>Open the draft folder. Paper copy. This is why the folders exist.</td>
+        </tr>
+        <tr>
+          <td>Undo a bad line-edit today</td>
+          <td>Git inside Draft_06. Commits are not named “Draft 4 garage chapter.”</td>
+        </tr>
+      </tbody>
+    </table>
+
+    <h2 class="break">3. MCPs by stage — not all at once</h2>
+    <p>
+      Counted from Walk This Way’s mcp.json (104 names): 67 fiction craft, 4 git,
+      7 life-around-writing (Google, Slack, Airtable, n8n, Linear), 26 other
+      (Figma, Docker, Airflow, Blender). About 75% writing-related. The problem
+      is never having them. The problem is loading a hundred into one chat.
+    </p>
+
+    <table>
+      <thead>
+        <tr>
+          <th>Stage</th>
+          <th>How many on</th>
+          <th>Examples</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Daily line edit (now)</td>
+          <td>~8–12</td>
+          <td>This book’s files, characters, Ondaatje / Dickey / King, sequential-thinking, professional-editor</td>
+        </tr>
+        <tr>
+          <td>Look something up</td>
+          <td>+2–4</td>
+          <td>Firecrawl, ebook, Gutenberg, Goodreads, Wikipedia</td>
+        </tr>
+        <tr>
+          <td>Craft / reverse-engineer</td>
+          <td>+2–4</td>
+          <td>COMPASS guides, fiction reverse-engineering, style emulation</td>
+        </tr>
+        <tr>
+          <td>Print / export</td>
+          <td>+1</td>
+          <td>Pandoc</td>
+        </tr>
+        <tr>
+          <td>Life around the desk</td>
+          <td>Cursor plugins</td>
+          <td>Google Calendar, Gmail, Drive — not inside the novel config</td>
+        </tr>
+        <tr>
+          <td>Parked</td>
+          <td>Off</td>
+          <td>Figma, Blender, Docker, Airflow, Jupyter, Netlify, Clerk</td>
+        </tr>
+      </tbody>
+    </table>
+
+    <p>Customize → MCPs is the real on/off. A <code>disabled</code> flag in the JSON file often does not stop Cursor from launching a server.</p>
+
+    <h2>4. Orchestrator — honest</h2>
+    <p>
+      Cursor Workflow Orchestrator (January 2026) lives inside Walk This Way under zz_COMPASS.
+      It keyword-matches (character / plot / style / research), is hardcoded to Nick / Jackie / Maxanne,
+      writes disabled flags Cursor may ignore, and was built for 27 servers. Status came back empty on 22 Aug 2026.
+    </p>
+    <ul>
+      <li>Safe to leave sitting there. It is not managing anything real.</li>
+      <li>Do not click its enable/disable tools as your daily control.</li>
+      <li>Do not rewrite it this week. Map first. Move COMPASS out. Then named kits (Daily / Research / Print / Parked).</li>
+    </ul>
+
+    <h2>Order of work — do not skip ahead</h2>
+    <ol>
+      <li>Agree this map (done enough to print; confirm in the morning).</li>
+      <li>Name a daily Draft_06 set (~10). Leave the rest off in Customize.</li>
+      <li>Stop adding new MCPs until the toolkit repo is the one copy.</li>
+      <li>Move zz_COMPASS / MCP source into MCP Library + COMPASS (one pile). Separate sitting. Not with coffee and a chapter open.</li>
+      <li>Novel mcp.json becomes short. Toolkit and Mac hold the machines.</li>
+      <li>Then, if you still want it: orchestrator as named kits, not 104 toggles.</li>
+    </ol>
+
+    <div class="box do-not">
+      <h2>Do not</h2>
+      <ul>
+        <li>Flatten Draft_1–05 into git and delete the folders.</li>
+        <li>Copy the toolkit into Senseless or the next book.</li>
+        <li>Write another reorganization plan that sits in .cursor/docs and gets forgotten.</li>
+        <li>Rebuild the orchestrator before step 5.</li>
+        <li>Start a new novel until one rewrite is actually in motion. The tools will never feel finished if the test is “ready for eight books at once.”</li>
+      </ul>
+    </div>
+
+    <h2>Where these files live</h2>
+    <p>
+      HTML and PDF sit in this novel for tomorrow:
+      <strong>Walk This Way/Writing_System_Map/</strong>
+      and a copy next to all the books:
+      <strong>03_Novels/Writing_System_Map/</strong>
+      so the map is not trapped inside one title. Live visual (optional): Cursor canvas
+      <em>writing-system-map</em> beside chat. Paper wins when you are tired.
+    </p>
+    <p class="small">
+      No folders were moved when this pack was made. Source: mcp.json (104 keys),
+      Walk_This_Way.code-workspace, COMPASS_MCP_MANIFEST.md, Story_Bible/09_Workflow.md,
+      03_Novels/_PROCESS_AND_ORG.md. 22 Aug 2026.
+    </p>
+
+  </div>
+</body>
+</html>

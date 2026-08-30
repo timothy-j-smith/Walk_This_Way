@@ -1,0 +1,54 @@
+Author MCP — Marilynne Robinson (craft & tutoring spec)
+Document type: Design / review draft for a private tutoring MCP Audience: Self-directed MFA-style study (evening practice, craft-first) Version: 0.2 — standardized envelope Confidentiality: Personal, educational use; keep implementation private; no bulk reproduction of copyrighted novels.
+Seminar-depth design + suite docs: MARILYNNE_ROBINSON_AUTHOR_MCP_DESIGN.md · USER_GUIDE.md · CANON_FORMAT.md · DOCUMENT_STYLE.md
+
+1. Purpose
+This MCP supports your writing education through Marilynne Robinson’s craft: contemplative syntax, theological and philosophical depth without sermon, Midwest moral geography, attention to ordinary moments that disclose grace or judgment, and voice that can carry long reflective arcs without losing human warmth. No hybrid authors—this spec stands alone.
+
+2. Corpus scope
+
+
+3. Writing DNA (overview)
+Contemplative prose: Long, modulated sentences; clause as thought; rhythm that invites slow reading without stiffness for its own sake.
+Theology and philosophy as lived: Questions of grace, forgiveness, mortality, doubt—in scene, through gesture, habit, memory, and social detail.
+Place as soul: Small-town Midwest rendered with specificity (architecture, weather, work, class) so ethics can be situated, not abstract.
+Ordinary revelation: The pivotal moment may be small but irreversible—a look, a refusal, an acceptance, a repair attempted.
+Social conscience with subtlety: Racism, poverty, exclusion—handled through character conscience and institutional texture, not slogans.
+Voice: Educated, often clerical or teacherly cadences where appropriate; complete sentences that still breathe like speech; warmth without sentimentality.
+
+4. Standard engine (neutral naming)
+
+Modes: CREATE, TRANSFORM, EDIT. Liberty levels: Nice, Neutral, Professional.
+
+5. Key novels — detailed sections
+5.1 Housekeeping (focus)
+Architecture: Sisters, transient guardians, a house that cannot hold stable domesticity; water, flood, train, lake—fluidity as fate and freedom.
+Image system: Windows, reflections, light on water, thresholds; housekeeping as both literal and spiritual metaphor.
+Grief and drift: How abandonment becomes style of life; moral judgment deferred into attention.
+Voice: Lyrical first-person retrospection; child-adult double hearing without cheating the reader.
+Tutoring prompts: “What domestic object carries the turn?” “Where is drift beautiful vs. dangerous?” “Can you remove one explaining sentence and replace it with one image?”
+5.2 Gilead
+Architecture: Epistolary time horizon—mortality deadline gives every meditation stakes.
+Craft moves: Moral argument as love letter; history (abolition, race, violence) through personal complicity and repair attempts.
+5.3 Home
+Architecture: Return and shame; sibling love as difficult ethic; the same town seen from another basement of the soul.
+Craft moves: Parallel reading gains; tutoring: counterpoint voices in one moral house.
+5.4 Lila
+Architecture: Survival origin story meets unlikely theological intimacy; education as rescue and risk.
+Craft moves: Rough diction meeting elevated speech without flattening either register.
+5.5 Jack
+Architecture: Romance across moral and racial fault lines; self-sabotage as theology of unworthiness.
+Craft moves: Dialogue as moral chess; humor as shield for pain.
+
+6. Knowledge base (data/ JSON) — suggested sections
+meta + corpus + focus_novel: "housekeeping" 
+writing_dna 
+novels → housekeeping (longest subtree), gilead, home, lila, jack each with: architecture, theology_in_scene, place, ordinary_revelation, pitfalls, tutor_prompts 
+Shared: modes, liberty_levels, honesty_protocol, neurodiversity_guidelines
+
+
+7. Implementation checklist
+Confirm focus_novel = Housekeeping in config. 
+Keep Gilead quartet sections cross-linked only by theme tags in JSON (not required in v1). 
+README: privacy, Python version, stdio run.
+End of review draft — Marilynne Robinson
