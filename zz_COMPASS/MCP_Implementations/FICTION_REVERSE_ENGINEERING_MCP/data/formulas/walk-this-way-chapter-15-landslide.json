@@ -1,0 +1,82 @@
+{
+  "title": "Walk This Way Chapter 15 Landslide",
+  "author": "Timothy J. Smith",
+  "genre": "literary fiction",
+  "analyzed_at": "2026-08-22T19:17:15.249275",
+  "structure": {
+    "total_words": 1933,
+    "total_sentences": 157,
+    "total_paragraphs": 61,
+    "total_dialogue": 19,
+    "chapter_count": 1,
+    "plot_points": 2,
+    "avg_sentence_length": 12.312101910828025,
+    "dialogue_percentage": 12.101910828025478
+  },
+  "patterns": {
+    "pacing": {
+      "tension_pattern": "low",
+      "tension_frequency": 0.038,
+      "reveal_frequency": 0.019,
+      "dialogue_frequency": 0.121,
+      "avg_sentence_length": 12.4,
+      "sentence_variation": 49,
+      "issues": [],
+      "recommendations": []
+    },
+    "dialogue": {
+      "total_dialogue": 19,
+      "avg_dialogue_length": 5.5,
+      "tag_usage": {},
+      "beat_pattern": "moderate",
+      "exchange_rhythm": "fast",
+      "subtext_markers": [],
+      "examples": [
+        "\"LANDSLIDE\"",
+        "\"Let him sleep,\"",
+        "\"He's got trig first period.\"",
+        "\"Home by six,\"",
+        "\"Drive safe,\""
+      ]
+    }
+  },
+  "formula": {
+    "pacing": {
+      "tension_pattern": "low",
+      "reveal_frequency": 0.019,
+      "description": "Tension pattern: low, Reveals: 0.019"
+    },
+    "dialogue": {
+      "total_dialogue": 19,
+      "avg_dialogue_length": 5.5,
+      "tag_usage": {},
+      "beat_pattern": "moderate",
+      "exchange_rhythm": "fast",
+      "subtext_markers": [],
+      "examples": [
+        "\"LANDSLIDE\"",
+        "\"Let him sleep,\"",
+        "\"He's got trig first period.\"",
+        "\"Home by six,\"",
+        "\"Drive safe,\""
+      ]
+    },
+    "structure": {
+      "total_words": 1933,
+      "total_sentences": 157,
+      "total_paragraphs": 61,
+      "total_dialogue": 19,
+      "chapter_count": 1,
+      "plot_points": 2,
+      "avg_sentence_length": 12.312101910828025,
+      "dialogue_percentage": 12.101910828025478
+    },
+    "key_insights": [
+      "Average sentence length: 12.3 words",
+      "Dialogue percentage: 12.1%",
+      "Tension frequency: 0.038",
+      "Chapter count: 1"
+    ]
+  },
+  "warning": "This formula is a LEARNING TOOL, not a template. Use to understand patterns, not to copy formulas."
+}

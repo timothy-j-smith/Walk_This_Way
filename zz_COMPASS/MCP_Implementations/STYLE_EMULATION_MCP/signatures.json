@@ -1,0 +1,37 @@
+{
+  "ondaatje": {
+    "name": "Michael Ondaatje",
+    "primary_move": "Time-as-pool. Past arrives inside the present sentence",
+    "sentence_shape": "Long comma-strung breath + occasional Hemingway landing",
+    "body_signature": "Implied via object, not directly named",
+    "closing_image": "Comma the reader carries; door opening"
+  },
+  "dickey": {
+    "name": "James Dickey",
+    "primary_move": "Body-first under stress. Every gesture costs the body something",
+    "sentence_shape": "Muscular, kinetic verbs, first-person filtration",
+    "body_signature": "Hands, breath, weight, sweat, dirt",
+    "closing_image": "Aftermath; the body still feeling the violence"
+  },
+  "king": {
+    "name": "Stephen King",
+    "primary_move": "Ordinary made holy. Working-class register taken seriously",
+    "sentence_shape": "Direct, conversational, material-specific",
+    "body_signature": "Posture and small ritual",
+    "closing_image": "One small gesture that says everything; no closing thesis"
+  },
+  "lehane": {
+    "name": "Dennis Lehane",
+    "primary_move": "Class as plot engine; revelation discipline",
+    "sentence_shape": "Boston vernacular, hard-edged dialogue, fair seeded reveals",
+    "body_signature": "Hands as instruments of power or pleading",
+    "closing_image": "Moral weight landed on a specific person's body"
+  },
+  "robinson": {
+    "name": "Marilynne Robinson",
+    "primary_move": "Contemplative arc; permission to dwell",
+    "sentence_shape": "Long modulated syntax holding theological / ethical weight",
+    "body_signature": "Light, water, weather as carriers of inner state",
+    "closing_image": "A grace note — small ordinary thing carrying meaning"
+  }
+}

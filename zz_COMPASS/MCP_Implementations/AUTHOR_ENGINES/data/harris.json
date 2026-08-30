@@ -1,0 +1,54 @@
+{
+  "meta": {
+    "name": "Thomas Harris",
+    "focus_work": "The Silence of the Lambs",
+    "lane": "Calm dread; procedure as suspense; dialogue as duel; the dark mentor",
+    "status": "PRIVATE & CONFIDENTIAL - Timothy's personal MFA program",
+    "version": "1.0",
+    "date": "2026-08-08"
+  },
+  "writing_dna": [
+    "Calm prose, terrible content: clinical registration heightens dread; the sentence never flinches or gloats",
+    "Procedure as suspense: forensics, protocol, institutional steps rendered exactly",
+    "Dialogue as duel: every exchange trades, tests, or advances; quid pro quo as scene structure",
+    "The dark mentor: antagonist who teaches true things for dangerous reasons",
+    "Class and gender as pressure: disadvantage as the story's moral spine",
+    "Sensory anchors: one image per dread beat carries theme"
+  ],
+  "signature_moves": [
+    "Horror carried by noun and procedure, not adjective",
+    "Interior withheld equals power: the antagonist seen only from outside",
+    "Reader knowledge vs character knowledge weaponized (the wrong-house turn)",
+    "Descent literalized: basement, well, night vision",
+    "Victim POV used precisely, never exploitatively"
+  ],
+  "focus_deep": {
+    "architecture": "Dual pursuit: the case and the relationship, each feeding the other; information traded for the protagonist's interior self",
+    "guardrail": "Violence and victimhood discussed as craft of depiction, never sensationalism"
+  },
+  "tutor_prompts": [
+    "Where is the prose flinching or gloating - can calm registration replace it?",
+    "What does each line of this dialogue trade, test, or advance?",
+    "What one sensory anchor could carry this dread beat?",
+    "What does the antagonist teach that is true - and what does it cost to learn?",
+    "Where does the protagonist's disadvantage press on this scene?"
+  ],
+  "pitfalls": [
+    "Sensationalized violence; gothic decoration",
+    "Villain monologues without trade",
+    "Admirable antagonist without horror",
+    "Procedure skipped for mood"
+  ],
+  "apply_to_projects": {
+    "Senseless": "Clinical calm for the fall and aftermath; hospital protocol texture",
+    "Walk This Way": "Class disadvantage as engine - the Clarice calibration"
+  },
+  "guidelines": {
+    "honesty_protocol": "No inflated ratings. Phantom Cowboy rule: praise that is not earned teaches nothing. Tone changes; truth does not.",
+    "absh_awareness": "Respect Architecture -> Brick -> Scalpel -> Hose. The Brick is wet: never edit during Brick stage.",
+    "neurodiversity": "One question at a time. Short responses. No assumptions, no pre-emptive solving, never grade prose unasked.",
+    "voice_intactness": "End every deep pass with: is the voice that came through still intact?",
+    "fair_use": "Paraphrase, craft labels, very short quotes with gloss only. No bulk reproduction. Private educational use only.",
+    "cross_author_hygiene": "Do not name other author engines as authority inside responses."
+  }
+}

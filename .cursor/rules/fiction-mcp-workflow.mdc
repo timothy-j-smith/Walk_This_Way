@@ -1,0 +1,46 @@
+---
+description: Fiction MCP and search — when to call which tool on Draft_06 and Story Bible
+globs: Draft_06/**/*,Story_Bible/**/*
+alwaysApply: false
+---
+
+# Fiction MCP Workflow — Walk This Way
+
+MCPs in this workspace are **enabled** (not the June 2026 freeze). Built-in Read/Grep still win for file I/O.
+
+## Authority order
+
+1. `Draft_06/` prose + `PARKING_LOT.md`
+2. `Story_Bible/` + `07_Pass_2_Focus.md` locks
+3. Private MFA Workshop skill
+4. MCP lookups — never override locked canon
+
+## Search (period / place / facts)
+
+Prefer in this order:
+
+1. **Firecrawl** (`project-0-Walk This Way-firecrawl` or `user-firecrawl`) — live web, scrape, research
+2. **Built-in WebSearch / WebFetch** — if Firecrawl is down or overkill
+3. **Exa** — only if already authenticated; do not block a writing pass waiting on Exa login
+
+Do not invent 1974–1979 Boston / Sudbury / WBCN facts.
+
+## When to call which MCP
+
+| Task | MCP |
+| --- | --- |
+| Character facts | `walkthisway-characters` |
+| Craft / scalpel-hose | `compass-writing-guides` |
+| Continuity decision | `sequential-thinking` |
+| Line-edit review (when asked) | `professional-editor` |
+| Style comparison | `dennis-lehane-style`, `style-emulation` |
+| Scene reverse-engineering | `fiction-reverse-engineering` |
+| Continuity memory | `knowledge-graph-memory` |
+
+Skip filesystem MCP for ordinary file reads — use built-in tools.
+
+## Before editing a chapter
+
+1. Read the chapter file.
+2. Skim `Story_Bible/07_Pass_2_Focus.md` for locks.
+3. Query character MCP only when dialogue or backstory is in play.

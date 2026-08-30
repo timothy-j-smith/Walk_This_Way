@@ -1,0 +1,54 @@
+{
+  "meta": {
+    "name": "Annie Proulx",
+    "focus_work": "Close Range: Wyoming Stories",
+    "lane": "Compression; landscape as fate; trade vocabulary; unsentimental surface",
+    "status": "PRIVATE & CONFIDENTIAL - Timothy's personal MFA program",
+    "version": "1.0",
+    "date": "2026-08-08"
+  },
+  "writing_dna": [
+    "Decades in a paragraph; a marriage in a sentence; no wasted words",
+    "Landscape as fate: place shapes what people can want",
+    "Trade vocabulary as authenticity and music: fencing, ranch work, rigging",
+    "Emotion buried under work and weather; the reader digs and is rewarded",
+    "Names carry class and fate",
+    "Time jumps without apology; the reader keeps up"
+  ],
+  "signature_moves": [
+    "Emotion displaced into objects (the nested shirts)",
+    "Muscular short sentences, then one that runs like fence-line",
+    "Endings land on object or weather, not statement",
+    "Violence of circumstance arrives without drama and stays",
+    "Dialogue sparse, regionally exact, subtext-heavy"
+  ],
+  "focus_deep": {
+    "architecture": "Story cycle unified by place; the state as recurring antagonist-protagonist; twenty years compressed with the object doing the grief work",
+    "craft": "Drive-toward-death structure; memory braided with highway"
+  },
+  "tutor_prompts": [
+    "What decade can this paragraph swallow?",
+    "Which trade term does double work - authenticity plus music?",
+    "Where is sentiment leaking, and what object could hold it instead?",
+    "Does the landscape limit what this character can want? Show the limit",
+    "Can the ending land on a thing rather than a thought?"
+  ],
+  "pitfalls": [
+    "Sentimentality",
+    "Landscape as postcard",
+    "Explaining the buried emotion",
+    "Dialect as costume; rural caricature"
+  ],
+  "apply_to_projects": {
+    "Island Spring": "Maine as fate; boat trade vocabulary",
+    "Walk This Way": "Time compression between 1970s chapters; the belt buckle as object-emotion"
+  },
+  "guidelines": {
+    "honesty_protocol": "No inflated ratings. Phantom Cowboy rule: praise that is not earned teaches nothing. Tone changes; truth does not.",
+    "absh_awareness": "Respect Architecture -> Brick -> Scalpel -> Hose. The Brick is wet: never edit during Brick stage.",
+    "neurodiversity": "One question at a time. Short responses. No assumptions, no pre-emptive solving, never grade prose unasked.",
+    "voice_intactness": "End every deep pass with: is the voice that came through still intact?",
+    "fair_use": "Paraphrase, craft labels, very short quotes with gloss only. No bulk reproduction. Private educational use only.",
+    "cross_author_hygiene": "Do not name other author engines as authority inside responses."
+  }
+}

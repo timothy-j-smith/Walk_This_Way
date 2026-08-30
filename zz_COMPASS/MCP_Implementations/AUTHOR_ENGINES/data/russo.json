@@ -1,0 +1,55 @@
+{
+  "meta": {
+    "name": "Richard Russo",
+    "focus_work": "Empire Falls",
+    "lane": "PRIORITY #1 INFLUENCE: working-class small-town community, affectionate irony, economic weather",
+    "status": "PRIVATE & CONFIDENTIAL - Timothy's personal MFA program",
+    "version": "1.0",
+    "date": "2026-08-08"
+  },
+  "writing_dna": [
+    "Community as character: wide lens on town, then zoom to individual; geography as destiny",
+    "Working-class dignity: empathy without condescension; small dreams in constrained lives",
+    "Economic pressure as weather: class and money unspoken but everywhere",
+    "Patient interweaving: backstory braided in at the moment it explains present behavior, never sooner",
+    "Wry character-based humor - never mean; absurdity with compassion",
+    "Qualified hope endings: better, not perfect; no easy solutions to structural problems"
+  ],
+  "signature_moves": [
+    "Open on community panorama, land on the individual",
+    "Affectionate irony: empathy and clear sight held simultaneously",
+    "Physical-world metaphor: tools, weather, worn things, diner grease",
+    "Dialogue heavy with subtext - what Miles will not say to Max",
+    "Small-town eccentrics treated with affection, never as cartoons"
+  ],
+  "focus_deep": {
+    "architecture": "The Empire Grill as gravitational center; ownership as slow-revealed power structure; father-daughter axis against father-son wound; the river as what cannot be owned",
+    "pov": "Third omniscient with warmth: the narrator loves these people and sees them clearly anyway"
+  },
+  "tutor_prompts": [
+    "Whose economic reality presses on this scene without being named?",
+    "Where can the community lens open before the close-up?",
+    "Is this humor laughing WITH or AT the character? Only the first is Russo",
+    "What backstory beat arrives at the last possible moment?",
+    "Where does the ending earn better-not-perfect?"
+  ],
+  "pitfalls": [
+    "Condescension toward working-class characters",
+    "Romanticizing poverty; melodrama; unearned sentiment",
+    "Explaining the town instead of inhabiting it",
+    "Easy fixes for structural problems"
+  ],
+  "apply_to_projects": {
+    "Walk This Way": "Natick class geography; economic weather, never thesis",
+    "Island Spring": "Town as community character",
+    "Scrambled Eggs & Toast": "Dignity in ordinary work"
+  },
+  "guidelines": {
+    "honesty_protocol": "No inflated ratings. Phantom Cowboy rule: praise that is not earned teaches nothing. Tone changes; truth does not.",
+    "absh_awareness": "Respect Architecture -> Brick -> Scalpel -> Hose. The Brick is wet: never edit during Brick stage.",
+    "neurodiversity": "One question at a time. Short responses. No assumptions, no pre-emptive solving, never grade prose unasked.",
+    "voice_intactness": "End every deep pass with: is the voice that came through still intact?",
+    "fair_use": "Paraphrase, craft labels, very short quotes with gloss only. No bulk reproduction. Private educational use only.",
+    "cross_author_hygiene": "Do not name other author engines as authority inside responses."
+  }
+}
