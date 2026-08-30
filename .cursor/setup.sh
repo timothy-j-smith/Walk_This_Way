@@ -36,17 +36,20 @@ for dir in "${MCPS[@]}"; do
     python3 -m venv "$dir/venv"
   fi
 
-  # Install deps. Prefer requirements.txt if present; otherwise install `mcp`.
+  # Install deps. Prefer requirements.txt if present; otherwise install the
+  # legacy MCP API required by these servers.
   if [[ -f "$dir/requirements.txt" ]]; then
     "$dir/venv/bin/pip" install -q --upgrade pip
     "$dir/venv/bin/pip" install -q -r "$dir/requirements.txt"
   else
     "$dir/venv/bin/pip" install -q --upgrade pip
-    "$dir/venv/bin/pip" install -q mcp
+    "$dir/venv/bin/pip" install -q "mcp<2"
   fi
 
-  # Smoke test: the server file must at least compile.
-  "$dir/venv/bin/python" -m py_compile "$dir/server.py"
+  # Import the server so dependency/API failures in module-level decorators
+  # are caught during setup rather than when Cursor starts the MCP.
+  "$dir/venv/bin/python" -c \
+    "import runpy; runpy.run_path('$dir/server.py')"
   echo "[setup] OK  $dir"
 done
 
