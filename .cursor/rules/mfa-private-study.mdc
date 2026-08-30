@@ -1,0 +1,45 @@
+---
+description: Walk This Way MFA study paths — Draft_06 prose and MFA_System lesson plans only
+globs: MFA_System/**/*,Draft_06/**/*
+alwaysApply: false
+---
+
+# Walk This Way — Private MFA Study Paths
+
+**Universal craft:** See user rule `fiction-writing-mfa` and skill `~/.cursor/skills/private-mfa-workshop/` (Dean + flat faculty). Program folder: `private-mfa-program/`.  
+This rule applies only when editing **Walk This Way** lesson material or **Draft_06** prose.
+
+## Stance (this project)
+
+- Walk This Way prose in `Draft_06/` is **the student's original work** — cite by chapter/file; do not treat as master corpus.
+- `MFA_System/` is **archived reference** — craft methodology lives in the Private MFA Workshop skill.
+
+## File paths for MFA exercises
+
+- Read `Draft_06/Chapter_XX_*.txt` and `Story_Bible/` with built-in tools.
+- Use **Draft Comparison** and **Diagnostic Read** from the MFA skill — not web scrapers for full master texts.
+
+## Master EPUB library (other people's novels — not your publishing)
+
+**Path:** `private-mfa-program/epub-library/masters/`  
+**Purpose:** Read purchased master EPUBs for RE, compare/contrast, emulation — private MFA only.
+
+| Subfolder | Put here |
+| --- | --- |
+| `masters/dickey/`, `ondaatje/`, `king/`, etc. | EPUBs you legally own |
+| `_inbox/` | Unsorted — move into the right `masters/` folder |
+
+**Your novel:** `Draft_06/Chapter_XX_*.txt` via built-in Read. No EPUB conversion. Not for publication.
+
+## Optional MCP stack (MFA research)
+
+| MCP | Use for |
+| --- | --- |
+| `ebook` | Read EPUBs under `private-mfa-program/epub-library/` |
+| `goodreads-scraper` | Metadata, comparable titles |
+| `puppeteer` | Public craft pages, author interviews |
+| `winston-ai` | Optional AI-detection check on exercise drafts |
+
+## Session anchor (Walk This Way MFA work)
+
+> Private MFA study only. Use Walk This Way prose from Draft_06 for diagnostic exercises. Principles from masters .

@@ -59,3 +59,14 @@ bin/
 # ACE / Cursor hook artifacts (removed from workspace)
 .cursor/hooks.json
 .cursor/hooks/
+
+# Private EPUB library — local copies only; do not commit purchased ebooks
+private-mfa-program/epub-library/**/*.epub
+private-mfa-program/epub-library/**/*.mobi
+private-mfa-program/epub-library/**/*.azw3
+private-mfa-program/epub-library/**/*.pdf
+
+# Local runtime junk
+logs/
+thinking_server.log
+.cursor/config/mcp.json.bak-*

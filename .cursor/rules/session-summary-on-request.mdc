@@ -1,0 +1,30 @@
+---
+description: Write a session summary only when Timothy says the sitting is ending
+alwaysApply: true
+---
+
+# Session summary (on request only)
+
+Do **not** write a recap after every chat turn. Do **not** write `tmp/summary-*.json`. There is no `Chat_Summaries/` folder.
+
+Write a **session summary** only when Timothy indicates the sitting is over, for example:
+
+- "this is the end of our session"
+- "I'm going to bed"
+- "I have to go to work"
+- "create a session summary"
+- "session summary"
+
+**Destination (this novel):** `Session_Summaries/`
+
+**Filename:** `YYYY-MM-DD_HHMM_PDT_Short_Title.md` (use `PST` during Pacific Standard Time)
+
+Include:
+
+1. Headline — one paragraph
+2. Decisions locked
+3. Files touched
+4. Open / waiting on Timothy
+5. Next session — one named job
+
+Do not ask for confirmation. Put the file in this novel's repo, not in Tools.

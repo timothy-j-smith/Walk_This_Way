@@ -23,6 +23,8 @@
 | --- | --- | --- |
 | nobody knows it except us | 1 (+ dialogue) | Ch 9 hinge — **locked Session 9**; do not paraphrase elsewhere unless intentional echo |
 | I don't need your pity | 1 (dialogue) | Ch 16 — **locked**; Nick's four words |
+| He gave it to you instead | 1 (dialogue) | Ch 15 — **locked Session 15**; Grace; do not paraphrase |
+| He played after I went to sleep | 1 (dialogue) | Ch 15 — **locked**; aligns Ch 8 through-floor; do not expand |
 | I didn't kill their friendship. But I gave class warfare a microphone. | 1 | Ch 27 — **keeper**; do not paraphrase elsewhere |
 | It weighs like bird bones | 1 | Ch 40 — cassette; **locked** |
 | I'm not numb. I'm electric. | 1 | Ch 40 — frame close; **locked** |
@@ -109,6 +111,7 @@ rg -i "resurrect|each one a ghost|old steel|engine.*wingspan|wingspan|Boston gli
 - **July 18, 2026** — Ch 12: *the only currency was whether you could play* kept **once** (bunk night; opening variant → *nobody asked what your father did*). Patty hum *restless and certain* = deliberate Ch 28 Rhiannon plant — do not scrub as repeat.
 - **July 18, 2026** — Ch 13: scratch-on-record **planted** (needle skips); Ch 28 may echo, not re-invent. *Forty feet of linoleum — a crack you could still step over* = fracture seed; canyon word reserved for later frame/synopsis. *Good session* / close-a-door — protect.
 - **July 18, 2026** — Ch 14 (re-brick): *Nothing happened* (Carl/Nick shop exchange) — **locked**; do not paraphrase the fracture elsewhere. *Coats of paint* Mondays — once. *The ear is a stubborn instrument* — once. Parallel doors / hinged at different walls — protect. Pacenka pencil / men who built things — protect. *it's the house's* (Lenny) — **parked** in PARKING_LOT with Lenny material; unused on page for now.
+- **August 27, 2026** — Ch 15: *He gave it to you instead* / *He played after I went to sleep* locked. Globe misspelling stays Ch 16. Toolbox verse (*Sawdust hands…*) once. End on latch + empty slot.
 - **July 12, 2026** — Ch 3 *pearls clutching* locked; Ch 1 buckle phrase parked.
 - **July 12, 2026** — Ch 4 *At the Dump nobody's garbage was better than anyone else's* — geography anchor; vary if echoed.
 - **July 13, 2026** — Ch 7 hose + *hiding a body* locked; engine/wingspan remains Ch 6 only.

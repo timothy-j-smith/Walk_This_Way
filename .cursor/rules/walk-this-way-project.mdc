@@ -1,0 +1,49 @@
+---
+description: Walk This Way project context — Draft_06 edit pass, Story Bible authority
+alwaysApply: true
+---
+
+# Walk This Way — Project
+
+**Novel:** Walk This Way by Timothy J. Smith  
+**Phase:** Edit pass — review + line edit (Draft_06)  
+**MFA:** Dean + flat faculty. Skill: `~/.cursor/skills/private-mfa-workshop/`. Program folder: `private-mfa-program/`. User rule: `fiction-writing-mfa`.
+
+## Rule tiers (this repo)
+
+| Rule | Level | Scope |
+| --- | --- | --- |
+| `walk-this-way-project` | Project, always | This novel's canon, Draft_06, locks |
+| `session-summary-on-request` | Project, always | Session summary only when Timothy ends the sitting; file goes in `Session_Summaries/` |
+| `fiction-mcp-workflow` | Project, globs | MCP calls when editing Draft_06 / Story Bible |
+| `mfa-private-study` | Project, globs | WTW-specific MFA exercise paths |
+| `fiction-writing-mfa`, `clean-markdown` | **User** (`~/.cursor/rules/`) | All workspaces |
+
+## Authority order
+
+1. `Draft_06/` chapter prose + `PARKING_LOT.md` (project root)
+2. `Story_Bible/` — especially `07_Pass_2_Focus.md` locks
+3. Private MFA Workshop skill + `private-mfa-program/` — craft methodology. Dean, not a master as president.
+4. `Draft_05/` — **frozen**; do not edit
+5. `Novel_Docs/Walk_This_Way_Blueprint_v2.0_PRINT.txt` — shelf reference only
+
+## Edit workflow
+
+See `Story_Bible/09_Workflow.md`: Structure → Scene draft (done) → **Review → Line edit → Review** → Final polish.
+
+1. Read `Story_Bible/07_Pass_2_Focus.md` for chapter status and locks
+2. Edit `Draft_06/Chapter_XX_*.txt` only
+3. Update `Story_Bible/` after session (phrase ledger, etc.)
+4. Read aloud before save
+
+## Locked — do not edit away
+
+No virality. Cassette not reel for 30-year talisman. Nick Army not construction. Maxanne 59 in 2009. ~11 min tape. See `07_Pass_2_Focus.md`.
+
+Richard Russo is a satellite craft lens, not Priority #1. A former agent invented that ranking. Do not restore it. Do not promote anyone else to a numbered “#1 influence.”
+
+## Legacy folders
+
+- `Draft_05/` — frozen first complete draft
+- `Draft_04/` — quarry
+- `MFA_System/`, `zz_COMPASS/` — reference only

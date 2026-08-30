@@ -174,7 +174,7 @@ Store 24 kid (Ch 2); Wellesley cut; weekday alignment; Eileen 3–5 canvases; Da
 | 12 | Summer Breeze | 🟢 | **Session 12 done** — Patty singer+guitar; Dr. Marsh (not Stephen); Dan plays-not-toolbox; Cavicchio truck cut; currency line once |
 | 13 | Breakdown | 🟢 | **Session 13 done** — Pacenka; Jackie ride → brook/SW; scratch-on-record plant; crack/forty feet; Patty smell glance; leaf gloss cut |
 | 14 | Baba O'Riley | 🟢 | **Session 14b RE-BRICK done (King lens)** — Nick single POV; *Nothing happened* event; Jackie's laugh across the room; Patty scorekeeping seed; Lenny/platform interiors parked (PARKING_LOT); Pacenka + guitar canon held |
-| 15 | Landslide | 🟢 | **Excited** — Act I curtain; toolbox **payoff**; Robinson |
+| 15 | Landslide | 🟢 | **Session 15 done (Robinson)** — ordinary Tuesday; toolbox opens; Grace truth once (*He gave it to you instead*); end on latch + empty slot; Globe/insurance future-tells cut (Ch 16 owns Globe) |
 
 ### Act II — *A Night at the Opera*
 
