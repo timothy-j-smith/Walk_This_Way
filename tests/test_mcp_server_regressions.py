@@ -1,3 +1,4 @@
+import asyncio
 import contextlib
 import importlib.util
 import io
@@ -157,6 +158,64 @@ class McpServerInvariantTests(unittest.TestCase):
         self.assertEqual(timestamp.utcoffset(), timedelta(0))
         self.assertEqual(entry["action"], "test-action")
         self.assertEqual(entry["details"], {"source": "regression-test"})
+
+
+class FictionReverseEngineeringAnalysisTests(unittest.TestCase):
+    @classmethod
+    def setUpClass(cls):
+        cls.module = load_server_module("FICTION_REVERSE_ENGINEERING_MCP")
+
+    def call_tool(self, name, arguments):
+        response = asyncio.run(self.module.call_tool(name, arguments))
+        return json.loads(response[0].text)
+
+    def test_empty_analysis_paths_return_zero_metrics(self):
+        structure = self.module.analyze_structure("")
+        pacing = self.module.analyze_pacing("")
+        dialogue = self.module.extract_dialogue_patterns("")
+
+        for metric in (
+            "total_words",
+            "total_sentences",
+            "total_paragraphs",
+            "total_dialogue",
+            "plot_points",
+            "avg_sentence_length",
+            "dialogue_percentage",
+        ):
+            with self.subTest(metric=metric):
+                self.assertEqual(structure[metric], 0)
+        self.assertEqual(structure["chapter_count"], 1)
+        self.assertEqual(pacing["tension_frequency"], 0)
+        self.assertEqual(pacing["reveal_frequency"], 0)
+        self.assertEqual(pacing["dialogue_frequency"], 0)
+        self.assertEqual(pacing["avg_sentence_length"], 0)
+        self.assertEqual(pacing["sentence_variation"], 0)
+        self.assertEqual(dialogue["total_dialogue"], 0)
+        self.assertEqual(dialogue["avg_dialogue_length"], 0)
+
+    def test_chapter_parser_preserves_boundaries_and_selection(self):
+        text = (
+            "CHAPTER 1\n"
+            "When Nick ran. He stopped.\n\n"
+            "Act 2\n"
+            "The room held still. However, he stayed."
+        )
+
+        all_chapters = self.call_tool("find_chapter_formula", {"text": text})
+        second_chapter = self.call_tool(
+            "find_chapter_formula",
+            {"text": text, "chapter_num": 2},
+        )
+
+        self.assertEqual(all_chapters["total_chapters"], 2)
+        self.assertEqual(len(all_chapters["chapter_formulas"]), 2)
+        self.assertTrue(all_chapters["chapter_formulas"][0]["has_hook"])
+        self.assertTrue(all_chapters["chapter_formulas"][1]["has_cliffhanger"])
+        self.assertEqual(second_chapter["chapter"], 2)
+        self.assertEqual(second_chapter["formula"]["word_count"], 7)
+        self.assertFalse(second_chapter["formula"]["has_hook"])
+        self.assertTrue(second_chapter["formula"]["has_cliffhanger"])
 
 
 if __name__ == "__main__":
