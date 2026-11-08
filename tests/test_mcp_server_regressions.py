@@ -1,3 +1,4 @@
+import asyncio
 import contextlib
 import importlib.util
 import io
@@ -157,6 +158,28 @@ class McpServerInvariantTests(unittest.TestCase):
         self.assertEqual(timestamp.utcoffset(), timedelta(0))
         self.assertEqual(entry["action"], "test-action")
         self.assertEqual(entry["details"], {"source": "regression-test"})
+
+
+class StyleEmulationSafetyTests(unittest.TestCase):
+    def test_rules_tool_preserves_the_manuscript_safety_contract(self):
+        module = load_server_module("STYLE_EMULATION_MCP")
+
+        result = asyncio.run(
+            module.call_tool("style_emulation_rules", {})
+        )
+        body = json.loads(result[0].text)
+
+        self.assertEqual(body["never"], module.NEVER)
+        self.assertEqual(body["procedure"], module.PROCEDURE)
+        self.assertEqual(len(body["never"]), 6)
+        self.assertEqual(len(body["procedure"]), 6)
+        self.assertTrue(
+            any("finished-chapter polish" in rule for rule in body["never"])
+        )
+        self.assertTrue(
+            any("Never keep the emulation as the draft" in rule
+                for rule in body["never"])
+        )
 
 
 if __name__ == "__main__":
