@@ -18,6 +18,8 @@ SERVER_PATHS = (
     MCP_ROOT / "DENNIS_LEHANE_MCP" / "server.py",
     MCP_ROOT / "FICTION_REVERSE_ENGINEERING_MCP" / "server.py",
     MCP_ROOT / "PROFESSIONAL_EDITOR_MCP" / "server.py",
+    MCP_ROOT / "STEPHEN_KING_MCP" / "server.py",
+    MCP_ROOT / "WalkThisWay_Character_MCP" / "server.py",
 )
 READ_STREAM = object()
 WRITE_STREAM = object()
