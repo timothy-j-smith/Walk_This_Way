@@ -1,3 +1,4 @@
+import asyncio
 import contextlib
 import importlib.util
 import io
@@ -157,6 +158,34 @@ class McpServerInvariantTests(unittest.TestCase):
         self.assertEqual(timestamp.utcoffset(), timedelta(0))
         self.assertEqual(entry["action"], "test-action")
         self.assertEqual(entry["details"], {"source": "regression-test"})
+
+
+class McpServerValidationTests(unittest.TestCase):
+    def test_unknown_bestseller_returns_available_formulas(self):
+        module = load_server_module("FICTION_REVERSE_ENGINEERING_MCP")
+
+        with tempfile.TemporaryDirectory() as temporary_directory:
+            module.FORMULAS_DIR = Path(temporary_directory)
+            result = asyncio.run(
+                module.call_tool(
+                    "compare_to_bestseller",
+                    {
+                        "your_text": "Nick waited.",
+                        "bestseller_title": "Missing Formula",
+                    },
+                )
+            )
+
+        body = json.loads(result[0].text)
+        self.assertEqual(
+            body["error"],
+            "Formula not found for 'Missing Formula'",
+        )
+        self.assertEqual(body["available_formulas"], [])
+        self.assertEqual(
+            body["hint"],
+            "Run reverse_engineer_novel first to create a formula",
+        )
 
 
 if __name__ == "__main__":
